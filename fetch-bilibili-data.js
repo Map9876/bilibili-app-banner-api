@@ -5,6 +5,7 @@ const axios = require('axios');
 const API_URL = 'https://api.bilibili.com/pgc/page/channel?appkey=1d8b6e7d45233436&build=8340200&fnval=272&fourk=0&mobi_app=android&page_name=bangumi_tab';
 const JSON_DIR = path.join(__dirname, 'data');
 const MARKDOWN_FILE = path.join(__dirname, 'README.md');
+const DIVIDER = '---'; // 分界线
 
 // 确保目录存在
 if (!fs.existsSync(JSON_DIR)) {
@@ -26,7 +27,7 @@ async function fetchData() {
       fs.writeFileSync(jsonFilePath, JSON.stringify(data, null, 2));
 
       // 处理数据并更新 Markdown 文件
-      updateMarkdown(data, timestamp);
+      updateMarkdown(data);
     } else {
       console.error('API 请求失败，code 不为 0');
     }
@@ -35,8 +36,8 @@ async function fetchData() {
   }
 }
 
-function updateMarkdown(data, timestamp) {
-  const modules = data.data.modules;
+function updateMarkdown(data) {
+  const items = data.data.modules.flatMap(module => module.module_data.items);
   let markdownContent = '';
 
   // 读取已有的 Markdown 文件内容
@@ -44,26 +45,37 @@ function updateMarkdown(data, timestamp) {
     markdownContent = fs.readFileSync(MARKDOWN_FILE, 'utf8');
   }
 
-  // 新数据的内容
-  let newContent = `## ${timestamp}\n\n`;
+  // 分割文档说明和每日数据
+  const dividerIndex = markdownContent.indexOf(DIVIDER);
+  let docContent = ''; // 文档说明部分
+  let dataContent = ''; // 每日数据部分
 
-  modules.forEach(module => {
-    if (module.module_data && module.module_data.items) {
-      module.module_data.items.forEach(item => {
-        if (item.title && item.cover) {
-          const entry = `- **${item.title}**: ![${item.title}](${item.cover})\n`;
+  if (dividerIndex !== -1) {
+    // 如果存在分界线，分割内容
+    docContent = markdownContent.slice(0, dividerIndex + DIVIDER.length);
+    dataContent = markdownContent.slice(dividerIndex + DIVIDER.length);
+  } else {
+    // 如果不存在分界线，初始化文档说明
+    docContent = `# Bilibili Bangumi 每日更新\n\n${DIVIDER}\n`;
+  }
 
-          // 检查是否已经存在该 title
-          if (!markdownContent.includes(`**${item.title}**`)) {
-            newContent += entry;
-          }
-        }
-      });
+  // 提取已有的 title，用于查重
+  const existingTitles = new Set();
+  const regex = /## (.+)\n/g;
+  let match;
+  while ((match = regex.exec(dataContent))) {
+    existingTitles.add(match[1]);
+  }
+
+  // 添加新数据
+  items.forEach(item => {
+    if (item.title && item.cover && !existingTitles.has(item.title)) {
+      dataContent = `## ${item.title}\n![${item.title}](${item.cover})\n\n` + dataContent;
     }
   });
 
-  // 将新内容添加到旧内容的上方
-  markdownContent = newContent + '\n\n' + markdownContent;
+  // 合并文档说明和每日数据
+  markdownContent = docContent + '\n' + dataContent;
 
   // 保存更新后的 Markdown 文件
   fs.writeFileSync(MARKDOWN_FILE, markdownContent);
