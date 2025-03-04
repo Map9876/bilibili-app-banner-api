@@ -27,10 +27,7 @@ https://api.bilibili.com/pgc/page/channel?appkey=1d8b6e7d45233436&build=8340200&
 
 响应：
 
-<datails>
-    <summary> 响应 </summary>
-    <p>
-        ------------------ 测试折叠 ---------------------
-    </p>
-    <pre><code>title,value,callBack 可以缺省 </code></pre>
-</datails>
+<details>
+<summary>样例</summary>
+
+</details>
