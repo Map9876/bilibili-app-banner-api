@@ -1,6 +1,6 @@
 手机安装reqable，光速虚拟机
 
-手机安装reqable的pem证书，这个是用户证书，然后把.0证书导入虚拟机里
+手机设置里，选择安装CA证书，安装reqable的pem证书，这个是用户证书，然后把.0证书导入虚拟机里
 
 虚拟机里mt管理器的shell运行：
 mount -o remount,rw /system
