@@ -348,3 +348,40 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 镇魂街 第四季
+![镇魂街 第四季](https://i0.hdslb.com/bfs/bangumi/image/44dd5ff805a348e5f3a89475d7f3f617846964dc.png)
+
+## 凡人修仙传
+![凡人修仙传](https://i0.hdslb.com/bfs/bangumi/image/a34ecfc3e5a5be6fe34e286160ba46ba32db6e7a.png)
+
+## 长歌行
+![长歌行](https://i0.hdslb.com/bfs/bangumi/image/180bf56319f838afa8449dac0c5a56ec53938924.png)
+
+## 地缚少年花子君 第二季
+![地缚少年花子君 第二季](https://i0.hdslb.com/bfs/bangumi/image/8633d4b75c47d8c3083ccdff102c8699db09b2a4.png)
+
+## 牧神记
+![牧神记](https://i0.hdslb.com/bfs/bangumi/image/f455587c5787d480041387cee68768c90dfa5df9.png)
+
+## 香格里拉边境 第二季
+![香格里拉边境 第二季](https://i0.hdslb.com/bfs/bangumi/image/0aa77fbebefa3ca2ea7e2be734cfbb50f2f6f69a.png)
+
+## 宗门里除了我都是卧底
+![宗门里除了我都是卧底](https://i0.hdslb.com/bfs/bangumi/image/0254a2bab661747a2c9188d11a0f71e676753f90.png)
+
+## 坂本日常
+![坂本日常](https://i0.hdslb.com/bfs/bangumi/image/df8088e3a238d59639ddfcd3229778978e0ce198.png)
+
+## 神道帝尊
+![神道帝尊](https://i0.hdslb.com/bfs/bangumi/image/0241d0b925c6891877dc8702ec8f6ca1f7533183.png)
+
+## 天命大主宰
+![天命大主宰](https://i0.hdslb.com/bfs/bangumi/image/f70456b86ab55d414c9ad14fa2d39f3303f06ded.png)
+
+## 君子无疾
+![君子无疾](https://i0.hdslb.com/bfs/bangumi/image/d802cf9a4df3cb35dea01e6c4ee0087b836eafc3.png)
+
+## 少年歌行 血染天启篇
+![少年歌行 血染天启篇](https://i0.hdslb.com/bfs/bangumi/image/076135d26fba6440ec4950b3670fc410a621b002.png)
+
+
