@@ -329,6 +329,8 @@ https://api.bilibili.com/pgc/page/channel?appkey=1d8b6e7d45233436&build=8340200&
 ```
 
 modules是一个列表，有多个
+
+```
 {
         "id": 2015,
         "module_data": {
@@ -341,6 +343,8 @@ modules是一个列表，有多个
           "items": [
             { 
 
+```
 
-            每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
+每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
+
 ---
