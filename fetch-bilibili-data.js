@@ -37,7 +37,14 @@ async function fetchData() {
 }
 
 function updateMarkdown(data) {
-  const items = data.data.modules.flatMap(module => module.module_data.items);
+  // 过滤出 id 为 2015 的模块
+  const targetModule = data.data.modules.find(module => module.id === 2015);
+  if (!targetModule || !targetModule.module_data || !targetModule.module_data.items) {
+    console.log('未找到 id 为 2015 的模块或模块数据为空');
+    return;
+  }
+
+  const items = targetModule.module_data.items;
   let markdownContent = '';
 
   // 读取已有的 Markdown 文件内容
