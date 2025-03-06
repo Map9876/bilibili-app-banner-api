@@ -348,6 +348,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 关于我转生变成史莱姆这档事 第三季
+![关于我转生变成史莱姆这档事 第三季](https://i0.hdslb.com/bfs/bangumi/image/3a01488d6528151f68678f235fbb291a97f90b0d.png)
+
+## 我独自升级 第二季
+![我独自升级 第二季](https://i0.hdslb.com/bfs/bangumi/image/54429fb153c0ac4872baa6d718aef1d1b4204860.png)
+
+
 ## 镇魂街 第四季
 ![镇魂街 第四季](https://i0.hdslb.com/bfs/bangumi/image/44dd5ff805a348e5f3a89475d7f3f617846964dc.png)
 
