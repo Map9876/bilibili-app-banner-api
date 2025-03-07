@@ -348,6 +348,19 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 青之箱
+![青之箱](https://i0.hdslb.com/bfs/bangumi/image/ff9e6ac1901c9bc319addf7967d342db1469340e.png)
+
+## Ｄｒ．ＳＴＯＮＥ 石纪元 (第四季)
+![Ｄｒ．ＳＴＯＮＥ 石纪元 (第四季)](https://i0.hdslb.com/bfs/bangumi/image/812f43cad353194ca0dc87dbff5a2f54f0d8f704.png)
+
+## 火凤燎原 第二季
+![火凤燎原 第二季](https://i0.hdslb.com/bfs/bangumi/image/b60d19c47d7e741f123a5e0575bf0357d43ecc78.png)
+
+## 颂乐人偶
+![颂乐人偶](https://i0.hdslb.com/bfs/bangumi/image/c40b20ff3e9afeefc86e5e62312adda1dc5b90e6.png)
+
+
 ## 关于我转生变成史莱姆这档事 第三季
 ![关于我转生变成史莱姆这档事 第三季](https://i0.hdslb.com/bfs/bangumi/image/3a01488d6528151f68678f235fbb291a97f90b0d.png)
 
