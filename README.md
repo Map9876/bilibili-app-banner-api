@@ -354,6 +354,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 魔王2099
+![魔王2099](https://i0.hdslb.com/bfs/bangumi/image/2df3011be00118ff1733a5d694c1bbaef30d61df.png)
+
+## 虎鹤妖师录
+![虎鹤妖师录](https://i0.hdslb.com/bfs/bangumi/image/9fcbde2048ba67a838ec9ef6bf8ef1ad168a9864.png)
+
+
 ## 请吃红小豆吧！食物世界 第一季
 ![请吃红小豆吧！食物世界 第一季](https://i0.hdslb.com/bfs/bangumi/image/9174aad11dc451c2b4f6245ab03b595dcd55cdf5.png)
 
