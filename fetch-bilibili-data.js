@@ -2,19 +2,28 @@ const fs = require('fs');
 const path = require('path');
 const axios = require('axios');
 
-const API_URL = 'https://api.bilibili.com/pgc/page/channel?appkey=1d8b6e7d45233436&build=8340200&fnval=272&fourk=0&mobi_app=android&page_name=bangumi_tab';
-const JSON_DIR = path.join(__dirname, 'data');
-const MARKDOWN_FILE = path.join(__dirname, 'README.md');
+// API URLs
+const BANGUMI_API_URL = 'https://api.bilibili.com/pgc/page/channel?appkey=1d8b6e7d45233436&build=8340200&fnval=272&fourk=0&mobi_app=android&page_name=bangumi_tab';
+const CINEMA_API_URL = 'https://api.bilibili.com/pgc/page/channel?appkey=1d8b6e7d45233436&build=8340200&fnval=272&fourk=0&mobi_app=android&page_name=cinema_tab';
+
+// 文件路径
+const BANGUMI_JSON_DIR = path.join(__dirname, 'data', 'bangumi');
+const CINEMA_JSON_DIR = path.join(__dirname, 'data', 'cinema');
+const BANGUMI_MARKDOWN_FILE = path.join(__dirname, 'README.md');
+const CINEMA_MARKDOWN_FILE = path.join(__dirname, 'cinema_README.md');
 const DIVIDER = '---'; // 分界线
 
 // 确保目录存在
-if (!fs.existsSync(JSON_DIR)) {
-  fs.mkdirSync(JSON_DIR);
+if (!fs.existsSync(BANGUMI_JSON_DIR)) {
+  fs.mkdirSync(BANGUMI_JSON_DIR, { recursive: true });
+}
+if (!fs.existsSync(CINEMA_JSON_DIR)) {
+  fs.mkdirSync(CINEMA_JSON_DIR, { recursive: true });
 }
 
-async function fetchData() {
+async function fetchData(apiUrl, jsonDir, markdownFile) {
   try {
-    const response = await axios.get(API_URL);
+    const response = await axios.get(apiUrl);
     const data = response.data;
 
     // 检查 code 是否为 0
@@ -23,11 +32,11 @@ async function fetchData() {
 
       // 保存 JSON 文件
       const timestamp = new Date().toISOString().split('T')[0];
-      const jsonFilePath = path.join(JSON_DIR, `${timestamp}.json`);
+      const jsonFilePath = path.join(jsonDir, `${timestamp}.json`);
       fs.writeFileSync(jsonFilePath, JSON.stringify(data, null, 2));
 
       // 处理数据并更新 Markdown 文件
-      updateMarkdown(data);
+      updateMarkdown(data, markdownFile);
     } else {
       console.error('API 请求失败，code 不为 0');
     }
@@ -36,7 +45,7 @@ async function fetchData() {
   }
 }
 
-function updateMarkdown(data) {
+function updateMarkdown(data, markdownFile) {
   // 过滤出 id 为 2015 的模块
   const targetModule = data.data.modules.find(module => module.id === 2015);
   if (!targetModule || !targetModule.module_data || !targetModule.module_data.items) {
@@ -48,8 +57,8 @@ function updateMarkdown(data) {
   let markdownContent = '';
 
   // 读取已有的 Markdown 文件内容
-  if (fs.existsSync(MARKDOWN_FILE)) {
-    markdownContent = fs.readFileSync(MARKDOWN_FILE, 'utf8');
+  if (fs.existsSync(markdownFile)) {
+    markdownContent = fs.readFileSync(markdownFile, 'utf8');
   }
 
   // 分割文档说明和每日数据
@@ -63,7 +72,7 @@ function updateMarkdown(data) {
     dataContent = markdownContent.slice(dividerIndex + DIVIDER.length);
   } else {
     // 如果不存在分界线，初始化文档说明
-    docContent = `# Bilibili Bangumi 每日更新\n\n${DIVIDER}\n`;
+    docContent = `# Bilibili ${markdownFile.includes('cinema') ? 'Cinema' : 'Bangumi'} 每日更新\n\n${DIVIDER}\n`;
   }
 
   // 提取已有的 title，用于查重
@@ -85,7 +94,11 @@ function updateMarkdown(data) {
   markdownContent = docContent + '\n' + dataContent;
 
   // 保存更新后的 Markdown 文件
-  fs.writeFileSync(MARKDOWN_FILE, markdownContent);
+  fs.writeFileSync(markdownFile, markdownContent);
 }
 
-fetchData();
+// 获取 Bangumi 数据
+fetchData(BANGUMI_API_URL, BANGUMI_JSON_DIR, BANGUMI_MARKDOWN_FILE);
+//https://chat.deepseek.com/a/chat/s/b09d8ff8-e41d-4c16-85bb-2fd649bfa30c
+// 获取 Cinema 数据
+fetchData(CINEMA_API_URL, CINEMA_JSON_DIR, CINEMA_MARKDOWN_FILE);
