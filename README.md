@@ -14,10 +14,16 @@ chmod +644 /system/etc/security/cacerts/9ad09d0f.0
 
 然后手机reqable就能看虚拟机里app的api了
 
-比如我打开这个首页页面
+比如我打开这个首页页面，再打开 “ 动画 ” 页会出现：
 ，
 `https://api.bilibili.com/pgc/page/channel?appkey=1d8b6e7d45233436&build=8340200&c_locale=zh_CN&channel=rongyao&disable_rcmd=0&fnval=272&fnver=0&fourk=0&mobi_app=android&page_name=bangumi_tab&platform=android&s_locale=zh_CN&statistics=%7B%22appId%22%3A1%2C%22platform%22%3A3%2C%22version%22%3A%228.34.0%22%2C%22abtest%22%3A%22%22%7D&ts=17411&sign=`
 
+“影视” 页：
+
+```
+curl -X GET 'https://api.bilibili.com/pgc/page/channel?appkey=1d8b6e7d45233436&build=8340200&c_locale=zh_CN&channel=rongyao&disable_rcmd=0&fnval=272&fnver=0&fourk=0&mobi_app=android&page_name=cinema_tab&platform=android&s_locale=zh_CN&statistics=%7B%22appId%22:1,%22platform%22:3,%22version%22:%228.34.0%22,%22abtest%22:%22%22%7D&ts=1741444433&sign=' -H 'User-Agent: Mozilla/5.0 BiliDroid/8.34.0 (bbcallen@gmail.com)' -H 'Accept: application/json' -H 'accept-charset: UTF-8' -H 'app-key: android64' -H 'bili-http-engine: ignet' -H 'buvid: ' -H 'env: prod' -H 'fp_local: ' -H 'fp_remote: ' -H 'guestid: ' -H 'session_id: 8a224119' -H 'x-bili-ticket: ' -H 'x-bili-trace-id: …:…:0:0' --http2
+
+```
 教程：
 
 HttpCanary+光速虚拟机实现免root抓取&重写https请求 | 韶华尐沐 https://ds6666.fun/2024/06/07/HttpCanary-%E5%85%89%E9%80%9F%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%AE%9E%E7%8E%B0%E5%85%8Droot%E6%8A%93%E5%8F%96-%E9%87%8D%E5%86%99https%E8%AF%B7%E6%B1%82
