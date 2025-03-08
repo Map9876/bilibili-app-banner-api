@@ -21,14 +21,14 @@ if (!fs.existsSync(CINEMA_JSON_DIR)) {
   fs.mkdirSync(CINEMA_JSON_DIR, { recursive: true });
 }
 
-async function fetchData(apiUrl, jsonDir, markdownFile) {
+async function fetchData(apiUrl, jsonDir, markdownFile, areaName, moduleId) {
   try {
     const response = await axios.get(apiUrl);
     const data = response.data;
 
     // 检查 code 是否为 0
     if (data.code === 0) {
-      console.log('API 请求成功，code 为 0');
+      console.log(`API 请求成功，code 为 0 (${areaName})`);
 
       // 保存 JSON 文件
       const timestamp = new Date().toISOString().split('T')[0];
@@ -36,20 +36,20 @@ async function fetchData(apiUrl, jsonDir, markdownFile) {
       fs.writeFileSync(jsonFilePath, JSON.stringify(data, null, 2));
 
       // 处理数据并更新 Markdown 文件
-      updateMarkdown(data, markdownFile);
+      updateMarkdown(data, markdownFile, areaName, moduleId);
     } else {
-      console.error('API 请求失败，code 不为 0');
+      console.error(`API 请求失败，code 不为 0 (${areaName})`);
     }
   } catch (error) {
-    console.error('请求出错:', error);
+    console.error(`请求出错 (${areaName}):`, error);
   }
 }
 
-function updateMarkdown(data, markdownFile) {
-  // 过滤出 id 为 2015 的模块
-  const targetModule = data.data.modules.find(module => module.id === 2015);
+function updateMarkdown(data, markdownFile, areaName, moduleId) {
+  // 过滤出指定 module_id 的模块（区域最上方的海报）
+  const targetModule = data.data.modules.find(module => module.id === moduleId);
   if (!targetModule || !targetModule.module_data || !targetModule.module_data.items) {
-    console.log('未找到 id 为 2015 的模块或模块数据为空');
+    console.log(`未找到 id 为 ${moduleId} 的模块或模块数据为空 (${areaName})`);
     return;
   }
 
@@ -72,7 +72,7 @@ function updateMarkdown(data, markdownFile) {
     dataContent = markdownContent.slice(dividerIndex + DIVIDER.length);
   } else {
     // 如果不存在分界线，初始化文档说明
-    docContent = `# Bilibili ${markdownFile.includes('cinema') ? 'Cinema' : 'Bangumi'} 每日更新\n\n${DIVIDER}\n`;
+    docContent = `# Bilibili ${areaName} 顶部海报\n\n${DIVIDER}\n`;
   }
 
   // 提取已有的 title，用于查重
@@ -97,8 +97,8 @@ function updateMarkdown(data, markdownFile) {
   fs.writeFileSync(markdownFile, markdownContent);
 }
 
-// 获取 Bangumi 数据
-fetchData(BANGUMI_API_URL, BANGUMI_JSON_DIR, BANGUMI_MARKDOWN_FILE);
-//https://chat.deepseek.com/a/chat/s/b09d8ff8-e41d-4c16-85bb-2fd649bfa30c
-// 获取 Cinema 数据
-fetchData(CINEMA_API_URL, CINEMA_JSON_DIR, CINEMA_MARKDOWN_FILE);
+// 获取 Bangumi 数据（动画分区，最上方banner区域的module_id 为 2015）
+fetchData(BANGUMI_API_URL, BANGUMI_JSON_DIR, BANGUMI_MARKDOWN_FILE, '动画', 2015);
+
+// 获取 Cinema 数据（影视分区，最上方banner区域的module_id 为 2038）
+fetchData(CINEMA_API_URL, CINEMA_JSON_DIR, CINEMA_MARKDOWN_FILE, '影视', 2038);
