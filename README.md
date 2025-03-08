@@ -348,6 +348,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 请吃红小豆吧！食物世界 第一季
+![请吃红小豆吧！食物世界 第一季](https://i0.hdslb.com/bfs/bangumi/image/9174aad11dc451c2b4f6245ab03b595dcd55cdf5.png)
+
+
 ## 青之箱
 ![青之箱](https://i0.hdslb.com/bfs/bangumi/image/ff9e6ac1901c9bc319addf7967d342db1469340e.png)
 
