@@ -25,6 +25,7 @@ async function fetchData(apiUrl, jsonDir, markdownFile, areaName, moduleId) {
   try {
     const response = await axios.get(apiUrl);
     const data = response.data;
+    console.log(data);
 
     // 检查 code 是否为 0
     if (data.code === 0) {
@@ -85,6 +86,7 @@ function updateMarkdown(data, markdownFile, areaName, moduleId) {
 
   // 添加新数据
   items.forEach(item => {
+    console.log(item.title);
     if (item.title && item.cover && !existingTitles.has(item.title)) {
       dataContent = `## ${item.title}\n![${item.title}](${item.cover})\n\n` + dataContent;
     }
@@ -97,8 +99,8 @@ function updateMarkdown(data, markdownFile, areaName, moduleId) {
   fs.writeFileSync(markdownFile, markdownContent);
 }
 
-// 获取 Bangumi 数据（动画分区，最上方banner区域的module_id 为 2015）
+// 获取 Bangumi 数据（动画区域，module_id 为 2015）
 fetchData(BANGUMI_API_URL, BANGUMI_JSON_DIR, BANGUMI_MARKDOWN_FILE, '动画', 2015);
 
-// 获取 Cinema 数据（影视分区，最上方banner区域的module_id 为 2038）
+// 获取 Cinema 数据（影视区域，module_id 为 2038）
 fetchData(CINEMA_API_URL, CINEMA_JSON_DIR, CINEMA_MARKDOWN_FILE, '影视', 2038);
