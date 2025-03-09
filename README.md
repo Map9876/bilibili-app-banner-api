@@ -354,6 +354,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 金牌得主
+![金牌得主](https://i0.hdslb.com/bfs/bangumi/image/f63f4df200f3f7d69e8c9e0c7c00a1c515be1d92.png)
+
+
 ## 魔王2099
 ![魔王2099](https://i0.hdslb.com/bfs/bangumi/image/2df3011be00118ff1733a5d694c1bbaef30d61df.png)
 
