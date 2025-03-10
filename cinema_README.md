@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 最强大脑第一季！烧脑神综回归
+![最强大脑第一季！烧脑神综回归](https://i0.hdslb.com/bfs/bangumi/image/4c5306211382e468d304c58c068bfdbad4aca055.png)
+
+## 相爱相杀！双女主娱乐圈群像大戏
+![相爱相杀！双女主娱乐圈群像大戏](https://i0.hdslb.com/bfs/bangumi/image/227bcce29a60880462910a96c34fccd1d34e9b39.png)
+
+
 
 ## 爷青回！木叶村全员“黑化”？
 ![爷青回！木叶村全员“黑化”？](https://i0.hdslb.com/bfs/bangumi/image/1b7ebea21fe3c869637189d96bbf8da9bc197752.png)
