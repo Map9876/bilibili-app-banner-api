@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 词作者写作有时是解决自己的问题
+![词作者写作有时是解决自己的问题](https://i0.hdslb.com/bfs/bangumi/image/df2445fb81c3542e74dd44a8a3b2fb0374784b04.png)
+
+## 时尚易逝，风格永存
+![时尚易逝，风格永存](https://i0.hdslb.com/bfs/bangumi/image/71d2bd4205122057da9e3fecec095ef6ae3f5faf.png)
+
+
 ## 最强大脑第一季！烧脑神综回归
 ![最强大脑第一季！烧脑神综回归](https://i0.hdslb.com/bfs/bangumi/image/4c5306211382e468d304c58c068bfdbad4aca055.png)
 
