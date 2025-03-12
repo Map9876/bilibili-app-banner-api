@@ -354,6 +354,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 那年那兔那些事儿 第七季
+![那年那兔那些事儿 第七季](https://i0.hdslb.com/bfs/bangumi/image/0e1819f4df9f6ff29119015e91bc67e3d39c6584.png)
+
+
 ## 王者？别闹！
 ![王者？别闹！](https://i0.hdslb.com/bfs/bangumi/image/b985733b764541ab44fe103fff2cd06317d34dad.png)
 

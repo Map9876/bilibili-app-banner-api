@@ -1,6 +1,10 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 棒球少年逆风翻盘 热血青春物语！
+![棒球少年逆风翻盘 热血青春物语！](https://i0.hdslb.com/bfs/bangumi/image/541df24a0e99d2b357b98d7ba3fb53009052abca.png)
+
+
 ## 词作者写作有时是解决自己的问题
 ![词作者写作有时是解决自己的问题](https://i0.hdslb.com/bfs/bangumi/image/df2445fb81c3542e74dd44a8a3b2fb0374784b04.png)
 
