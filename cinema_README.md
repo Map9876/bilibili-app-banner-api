@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 工作or结婚？该如何选择
+![工作or结婚？该如何选择](https://i0.hdslb.com/bfs/bangumi/image/68e95c628139c7fa6de900a0970bdae967a896ba.png)
+
+## 悬疑神作再更！谁在凝视死亡游戏？
+![悬疑神作再更！谁在凝视死亡游戏？](https://i0.hdslb.com/bfs/bangumi/image/fffcb4a32f776c89bedc3a4c1f835659827e4414.png)
+
+
 ## 不可思议的夏日奇幻成长物语！
 ![不可思议的夏日奇幻成长物语！](https://i0.hdslb.com/bfs/bangumi/image/15e3ad5510cd23d2bece51434fbf00c6421cd932.png)
 
