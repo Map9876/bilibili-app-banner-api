@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 战争阴影下，人与动物相互治愈~
+![战争阴影下，人与动物相互治愈~](https://i0.hdslb.com/bfs/bangumi/image/31a1957ade747e0f3de4c0f00672d09393cf6b3c.png)
+
+## 大会员免费看！人神结伴寻回星宿
+![大会员免费看！人神结伴寻回星宿](https://i0.hdslb.com/bfs/bangumi/image/0b4755ad4099d307e82cecc66d2fd23f67c4cc78.png)
+
+
 ## 工作or结婚？该如何选择
 ![工作or结婚？该如何选择](https://i0.hdslb.com/bfs/bangumi/image/68e95c628139c7fa6de900a0970bdae967a896ba.png)
 
