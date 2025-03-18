@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 姚谦谈如何赢得歌手的信任 
+![姚谦谈如何赢得歌手的信任 ](https://i0.hdslb.com/bfs/bangumi/image/df2445fb81c3542e74dd44a8a3b2fb0374784b04.png)
+
+## 戏精大妈现场表演维权纠纷
+![戏精大妈现场表演维权纠纷](https://i0.hdslb.com/bfs/bangumi/image/a4068f064be54c938274f634e8c7fba555af2962.png)
+
+
 ## 战争阴影下，人与动物相互治愈~
 ![战争阴影下，人与动物相互治愈~](https://i0.hdslb.com/bfs/bangumi/image/31a1957ade747e0f3de4c0f00672d09393cf6b3c.png)
 
