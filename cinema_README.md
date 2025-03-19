@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 我的超真实职场日记 投稿有礼！
+![我的超真实职场日记 投稿有礼！](https://i0.hdslb.com/bfs/bangumi/image/e4a9636f7269f0fdca75843ba57330205b052800.png)
+
+## 天海佑希霸气开课，教室变修罗场！
+![天海佑希霸气开课，教室变修罗场！](https://i0.hdslb.com/bfs/bangumi/image/004b8eeead0be44ca0c9cb849ceaf706199c4e3c.png)
+
+
 ## 姚谦谈如何赢得歌手的信任 
 ![姚谦谈如何赢得歌手的信任 ](https://i0.hdslb.com/bfs/bangumi/image/df2445fb81c3542e74dd44a8a3b2fb0374784b04.png)
 
