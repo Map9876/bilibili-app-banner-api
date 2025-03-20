@@ -1,6 +1,10 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 高分印度悬疑，垃圾桶引发的复仇？
+![高分印度悬疑，垃圾桶引发的复仇？](https://i0.hdslb.com/bfs/bangumi/image/749f9d340d14f28aa9e35942fe97365769ec5d20.png)
+
+
 ## 我的超真实职场日记 投稿有礼！
 ![我的超真实职场日记 投稿有礼！](https://i0.hdslb.com/bfs/bangumi/image/e4a9636f7269f0fdca75843ba57330205b052800.png)
 
