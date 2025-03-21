@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 温情催泪，一人四鬼上演奇妙之旅！
+![温情催泪，一人四鬼上演奇妙之旅！](https://i0.hdslb.com/bfs/bangumi/image/21c046763c2f6d948415769dffe56ec104f19451.png)
+
+## 古文明的致命竞技，获胜者将被献祭？
+![古文明的致命竞技，获胜者将被献祭？](https://i0.hdslb.com/bfs/bangumi/image/e05cf900cbecc063460faa39461a4008da5fbd93.png)
+
+
 ## 高分印度悬疑，垃圾桶引发的复仇？
 ![高分印度悬疑，垃圾桶引发的复仇？](https://i0.hdslb.com/bfs/bangumi/image/749f9d340d14f28aa9e35942fe97365769ec5d20.png)
 
