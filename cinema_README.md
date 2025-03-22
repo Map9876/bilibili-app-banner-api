@@ -1,6 +1,37 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 杜甫穿越来现代？和我成为“拼命搭子”
+![杜甫穿越来现代？和我成为“拼命搭子”](https://i0.hdslb.com/bfs/bangumi/image/5663adb5af822c08a0b142544283e19c62587580.png)
+
+## 古天乐X林家栋 上演硬核对决！
+![古天乐X林家栋 上演硬核对决！](https://i0.hdslb.com/bfs/bangumi/image/81d432b0a2e256c7c702bdca178e294865f4296e.png)
+
+## 冒险启动！女孩与伙伴踏上寻宝征途
+![冒险启动！女孩与伙伴踏上寻宝征途](https://i0.hdslb.com/bfs/bangumi/image/f27877b0cfb9dd86fe41f70e9bb690066a0acfe8.png)
+
+## 华侨老人跨越60年的爱情
+![华侨老人跨越60年的爱情](https://i0.hdslb.com/bfs/bangumi/image/3cc3f7607858ed9b445a0e5fbbafa182e5f736f5.png)
+
+## 巅峰脑力国际赛！谁是本场MVP？
+![巅峰脑力国际赛！谁是本场MVP？](https://i0.hdslb.com/bfs/bangumi/image/e3969df0e6235a20ec7ff99b4c26722c46393952.png)
+
+## 居家美食烹饪有手就行！
+![居家美食烹饪有手就行！](https://i0.hdslb.com/bfs/bangumi/image/32aef72cc1d67da30edc155095c00c0bcd885583.png)
+
+## 高分全网独播！看正片赢主演签名
+![高分全网独播！看正片赢主演签名](https://i0.hdslb.com/bfs/bangumi/image/9390dfe085254974852dc8904e7509bf9baead44.png)
+
+## 这豹开了锁头挂？死神模式一击瞬杀！
+![这豹开了锁头挂？死神模式一击瞬杀！](https://i0.hdslb.com/bfs/bangumi/image/e16a8629fd34141450f163595ba0caf86b544421.png)
+
+## 老人购买保健品，被骗光退休工资
+![老人购买保健品，被骗光退休工资](https://i0.hdslb.com/bfs/bangumi/image/a4068f064be54c938274f634e8c7fba555af2962.png)
+
+## 高分DC衍生剧！哥谭枭雄的逆袭传奇
+![高分DC衍生剧！哥谭枭雄的逆袭传奇](https://i0.hdslb.com/bfs/bangumi/image/520558ed14f708de402d276cf4f31b5ee2faeff4.png)
+
+
 ## 温情催泪，一人四鬼上演奇妙之旅！
 ![温情催泪，一人四鬼上演奇妙之旅！](https://i0.hdslb.com/bfs/bangumi/image/21c046763c2f6d948415769dffe56ec104f19451.png)
 
