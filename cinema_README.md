@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 酒局上的实用心机技巧
+![酒局上的实用心机技巧](https://i0.hdslb.com/bfs/bangumi/image/23c953b5772d8e84ebbd996577377fc1b4fd09ec.png)
+
+## 《乘风》幕后！拉宏桑和姐姐们“当面哔
+![《乘风》幕后！拉宏桑和姐姐们“当面哔](https://i0.hdslb.com/bfs/bangumi/image/cca3d053c1cb8bafaa16b4dad9d5c8a68b5a3e16.png)
+
+## 【首播】李川庞博吐槽职场，爆笑解压！
+![【首播】李川庞博吐槽职场，爆笑解压！](https://i0.hdslb.com/bfs/bangumi/image/fdcd12f37b771766b8c647c733f803174f8eedff.png)
+
+## 从草原到王座，木法沙的传奇征程！
+![从草原到王座，木法沙的传奇征程！](https://i0.hdslb.com/bfs/bangumi/image/cf8103cfaaef207321766a586f9b5a6a5451bf10.png)
+
+
 ## 杜甫穿越来现代？和我成为“拼命搭子”
 ![杜甫穿越来现代？和我成为“拼命搭子”](https://i0.hdslb.com/bfs/bangumi/image/5663adb5af822c08a0b142544283e19c62587580.png)
 
