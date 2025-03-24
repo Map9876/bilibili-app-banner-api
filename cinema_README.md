@@ -1,6 +1,10 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 直播预约：李艺彤卡琳娜二次元相遇！
+![直播预约：李艺彤卡琳娜二次元相遇！](https://i0.hdslb.com/bfs/bangumi/image/edfc3e2b4cf5f48da3918ab5505cda6916f1194b.png)
+
+
 ## 酒局上的实用心机技巧
 ![酒局上的实用心机技巧](https://i0.hdslb.com/bfs/bangumi/image/23c953b5772d8e84ebbd996577377fc1b4fd09ec.png)
 
