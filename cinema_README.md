@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 高口碑悬疑神作，暴力背后的人性审判！
+![高口碑悬疑神作，暴力背后的人性审判！](https://i0.hdslb.com/bfs/bangumi/image/749f9d340d14f28aa9e35942fe97365769ec5d20.png)
+
+## 姚谦用音乐传达人生观
+![姚谦用音乐传达人生观](https://i0.hdslb.com/bfs/bangumi/image/df2445fb81c3542e74dd44a8a3b2fb0374784b04.png)
+
+## 老二次元相遇为上春晚合唱难忘今宵！
+![老二次元相遇为上春晚合唱难忘今宵！](https://i0.hdslb.com/bfs/bangumi/image/edfc3e2b4cf5f48da3918ab5505cda6916f1194b.png)
+
+
 ## 直播预约：李艺彤卡琳娜二次元相遇！
 ![直播预约：李艺彤卡琳娜二次元相遇！](https://i0.hdslb.com/bfs/bangumi/image/edfc3e2b4cf5f48da3918ab5505cda6916f1194b.png)
 
