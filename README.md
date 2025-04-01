@@ -354,6 +354,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 四月动画种草激励
+![四月动画种草激励](https://i0.hdslb.com/bfs/bangumi/image/cb91beaf57695102bf4edea03562ee2525f33411.png)
+
+## 我的师兄太强了
+![我的师兄太强了](https://i0.hdslb.com/bfs/bangumi/image/a464209bdc4e8889511be9c16f51231edd8e738a.png)
+
+
 
 ## 哆啦A梦 第五季
 ![哆啦A梦 第五季](https://i0.hdslb.com/bfs/bangumi/image/20ef40adf46472723551b6ea6fd076ca98ddbc59.png)
