@@ -1,6 +1,10 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 异星奇观震撼首曝！
+![异星奇观震撼首曝！](https://i0.hdslb.com/bfs/bangumi/image/353f6fc2eab1d04c0129e69ecd486bf331188ad1.png)
+
+
 ## 火线救援！白宇带队勇闯危险禁区
 ![火线救援！白宇带队勇闯危险禁区](https://i0.hdslb.com/bfs/bangumi/image/c121adb78391bbbca9e959dd53a01d0ccf1177a1.png)
 
