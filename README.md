@@ -354,6 +354,16 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 天才治疗师退队作为无照治疗师快乐生活
+![天才治疗师退队作为无照治疗师快乐生活](https://i0.hdslb.com/bfs/bangumi/image/f01b654c5a891863330cca78ab46e00996b307b6.png)
+
+## 咒术回战0
+![咒术回战0](https://i0.hdslb.com/bfs/bangumi/image/000b323adf88f40ee2318d31137e509e58d81394.png)
+
+## 摇滚乃是淑女的爱好
+![摇滚乃是淑女的爱好](https://i0.hdslb.com/bfs/bangumi/image/00207c209a6a3dd8ce8a8c71c56abf72efcfa3ea.png)
+
+
 ## 记忆缝线
 ![记忆缝线](https://i0.hdslb.com/bfs/bangumi/image/8d859986661d099e2b5f5680ed9c75c4daa62da0.png)
 
