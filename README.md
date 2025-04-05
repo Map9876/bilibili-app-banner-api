@@ -354,6 +354,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 炎炎消防队 叁之章
+![炎炎消防队 叁之章](https://i0.hdslb.com/bfs/bangumi/image/9140eb185e73a3ad8bf17bf7da6d2f8a1be53a09.png)
+
+## 镇魂街
+![镇魂街](https://i0.hdslb.com/bfs/bangumi/image/c5548e9c12273bd5d99af8b49e67aca1aae8728f.png)
+
+
 ## 天才治疗师退队作为无照治疗师快乐生活
 ![天才治疗师退队作为无照治疗师快乐生活](https://i0.hdslb.com/bfs/bangumi/image/f01b654c5a891863330cca78ab46e00996b307b6.png)
 
