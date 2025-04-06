@@ -354,6 +354,19 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 吉伊卡哇
+![吉伊卡哇](https://i0.hdslb.com/bfs/bangumi/image/778df094b265108a633932a5799796b187667fa9.png)
+
+## 搞笑漫画日和GO
+![搞笑漫画日和GO](https://i0.hdslb.com/bfs/bangumi/image/f8579bcf9068e7a3149dae286d95dc8f7c36bed2.png)
+
+## 300年史莱姆 第二季
+![300年史莱姆 第二季](https://i0.hdslb.com/bfs/bangumi/image/d95d0894d0c3dfe04dd85c9b1194f9438e15596a.png)
+
+## 凸变英雄X
+![凸变英雄X](https://i0.hdslb.com/bfs/bangumi/image/22b3df5df8aa38a766f621a9431f28717cb7fda3.png)
+
+
 ## 炎炎消防队 叁之章
 ![炎炎消防队 叁之章](https://i0.hdslb.com/bfs/bangumi/image/9140eb185e73a3ad8bf17bf7da6d2f8a1be53a09.png)
 
