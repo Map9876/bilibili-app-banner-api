@@ -354,6 +354,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 夏日口袋
+![夏日口袋](https://i0.hdslb.com/bfs/bangumi/image/e660ab2de5f2e8f7a4c817f15a29d316b3cf818d.png)
+
+## 测不准的阿波连同学 第二季
+![测不准的阿波连同学 第二季](https://i0.hdslb.com/bfs/bangumi/image/b833ce49b565cc3d7d01cbe6a7158d81c4911faf.png)
+
+
 ## 战队大失格
 ![战队大失格](https://i0.hdslb.com/bfs/bangumi/image/6e00196944e59e1c6214df6c2505a5c3049dffef.png)
 
