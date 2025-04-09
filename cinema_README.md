@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 以暴制暴，肖央踏上绝望寻女之路！
+![以暴制暴，肖央踏上绝望寻女之路！](https://i0.hdslb.com/bfs/bangumi/image/d0712ec0e7f658e15027e14465df24f93cfc3371.png)
+
+## 多瑙河里还有巨型鱼吗？
+![多瑙河里还有巨型鱼吗？](https://i0.hdslb.com/bfs/bangumi/image/067db9534087405269f4b647bca4fbae34ee6491.png)
+
+
 ## 野外最强动手能力！
 ![野外最强动手能力！](https://i0.hdslb.com/bfs/bangumi/image/f5c0fa2c5eed0716b73c4297d9f4f3dfbdceb39d.png)
 
