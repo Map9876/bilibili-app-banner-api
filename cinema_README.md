@@ -1,6 +1,22 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 黄子华X许冠文，洞见生者“地狱”
+![黄子华X许冠文，洞见生者“地狱”](https://i0.hdslb.com/bfs/bangumi/image/0a940b8c7cda47726364411cb1f2421b48ce3424.png)
+
+## 观影打卡赢迪士尼限定好礼！
+![观影打卡赢迪士尼限定好礼！](https://i0.hdslb.com/bfs/bangumi/image/98c198a33a230dd446bc47059d2f6463fbd15d1a.png)
+
+## 铁门裂狱路！美国最血腥越狱档案
+![铁门裂狱路！美国最血腥越狱档案](https://i0.hdslb.com/bfs/bangumi/image/b82b916796301f1c5e16bc3640ba88705179bb58.png)
+
+## 立即预约！12日20点张真源独家直播
+![立即预约！12日20点张真源独家直播](https://i0.hdslb.com/bfs/bangumi/image/8634b42b2d1bdac342a73becd2ce00ab9d42e74b.png)
+
+## 和up主兔叭咯一起看
+![和up主兔叭咯一起看](https://i0.hdslb.com/bfs/bangumi/image/7a288b2919fa4698407e52fbc0ad54fa683cbe8a.png)
+
+
 ## 此沙何超莲主演，跨越海峡的爱恋~
 ![此沙何超莲主演，跨越海峡的爱恋~](https://i0.hdslb.com/bfs/bangumi/image/fc639f706c52a15cf63d48f464f9e0c855a27bf1.png)
 
