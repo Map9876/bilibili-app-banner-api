@@ -4,6 +4,7 @@
 
 虚拟机里mt管理器的shell运行：
 mount -o remount,rw /system
+不然在移动文件时候，会显示挂载读写失败 /system 
 
 cp 9ad09d0f.0 /system/etc/security/cacerts/
 这里的9ad09d0f.0 是路径
