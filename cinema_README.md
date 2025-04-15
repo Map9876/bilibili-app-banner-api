@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 江湖风云涌动，肖战再现金庸经典！
+![江湖风云涌动，肖战再现金庸经典！](https://i0.hdslb.com/bfs/bangumi/image/09167e66da67a5c689c3fc15eadfdcc15797ca27.png)
+
+## 危！求生途中气温骤降33度…
+![危！求生途中气温骤降33度…](https://i0.hdslb.com/bfs/bangumi/image/26803cfbc438375f79462e02b14eb6957252c153.png)
+
+## 查理二世寻找杀害他父亲的刽子手
+![查理二世寻找杀害他父亲的刽子手](https://i0.hdslb.com/bfs/bangumi/image/234d126bff1fd28428192abff306d358bb978da2.png)
+
+
 ## 爽看两季！律政喜剧爆笑上新！
 ![爽看两季！律政喜剧爆笑上新！](https://i0.hdslb.com/bfs/bangumi/image/e7c08ffef3d433445fcfe7978b52d2d7fa77747a.png)
 

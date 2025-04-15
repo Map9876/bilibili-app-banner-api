@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 王者？别闹
+![王者？别闹](https://i0.hdslb.com/bfs/bangumi/image/b985733b764541ab44fe103fff2cd06317d34dad.png)
+
+## 鲲吞点映会招募
+![鲲吞点映会招募](https://i0.hdslb.com/bfs/bangumi/image/6dc32ca3fedcb0741856e90b53e8dfca683384da.png)
+
+
 ## 魔女与使魔
 ![魔女与使魔](https://i0.hdslb.com/bfs/bangumi/image/013186836d36f01a2ce3a74c7ec37289382246b5.png)
 
