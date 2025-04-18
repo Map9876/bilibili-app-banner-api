@@ -1,6 +1,10 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 死刑犯变身儿童作家？
+![死刑犯变身儿童作家？](https://i0.hdslb.com/bfs/bangumi/image/b82b916796301f1c5e16bc3640ba88705179bb58.png)
+
+
 ## 在长江寻找濒危动物
 ![在长江寻找濒危动物](https://i0.hdslb.com/bfs/bangumi/image/7f933dff6347b39f5f39e6cd139b08f8fc752996.png)
 
