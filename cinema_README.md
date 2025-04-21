@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 看汤川学出手，物理破获奇案悬案
+![看汤川学出手，物理破获奇案悬案](https://i0.hdslb.com/bfs/bangumi/image/4828a2d8844fdee4b4478f77149b8476727fc0b3.png)
+
+## 【VS岚】中岛健人称呼前辈为小智
+![【VS岚】中岛健人称呼前辈为小智](https://i0.hdslb.com/bfs/bangumi/image/edc7f9cd849f2ee42a6baa7259230f6b0ea3d77f.png)
+
+
 ## 遭人非议？内海薰终成破案王牌！
 ![遭人非议？内海薰终成破案王牌！](https://i0.hdslb.com/bfs/bangumi/image/228f903d255d347604e47df21e05f3bc6ea36080.png)
 
