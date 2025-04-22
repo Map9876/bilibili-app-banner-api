@@ -1,6 +1,10 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 当上国王后痛失穿衣自由
+![当上国王后痛失穿衣自由](https://i0.hdslb.com/bfs/bangumi/image/55632968b41029de30650efab2f7adedd14ce646.png)
+
+
 ## 看汤川学出手，物理破获奇案悬案
 ![看汤川学出手，物理破获奇案悬案](https://i0.hdslb.com/bfs/bangumi/image/4828a2d8844fdee4b4478f77149b8476727fc0b3.png)
 

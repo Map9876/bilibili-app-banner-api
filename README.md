@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 镇魂街点映会招募中
+![镇魂街点映会招募中](https://i0.hdslb.com/bfs/bangumi/image/54bbaf9ae0dfa76be89b93edf66894cc801edaaf.png)
+
+
 ## 肥志百科
 ![肥志百科](https://i0.hdslb.com/bfs/bangumi/image/e48c0081a8564f073b7f889f3a619acd3d37342a.png)
 
