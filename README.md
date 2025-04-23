@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 最强王者的第二人生
+![最强王者的第二人生](https://i0.hdslb.com/bfs/bangumi/image/09511388164fd07e1aa3a39981490923f1e2d4e7.png)
+
+## 直至魔女消逝
+![直至魔女消逝](https://i0.hdslb.com/bfs/bangumi/image/b71417834f25039ee2ccfd6042c80f0594cc3ecd.png)
+
+
 ## 镇魂街点映会招募中
 ![镇魂街点映会招募中](https://i0.hdslb.com/bfs/bangumi/image/54bbaf9ae0dfa76be89b93edf66894cc801edaaf.png)
 
