@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 刘浩存X文淇，于困境中追寻自由！
+![刘浩存X文淇，于困境中追寻自由！](https://i0.hdslb.com/bfs/bangumi/image/14aef8bf35b7bc913bf31c2947afb993499a3281.png)
+
+## 但是还有书籍 第3季
+![但是还有书籍 第3季](https://i0.hdslb.com/bfs/bangumi/image/f5a78e54588888f20f40116ad121559d6419147c.png)
+
+## 大爆炸前宇宙什么样？
+![大爆炸前宇宙什么样？](https://i0.hdslb.com/bfs/bangumi/image/c1f8b98e5cdf305d175020c7d0fbff10e131ec97.png)
+
+
 ## 太空惊悚巨制，外星生命疯狂残杀！
 ![太空惊悚巨制，外星生命疯狂残杀！](https://i0.hdslb.com/bfs/bangumi/image/66fb12f203b8f2b1dcb9e171da3c79092b71b848.png)
 
