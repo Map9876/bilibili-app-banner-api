@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 4代人同居，11人怎么一起生活？
+![4代人同居，11人怎么一起生活？](https://i0.hdslb.com/bfs/bangumi/image/1203b0b0dae5edd668d23a609238a222823e25ba.png)
+
+## 绝密名单竟成生死簿？
+![绝密名单竟成生死簿？](https://i0.hdslb.com/bfs/bangumi/image/b82b916796301f1c5e16bc3640ba88705179bb58.png)
+
+
 ## 刘浩存X文淇，于困境中追寻自由！
 ![刘浩存X文淇，于困境中追寻自由！](https://i0.hdslb.com/bfs/bangumi/image/14aef8bf35b7bc913bf31c2947afb993499a3281.png)
 

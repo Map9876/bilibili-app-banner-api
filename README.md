@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 天才治疗师退队作为无照治疗师快乐过活
+![天才治疗师退队作为无照治疗师快乐过活](https://i0.hdslb.com/bfs/bangumi/image/3a6c0beeaccb3e4ae07170178d802f481558c4bb.png)
+
+
 
 ## 最强王者的第二人生
 ![最强王者的第二人生](https://i0.hdslb.com/bfs/bangumi/image/09511388164fd07e1aa3a39981490923f1e2d4e7.png)
