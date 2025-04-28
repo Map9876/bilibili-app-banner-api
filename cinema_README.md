@@ -1,6 +1,10 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 张静初领衔主演，以身入局追踪真相！
+![张静初领衔主演，以身入局追踪真相！](https://i0.hdslb.com/bfs/bangumi/image/43c3ea29a8f696238f8a1cf7c9b33d80548df041.png)
+
+
 ## 交往前会有结婚的想法吗?
 ![交往前会有结婚的想法吗?](https://i0.hdslb.com/bfs/bangumi/image/f33e9665ba6cb66f4054ade77666e949074e77bd.png)
 
