@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 战队大失格 第二季
+![战队大失格 第二季](https://i0.hdslb.com/bfs/bangumi/image/7529e682f7c7f5833c63221b262e2fd9f5c1197a.png)
+
+## 赛马娘 芦毛灰姑娘
+![赛马娘 芦毛灰姑娘](https://i0.hdslb.com/bfs/bangumi/image/01ca1b3a8344d12808ede2e5ad5309e6ddf0b916.png)
+
+
 ## 鲲吞天下之掌门归来
 ![鲲吞天下之掌门归来](https://i0.hdslb.com/bfs/bangumi/image/2c81c6d99a0b30eabe1e254c1bc087404e043871.png)
 
