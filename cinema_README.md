@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 爽看全集！寻找最强“藏匿之王”
+![爽看全集！寻找最强“藏匿之王”](https://i0.hdslb.com/bfs/bangumi/image/8110e3a879c1bf6c20a7965e88ee1196be7d03a1.png)
+
+## 助力Z世代青年越剧演员破茧成蝶！
+![助力Z世代青年越剧演员破茧成蝶！](https://i0.hdslb.com/bfs/bangumi/image/59a2ce2a01ee96398957ff9ad2bc22c27d53a693.png)
+
+
 ## 与初次见面的异性如何聊天
 ![与初次见面的异性如何聊天](https://i0.hdslb.com/bfs/bangumi/image/f33e9665ba6cb66f4054ade77666e949074e77bd.png)
 
