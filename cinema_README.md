@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 气场全开！周润发揭露华工血泪史
+![气场全开！周润发揭露华工血泪史](https://i0.hdslb.com/bfs/bangumi/image/0ab2c03e4f95ca510b9b89256f80e9f4930c0549.png)
+
+## 加更福利！《姜颂》直通大结局
+![加更福利！《姜颂》直通大结局](https://i0.hdslb.com/bfs/bangumi/image/27534df679e84c8e121090d56815744d78b080d1.png)
+
+
 ## 姜贞羽主演，跨越时空的老宅惊魂记！
 ![姜贞羽主演，跨越时空的老宅惊魂记！](https://i0.hdslb.com/bfs/bangumi/image/a6d6c5a25b34e62f743bb8543724efcbe55cbb20.png)
 
