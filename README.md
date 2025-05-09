@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 樱桃小丸子
+![樱桃小丸子](https://i0.hdslb.com/bfs/bangumi/image/3fd592fd681b96e0ab762c061362c6180d0b8a4b.png)
+
+## 小马宝莉友谊魔法
+![小马宝莉友谊魔法](https://i0.hdslb.com/bfs/bangumi/image/38f4a4d32d8fee2a783d571d4548c438c121fe1a.png)
+
+
 
 ## 开心锤锤世界
 ![开心锤锤世界](https://i0.hdslb.com/bfs/bangumi/image/21095caed9ca3b882edc763e442043f12cebfb06.png)
