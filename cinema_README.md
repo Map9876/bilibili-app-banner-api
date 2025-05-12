@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 我和我的妥瑞氏
+![我和我的妥瑞氏](https://i0.hdslb.com/bfs/bangumi/image/0eb3b81a1482b9e04adbbffc7a6ecaff3bc2f413.png)
+
+## 越剧舞台对决！公鸡发声法技惊四座
+![越剧舞台对决！公鸡发声法技惊四座](https://i0.hdslb.com/bfs/bangumi/image/59a2ce2a01ee96398957ff9ad2bc22c27d53a693.png)
+
+
 ## 吸狗体质觉醒！相叶成为小狗充电宝
 ![吸狗体质觉醒！相叶成为小狗充电宝](https://i0.hdslb.com/bfs/bangumi/image/4fcdf68836b2c68edebeceabb644318f64f5aee7.png)
 
