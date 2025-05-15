@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 考古队新发现！揭开庞贝城惊天之谜
+![考古队新发现！揭开庞贝城惊天之谜](https://i0.hdslb.com/bfs/bangumi/image/5ca24a5cd2995918e4d81057cd5554f0cff9556a.png)
+
+## 艺人官宣！6月2日19点毕业歌会现场
+![艺人官宣！6月2日19点毕业歌会现场](https://i0.hdslb.com/bfs/bangumi/image/cfe2d1fd1c45d8cf59c62aba56eaeeeab11b8cef.png)
+
+
 ## 追踪巨型鱼 第四季
 ![追踪巨型鱼 第四季](https://i0.hdslb.com/bfs/bangumi/image/e1e51f628c6c9d86ab3cbc39e4ba3f4986dd7b94.png)
 
