@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 服装费就要...万日元？
+![服装费就要...万日元？](https://i0.hdslb.com/bfs/bangumi/image/2c8628e6cec291111e7a43fea87cdc10e8d93c95.png)
+
+## 从摩天大楼扔下的硬币会砸伤人吗？
+![从摩天大楼扔下的硬币会砸伤人吗？](https://i0.hdslb.com/bfs/bangumi/image/0dc1c0a564e882a9963a6265a27b3d55993db20d.png)
+
+## 囚犯暴动VS电子牢笼
+![囚犯暴动VS电子牢笼](https://i0.hdslb.com/bfs/bangumi/image/17a307933d4cce6019f8878f14da575649917e71.png)
+
+## 直播回顾！聊聊网文江湖那些事
+![直播回顾！聊聊网文江湖那些事](https://i0.hdslb.com/bfs/bangumi/image/28469e101f03df7130428588cde260d375370a52.png)
+
+
 ## 考古队新发现！揭开庞贝城惊天之谜
 ![考古队新发现！揭开庞贝城惊天之谜](https://i0.hdslb.com/bfs/bangumi/image/5ca24a5cd2995918e4d81057cd5554f0cff9556a.png)
 
