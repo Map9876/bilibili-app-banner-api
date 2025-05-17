@@ -1,6 +1,22 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 穿越乱世做大厨？随身带调料搅动风云！
+![穿越乱世做大厨？随身带调料搅动风云！](https://i0.hdslb.com/bfs/bangumi/image/670a308a424536cbc846dcceea0eb33092c9775e.png)
+
+## 浪漫收官！我们是彼此最适合的朋友
+![浪漫收官！我们是彼此最适合的朋友](https://i0.hdslb.com/bfs/bangumi/image/8849eb481478f1ec5f5f1949ce4262db432c42e5.png)
+
+## 聚焦听障群体，张艺兴演绎深沉父爱
+![聚焦听障群体，张艺兴演绎深沉父爱](https://i0.hdslb.com/bfs/bangumi/image/462ebf07adb7fc7da2cc64a325baf7e9e23d6e8c.png)
+
+## 直面争议！新人演员丁真变形记
+![直面争议！新人演员丁真变形记](https://i0.hdslb.com/bfs/bangumi/image/28469e101f03df7130428588cde260d375370a52.png)
+
+## 嗑到了！刘宇宁张含韵浪漫对唱
+![嗑到了！刘宇宁张含韵浪漫对唱](https://i0.hdslb.com/bfs/bangumi/image/8bf532e26ef98e04c099bfba50876efb4075a639.png)
+
+
 ## 服装费就要...万日元？
 ![服装费就要...万日元？](https://i0.hdslb.com/bfs/bangumi/image/2c8628e6cec291111e7a43fea87cdc10e8d93c95.png)
 
