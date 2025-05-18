@@ -1,6 +1,22 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 如何与过去沉迷于玩乐的男人交往
+![如何与过去沉迷于玩乐的男人交往](https://i0.hdslb.com/bfs/bangumi/image/f33e9665ba6cb66f4054ade77666e949074e77bd.png)
+
+## 围观神奇的新兴职业！
+![围观神奇的新兴职业！](https://i0.hdslb.com/bfs/bangumi/image/5c8739e513ee7cf48ada891abcb1621356695e18.png)
+
+## 太萌了！相叶在线教学“老虎语”
+![太萌了！相叶在线教学“老虎语”](https://i0.hdslb.com/bfs/bangumi/image/4fcdf68836b2c68edebeceabb644318f64f5aee7.png)
+
+## 不合适也要有个限度！高分日剧上线
+![不合适也要有个限度！高分日剧上线](https://i0.hdslb.com/bfs/bangumi/image/e0da53c823e7d4c1cf42025ada829d54182302f1.png)
+
+## 上B站看戛纳金棕榈最佳影片
+![上B站看戛纳金棕榈最佳影片](https://i0.hdslb.com/bfs/bangumi/image/bbc19969e57f2470d5e56c24a7b976590deb31ae.png)
+
+
 ## 穿越乱世做大厨？随身带调料搅动风云！
 ![穿越乱世做大厨？随身带调料搅动风云！](https://i0.hdslb.com/bfs/bangumi/image/670a308a424536cbc846dcceea0eb33092c9775e.png)
 
