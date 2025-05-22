@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 庞贝城90%的人至今下落不明
+![庞贝城90%的人至今下落不明](https://i0.hdslb.com/bfs/bangumi/image/381e6b03b58f14761ab257d4f167597d6ee49453.png)
+
+## 满岛光X冈田将生，日本年度悬疑佳作
+![满岛光X冈田将生，日本年度悬疑佳作](https://i0.hdslb.com/bfs/bangumi/image/d2d543e56bea7f9890706c6b7c9d16a6de605c43.png)
+
+
 
 ## 我守敦煌日月长
 ![我守敦煌日月长](https://i0.hdslb.com/bfs/bangumi/image/d7881cb97d461578c48330a7cba377c918e1e3d4.png)
