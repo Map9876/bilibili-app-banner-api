@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 幸福的秘籍是...每晚小酌？
+![幸福的秘籍是...每晚小酌？](https://i0.hdslb.com/bfs/bangumi/image/2c8628e6cec291111e7a43fea87cdc10e8d93c95.png)
+
+## 在上海，有哪些生灵与我们生活相伴？
+![在上海，有哪些生灵与我们生活相伴？](https://i0.hdslb.com/bfs/bangumi/image/400fa60a024f9b687787bb5b6c68afe865f12ba7.png)
+
+## 芝加哥黑帮老大在监狱中死于梅毒？！
+![芝加哥黑帮老大在监狱中死于梅毒？！](https://i0.hdslb.com/bfs/bangumi/image/2f1384d40ed66aa5f698a43775d2d2c860e09aea.png)
+
+## 可乐能溶解牛排吗？
+![可乐能溶解牛排吗？](https://i0.hdslb.com/bfs/bangumi/image/0dc1c0a564e882a9963a6265a27b3d55993db20d.png)
+
+
 ## 庞贝城90%的人至今下落不明
 ![庞贝城90%的人至今下落不明](https://i0.hdslb.com/bfs/bangumi/image/381e6b03b58f14761ab257d4f167597d6ee49453.png)
 
