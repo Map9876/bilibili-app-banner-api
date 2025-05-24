@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 聚焦出狱人员，赵丽颖演绎重生之路
+![聚焦出狱人员，赵丽颖演绎重生之路](https://i0.hdslb.com/bfs/bangumi/image/165272f451f269d5be45e1c91b5ee737d3351ccf.png)
+
+## 高分经典！中国情景喜剧鼻祖上线B站！
+![高分经典！中国情景喜剧鼻祖上线B站！](https://i0.hdslb.com/bfs/bangumi/image/60e1a6064e1a19f94715d16d40aaffce5674eba6.png)
+
+## 神仙改编！王铮亮黄子弘凡治愈合唱
+![神仙改编！王铮亮黄子弘凡治愈合唱](https://i0.hdslb.com/bfs/bangumi/image/8bf532e26ef98e04c099bfba50876efb4075a639.png)
+
+
 ## 幸福的秘籍是...每晚小酌？
 ![幸福的秘籍是...每晚小酌？](https://i0.hdslb.com/bfs/bangumi/image/2c8628e6cec291111e7a43fea87cdc10e8d93c95.png)
 
