@@ -1,6 +1,10 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 战队席位告急，谁能脱颖而出？
+![战队席位告急，谁能脱颖而出？](https://i0.hdslb.com/bfs/bangumi/image/59a2ce2a01ee96398957ff9ad2bc22c27d53a693.png)
+
+
 ## 木村拓哉续写律政传奇！
 ![木村拓哉续写律政传奇！](https://i0.hdslb.com/bfs/bangumi/image/7786068bc1db329994f9e3945aa52c1f3b6a0fb9.png)
 
