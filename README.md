@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 六月动画种草激励
+![六月动画种草激励](https://i0.hdslb.com/bfs/bangumi/image/a87a8a792f0ce1502629cb1858703610a16392d1.png)
+
+## 补番月台·童年红白机
+![补番月台·童年红白机](https://i0.hdslb.com/bfs/bangumi/image/e0c98ae8105b83a00ee45720a63212799f868f89.png)
+
+
 ## 灵笼第二季
 ![灵笼第二季](https://i0.hdslb.com/bfs/bangumi/image/e5ddf4929c6becccfd8a297e0362769cebb16803.png)
 
