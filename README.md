@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 金蚕往事
+![金蚕往事](https://i0.hdslb.com/bfs/bangumi/image/0ea8c9f2f09c58fdbe6aba6489e1db104b881db8.png)
+
+
 ## 丁丁历险记 第一季
 ![丁丁历险记 第一季](https://i0.hdslb.com/bfs/bangumi/image/96f6fc549e8660247cdc2d18adf70e9b1c80ad74.png)
 

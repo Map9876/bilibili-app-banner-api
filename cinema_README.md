@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 挑战用三天建造防水庇护所！
+![挑战用三天建造防水庇护所！](https://i0.hdslb.com/bfs/bangumi/image/21692ee1f7208342042453945d6208e26d7929e2.png)
+
+## 发自内心的服务，其实不算演戏
+![发自内心的服务，其实不算演戏](https://i0.hdslb.com/bfs/bangumi/image/8d6f81b0878cd131ff435f687ac4e5f3914b2e2c.png)
+
+## 青春不散场！毕业歌会全程回顾
+![青春不散场！毕业歌会全程回顾](https://i0.hdslb.com/bfs/bangumi/image/1e38a25e44105931b1f06f23446facfa6bbc4e2a.png)
+
+
 ## 主题竞演！用创意为传统赋魂
 ![主题竞演！用创意为传统赋魂](https://i0.hdslb.com/bfs/bangumi/image/59a2ce2a01ee96398957ff9ad2bc22c27d53a693.png)
 
