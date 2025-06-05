@@ -1,6 +1,10 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 繁华庞贝重现！get罗马洗浴攻略
+![繁华庞贝重现！get罗马洗浴攻略](https://i0.hdslb.com/bfs/bangumi/image/ced8f04b53aa4efd1c13e99f45a89ba84ad99d12.png)
+
+
 
 ## 挑战用三天建造防水庇护所！
 ![挑战用三天建造防水庇护所！](https://i0.hdslb.com/bfs/bangumi/image/21692ee1f7208342042453945d6208e26d7929e2.png)
