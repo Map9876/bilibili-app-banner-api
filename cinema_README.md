@@ -1,6 +1,25 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 妻子是地下偶像，丈夫是粉丝！
+![妻子是地下偶像，丈夫是粉丝！](https://i0.hdslb.com/bfs/bangumi/image/2c8628e6cec291111e7a43fea87cdc10e8d93c95.png)
+
+## 戴首饰会更容易被闪电击中吗？
+![戴首饰会更容易被闪电击中吗？](https://i0.hdslb.com/bfs/bangumi/image/0dc1c0a564e882a9963a6265a27b3d55993db20d.png)
+
+## 这么大的北京，这么小的我们
+![这么大的北京，这么小的我们](https://i0.hdslb.com/bfs/bangumi/image/cee7d6fdbc4bd458793adf9aa86e932adc89ad55.png)
+
+## 狮魂觉醒，野草少年拳战擂台！
+![狮魂觉醒，野草少年拳战擂台！](https://i0.hdslb.com/bfs/bangumi/image/b1ad6a3ca2252a17a5e37b91b1125bc98f587362.png)
+
+## 血铸绞架！杀人魔在死牢封鸟神
+![血铸绞架！杀人魔在死牢封鸟神](https://i0.hdslb.com/bfs/bangumi/image/d449d2d959cd52376521ffc7ffd83135cba62977.png)
+
+## 万人合唱！与你再续青春记忆
+![万人合唱！与你再续青春记忆](https://i0.hdslb.com/bfs/bangumi/image/cfe2d1fd1c45d8cf59c62aba56eaeeeab11b8cef.png)
+
+
 ## 繁华庞贝重现！get罗马洗浴攻略
 ![繁华庞贝重现！get罗马洗浴攻略](https://i0.hdslb.com/bfs/bangumi/image/ced8f04b53aa4efd1c13e99f45a89ba84ad99d12.png)
 
