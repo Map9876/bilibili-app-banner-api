@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 公路狂飙？曾毅周奇踏上乌龙旅途！
+![公路狂飙？曾毅周奇踏上乌龙旅途！](https://i0.hdslb.com/bfs/bangumi/image/0f5a20edba37780cb7086e173115d6362124318d.png)
+
+## 生死相搏！非洲猎杀风云开启
+![生死相搏！非洲猎杀风云开启](https://i0.hdslb.com/bfs/bangumi/image/578e1756f80e1b212117133235e0a2bb1c866a9d.png)
+
+## 纪录海底捞员工的真实职场生活
+![纪录海底捞员工的真实职场生活](https://i0.hdslb.com/bfs/bangumi/image/8d6f81b0878cd131ff435f687ac4e5f3914b2e2c.png)
+
+## 听哭了！张靓颖姚晓棠治愈合唱！
+![听哭了！张靓颖姚晓棠治愈合唱！](https://i0.hdslb.com/bfs/bangumi/image/6515a128f54455f8eca6a079ef4ded9e433bebe2.png)
+
+
 ## 妻子是地下偶像，丈夫是粉丝！
 ![妻子是地下偶像，丈夫是粉丝！](https://i0.hdslb.com/bfs/bangumi/image/2c8628e6cec291111e7a43fea87cdc10e8d93c95.png)
 
