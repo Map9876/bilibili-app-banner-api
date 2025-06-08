@@ -1,6 +1,22 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 动物界的“行为艺术家”上线啦！
+![动物界的“行为艺术家”上线啦！](https://i0.hdslb.com/bfs/bangumi/image/9de181fd583ce6b90e5a56c3e7061cc2d3b784fc.png)
+
+## 职业女性坠入爱河的瞬间
+![职业女性坠入爱河的瞬间](https://i0.hdslb.com/bfs/bangumi/image/a903ae5accab29813df56389efee7f0571e11633.png)
+
+## 高分悬疑！13童骨案真相谜影重重
+![高分悬疑！13童骨案真相谜影重重](https://i0.hdslb.com/bfs/bangumi/image/4e4704618f9cd59d422a0b9a914a9a4d34d8d7b1.png)
+
+## 1978-2025，功夫传奇永不落幕
+![1978-2025，功夫传奇永不落幕](https://i0.hdslb.com/bfs/bangumi/image/d5cff901fe56521f3980cb5fca306e4a71d56f63.png)
+
+## 经典童话新编，神奇女侠饰反派皇后！
+![经典童话新编，神奇女侠饰反派皇后！](https://i0.hdslb.com/bfs/bangumi/image/1769666367afe8b7417fedd244a9d33163cec2e5.png)
+
+
 ## 公路狂飙？曾毅周奇踏上乌龙旅途！
 ![公路狂飙？曾毅周奇踏上乌龙旅途！](https://i0.hdslb.com/bfs/bangumi/image/0f5a20edba37780cb7086e173115d6362124318d.png)
 
