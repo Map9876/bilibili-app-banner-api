@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 复赛第二场战队PK激烈升级
+![复赛第二场战队PK激烈升级](https://i0.hdslb.com/bfs/bangumi/image/59a2ce2a01ee96398957ff9ad2bc22c27d53a693.png)
+
+## 当面哔哔：黄子弘凡啊吗粽谁是游戏王
+![当面哔哔：黄子弘凡啊吗粽谁是游戏王](https://i0.hdslb.com/bfs/bangumi/image/c51d01e08e381ae832102b57c5bf8e3586d41cbc.png)
+
+## 6月13日起，相约每周五晚八点
+![6月13日起，相约每周五晚八点](https://i0.hdslb.com/bfs/bangumi/image/7bc5596049321c45ad3668411ef882c70ef88acf.png)
+
+## 豆瓣9.1！超人气整蛊综艺上线B站
+![豆瓣9.1！超人气整蛊综艺上线B站](https://i0.hdslb.com/bfs/bangumi/image/b11665ba48cb06be0170bb2ffc2c05aa509dbbab.png)
+
+
 ## 动物界的“行为艺术家”上线啦！
 ![动物界的“行为艺术家”上线啦！](https://i0.hdslb.com/bfs/bangumi/image/9de181fd583ce6b90e5a56c3e7061cc2d3b784fc.png)
 
