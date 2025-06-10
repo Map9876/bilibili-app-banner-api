@@ -1,6 +1,10 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 紫砂壶里藏着什么神奇密码？
+![紫砂壶里藏着什么神奇密码？](https://i0.hdslb.com/bfs/bangumi/image/806616b01f874ac79f5aa36103e0ad6017da7588.png)
+
+
 ## 复赛第二场战队PK激烈升级
 ![复赛第二场战队PK激烈升级](https://i0.hdslb.com/bfs/bangumi/image/59a2ce2a01ee96398957ff9ad2bc22c27d53a693.png)
 
