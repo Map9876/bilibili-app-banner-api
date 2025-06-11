@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 一起搭野外烤炉吧！
+![一起搭野外烤炉吧！](https://i0.hdslb.com/bfs/bangumi/image/345a3c5b77c7bfa627e87a30bc775711e74d1f69.png)
+
+## 航拍中国 第四季
+![航拍中国 第四季](https://i0.hdslb.com/bfs/bangumi/image/0f6b2576e774567754be1b664e2bdca6c1e790fa.png)
+
+
 ## 紫砂壶里藏着什么神奇密码？
 ![紫砂壶里藏着什么神奇密码？](https://i0.hdslb.com/bfs/bangumi/image/806616b01f874ac79f5aa36103e0ad6017da7588.png)
 
