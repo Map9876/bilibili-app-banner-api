@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 肖央被绑进疯人院，开启突围模式！
+![肖央被绑进疯人院，开启突围模式！](https://i0.hdslb.com/bfs/bangumi/image/1e464e708983d24181a67e1e48b30771b9ed26e0.png)
+
+## 上B站看上海电影节展映佳片
+![上B站看上海电影节展映佳片](https://i0.hdslb.com/bfs/bangumi/image/bb97b7c5e61178930ba6f139b872a3a95f2b4059.png)
+
+## 生死博弈！澳洲捕食者的生存之战！
+![生死博弈！澳洲捕食者的生存之战！](https://i0.hdslb.com/bfs/bangumi/image/5d0297d3cd13ba71d5400bc311ce1b4853fa7362.png)
+
+## 6月16日12:00 一同快意江湖
+![6月16日12:00 一同快意江湖](https://i0.hdslb.com/bfs/bangumi/image/b61c4d28eb37e1f300e83f5492d0a90f7df15a57.png)
+
+
 ## 比起恋爱更喜欢马的32岁男人
 ![比起恋爱更喜欢马的32岁男人](https://i0.hdslb.com/bfs/bangumi/image/2c8628e6cec291111e7a43fea87cdc10e8d93c95.png)
 
