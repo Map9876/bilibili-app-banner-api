@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 四大冠军巅峰对决！
+![四大冠军巅峰对决！](https://i0.hdslb.com/bfs/bangumi/image/d258b5acda61e5aefbb668f3be11823b9b933271.png)
+
+## 晓卉艾伦爆笑深扒恋爱秘诀
+![晓卉艾伦爆笑深扒恋爱秘诀](https://i0.hdslb.com/bfs/bangumi/image/71228c9123effc026ca72e7e4e35b5f463154bff.png)
+
+## 不能榨干自己，但可以榨干一部分
+![不能榨干自己，但可以榨干一部分](https://i0.hdslb.com/bfs/bangumi/image/cee7d6fdbc4bd458793adf9aa86e932adc89ad55.png)
+
+## 打戏名场面！墨青川1 vs 4
+![打戏名场面！墨青川1 vs 4](https://i0.hdslb.com/bfs/bangumi/image/462453daad1f51d4d850469407e0dfc7a9949a7f.png)
+
+
 ## 结缘农场，废柴少年开启逆袭之路！
 ![结缘农场，废柴少年开启逆袭之路！](https://i0.hdslb.com/bfs/bangumi/image/7246b99b3cdbf5651fea0884b0d5f6311d4d9d68.png)
 
