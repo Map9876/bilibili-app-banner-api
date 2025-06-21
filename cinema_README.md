@@ -1,6 +1,22 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 北美生存战，捕食者们的极限挑战！
+![北美生存战，捕食者们的极限挑战！](https://i0.hdslb.com/bfs/bangumi/image/5d0297d3cd13ba71d5400bc311ce1b4853fa7362.png)
+
+## 邱礼涛执导，刘德华揭露金融圈陷阱
+![邱礼涛执导，刘德华揭露金融圈陷阱](https://i0.hdslb.com/bfs/bangumi/image/b954e2aac93d6a21d79671c43c26e2f04f02b4e5.png)
+
+## 爽文！墨青川上殿指认墨君宇
+![爽文！墨青川上殿指认墨君宇](https://i0.hdslb.com/bfs/bangumi/image/0a8c7c8e5168f0df2f1b2880b8ae7f564d452ac8.png)
+
+## 王源金玟岐温暖演绎《岁月神偷》
+![王源金玟岐温暖演绎《岁月神偷》](https://i0.hdslb.com/bfs/bangumi/image/6515a128f54455f8eca6a079ef4ded9e433bebe2.png)
+
+## 命悬一线，从男孩脑部提取肿瘤
+![命悬一线，从男孩脑部提取肿瘤](https://i0.hdslb.com/bfs/bangumi/image/7bc5596049321c45ad3668411ef882c70ef88acf.png)
+
+
 ## 骑摩托环游日本的60岁奶奶
 ![骑摩托环游日本的60岁奶奶](https://i0.hdslb.com/bfs/bangumi/image/2c8628e6cec291111e7a43fea87cdc10e8d93c95.png)
 
