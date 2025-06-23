@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 总决赛上半场！十强即将诞生
+![总决赛上半场！十强即将诞生](https://i0.hdslb.com/bfs/bangumi/image/59a2ce2a01ee96398957ff9ad2bc22c27d53a693.png)
+
+## 强制爱！丰时烨曾囚禁墨青川
+![强制爱！丰时烨曾囚禁墨青川](https://i0.hdslb.com/bfs/bangumi/image/0a8c7c8e5168f0df2f1b2880b8ae7f564d452ac8.png)
+
+## 爆笑整蛊来袭！大泉洋表情崩坏名场面！
+![爆笑整蛊来袭！大泉洋表情崩坏名场面！](https://i0.hdslb.com/bfs/bangumi/image/b11665ba48cb06be0170bb2ffc2c05aa509dbbab.png)
+
+
 ## 挑战迪士尼「全勤卡」赢乐园门票！
 ![挑战迪士尼「全勤卡」赢乐园门票！](https://i0.hdslb.com/bfs/bangumi/image/829349eed6169232d9884d287fc54ee3260d2cc4.png)
 
