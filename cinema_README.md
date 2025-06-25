@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 绫野刚X斋藤润，唱出奇妙化学反应
+![绫野刚X斋藤润，唱出奇妙化学反应](https://i0.hdslb.com/bfs/bangumi/image/2000501bd802e615d61206178bc37231f05462d4.png)
+
+## 当面哔哔：整蛊主席团险被反套路？
+![当面哔哔：整蛊主席团险被反套路？](https://i0.hdslb.com/bfs/bangumi/image/33c9dfd31a34abe81cd0c1d1fd7661aaf2f457d9.png)
+
+## 高燃！墨青川刺杀太后
+![高燃！墨青川刺杀太后](https://i0.hdslb.com/bfs/bangumi/image/0a8c7c8e5168f0df2f1b2880b8ae7f564d452ac8.png)
+
+
 ## 王家卫的时空迷梦与情欲浮城
 ![王家卫的时空迷梦与情欲浮城](https://i0.hdslb.com/bfs/bangumi/image/4d8f26e425599209b77fc19b79cf3f9111b1b870.png)
 
