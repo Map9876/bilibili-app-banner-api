@@ -1,6 +1,22 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 晓卉豆豆把养生宵夜玩出花
+![晓卉豆豆把养生宵夜玩出花](https://i0.hdslb.com/bfs/bangumi/image/71228c9123effc026ca72e7e4e35b5f463154bff.png)
+
+## 陈柏霖X张榕容，鬼界搭档大战职场！
+![陈柏霖X张榕容，鬼界搭档大战职场！](https://i0.hdslb.com/bfs/bangumi/image/db11a3aac7d3dc863cbfadb7f1cd47e48759683c.png)
+
+## 四位人气选手重返锻造厂
+![四位人气选手重返锻造厂](https://i0.hdslb.com/bfs/bangumi/image/d4834f9b91208cf396a3594c3960be97213f406c.png)
+
+## 青川心存死志 祈光痛哭下跪
+![青川心存死志 祈光痛哭下跪](https://i0.hdslb.com/bfs/bangumi/image/0a8c7c8e5168f0df2f1b2880b8ae7f564d452ac8.png)
+
+## 揭秘：在海底捞打工的真实体验
+![揭秘：在海底捞打工的真实体验](https://i0.hdslb.com/bfs/bangumi/image/567567bd15b6795eea85d3657051ecd9f83ddb15.png)
+
+
 ## 绫野刚X斋藤润，唱出奇妙化学反应
 ![绫野刚X斋藤润，唱出奇妙化学反应](https://i0.hdslb.com/bfs/bangumi/image/2000501bd802e615d61206178bc37231f05462d4.png)
 
