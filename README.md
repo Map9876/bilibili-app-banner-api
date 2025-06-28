@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 全职高手荣耀小剧场
+![全职高手荣耀小剧场](https://i0.hdslb.com/bfs/bangumi/image/2c9a04e142a28679d3c084359df5ddbd81b8602e.png)
+
+## 双城之战2
+![双城之战2](https://i0.hdslb.com/bfs/bangumi/image/f28d1dbb062ded39680db0095c2acd1bc22caf4f.png)
+
+
 
 
 

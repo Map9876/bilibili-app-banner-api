@@ -1,6 +1,31 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 无限穿越？全球首部AI单元故事集上线
+![无限穿越？全球首部AI单元故事集上线](https://i0.hdslb.com/bfs/bangumi/image/aee9227758ec3ccbfb9b29262a6bf70562152b63.png)
+
+## 喜剧效果拉满！李宗恒演绎读心秘书
+![喜剧效果拉满！李宗恒演绎读心秘书](https://i0.hdslb.com/bfs/bangumi/image/c135c8836984f21d07c3f6e93ea62c20d4a3a8ed.png)
+
+## 爱非们！你们的下饭综艺回归啦！
+![爱非们！你们的下饭综艺回归啦！](https://i0.hdslb.com/bfs/bangumi/image/15705063ffe7cc3d8cd5c9abf563b71e6e5b6300.png)
+
+## 张曼玉X梁朝伟，再次感受爱与惆怅
+![张曼玉X梁朝伟，再次感受爱与惆怅](https://i0.hdslb.com/bfs/bangumi/image/0b17ac2c516080a6102d96c35048dbad10d30cc2.png)
+
+## 嫁衣变战袍！红衣女战神单杀丰时烨
+![嫁衣变战袍！红衣女战神单杀丰时烨](https://i0.hdslb.com/bfs/bangumi/image/462453daad1f51d4d850469407e0dfc7a9949a7f.png)
+
+## 揪心！男孩遭车祸碾压九死一生
+![揪心！男孩遭车祸碾压九死一生](https://i0.hdslb.com/bfs/bangumi/image/7bc5596049321c45ad3668411ef882c70ef88acf.png)
+
+## 阿云嘎刘雨昕送来夏日清凉！
+![阿云嘎刘雨昕送来夏日清凉！](https://i0.hdslb.com/bfs/bangumi/image/6515a128f54455f8eca6a079ef4ded9e433bebe2.png)
+
+## 是坏情绪啊，没关系
+![是坏情绪啊，没关系](https://i0.hdslb.com/bfs/bangumi/image/072aab6fae36b632fa67b1459726daa814746da4.png)
+
+
 ## 寻访千年学府，聆听圣贤回响
 ![寻访千年学府，聆听圣贤回响](https://i0.hdslb.com/bfs/bangumi/image/6de617c18eb60a9a7495da5d3a8a63dc08dbd7c9.png)
 
