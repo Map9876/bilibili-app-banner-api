@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 越剧新生代巅峰对决，总决赛悬念揭晓！
+![越剧新生代巅峰对决，总决赛悬念揭晓！](https://i0.hdslb.com/bfs/bangumi/image/59a2ce2a01ee96398957ff9ad2bc22c27d53a693.png)
+
+## 一场预谋已久的吃醋大考验...
+![一场预谋已久的吃醋大考验...](https://i0.hdslb.com/bfs/bangumi/image/b11665ba48cb06be0170bb2ffc2c05aa509dbbab.png)
+
+
 ## 日本动物园里熊猫宝宝诞生记
 ![日本动物园里熊猫宝宝诞生记](https://i0.hdslb.com/bfs/bangumi/image/9de181fd583ce6b90e5a56c3e7061cc2d3b784fc.png)
 
