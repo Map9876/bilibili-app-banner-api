@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 你来发电，我来发钱！
+![你来发电，我来发钱！](https://i0.hdslb.com/bfs/bangumi/image/fb19b75727c548b587b042284a5ddc554c484b85.png)
+
+## 英配7月2日18点日更敬请期待
+![英配7月2日18点日更敬请期待](https://i0.hdslb.com/bfs/bangumi/image/886624c039df653e7528bb426969035d76dc3221.png)
+
+
 ## 刘俊谦主演，延续动作港片热血魂！
 ![刘俊谦主演，延续动作港片热血魂！](https://i0.hdslb.com/bfs/bangumi/image/15b9cd83d3454735de9c5eb2d4cdd703bda5010d.png)
 
