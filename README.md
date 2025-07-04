@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 国创夏季导视
+![国创夏季导视](https://i0.hdslb.com/bfs/bangumi/image/0054073b667918459ef638dc0602661d34145ac8.png)
+
+## 胆大党 第二季
+![胆大党 第二季](https://i0.hdslb.com/bfs/bangumi/image/b0be5e7a4d3ddfd837e0353cfe0c173ee9dd9639.png)
+
+
 ## 克雷瓦提斯
 ![克雷瓦提斯](https://i0.hdslb.com/bfs/bangumi/image/b0da3102331aa7ae1c34023faf78f13f4221ebfe.png)
 
