@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 安迪的恐龙冒险
+![安迪的恐龙冒险](https://i0.hdslb.com/bfs/bangumi/image/6ef98889cb4d5dbe5a87d2eb25cb2468ab9a2d6a.png)
+
+## 明日方舟：焰烬曙明
+![明日方舟：焰烬曙明](https://i0.hdslb.com/bfs/bangumi/image/b53ebf5946813238519d2cf87c9ce9282a00407b.png)
+
+
 ## 国创夏季导视
 ![国创夏季导视](https://i0.hdslb.com/bfs/bangumi/image/0054073b667918459ef638dc0602661d34145ac8.png)
 
