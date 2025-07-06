@@ -355,6 +355,16 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 天官赐福 第二季
+![天官赐福 第二季](https://i0.hdslb.com/bfs/bangumi/image/d2ebc3fb18a7725f441dada51ae9cc661ffa0784.png)
+
+## 奥美迦奥特曼
+![奥美迦奥特曼](https://i0.hdslb.com/bfs/bangumi/image/32cc759f835fc71d88a045e92254a323bc77903f.png)
+
+## 怪兽8号 第二季
+![怪兽8号 第二季](https://i0.hdslb.com/bfs/bangumi/image/168b5f1f770e3e8f113005f85a87067c937e3af3.png)
+
+
 ## 安迪的恐龙冒险
 ![安迪的恐龙冒险](https://i0.hdslb.com/bfs/bangumi/image/6ef98889cb4d5dbe5a87d2eb25cb2468ab9a2d6a.png)
 
