@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 爱情还是骗局？魅力男友竟是特工！
+![爱情还是骗局？魅力男友竟是特工！](https://i0.hdslb.com/bfs/bangumi/image/305178277748818956ddec803d2add21e5c65c1d.png)
+
+## 在野外砍竹子竟惹恼孔雀
+![在野外砍竹子竟惹恼孔雀](https://i0.hdslb.com/bfs/bangumi/image/e7bb4b4e33100036938a0c7ba21cef840c9db6a9.png)
+
+## 金融奇谋斗日谍
+![金融奇谋斗日谍](https://i0.hdslb.com/bfs/bangumi/image/95150901d12e0c5ea10bc368c32e4482dbd9b568.png)
+
+
 ## 取肥肠当火箭燃料？细思极恐！
 ![取肥肠当火箭燃料？细思极恐！](https://i0.hdslb.com/bfs/bangumi/image/23e01f48a9ca8b5c74658e10f406f62614056c14.png)
 
