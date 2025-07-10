@@ -355,6 +355,16 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 苍兰诀
+![苍兰诀](https://i0.hdslb.com/bfs/bangumi/image/e01d094df96d626d3663ce201139d2e8aec8c12f.png)
+
+## 新·异常生物见闻录：序
+![新·异常生物见闻录：序](https://i0.hdslb.com/bfs/bangumi/image/bf8992bdfe20798f19f1f81f8e48f9a9e75e1bc6.png)
+
+## 盾之勇者成名录 第四季
+![盾之勇者成名录 第四季](https://i0.hdslb.com/bfs/bangumi/image/c495ee2dcc8d55c2d9eaaa787405ee634766e567.png)
+
+
 
 ## 活死喵之夜
 ![活死喵之夜](https://i0.hdslb.com/bfs/bangumi/image/31980fdf5425561fc835b417a7b444f93af8c242.png)

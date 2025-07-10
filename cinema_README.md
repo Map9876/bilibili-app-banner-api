@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 锻造锤居然要自己造？
+![锻造锤居然要自己造？](https://i0.hdslb.com/bfs/bangumi/image/d4834f9b91208cf396a3594c3960be97213f406c.png)
+
+## 晓卉左凌峰运动会爆笑对决
+![晓卉左凌峰运动会爆笑对决](https://i0.hdslb.com/bfs/bangumi/image/71228c9123effc026ca72e7e4e35b5f463154bff.png)
+
+## 直播回顾！与时代少年团畅玩一夏
+![直播回顾！与时代少年团畅玩一夏](https://i0.hdslb.com/bfs/bangumi/image/61a2949b67f4166e1d7fd565786e3ce9ed9f13d8.png)
+
+
 ##  快预约！9日20点时代少年团直播
 ![ 快预约！9日20点时代少年团直播](https://i0.hdslb.com/bfs/bangumi/image/d05cb01fcf0591b5927c530f7abc58b96bf79aba.png)
 
