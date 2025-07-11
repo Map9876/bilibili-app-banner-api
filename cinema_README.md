@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 人间洗剧
+![人间洗剧](https://i0.hdslb.com/bfs/bangumi/image/a55a610b239f85936df638a9dc213ee9664c4bfc.png)
+
+## 穿越极致美洲
+![穿越极致美洲](https://i0.hdslb.com/bfs/bangumi/image/2ee0d9433ab9c6c31e93a2e81803277f86366d37.png)
+
+## 流言止于实验，经典IP回归！
+![流言止于实验，经典IP回归！](https://i0.hdslb.com/bfs/bangumi/image/36abf2b08f1e404cbb1bf7b9919584d91deb3657.png)
+
+## 专访潘斌龙！东北老铁一起唠唠嗑
+![专访潘斌龙！东北老铁一起唠唠嗑](https://i0.hdslb.com/bfs/bangumi/image/c51d01e08e381ae832102b57c5bf8e3586d41cbc.png)
+
+
 ## 锻造锤居然要自己造？
 ![锻造锤居然要自己造？](https://i0.hdslb.com/bfs/bangumi/image/d4834f9b91208cf396a3594c3960be97213f406c.png)
 

@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 石纪元 第四季
+![石纪元 第四季](https://i0.hdslb.com/bfs/bangumi/image/44f6b6d92fdd0e43a48fe540a599148c3acd4c17.png)
+
+
 ## 苍兰诀
 ![苍兰诀](https://i0.hdslb.com/bfs/bangumi/image/e01d094df96d626d3663ce201139d2e8aec8c12f.png)
 
