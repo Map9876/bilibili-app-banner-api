@@ -1,6 +1,28 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 我的白大褂朋友
+![我的白大褂朋友](https://i0.hdslb.com/bfs/bangumi/image/1c4e4d261517fe59e00db42ee90da8df95192f25.png)
+
+## 9级巨震触发遮天海墙！
+![9级巨震触发遮天海墙！](https://i0.hdslb.com/bfs/bangumi/image/bf745a754cc6ff8f5a9172bd501e5d701373b0d5.png)
+
+## 跨越物种的陪伴！当和老虎一路同行>>
+![跨越物种的陪伴！当和老虎一路同行>>](https://i0.hdslb.com/bfs/bangumi/image/adf3c5c87182ae4e298b6f66e907161ba5f6ad4b.png)
+
+## 片场生死录：好莱坞曙光或末日？
+![片场生死录：好莱坞曙光或末日？](https://i0.hdslb.com/bfs/bangumi/image/8ab5a94e29d99a7a105f9b0fb7d13fae0d9f51cb.png)
+
+## 河南人说的“中"竟是顶级哲学?
+![河南人说的“中"竟是顶级哲学?](https://i0.hdslb.com/bfs/bangumi/image/6de617c18eb60a9a7495da5d3a8a63dc08dbd7c9.png)
+
+## 数字时代的新型恋爱方式
+![数字时代的新型恋爱方式](https://i0.hdslb.com/bfs/bangumi/image/15705063ffe7cc3d8cd5c9abf563b71e6e5b6300.png)
+
+## 那很有手法了！一对多推拿教学
+![那很有手法了！一对多推拿教学](https://i0.hdslb.com/bfs/bangumi/image/7bc5596049321c45ad3668411ef882c70ef88acf.png)
+
+
 ## 人间洗剧
 ![人间洗剧](https://i0.hdslb.com/bfs/bangumi/image/a55a610b239f85936df638a9dc213ee9664c4bfc.png)
 
