@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 人在前面跑，魂掉“坑”里了？
+![人在前面跑，魂掉“坑”里了？](https://i0.hdslb.com/bfs/bangumi/image/bfd36887f73c758a207f7c4371271359f4a361e7.png)
+
+## 双强联手反杀穿书，7月16日等你入局
+![双强联手反杀穿书，7月16日等你入局](https://i0.hdslb.com/bfs/bangumi/image/ff55a1e7a2b84ae17e25c5f89867698571d10f19.png)
+
+
 ## 当古老傩戏遇上人性审判！少年末世求生
 ![当古老傩戏遇上人性审判！少年末世求生](https://i0.hdslb.com/bfs/bangumi/image/dcb1787a7eab020c846c3d8030ad470c89dd21ba.png)
 
