@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 陈欣欣霸气回归！
+![陈欣欣霸气回归！](https://i0.hdslb.com/bfs/bangumi/image/7bc5596049321c45ad3668411ef882c70ef88acf.png)
+
+## 卧底警察的惊天秘密！
+![卧底警察的惊天秘密！](https://i0.hdslb.com/bfs/bangumi/image/f0079c917b7fcbc092b5a87d1a423046ffc5eef8.png)
+
+## 在野外河面上睡一夜是种什么体验？
+![在野外河面上睡一夜是种什么体验？](https://i0.hdslb.com/bfs/bangumi/image/e7bb4b4e33100036938a0c7ba21cef840c9db6a9.png)
+
+
 ## 人在前面跑，魂掉“坑”里了？
 ![人在前面跑，魂掉“坑”里了？](https://i0.hdslb.com/bfs/bangumi/image/bfd36887f73c758a207f7c4371271359f4a361e7.png)
 
