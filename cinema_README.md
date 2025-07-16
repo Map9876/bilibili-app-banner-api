@@ -1,6 +1,10 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 回望热血征程，见证星火燎原！
+![回望热血征程，见证星火燎原！](https://i0.hdslb.com/bfs/bangumi/image/b6fa300be60ebd7ce89d0d293d425f00056f00da.png)
+
+
 ## 陈欣欣霸气回归！
 ![陈欣欣霸气回归！](https://i0.hdslb.com/bfs/bangumi/image/7bc5596049321c45ad3668411ef882c70ef88acf.png)
 
