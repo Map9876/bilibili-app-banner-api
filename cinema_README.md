@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 链锯还能用来锻造刀具？
+![链锯还能用来锻造刀具？](https://i0.hdslb.com/bfs/bangumi/image/d4834f9b91208cf396a3594c3960be97213f406c.png)
+
+## 用音乐反叛！甜茶化身民谣摇滚传奇
+![用音乐反叛！甜茶化身民谣摇滚传奇](https://i0.hdslb.com/bfs/bangumi/image/fcbbc43d433b5521c03ae4d7b0607c14242ae2d4.png)
+
+## 全网首播！何宣林张庭睿联手反杀穿书者
+![全网首播！何宣林张庭睿联手反杀穿书者](https://i0.hdslb.com/bfs/bangumi/image/ff55a1e7a2b84ae17e25c5f89867698571d10f19.png)
+
+
 ## 回望热血征程，见证星火燎原！
 ![回望热血征程，见证星火燎原！](https://i0.hdslb.com/bfs/bangumi/image/b6fa300be60ebd7ce89d0d293d425f00056f00da.png)
 
