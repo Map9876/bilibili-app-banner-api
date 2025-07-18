@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 通灵妃 第二季
+![通灵妃 第二季](https://i0.hdslb.com/bfs/bangumi/image/18a1b0fd1f5216b05c2cc4fd286b45b8d6e97567.png)
+
+
 ## 弹速狂飙
 ![弹速狂飙](https://i0.hdslb.com/bfs/bangumi/image/983527c4a6464417e1bc26190de538f42a9beaf5.png)
 

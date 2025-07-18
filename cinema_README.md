@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 一位令死神都折服的科学巨匠！
+![一位令死神都折服的科学巨匠！](https://i0.hdslb.com/bfs/bangumi/image/3283e58e33d8e09db3394a767b37de4d41c01848.png)
+
+## 肖自在BW现场大跳柯南摇
+![肖自在BW现场大跳柯南摇](https://i0.hdslb.com/bfs/bangumi/image/c51d01e08e381ae832102b57c5bf8e3586d41cbc.png)
+
+## 这么做真能瞒过测速雷达吗？
+![这么做真能瞒过测速雷达吗？](https://i0.hdslb.com/bfs/bangumi/image/36abf2b08f1e404cbb1bf7b9919584d91deb3657.png)
+
+## 自毁容貌为赌！深陷穿书者诡计逆风自救
+![自毁容貌为赌！深陷穿书者诡计逆风自救](https://i0.hdslb.com/bfs/bangumi/image/ff55a1e7a2b84ae17e25c5f89867698571d10f19.png)
+
+
 ## 链锯还能用来锻造刀具？
 ![链锯还能用来锻造刀具？](https://i0.hdslb.com/bfs/bangumi/image/d4834f9b91208cf396a3594c3960be97213f406c.png)
 
