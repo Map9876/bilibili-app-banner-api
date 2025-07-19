@@ -1,6 +1,37 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 当一次未来预言家
+![当一次未来预言家](https://i0.hdslb.com/bfs/bangumi/image/0e0cc29853c52942f33f7e0f2d9cca2abb6f8afa.png)
+
+## 回忆狙击！加藤的粉雪启封遗落过往
+![回忆狙击！加藤的粉雪启封遗落过往](https://i0.hdslb.com/bfs/bangumi/image/09b5a261d78f54e5baab12bda54470ab559c4f32.png)
+
+## 人类与烈焰的残酷赛跑
+![人类与烈焰的残酷赛跑](https://i0.hdslb.com/bfs/bangumi/image/0cb1879778dbc6ae07302e40d4115d7d138abec0.png)
+
+## 解锁书院之子朱熹与武夷山的一生之缘
+![解锁书院之子朱熹与武夷山的一生之缘](https://i0.hdslb.com/bfs/bangumi/image/6de617c18eb60a9a7495da5d3a8a63dc08dbd7c9.png)
+
+## 港式悬疑拉满，古天乐深陷凶案迷局
+![港式悬疑拉满，古天乐深陷凶案迷局](https://i0.hdslb.com/bfs/bangumi/image/8d987eb8ecc3811e59e94175df67cbf7913b965d.png)
+
+## 争夺原男主气运？赴绥州身陷火海！
+![争夺原男主气运？赴绥州身陷火海！](https://i0.hdslb.com/bfs/bangumi/image/de4b3e60f992d53b22d18c04152ea227011e8b21.png)
+
+## 非正邀请你进入“dating模式”
+![非正邀请你进入“dating模式”](https://i0.hdslb.com/bfs/bangumi/image/15705063ffe7cc3d8cd5c9abf563b71e6e5b6300.png)
+
+## 高能回归！专业赛道巅峰对决
+![高能回归！专业赛道巅峰对决](https://i0.hdslb.com/bfs/bangumi/image/86e2bd9dcea3c41151c8b0c82bf65656a5015688.png)
+
+## 柯南之父青山刚昌创作手稿独家揭秘！
+![柯南之父青山刚昌创作手稿独家揭秘！](https://i0.hdslb.com/bfs/bangumi/image/9e62023b881814dbcda0cd5a6ad0299e9d88b36f.png)
+
+## 震惊医生！膀胱中取出56颗钢珠
+![震惊医生！膀胱中取出56颗钢珠](https://i0.hdslb.com/bfs/bangumi/image/7bc5596049321c45ad3668411ef882c70ef88acf.png)
+
+
 ## 一位令死神都折服的科学巨匠！
 ![一位令死神都折服的科学巨匠！](https://i0.hdslb.com/bfs/bangumi/image/3283e58e33d8e09db3394a767b37de4d41c01848.png)
 
