@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 神秘按钮，一键召唤超豪华艺人秀！
+![神秘按钮，一键召唤超豪华艺人秀！](https://i0.hdslb.com/bfs/bangumi/image/bfd36887f73c758a207f7c4371271359f4a361e7.png)
+
+## 管乐X周澄奥，演绎别样踮脚浪漫
+![管乐X周澄奥，演绎别样踮脚浪漫](https://i0.hdslb.com/bfs/bangumi/image/41877fd7431f5bfb9ffa45013799accceec90550.png)
+
+## 射箭撩心，温柔前任暗藏杀机？！
+![射箭撩心，温柔前任暗藏杀机？！](https://i0.hdslb.com/bfs/bangumi/image/05bd379767f37db4653f128e709b7ac307bd9009.png)
+
+## 独家！陈奕迅巡演全记录火热预售中
+![独家！陈奕迅巡演全记录火热预售中](https://i0.hdslb.com/bfs/bangumi/image/8c59e4ee9e54407081e1563218864edc509f13b9.png)
+
+
 ## 外星人侵略地球，AI拯救人类？
 ![外星人侵略地球，AI拯救人类？](https://i0.hdslb.com/bfs/bangumi/image/fa95588bd753710440b9488e9ade31e7f5e60f33.png)
 
