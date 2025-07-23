@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 赐婚杀机？周珺岚暗箭锁定裴宴
+![赐婚杀机？周珺岚暗箭锁定裴宴](https://i0.hdslb.com/bfs/bangumi/image/ff55a1e7a2b84ae17e25c5f89867698571d10f19.png)
+
+## 老二次元余皑磊要给B站递简历？！
+![老二次元余皑磊要给B站递简历？！](https://i0.hdslb.com/bfs/bangumi/image/c51d01e08e381ae832102b57c5bf8e3586d41cbc.png)
+
+
 ## 智斗穿书女！对薄公堂原女主复仇
 ![智斗穿书女！对薄公堂原女主复仇](https://i0.hdslb.com/bfs/bangumi/image/ff55a1e7a2b84ae17e25c5f89867698571d10f19.png)
 

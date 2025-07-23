@@ -355,6 +355,16 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 鬼灭之刃系列片单
+![鬼灭之刃系列片单](https://i0.hdslb.com/bfs/bangumi/image/32efc05eb1a250bb130409abb5b5458d03b2fd80.png)
+
+## 非人哉 第三季
+![非人哉 第三季](https://i0.hdslb.com/bfs/bangumi/image/468c4e8f81dc34a95bbdee9d6e6f0bf5cb27c28b.png)
+
+## 碧蓝之海 第二季
+![碧蓝之海 第二季](https://i0.hdslb.com/bfs/bangumi/image/44f30e6120a4539bb7d569082ef14b4e40065738.png)
+
+
 
 ## 如果历史是一群喵 元末明初篇
 ![如果历史是一群喵 元末明初篇](https://i0.hdslb.com/bfs/bangumi/image/fc9a863437d5c40604483dbac5f585547bb8ba01.png)
