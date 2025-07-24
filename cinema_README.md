@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 测试反伤评委还能拿冠军？
+![测试反伤评委还能拿冠军？](https://i0.hdslb.com/bfs/bangumi/image/d4834f9b91208cf396a3594c3960be97213f406c.png)
+
+## 四人对峙，交易撞破？
+![四人对峙，交易撞破？](https://i0.hdslb.com/bfs/bangumi/image/ff55a1e7a2b84ae17e25c5f89867698571d10f19.png)
+
+## 以身入局，高智商程序员为妻复仇！
+![以身入局，高智商程序员为妻复仇！](https://i0.hdslb.com/bfs/bangumi/image/fef00117cf0f7ca17a7b6a86ceeb0e7d2850a1a7.png)
+
+## 倒计时1天！黄日莹孙晨竣上演做恶夫妇
+![倒计时1天！黄日莹孙晨竣上演做恶夫妇](https://i0.hdslb.com/bfs/bangumi/image/67029c8a2a1c9e367fc51f1d8170e12c9be918a4.png)
+
+
 ## 赐婚杀机？周珺岚暗箭锁定裴宴
 ![赐婚杀机？周珺岚暗箭锁定裴宴](https://i0.hdslb.com/bfs/bangumi/image/ff55a1e7a2b84ae17e25c5f89867698571d10f19.png)
 
