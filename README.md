@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 海底小纵队 第十季
+![海底小纵队 第十季](https://i0.hdslb.com/bfs/bangumi/image/54c6b96e6c7f409652fa40938d3f9c6d094138d6.png)
+
+
 ## 是王者啊？长安篇
 ![是王者啊？长安篇](https://i0.hdslb.com/bfs/bangumi/image/1bfb5ebeaec5a887bec0f7a3ee8fc3eb4655ebee.png)
 
