@@ -1,6 +1,37 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 一见钟情Vs日久生情 你更看好哪个？
+![一见钟情Vs日久生情 你更看好哪个？](https://i0.hdslb.com/bfs/bangumi/image/15705063ffe7cc3d8cd5c9abf563b71e6e5b6300.png)
+
+## 疗伤坦白 断情路谁主生死！？
+![疗伤坦白 断情路谁主生死！？](https://i0.hdslb.com/bfs/bangumi/image/7964f3359cc8936e4a85cbd7b22bd0b3011746cb.png)
+
+## 瞬间拿下对方的心机反应
+![瞬间拿下对方的心机反应](https://i0.hdslb.com/bfs/bangumi/image/63f9c847b10dcc1751ae19204e021575289d29a6.png)
+
+## 观影打卡赢杰克船长手办！
+![观影打卡赢杰克船长手办！](https://i0.hdslb.com/bfs/bangumi/image/1bae3b7a2bd9231d599c01b41bcf7f51b74d5740.png)
+
+## 团综启动！嘉宾对裁判组使出飞踢？
+![团综启动！嘉宾对裁判组使出飞踢？](https://i0.hdslb.com/bfs/bangumi/image/ea70a28fb7b89eb2238476695730bec9246147e1.png)
+
+## 本马达再度合作，见证球鞋传奇诞生
+![本马达再度合作，见证球鞋传奇诞生](https://i0.hdslb.com/bfs/bangumi/image/ad7006e558d2a2d8b66872d5927251dde0483576.png)
+
+## 《了不起的挑战》原班人马再合体！
+![《了不起的挑战》原班人马再合体！](https://i0.hdslb.com/bfs/bangumi/image/c08f5ea51f26819204b3e402df746d2bc33bba0d.png)
+
+## 殷筝回忆袭来 双强拉扯感max！
+![殷筝回忆袭来 双强拉扯感max！](https://i0.hdslb.com/bfs/bangumi/image/c8eb86e9700007bc918608a70d6fb42a64d8fcb6.png)
+
+## 不幸的人要用一生治愈童年
+![不幸的人要用一生治愈童年](https://i0.hdslb.com/bfs/bangumi/image/7bc5596049321c45ad3668411ef882c70ef88acf.png)
+
+## 新盾旧罪，宿命对决一触即发！
+![新盾旧罪，宿命对决一触即发！](https://i0.hdslb.com/bfs/bangumi/image/587d0ac92e5c3358c7e7fe8e55dd4a38436b753a.png)
+
+
 ## 旧爱擦肩，旧情人VS复仇刀？
 ![旧爱擦肩，旧情人VS复仇刀？](https://i0.hdslb.com/bfs/bangumi/image/26a1b8e378ab09a99aee326c7801e638b0df2153.png)
 
