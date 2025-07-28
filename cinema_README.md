@@ -1,6 +1,22 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 商场捉迷藏，你能找到几个？
+![商场捉迷藏，你能找到几个？](https://i0.hdslb.com/bfs/bangumi/image/bfd36887f73c758a207f7c4371271359f4a361e7.png)
+
+## 直击FIRST青年电影盛典！
+![直击FIRST青年电影盛典！](https://i0.hdslb.com/bfs/bangumi/image/19c4e4e4a3c019b611efe996f885cc1255067fbd.png)
+
+## 裴周对峙，究竟谁是幕后真凶？
+![裴周对峙，究竟谁是幕后真凶？](https://i0.hdslb.com/bfs/bangumi/image/28b2537d3c62be027aa91da138e9f68a3b90ce4d.png)
+
+## 高甜！谁能抵抗殷筝的直球攻势
+![高甜！谁能抵抗殷筝的直球攻势](https://i0.hdslb.com/bfs/bangumi/image/cdae8a75796202175597b4ef1430dacaaafbf4c7.png)
+
+## 60进36淘汰赛：谁能突出重围？
+![60进36淘汰赛：谁能突出重围？](https://i0.hdslb.com/bfs/bangumi/image/86e2bd9dcea3c41151c8b0c82bf65656a5015688.png)
+
+
 ## 一见钟情Vs日久生情 你更看好哪个？
 ![一见钟情Vs日久生情 你更看好哪个？](https://i0.hdslb.com/bfs/bangumi/image/15705063ffe7cc3d8cd5c9abf563b71e6e5b6300.png)
 
