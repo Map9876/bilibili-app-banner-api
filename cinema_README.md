@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 极度舒适！陈柏霖黄宣挑战剃羊毛
+![极度舒适！陈柏霖黄宣挑战剃羊毛](https://i0.hdslb.com/bfs/bangumi/image/3427381c3fabe0f3599955169f89ca2c4412516b.png)
+
+## 裴宴亡命天涯！弑母焚谷！
+![裴宴亡命天涯！弑母焚谷！](https://i0.hdslb.com/bfs/bangumi/image/6ad9a560c45d523f7248a8a32ecf9d4acc431d34.png)
+
+## 西南联大
+![西南联大](https://i0.hdslb.com/bfs/bangumi/image/a1e902b3fb23ee2e2de778f42b07c73d5254a1fc.png)
+
+## 殷筝痛苦回忆 闻泽守候陪伴
+![殷筝痛苦回忆 闻泽守候陪伴](https://i0.hdslb.com/bfs/bangumi/image/2b4f42ef9dd9c646608e543c1e00f36f6ef2bddc.png)
+
+
 ## 商场捉迷藏，你能找到几个？
 ![商场捉迷藏，你能找到几个？](https://i0.hdslb.com/bfs/bangumi/image/bfd36887f73c758a207f7c4371271359f4a361e7.png)
 
