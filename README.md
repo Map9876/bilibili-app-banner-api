@@ -355,6 +355,16 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 燃系高质量作画片单
+![燃系高质量作画片单](https://i0.hdslb.com/bfs/bangumi/image/adacd76c21a4dbc18abc12902b62bce7cfdf035a.png)
+
+## 光死去的夏天
+![光死去的夏天](https://i0.hdslb.com/bfs/bangumi/image/353a0bda66be71e85c8122ab0cb3ea478c1854a9.png)
+
+## 双生武魂
+![双生武魂](https://i0.hdslb.com/bfs/bangumi/image/38105e7af296a6777180e84ecf9dfe3e910c326a.png)
+
+
 ## 开局地摊卖大力
 ![开局地摊卖大力](https://i0.hdslb.com/bfs/bangumi/image/9e6252606b141a344741c9d9944173d10652eb77.png)
 
