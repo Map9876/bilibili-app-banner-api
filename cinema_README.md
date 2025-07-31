@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 开局就拆挖掘机？
+![开局就拆挖掘机？](https://i0.hdslb.com/bfs/bangumi/image/412eb98fb74406710f82db33487702a989af20a5.png)
+
+## 刀剑相向！邱娴儿：向我复仇！
+![刀剑相向！邱娴儿：向我复仇！](https://i0.hdslb.com/bfs/bangumi/image/6ad9a560c45d523f7248a8a32ecf9d4acc431d34.png)
+
+## 卡梅隆执导，难以超越的科幻经典！
+![卡梅隆执导，难以超越的科幻经典！](https://i0.hdslb.com/bfs/bangumi/image/61f9468d6e8fef2d440536bd2ca9eec4d18bf844.png)
+
+## 高甜预警！殷筝吐露真心
+![高甜预警！殷筝吐露真心](https://i0.hdslb.com/bfs/bangumi/image/b0fd389b0c3fd75280461c67a9724c1684d59e07.png)
+
+
 ## 真的有这么丝滑吗？
 ![真的有这么丝滑吗？](https://i0.hdslb.com/bfs/bangumi/image/412eb98fb74406710f82db33487702a989af20a5.png)
 
