@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 向着星辰的长征
+![向着星辰的长征](https://i0.hdslb.com/bfs/bangumi/image/f00f22a862dce22b6dad2c957cabc16022fa3ee4.png)
+
+## 八月动画种草激励
+![八月动画种草激励](https://i0.hdslb.com/bfs/bangumi/image/3f0149ab467870a956ab43c264a755e4422b0030.png)
+
+
 
 ## 燃系高质量作画片单
 ![燃系高质量作画片单](https://i0.hdslb.com/bfs/bangumi/image/adacd76c21a4dbc18abc12902b62bce7cfdf035a.png)

@@ -1,6 +1,22 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 双姝殒命 血溅终局！
+![双姝殒命 血溅终局！](https://i0.hdslb.com/bfs/bangumi/image/05520b3dfc3d7efc627625269982668cbb5157ef.png)
+
+## 柯南原创手稿首次大公开！
+![柯南原创手稿首次大公开！](https://i0.hdslb.com/bfs/bangumi/image/9e62023b881814dbcda0cd5a6ad0299e9d88b36f.png)
+
+## 被明令禁止的烟花威力有多大！
+![被明令禁止的烟花威力有多大！](https://i0.hdslb.com/bfs/bangumi/image/36abf2b08f1e404cbb1bf7b9919584d91deb3657.png)
+
+## 高甜！真心借着醉意说出了口
+![高甜！真心借着醉意说出了口](https://i0.hdslb.com/bfs/bangumi/image/9032bd396ded48f23bf4b8b1e84ed9e4c4620135.png)
+
+## 百亿影帝8月2日踏风火而来，立即预约
+![百亿影帝8月2日踏风火而来，立即预约](https://i0.hdslb.com/bfs/bangumi/image/92be68b5cff482d05a8ab532495d73c816334758.png)
+
+
 ## 开局就拆挖掘机？
 ![开局就拆挖掘机？](https://i0.hdslb.com/bfs/bangumi/image/412eb98fb74406710f82db33487702a989af20a5.png)
 
