@@ -1,6 +1,40 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 完结篇！一探风暴巨兽真面目！
+![完结篇！一探风暴巨兽真面目！](https://i0.hdslb.com/bfs/bangumi/image/0cb1879778dbc6ae07302e40d4115d7d138abec0.png)
+
+## 如果“重活”一次，你会怎么做？
+![如果“重活”一次，你会怎么做？](https://i0.hdslb.com/bfs/bangumi/image/15705063ffe7cc3d8cd5c9abf563b71e6e5b6300.png)
+
+## 解码船山书院的思想密码
+![解码船山书院的思想密码](https://i0.hdslb.com/bfs/bangumi/image/6de617c18eb60a9a7495da5d3a8a63dc08dbd7c9.png)
+
+## 发电不免费，收益无上限！
+![发电不免费，收益无上限！](https://i0.hdslb.com/bfs/bangumi/image/697b092bcc6dcfbc12303dbcaa26127138ab6d8a.png)
+
+## UP主第一视角“暗访”中餐厅！
+![UP主第一视角“暗访”中餐厅！](https://i0.hdslb.com/bfs/bangumi/image/c51d01e08e381ae832102b57c5bf8e3586d41cbc.png)
+
+## 枯兰毒局 忘音寺寻真相
+![枯兰毒局 忘音寺寻真相](https://i0.hdslb.com/bfs/bangumi/image/cdae8a75796202175597b4ef1430dacaaafbf4c7.png)
+
+## 人生骑旅
+![人生骑旅](https://i0.hdslb.com/bfs/bangumi/image/ffb98cb0c8392789fcf75bba5a4313a3eeb64838.png)
+
+## 好奇心周刊-课代表来了！
+![好奇心周刊-课代表来了！](https://i0.hdslb.com/bfs/bangumi/image/08eaddb1392c754ed12c30edcc6194cc7b052f82.png)
+
+## 完成任务拿藕粉，帮助哪吒重塑肉身！
+![完成任务拿藕粉，帮助哪吒重塑肉身！](https://i0.hdslb.com/bfs/bangumi/image/5f97627027f2e4d711564bc92a28ee235705a00e.png)
+
+## 19岁白血病男孩面临截肢风险
+![19岁白血病男孩面临截肢风险](https://i0.hdslb.com/bfs/bangumi/image/7bc5596049321c45ad3668411ef882c70ef88acf.png)
+
+## 哪吒2震撼上线！冲破束缚涅槃重生
+![哪吒2震撼上线！冲破束缚涅槃重生](https://i0.hdslb.com/bfs/bangumi/image/92be68b5cff482d05a8ab532495d73c816334758.png)
+
+
 ## 双姝殒命 血溅终局！
 ![双姝殒命 血溅终局！](https://i0.hdslb.com/bfs/bangumi/image/05520b3dfc3d7efc627625269982668cbb5157ef.png)
 
