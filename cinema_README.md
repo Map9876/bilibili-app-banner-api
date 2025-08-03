@@ -1,6 +1,25 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 你不知道的西方文化冷知识！
+![你不知道的西方文化冷知识！](https://i0.hdslb.com/bfs/bangumi/image/15705063ffe7cc3d8cd5c9abf563b71e6e5b6300.png)
+
+## 和小岛阳菜学习心机处世技巧
+![和小岛阳菜学习心机处世技巧](https://i0.hdslb.com/bfs/bangumi/image/8412f4c383dd8a0415bca0f099dc2c78f6db1d2a.png)
+
+## 好友相聚，解锁熟人局的欢乐时光
+![好友相聚，解锁熟人局的欢乐时光](https://i0.hdslb.com/bfs/bangumi/image/c08f5ea51f26819204b3e402df746d2bc33bba0d.png)
+
+## 双重人格觉醒，暗夜骑士降临！
+![双重人格觉醒，暗夜骑士降临！](https://i0.hdslb.com/bfs/bangumi/image/d21eddb6da5a2264fbff055b2d8471af8c02be39.png)
+
+## 聊个“天”
+![聊个“天”](https://i0.hdslb.com/bfs/bangumi/image/b802baab2f8d1a5e88e5ada21311198d13008aa0.png)
+
+## 《哪吒之魔童闹海》今日高燃上线！
+![《哪吒之魔童闹海》今日高燃上线！](https://i0.hdslb.com/bfs/bangumi/image/9a87e850ad4a090d2f4e043fb71f9eade46409d7.png)
+
+
 ## 完结篇！一探风暴巨兽真面目！
 ![完结篇！一探风暴巨兽真面目！](https://i0.hdslb.com/bfs/bangumi/image/0cb1879778dbc6ae07302e40d4115d7d138abec0.png)
 
