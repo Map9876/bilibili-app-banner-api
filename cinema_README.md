@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 又来？岩田刚典的人生初体验！
+![又来？岩田刚典的人生初体验！](https://i0.hdslb.com/bfs/bangumi/image/bfd36887f73c758a207f7c4371271359f4a361e7.png)
+
+## 黔北陷杀局 长夜军疑嫁祸
+![黔北陷杀局 长夜军疑嫁祸](https://i0.hdslb.com/bfs/bangumi/image/d25f764ff32b6bccf55ead1475329f694efc264d.png)
+
+## 嘿，这就是诗经
+![嘿，这就是诗经](https://i0.hdslb.com/bfs/bangumi/image/aa69545cea0d18bca8e5b1da6582cf9a38b90d5d.png)
+
+## 王宁携十城追梦者，声动主播舞台
+![王宁携十城追梦者，声动主播舞台](https://i0.hdslb.com/bfs/bangumi/image/86e2bd9dcea3c41151c8b0c82bf65656a5015688.png)
+
+
 ## 你不知道的西方文化冷知识！
 ![你不知道的西方文化冷知识！](https://i0.hdslb.com/bfs/bangumi/image/15705063ffe7cc3d8cd5c9abf563b71e6e5b6300.png)
 
