@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 陈小春演唱当年情致敬张国荣
+![陈小春演唱当年情致敬张国荣](https://i0.hdslb.com/bfs/bangumi/image/b980ea7380c6ba0304fd79ae0b6a262c59699b99.png)
+
+## 惊险加倍！陈柏霖黄宣体验斜坡滑车
+![惊险加倍！陈柏霖黄宣体验斜坡滑车](https://i0.hdslb.com/bfs/bangumi/image/2d72baea9e48393bf02406b77ba2369e2718e5a0.png)
+
+## 劫后余生！山洞定情吻
+![劫后余生！山洞定情吻](https://i0.hdslb.com/bfs/bangumi/image/c70e5298ea2aa452db54fb9453f99ff85fc15979.png)
+
+## 《空中浩劫》登陆B站！
+![《空中浩劫》登陆B站！](https://i0.hdslb.com/bfs/bangumi/image/2699ad7f51ac317c9c7be8731352e34ea1a64974.png)
+
+
 ## 又来？岩田刚典的人生初体验！
 ![又来？岩田刚典的人生初体验！](https://i0.hdslb.com/bfs/bangumi/image/bfd36887f73c758a207f7c4371271359f4a361e7.png)
 
