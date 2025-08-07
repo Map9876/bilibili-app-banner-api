@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 缥缈剑仙传
+![缥缈剑仙传](https://i0.hdslb.com/bfs/bangumi/image/599ffce71e56a853412fe7fe4bb882a74df9013d.png)
+
+## 薰香花朵凛然绽放
+![薰香花朵凛然绽放](https://i0.hdslb.com/bfs/bangumi/image/f5be20bea34850a98e5d2cdeec6cf64810ea6ef7.png)
+
+
 
 
 
