@@ -355,6 +355,16 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 万剑王座
+![万剑王座](https://i0.hdslb.com/bfs/bangumi/image/e10b5e8f86b1ba2e881bbe9305cb56961867eed7.png)
+
+## 琉璃的宝石
+![琉璃的宝石](https://i0.hdslb.com/bfs/bangumi/image/de714d8a825fbb41785ebc01880ce6df22f776f9.png)
+
+## 神椿市建设中。
+![神椿市建设中。](https://i0.hdslb.com/bfs/bangumi/image/ac13ea92e970b007621268f8e67fa6008731451e.png)
+
+
 ## 缥缈剑仙传
 ![缥缈剑仙传](https://i0.hdslb.com/bfs/bangumi/image/599ffce71e56a853412fe7fe4bb882a74df9013d.png)
 

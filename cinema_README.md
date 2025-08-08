@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 邻家谜案
+![邻家谜案](https://i0.hdslb.com/bfs/bangumi/image/92a3d5d78659f0e9c70a6d67b276c241cc7491c4.png)
+
+## 重生名册变死亡名单！？
+![重生名册变死亡名单！？](https://i0.hdslb.com/bfs/bangumi/image/95b7d98a13999680cc6277c4914bcbeef251fd02.png)
+
+## 哪吒2热播中，影史第一燃爆今夏！
+![哪吒2热播中，影史第一燃爆今夏！](https://i0.hdslb.com/bfs/bangumi/image/dd56deb71e2cfdf0c7667fc54b6f084a99c394ff.png)
+
+
 ## UP主带铁肺女王玩抽象！
 ![UP主带铁肺女王玩抽象！](https://i0.hdslb.com/bfs/bangumi/image/c51d01e08e381ae832102b57c5bf8e3586d41cbc.png)
 
