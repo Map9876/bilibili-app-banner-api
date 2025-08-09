@@ -1,6 +1,37 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 吴镇宇领衔主演，硬核突围病毒炼狱
+![吴镇宇领衔主演，硬核突围病毒炼狱](https://i0.hdslb.com/bfs/bangumi/image/38d29a8eba323d780b86edf1dcce573a91e8a65f.png)
+
+## 胡玫执导，红楼一梦终断尘缘！
+![胡玫执导，红楼一梦终断尘缘！](https://i0.hdslb.com/bfs/bangumi/image/03b07987bbd9bc2904101268d9594d638cbcd4c5.png)
+
+## 血唤忠魂 以命破局！
+![血唤忠魂 以命破局！](https://i0.hdslb.com/bfs/bangumi/image/95b7d98a13999680cc6277c4914bcbeef251fd02.png)
+
+## 孔孟之乡一站式攻略速来Get
+![孔孟之乡一站式攻略速来Get](https://i0.hdslb.com/bfs/bangumi/image/6de617c18eb60a9a7495da5d3a8a63dc08dbd7c9.png)
+
+## “非正神秘小课堂”即将开讲~
+![“非正神秘小课堂”即将开讲~](https://i0.hdslb.com/bfs/bangumi/image/15705063ffe7cc3d8cd5c9abf563b71e6e5b6300.png)
+
+## 秋日美食图鉴
+![秋日美食图鉴](https://i0.hdslb.com/bfs/bangumi/image/36640c911933b0e4e003f9792a544529a3084ece.png)
+
+## 《我家的两岸故事》第三季
+![《我家的两岸故事》第三季](https://i0.hdslb.com/bfs/bangumi/image/cf5527ab1e6f940d7d035a124fa6bdffbb17233e.png)
+
+## 天才双生半生缠斗，终局启幕！
+![天才双生半生缠斗，终局启幕！](https://i0.hdslb.com/bfs/bangumi/image/83c6f6122b48ccf5b31ecf14cec082b99449ec39.png)
+
+## 乘风踏火而至，哪吒2大会员免费看！
+![乘风踏火而至，哪吒2大会员免费看！](https://i0.hdslb.com/bfs/bangumi/image/9a87e850ad4a090d2f4e043fb71f9eade46409d7.png)
+
+## 1岁女童天崩开局不手术就会死
+![1岁女童天崩开局不手术就会死](https://i0.hdslb.com/bfs/bangumi/image/ce9a48b38a0cf1ace5696c7e999fbfe960055c96.png)
+
+
 ## 邻家谜案
 ![邻家谜案](https://i0.hdslb.com/bfs/bangumi/image/92a3d5d78659f0e9c70a6d67b276c241cc7491c4.png)
 
