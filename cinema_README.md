@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## “贞子”上线！本期恶搞程度有点超标！
+![“贞子”上线！本期恶搞程度有点超标！](https://i0.hdslb.com/bfs/bangumi/image/bfd36887f73c758a207f7c4371271359f4a361e7.png)
+
+## 知识问答+两轮考核，谁能留下？
+![知识问答+两轮考核，谁能留下？](https://i0.hdslb.com/bfs/bangumi/image/86e2bd9dcea3c41151c8b0c82bf65656a5015688.png)
+
+
 ## 大结局！灯火阑珊处唯见一人
 ![大结局！灯火阑珊处唯见一人](https://i0.hdslb.com/bfs/bangumi/image/e1463bec31d053791d8328496750b9a051f73937.png)
 
