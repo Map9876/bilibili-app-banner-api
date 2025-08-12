@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 一片胶带致客机坠毁，70人遇难
+![一片胶带致客机坠毁，70人遇难](https://i0.hdslb.com/bfs/bangumi/image/d982b8ee8913868010b49ecac8c21f46d82ea4e1.png)
+
+## 12位UP主的家庭成长故事
+![12位UP主的家庭成长故事](https://i0.hdslb.com/bfs/bangumi/image/34276f749dd10fb397dfa8a2786bb7c56eba6bbf.png)
+
+## 陈柏霖黄宣首次挑战单线任务
+![陈柏霖黄宣首次挑战单线任务](https://i0.hdslb.com/bfs/bangumi/image/2d72baea9e48393bf02406b77ba2369e2718e5a0.png)
+
+
 ## “贞子”上线！本期恶搞程度有点超标！
 ![“贞子”上线！本期恶搞程度有点超标！](https://i0.hdslb.com/bfs/bangumi/image/bfd36887f73c758a207f7c4371271359f4a361e7.png)
 
