@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 绿森蚺突袭沼泽车！
+![绿森蚺突袭沼泽车！](https://i0.hdslb.com/bfs/bangumi/image/f2fc56c6d7ae5a887e0c58b29d9a9d9f566b79f6.png)
+
+## 开盲盒选锻刀工艺？
+![开盲盒选锻刀工艺？](https://i0.hdslb.com/bfs/bangumi/image/506bbb6775b705e26232d04d89ef8146fd29dd9e.png)
+
+## 山崎贤人领衔，天才阴阳师破诡局！
+![山崎贤人领衔，天才阴阳师破诡局！](https://i0.hdslb.com/bfs/bangumi/image/1361f0795e9d0a2c7f14551b365ee28fb3c0959c.png)
+
+## 夏末观影局！UP主邀你刷片赢好礼
+![夏末观影局！UP主邀你刷片赢好礼](https://i0.hdslb.com/bfs/bangumi/image/c78859f0ca9d2049f10515b0ac455e81d1f38f7b.png)
+
+
 ## 一片胶带致客机坠毁，70人遇难
 ![一片胶带致客机坠毁，70人遇难](https://i0.hdslb.com/bfs/bangumi/image/d982b8ee8913868010b49ecac8c21f46d82ea4e1.png)
 
