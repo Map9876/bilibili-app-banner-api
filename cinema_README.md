@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 东海颜王登场， 听取弹幕哇声一片
+![东海颜王登场， 听取弹幕哇声一片](https://i0.hdslb.com/bfs/bangumi/image/92be68b5cff482d05a8ab532495d73c816334758.png)
+
+## 飞机半空没油，飞行员如何化险为夷?
+![飞机半空没油，飞行员如何化险为夷?](https://i0.hdslb.com/bfs/bangumi/image/1ca61c20a4c919fee4e5fb038b5f508839d829ee.png)
+
+## 顶峰对决！刀匠间的惺惺相惜
+![顶峰对决！刀匠间的惺惺相惜](https://i0.hdslb.com/bfs/bangumi/image/0c6ffadd0630c09b576f506993aa0b2f6e398e89.png)
+
+
 ## 绿森蚺突袭沼泽车！
 ![绿森蚺突袭沼泽车！](https://i0.hdslb.com/bfs/bangumi/image/f2fc56c6d7ae5a887e0c58b29d9a9d9f566b79f6.png)
 
