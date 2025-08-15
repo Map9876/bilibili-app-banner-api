@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## “法拉利老了也是法拉利”
+![“法拉利老了也是法拉利”](https://i0.hdslb.com/bfs/bangumi/image/09eb60f481d91b75c63d2486e202e6f366c8931d.png)
+
+## 16日严浩翔独家生日直播！速戳预约
+![16日严浩翔独家生日直播！速戳预约](https://i0.hdslb.com/bfs/bangumi/image/f3fd7b587b90876a93317c91a32465d192eada05.png)
+
+
 ## 东海颜王登场， 听取弹幕哇声一片
 ![东海颜王登场， 听取弹幕哇声一片](https://i0.hdslb.com/bfs/bangumi/image/92be68b5cff482d05a8ab532495d73c816334758.png)
 
