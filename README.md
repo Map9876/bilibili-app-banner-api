@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 明日方舟：焰烬曙明 中配版
+![明日方舟：焰烬曙明 中配版](https://i0.hdslb.com/bfs/bangumi/image/b53ebf5946813238519d2cf87c9ce9282a00407b.png)
+
+
 
 
 
