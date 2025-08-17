@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 盲盒为什么让人欲罢不能？
+![盲盒为什么让人欲罢不能？](https://i0.hdslb.com/bfs/bangumi/image/15705063ffe7cc3d8cd5c9abf563b71e6e5b6300.png)
+
+## 法老龚琳娜深夜谈心
+![法老龚琳娜深夜谈心](https://i0.hdslb.com/bfs/bangumi/image/50fd3791792c58487a9ae179d0d14b4c24af0ab2.png)
+
+## 时光书屋将开业，碎瓷成画玩创意！
+![时光书屋将开业，碎瓷成画玩创意！](https://i0.hdslb.com/bfs/bangumi/image/c08f5ea51f26819204b3e402df746d2bc33bba0d.png)
+
+## 严浩翔生日会唱《for you》
+![严浩翔生日会唱《for you》](https://i0.hdslb.com/bfs/bangumi/image/f9aa585b08576c8d8c77e3590674abd649fded0e.png)
+
+
 ## 秘鲁冒险开启，萌熊勇闯丛林探秘
 ![秘鲁冒险开启，萌熊勇闯丛林探秘](https://i0.hdslb.com/bfs/bangumi/image/c988103961a1fa21a750c769b41e56ae499f20df.png)
 
