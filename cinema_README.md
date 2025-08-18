@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 日综节目组恶搞能有多BT？！
+![日综节目组恶搞能有多BT？！](https://i0.hdslb.com/bfs/bangumi/image/bfd36887f73c758a207f7c4371271359f4a361e7.png)
+
+## 诸神归位！全网召唤狼友重温经典
+![诸神归位！全网召唤狼友重温经典](https://i0.hdslb.com/bfs/bangumi/image/38cd2bf878c923b66fdeb6ff6cf99df42f95494c.png)
+
+## 邹韵领衔见证新闻主播新势力
+![邹韵领衔见证新闻主播新势力](https://i0.hdslb.com/bfs/bangumi/image/86e2bd9dcea3c41151c8b0c82bf65656a5015688.png)
+
+## 龚琳娜自曝与母亲冷战10年
+![龚琳娜自曝与母亲冷战10年](https://i0.hdslb.com/bfs/bangumi/image/50fd3791792c58487a9ae179d0d14b4c24af0ab2.png)
+
+
 ## 盲盒为什么让人欲罢不能？
 ![盲盒为什么让人欲罢不能？](https://i0.hdslb.com/bfs/bangumi/image/15705063ffe7cc3d8cd5c9abf563b71e6e5b6300.png)
 
