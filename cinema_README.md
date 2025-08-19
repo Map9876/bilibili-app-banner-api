@@ -1,6 +1,31 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 快来和梦之队一起度过炎炎夏日吧~
+![快来和梦之队一起度过炎炎夏日吧~](https://i0.hdslb.com/bfs/bangumi/image/ce9cf40bdc3105f109f3304a8bd6383a767f973a.png)
+
+## 密室惊魂！抑郁少女深陷离奇事件
+![密室惊魂！抑郁少女深陷离奇事件](https://i0.hdslb.com/bfs/bangumi/image/39de0d191c58fe98af70e52158e0bb8d3889bf12.png)
+
+## 超刺激！陈柏霖黄宣高空滑索初体验
+![超刺激！陈柏霖黄宣高空滑索初体验](https://i0.hdslb.com/bfs/bangumi/image/2d72baea9e48393bf02406b77ba2369e2718e5a0.png)
+
+## 塑料叉x悟空！化妆唠嗑局
+![塑料叉x悟空！化妆唠嗑局](https://i0.hdslb.com/bfs/bangumi/image/4a3df916ff7ce41e93329e1123d01b52c202dc82.png)
+
+## 川盐抗战
+![川盐抗战](https://i0.hdslb.com/bfs/bangumi/image/2ad8d0811473cfd46dd4f814680f78752531a35e.png)
+
+## 夏末观影局！百大UP邀你赛博纳凉
+![夏末观影局！百大UP邀你赛博纳凉](https://i0.hdslb.com/bfs/bangumi/image/c78859f0ca9d2049f10515b0ac455e81d1f38f7b.png)
+
+## 定档！胡连馨、樊治欣演绎少年帝后
+![定档！胡连馨、樊治欣演绎少年帝后](https://i0.hdslb.com/bfs/bangumi/image/c45fe8183edefe6bc11370fe1b8a0f33ece4fa85.png)
+
+## 客机挡风玻璃爆裂，机长半身悬舱外
+![客机挡风玻璃爆裂，机长半身悬舱外](https://i0.hdslb.com/bfs/bangumi/image/5fe345ea418149eadc7541d488f783845eea4e4d.png)
+
+
 ## 日综节目组恶搞能有多BT？！
 ![日综节目组恶搞能有多BT？！](https://i0.hdslb.com/bfs/bangumi/image/bfd36887f73c758a207f7c4371271359f4a361e7.png)
 
