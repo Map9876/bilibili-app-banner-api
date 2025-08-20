@@ -1,6 +1,22 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 终极围剿超级蛇！
+![终极围剿超级蛇！](https://i0.hdslb.com/bfs/bangumi/image/f2fc56c6d7ae5a887e0c58b29d9a9d9f566b79f6.png)
+
+## 锻刀大赛还要造斧头？
+![锻刀大赛还要造斧头？](https://i0.hdslb.com/bfs/bangumi/image/053fc584d14df647549f01e7cbf1ffa25c715dc0.png)
+
+## UP主兔叭咯陪你一起看
+![UP主兔叭咯陪你一起看](https://i0.hdslb.com/bfs/bangumi/image/7bc5596049321c45ad3668411ef882c70ef88acf.png)
+
+## 客机高空垂直坠降，29人火海逃生
+![客机高空垂直坠降，29人火海逃生](https://i0.hdslb.com/bfs/bangumi/image/f600824e0d17bb1d03817b5193d8a17d42b218e9.png)
+
+## 21日起，胡连馨、樊治欣邀您入局
+![21日起，胡连馨、樊治欣邀您入局](https://i0.hdslb.com/bfs/bangumi/image/df8432cfeff983bf2c8a236ac2c1ad93fe496591.png)
+
+
 ## 快来和梦之队一起度过炎炎夏日吧~
 ![快来和梦之队一起度过炎炎夏日吧~](https://i0.hdslb.com/bfs/bangumi/image/ce9cf40bdc3105f109f3304a8bd6383a767f973a.png)
 
