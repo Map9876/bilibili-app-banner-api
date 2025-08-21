@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 法航8969遭劫持，四名劫机者被击毙
+![法航8969遭劫持，四名劫机者被击毙](https://i0.hdslb.com/bfs/bangumi/image/b4b65ec644f41dffebda65680495fd11400b2027.png)
+
+## 圣诞老人也来锻刀？
+![圣诞老人也来锻刀？](https://i0.hdslb.com/bfs/bangumi/image/053fc584d14df647549f01e7cbf1ffa25c715dc0.png)
+
+
 ## 终极围剿超级蛇！
 ![终极围剿超级蛇！](https://i0.hdslb.com/bfs/bangumi/image/f2fc56c6d7ae5a887e0c58b29d9a9d9f566b79f6.png)
 
