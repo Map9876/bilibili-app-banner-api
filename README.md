@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 万古剑帝
+![万古剑帝](https://i0.hdslb.com/bfs/bangumi/image/e9c2deddd545f135aa80685334947d781f4af37c.png)
+
+## 国创出行片单
+![国创出行片单](https://i0.hdslb.com/bfs/bangumi/image/b270a1c64ba65541ad094e824fa3c1321649463b.png)
+
+
 
 
 

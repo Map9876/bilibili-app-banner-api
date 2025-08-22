@@ -1,6 +1,22 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 5万现金激励 邀你好片种草
+![5万现金激励 邀你好片种草](https://i0.hdslb.com/bfs/bangumi/image/dca11bbf2ef4259068c8db31bb51e9147eae2c00.png)
+
+## 人会被子弹击飞吗？
+![人会被子弹击飞吗？](https://i0.hdslb.com/bfs/bangumi/image/36abf2b08f1e404cbb1bf7b9919584d91deb3657.png)
+
+## 癌细胞是人体自带的？
+![癌细胞是人体自带的？](https://i0.hdslb.com/bfs/bangumi/image/3283e58e33d8e09db3394a767b37de4d41c01848.png)
+
+## 法航8969遭劫持，劫机者被击毙
+![法航8969遭劫持，劫机者被击毙](https://i0.hdslb.com/bfs/bangumi/image/199aa65d71305d08da41e983bfabb4c18ff7fc83.png)
+
+## 开播！少年帝后，纯爱爆改“强制爱”？
+![开播！少年帝后，纯爱爆改“强制爱”？](https://i0.hdslb.com/bfs/bangumi/image/8bb654d660950a349ce09e7542bba6d551ab18ae.png)
+
+
 ## 法航8969遭劫持，四名劫机者被击毙
 ![法航8969遭劫持，四名劫机者被击毙](https://i0.hdslb.com/bfs/bangumi/image/b4b65ec644f41dffebda65680495fd11400b2027.png)
 
