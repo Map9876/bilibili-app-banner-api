@@ -1,6 +1,28 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 人类迷惑行为大赏之好心帮倒忙
+![人类迷惑行为大赏之好心帮倒忙](https://i0.hdslb.com/bfs/bangumi/image/15705063ffe7cc3d8cd5c9abf563b71e6e5b6300.png)
+
+## 官宣！静候缘起，期待相见
+![官宣！静候缘起，期待相见](https://i0.hdslb.com/bfs/bangumi/image/6d410aa704d3d2f92f604f7d6345c18d148e6c99.png)
+
+## 我是小小福尔摩斯
+![我是小小福尔摩斯](https://i0.hdslb.com/bfs/bangumi/image/e7642b6739e86c69c0ad68aff91790ec4672b77f.png)
+
+## 章子怡领衔主演，还原民国杀夫奇案！
+![章子怡领衔主演，还原民国杀夫奇案！](https://i0.hdslb.com/bfs/bangumi/image/8210810898d0bc2bb2ce557aa9f177bf4d2751d7.png)
+
+## 观影打卡赢大礼，PICK你的宇宙C位
+![观影打卡赢大礼，PICK你的宇宙C位](https://i0.hdslb.com/bfs/bangumi/image/f355efc337c5c114a85c840deb0799a867a8d2b1.png)
+
+## 调查“鬼兵”遇刺客？帝后生死相护！
+![调查“鬼兵”遇刺客？帝后生死相护！](https://i0.hdslb.com/bfs/bangumi/image/7284bedb59d574a5471532368b87e8b408d0186d.png)
+
+## 36颗螺钉重塑120度侧弯脊椎
+![36颗螺钉重塑120度侧弯脊椎](https://i0.hdslb.com/bfs/bangumi/image/3511e837e60704baaf56cf89deda6cad38dcf5d8.png)
+
+
 ## 5万现金激励 邀你好片种草
 ![5万现金激励 邀你好片种草](https://i0.hdslb.com/bfs/bangumi/image/dca11bbf2ef4259068c8db31bb51e9147eae2c00.png)
 
