@@ -1,6 +1,22 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 反派英雄结盟，直面内心黑暗过往！
+![反派英雄结盟，直面内心黑暗过往！](https://i0.hdslb.com/bfs/bangumi/image/2a3373011978b53ccddda9ea1b6fae5dfc749d89.png)
+
+## 暧昧拉满！苏乐虞殷长琰甜蜜喂月饼
+![暧昧拉满！苏乐虞殷长琰甜蜜喂月饼](https://i0.hdslb.com/bfs/bangumi/image/0f630e4c7c9e51a6bc8833f91ae524f875738272.png)
+
+## 水哥来了！ 一同体验篆书书法魅力！
+![水哥来了！ 一同体验篆书书法魅力！](https://i0.hdslb.com/bfs/bangumi/image/c08f5ea51f26819204b3e402df746d2bc33bba0d.png)
+
+## 雀巢：我一定要来小李家一次！
+![雀巢：我一定要来小李家一次！](https://i0.hdslb.com/bfs/bangumi/image/50fd3791792c58487a9ae179d0d14b4c24af0ab2.png)
+
+## 【巡演全记录】陈奕迅回应烂声王称号
+![【巡演全记录】陈奕迅回应烂声王称号](https://i0.hdslb.com/bfs/bangumi/image/38c1ee83575205a0eca0973bf6c63225a935d070.png)
+
+
 ## 人类迷惑行为大赏之好心帮倒忙
 ![人类迷惑行为大赏之好心帮倒忙](https://i0.hdslb.com/bfs/bangumi/image/15705063ffe7cc3d8cd5c9abf563b71e6e5b6300.png)
 
