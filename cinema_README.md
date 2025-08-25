@@ -1,6 +1,25 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 夏末观影赢限定好礼！
+![夏末观影赢限定好礼！](https://i0.hdslb.com/bfs/bangumi/image/07bf451e40547fda0bdca7cd4023990cb4bb2f02.png)
+
+## 【演唱会官摄】陈奕迅红馆歌单完整版
+![【演唱会官摄】陈奕迅红馆歌单完整版](https://i0.hdslb.com/bfs/bangumi/image/0aa7eb5527237a99f5cea3d0c381b517ba431cea.png)
+
+## 狼人杀真人秀丨第2集：石像鬼守墓人
+![狼人杀真人秀丨第2集：石像鬼守墓人](https://i0.hdslb.com/bfs/bangumi/image/38cd2bf878c923b66fdeb6ff6cf99df42f95494c.png)
+
+## 10进6最后名额，谁能获胜
+![10进6最后名额，谁能获胜](https://i0.hdslb.com/bfs/bangumi/image/86e2bd9dcea3c41151c8b0c82bf65656a5015688.png)
+
+## 真实发生的恐怖恋爱故事
+![真实发生的恐怖恋爱故事](https://i0.hdslb.com/bfs/bangumi/image/63f9c847b10dcc1751ae19204e021575289d29a6.png)
+
+## 旧友反目？狐妖疑案再起波澜！
+![旧友反目？狐妖疑案再起波澜！](https://i0.hdslb.com/bfs/bangumi/image/0f630e4c7c9e51a6bc8833f91ae524f875738272.png)
+
+
 ## 反派英雄结盟，直面内心黑暗过往！
 ![反派英雄结盟，直面内心黑暗过往！](https://i0.hdslb.com/bfs/bangumi/image/2a3373011978b53ccddda9ea1b6fae5dfc749d89.png)
 
