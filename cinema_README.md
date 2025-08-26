@@ -1,6 +1,25 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 叶舒华炫酷出场！猎人团遇新挑战
+![叶舒华炫酷出场！猎人团遇新挑战](https://i0.hdslb.com/bfs/bangumi/image/2d72baea9e48393bf02406b77ba2369e2718e5a0.png)
+
+## 还吃？！收你们来了~
+![还吃？！收你们来了~](https://i0.hdslb.com/bfs/bangumi/image/dd56deb71e2cfdf0c7667fc54b6f084a99c394ff.png)
+
+## 逃离计划开启 冒险旅程等你上车！
+![逃离计划开启 冒险旅程等你上车！](https://i0.hdslb.com/bfs/bangumi/image/f702a9ffea731979aaa5fcd63aefa507f438e348.png)
+
+## 帝后深夜查案，暗道惊现狐妖书院？！
+![帝后深夜查案，暗道惊现狐妖书院？！](https://i0.hdslb.com/bfs/bangumi/image/5076211814f4eb4f8cd9804e196dd38048d3f417.png)
+
+## 客机空中相撞，71人死亡
+![客机空中相撞，71人死亡](https://i0.hdslb.com/bfs/bangumi/image/199aa65d71305d08da41e983bfabb4c18ff7fc83.png)
+
+## 泰国洞穴救援行动
+![泰国洞穴救援行动](https://i0.hdslb.com/bfs/bangumi/image/aae88165d9dd6bdbfb8170fffea9a03bb9dfd7a1.png)
+
+
 ## 夏末观影赢限定好礼！
 ![夏末观影赢限定好礼！](https://i0.hdslb.com/bfs/bangumi/image/07bf451e40547fda0bdca7cd4023990cb4bb2f02.png)
 
