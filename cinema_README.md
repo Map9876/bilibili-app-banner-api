@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 误会解除！乐虞长琰监狱谈心
+![误会解除！乐虞长琰监狱谈心](https://i0.hdslb.com/bfs/bangumi/image/0f630e4c7c9e51a6bc8833f91ae524f875738272.png)
+
+## 清醒边缘
+![清醒边缘](https://i0.hdslb.com/bfs/bangumi/image/d82ba3bc25f16dcf3b0738ee444a60e01cd6904c.png)
+
+## 机长不会用英文沟通，导致飞机失事
+![机长不会用英文沟通，导致飞机失事](https://i0.hdslb.com/bfs/bangumi/image/199aa65d71305d08da41e983bfabb4c18ff7fc83.png)
+
+## 雪耻之战来袭！
+![雪耻之战来袭！](https://i0.hdslb.com/bfs/bangumi/image/846962854817f2ecf0a65cb3262114a7645f3b34.png)
+
+
 ## 民心铸就胜利路
 ![民心铸就胜利路](https://i0.hdslb.com/bfs/bangumi/image/1816b4d5863a6cdd5ec011011c943d22972e6bff.png)
 
