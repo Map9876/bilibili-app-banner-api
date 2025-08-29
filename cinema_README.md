@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 铝粉化妆真的会中毒？
+![铝粉化妆真的会中毒？](https://i0.hdslb.com/bfs/bangumi/image/36abf2b08f1e404cbb1bf7b9919584d91deb3657.png)
+
+## 倪虹洁献唱《亲爱的你啊》
+![倪虹洁献唱《亲爱的你啊》](https://i0.hdslb.com/bfs/bangumi/image/afa2d9215d49bee83f7d8d3d775af917fbcded27.png)
+
+## 乐虞怀孕！长琰喜不自胜
+![乐虞怀孕！长琰喜不自胜](https://i0.hdslb.com/bfs/bangumi/image/5076211814f4eb4f8cd9804e196dd38048d3f417.png)
+
+## 罪恶之城！少年蝙蝠侠成长之路
+![罪恶之城！少年蝙蝠侠成长之路](https://i0.hdslb.com/bfs/bangumi/image/fbcde586635539a8447251fb31f7f871284ef83a.png)
+
+
 ## 误会解除！乐虞长琰监狱谈心
 ![误会解除！乐虞长琰监狱谈心](https://i0.hdslb.com/bfs/bangumi/image/0f630e4c7c9e51a6bc8833f91ae524f875738272.png)
 
