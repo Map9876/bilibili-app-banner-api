@@ -1,6 +1,22 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 爱的多重奏
+![爱的多重奏](https://i0.hdslb.com/bfs/bangumi/image/2a487925d74177ac16e28f33c0fdc62e4ef4207b.png)
+
+## 伍迪·艾伦执导，巴黎恋曲终陷罪途
+![伍迪·艾伦执导，巴黎恋曲终陷罪途](https://i0.hdslb.com/bfs/bangumi/image/f7951ef1148052eb9849ca931d31ac2fc2e8fc47.png)
+
+## 抽象旅游打卡点 你get了几个？
+![抽象旅游打卡点 你get了几个？](https://i0.hdslb.com/bfs/bangumi/image/96154f0401b3c7d4afc73963d53f6d8f7b547a27.png)
+
+## 百慕大喂鲨鱼？贝爷硬刚深海霸主！
+![百慕大喂鲨鱼？贝爷硬刚深海霸主！](https://i0.hdslb.com/bfs/bangumi/image/c042f43407e005653191dbed691fd235c355da19.png)
+
+## 揭露洗钱内幕，段奕宏追缉梁朝伟！
+![揭露洗钱内幕，段奕宏追缉梁朝伟！](https://i0.hdslb.com/bfs/bangumi/image/055a736578f1722c74c9cef6742eae3b831162a7.png)
+
+
 ## 铝粉化妆真的会中毒？
 ![铝粉化妆真的会中毒？](https://i0.hdslb.com/bfs/bangumi/image/36abf2b08f1e404cbb1bf7b9919584d91deb3657.png)
 
