@@ -1,6 +1,34 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 收官话题：聊聊“父母那些事儿”
+![收官话题：聊聊“父母那些事儿”](https://i0.hdslb.com/bfs/bangumi/image/96154f0401b3c7d4afc73963d53f6d8f7b547a27.png)
+
+## 机甲合体！潜艇小队开启深海激战
+![机甲合体！潜艇小队开启深海激战](https://i0.hdslb.com/bfs/bangumi/image/4ae8038ae72fb605cb67f4056755d1c666787b6d.png)
+
+## 令人心动的心机反差感
+![令人心动的心机反差感](https://i0.hdslb.com/bfs/bangumi/image/e16665b7726fc768ab99fea372514f5751b39e04.png)
+
+## 长琰力排世家反对！立乐虞为后
+![长琰力排世家反对！立乐虞为后](https://i0.hdslb.com/bfs/bangumi/image/0f630e4c7c9e51a6bc8833f91ae524f875738272.png)
+
+## 内田真礼配音，恶役大小姐华丽归来！
+![内田真礼配音，恶役大小姐华丽归来！](https://i0.hdslb.com/bfs/bangumi/image/3224c38e35e317534a5db7107e91d794777715ed.png)
+
+## 疯人院大门敞开，恶棍时代全面降临
+![疯人院大门敞开，恶棍时代全面降临](https://i0.hdslb.com/bfs/bangumi/image/14eb8b390c745bd376a93ae7c51ce6e9faa47054.png)
+
+## 知名UP主辍学离家，父亲拒认儿子
+![知名UP主辍学离家，父亲拒认儿子](https://i0.hdslb.com/bfs/bangumi/image/50fd3791792c58487a9ae179d0d14b4c24af0ab2.png)
+
+## 陈丽君惊喜加盟！湖畔诵读经典好温柔～
+![陈丽君惊喜加盟！湖畔诵读经典好温柔～](https://i0.hdslb.com/bfs/bangumi/image/c08f5ea51f26819204b3e402df746d2bc33bba0d.png)
+
+## 全体起立！20周年重磅归来，速戳追剧
+![全体起立！20周年重磅归来，速戳追剧](https://i0.hdslb.com/bfs/bangumi/image/7f2ccc0d318484cb9c3693c9e866404d91cf03a1.png)
+
+
 ## 爱的多重奏
 ![爱的多重奏](https://i0.hdslb.com/bfs/bangumi/image/2a487925d74177ac16e28f33c0fdc62e4ef4207b.png)
 
