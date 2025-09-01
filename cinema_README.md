@@ -1,6 +1,22 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 恶搞系列：老公忠诚度挑战！
+![恶搞系列：老公忠诚度挑战！](https://i0.hdslb.com/bfs/bangumi/image/bfd36887f73c758a207f7c4371271359f4a361e7.png)
+
+## 那些封神的动作电影
+![那些封神的动作电影](https://i0.hdslb.com/bfs/bangumi/image/c116a1a654861c63cb097d8d53bddb33b55aabdc.png)
+
+## 狼人杀真人秀丨第3集：预女猎白混
+![狼人杀真人秀丨第3集：预女猎白混](https://i0.hdslb.com/bfs/bangumi/image/38cd2bf878c923b66fdeb6ff6cf99df42f95494c.png)
+
+## 泪目！殷琮为护乐虞身受重伤
+![泪目！殷琮为护乐虞身受重伤](https://i0.hdslb.com/bfs/bangumi/image/0f630e4c7c9e51a6bc8833f91ae524f875738272.png)
+
+## 特别版上线！解锁13分钟隐藏故事
+![特别版上线！解锁13分钟隐藏故事](https://i0.hdslb.com/bfs/bangumi/image/cb9d461aa4e37d8540089b0bcfc24e883c857003.png)
+
+
 ## 收官话题：聊聊“父母那些事儿”
 ![收官话题：聊聊“父母那些事儿”](https://i0.hdslb.com/bfs/bangumi/image/96154f0401b3c7d4afc73963d53f6d8f7b547a27.png)
 
