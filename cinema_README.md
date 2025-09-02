@@ -1,6 +1,25 @@
 # Bilibili 影视 顶部海报
 
 ---
+## KPL史上首次真实河道竞速赛！
+![KPL史上首次真实河道竞速赛！](https://i0.hdslb.com/bfs/bangumi/image/9295eb63c97be074077e681f1ce748a9c9bf5681.png)
+
+## 抗战时期的中国青少年
+![抗战时期的中国青少年](https://i0.hdslb.com/bfs/bangumi/image/e6a9986330c66165283a18dbcd4dc6af10d59e00.png)
+
+## 1W5英尺！叶舒华挑战高空跳伞
+![1W5英尺！叶舒华挑战高空跳伞](https://i0.hdslb.com/bfs/bangumi/image/2d72baea9e48393bf02406b77ba2369e2718e5a0.png)
+
+## 空姐被大风吹走，最后奇迹生还
+![空姐被大风吹走，最后奇迹生还](https://i0.hdslb.com/bfs/bangumi/image/bffb4a03d4063f893b39ca8954a5623d8f79599e.png)
+
+## 游弋在风暴之中
+![游弋在风暴之中](https://i0.hdslb.com/bfs/bangumi/image/2f3fe900ca2f920368956318bf6014364ea9dca9.png)
+
+## 大阅兵
+![大阅兵](https://i0.hdslb.com/bfs/bangumi/image/034cf7bbc1b4aaec1d23a0e3b51ffc93110413b3.png)
+
+
 ## 恶搞系列：老公忠诚度挑战！
 ![恶搞系列：老公忠诚度挑战！](https://i0.hdslb.com/bfs/bangumi/image/bfd36887f73c758a207f7c4371271359f4a361e7.png)
 
