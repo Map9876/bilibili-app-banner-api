@@ -1,6 +1,10 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 限免2天爽看全集！李云龙喊你看亮剑
+![限免2天爽看全集！李云龙喊你看亮剑](https://i0.hdslb.com/bfs/bangumi/image/f7b02db035051c530d3ba9aada03e45816ce45e5.png)
+
+
 ## KPL史上首次真实河道竞速赛！
 ![KPL史上首次真实河道竞速赛！](https://i0.hdslb.com/bfs/bangumi/image/9295eb63c97be074077e681f1ce748a9c9bf5681.png)
 
