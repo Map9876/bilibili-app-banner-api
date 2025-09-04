@@ -1,6 +1,10 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 重磅上线！《亮剑》20周年全弹幕回归
+![重磅上线！《亮剑》20周年全弹幕回归](https://i0.hdslb.com/bfs/bangumi/image/85b53fc47ec09a72c70cdf623c7c41a002dec429.png)
+
+
 ## 限免2天爽看全集！李云龙喊你看亮剑
 ![限免2天爽看全集！李云龙喊你看亮剑](https://i0.hdslb.com/bfs/bangumi/image/f7b02db035051c530d3ba9aada03e45816ce45e5.png)
 
