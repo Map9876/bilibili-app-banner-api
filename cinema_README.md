@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 挨了发导弹还能成功迫降？！
+![挨了发导弹还能成功迫降？！](https://i0.hdslb.com/bfs/bangumi/image/ccdfa68b00cbc3e9a2ec2973bbca466e50cb7240.png)
+
+## 陈小春《黄豆》精彩片段！
+![陈小春《黄豆》精彩片段！](https://i0.hdslb.com/bfs/bangumi/image/187f979f364fcc23cbfe0e55fe6d2e2396a95a67.png)
+
+## 病毒肆虐，猫头鹰暗影笼罩哥谭！
+![病毒肆虐，猫头鹰暗影笼罩哥谭！](https://i0.hdslb.com/bfs/bangumi/image/2701e390e74923ba0c8f7c48c172c55ef517a57d.png)
+
+## 打卡名场面！《亮剑》全弹幕回归
+![打卡名场面！《亮剑》全弹幕回归](https://i0.hdslb.com/bfs/bangumi/image/ae8e157274133bd1087572f1566f6dcea6227dbb.png)
+
+
 ## 重磅上线！《亮剑》20周年全弹幕回归
 ![重磅上线！《亮剑》20周年全弹幕回归](https://i0.hdslb.com/bfs/bangumi/image/85b53fc47ec09a72c70cdf623c7c41a002dec429.png)
 
