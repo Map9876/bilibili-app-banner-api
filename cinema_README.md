@@ -1,6 +1,22 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 王阳明的“知行合一”藏着多少当代解法
+![王阳明的“知行合一”藏着多少当代解法](https://i0.hdslb.com/bfs/bangumi/image/6de617c18eb60a9a7495da5d3a8a63dc08dbd7c9.png)
+
+## 陈思诚编剧，坠楼谜案掀舆情风波！
+![陈思诚编剧，坠楼谜案掀舆情风波！](https://i0.hdslb.com/bfs/bangumi/image/4942edd50ebd67f4c09140e22973b14a0bc564cd.png)
+
+## 新学期必看片单！
+![新学期必看片单！](https://i0.hdslb.com/bfs/bangumi/image/17ee5a0c483b1f082801fd980a8d976d1c8dfc35.png)
+
+## 贝爷竟要下海单挑巨鲨？！
+![贝爷竟要下海单挑巨鲨？！](https://i0.hdslb.com/bfs/bangumi/image/c042f43407e005653191dbed691fd235c355da19.png)
+
+## 陈瑶全伊伦上演双世情缘！速戳追剧>>
+![陈瑶全伊伦上演双世情缘！速戳追剧>>](https://i0.hdslb.com/bfs/bangumi/image/aa1c77eea31695b71d7264ea9b4e82642578aac4.png)
+
+
 ## 挨了发导弹还能成功迫降？！
 ![挨了发导弹还能成功迫降？！](https://i0.hdslb.com/bfs/bangumi/image/ccdfa68b00cbc3e9a2ec2973bbca466e50cb7240.png)
 
