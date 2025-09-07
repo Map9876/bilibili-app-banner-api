@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 学生时代让异性心动的技巧
+![学生时代让异性心动的技巧](https://i0.hdslb.com/bfs/bangumi/image/678ac38f8bb7abe8958d560b017769dbcca67181.png)
+
+## 小丑狂笑引战火，哥谭沦陷无主地
+![小丑狂笑引战火，哥谭沦陷无主地](https://i0.hdslb.com/bfs/bangumi/image/1a907b92d7aeaee45514ecce67d20eeef7ed158d.png)
+
+## 经典IP回归，欧哈纳就是一家人！
+![经典IP回归，欧哈纳就是一家人！](https://i0.hdslb.com/bfs/bangumi/image/1896daafa87cc29b56d555e4a3536d14a70348ed.png)
+
+## Yooupi&峰哥首次合体赶海
+![Yooupi&峰哥首次合体赶海](https://i0.hdslb.com/bfs/bangumi/image/f8d48e553d16359a24e91cf9754acf9a7eed8db2.png)
+
+
 ## 王阳明的“知行合一”藏着多少当代解法
 ![王阳明的“知行合一”藏着多少当代解法](https://i0.hdslb.com/bfs/bangumi/image/6de617c18eb60a9a7495da5d3a8a63dc08dbd7c9.png)
 
