@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 一排铆钉引发的空难悲剧！
+![一排铆钉引发的空难悲剧！](https://i0.hdslb.com/bfs/bangumi/image/4bec3f188ae4e4b1722da7a1ad45b0c0e11707a7.png)
+
+## 狼人杀真人秀丨第4集：梦魇守卫
+![狼人杀真人秀丨第4集：梦魇守卫](https://i0.hdslb.com/bfs/bangumi/image/38cd2bf878c923b66fdeb6ff6cf99df42f95494c.png)
+
+## 金牌运动员厨艺首秀！
+![金牌运动员厨艺首秀！](https://i0.hdslb.com/bfs/bangumi/image/bfd36887f73c758a207f7c4371271359f4a361e7.png)
+
+## 第二赛段高能开启，时事问答见真章！
+![第二赛段高能开启，时事问答见真章！](https://i0.hdslb.com/bfs/bangumi/image/86e2bd9dcea3c41151c8b0c82bf65656a5015688.png)
+
+
 ## 学生时代让异性心动的技巧
 ![学生时代让异性心动的技巧](https://i0.hdslb.com/bfs/bangumi/image/678ac38f8bb7abe8958d560b017769dbcca67181.png)
 
