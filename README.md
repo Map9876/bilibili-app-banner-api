@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 这个年纪还能当大侠吗 第二季
+![这个年纪还能当大侠吗 第二季](https://i0.hdslb.com/bfs/bangumi/image/d5d12fcfb3baecdc26561dee692e22c1af1e6b62.png)
+
+## 黑执事 绿魔女篇
+![黑执事 绿魔女篇](https://i0.hdslb.com/bfs/bangumi/image/d4c26850fcc575f48ecd3a96789e4b11c9606f3c.png)
+
+
 
 
 
