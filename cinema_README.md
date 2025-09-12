@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 蝙蝠侠终觉醒，哥谭终极决战！
+![蝙蝠侠终觉醒，哥谭终极决战！](https://i0.hdslb.com/bfs/bangumi/image/3667ff5ca740d05ebc3648bcb9aa6114d9eab897.png)
+
+## 梦想改造家回归 用匠心重塑空间！
+![梦想改造家回归 用匠心重塑空间！](https://i0.hdslb.com/bfs/bangumi/image/c30510a6f6b4b764f96f29cb61482c07f086fdbc.png)
+
+
 ## 原始生活21天第三季番外
 ![原始生活21天第三季番外](https://i0.hdslb.com/bfs/bangumi/image/e0906292823c317d48bf1cee6c03751fa95a0bfb.png)
 
