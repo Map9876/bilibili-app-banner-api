@@ -1,6 +1,28 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 岳麓课堂续千年，万木灯影照维新
+![岳麓课堂续千年，万木灯影照维新](https://i0.hdslb.com/bfs/bangumi/image/6de617c18eb60a9a7495da5d3a8a63dc08dbd7c9.png)
+
+## 明艳勾人小妖精×高冷疯批保镖
+![明艳勾人小妖精×高冷疯批保镖](https://i0.hdslb.com/bfs/bangumi/image/c13d2c9ef09b6264b76eeae5b3b9befb14d12823.png)
+
+## 我的建议是，先吃顿好的~
+![我的建议是，先吃顿好的~](https://i0.hdslb.com/bfs/bangumi/image/cac38cd247b5b5bf6200155594e7c8a232fb9bad.png)
+
+## 最省油的驾车方式是？
+![最省油的驾车方式是？](https://i0.hdslb.com/bfs/bangumi/image/8910ddb12e51fb666cdb236d260a2ce66e7572dd.png)
+
+## 定档！9月19日看陈瑶全伊伦重生破局
+![定档！9月19日看陈瑶全伊伦重生破局](https://i0.hdslb.com/bfs/bangumi/image/ae7b75a24810adbf5f2270bd8b472e028476a1de.png)
+
+## 来自海底捞服务员的自述
+![来自海底捞服务员的自述](https://i0.hdslb.com/bfs/bangumi/image/567567bd15b6795eea85d3657051ecd9f83ddb15.png)
+
+## 陈佩斯匠心打造，京城戏台闹翻天！
+![陈佩斯匠心打造，京城戏台闹翻天！](https://i0.hdslb.com/bfs/bangumi/image/2b81fea61895df66c1c9360f6ce39001d8fbccc6.png)
+
+
 ## 蝙蝠侠终觉醒，哥谭终极决战！
 ![蝙蝠侠终觉醒，哥谭终极决战！](https://i0.hdslb.com/bfs/bangumi/image/3667ff5ca740d05ebc3648bcb9aa6114d9eab897.png)
 
