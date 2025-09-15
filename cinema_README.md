@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 超绝整蛊！谁能夺得惨叫之王称号？
+![超绝整蛊！谁能夺得惨叫之王称号？](https://i0.hdslb.com/bfs/bangumi/image/bfd36887f73c758a207f7c4371271359f4a361e7.png)
+
+## 宝晓峰王言助阵，新闻新锐巅峰对决
+![宝晓峰王言助阵，新闻新锐巅峰对决](https://i0.hdslb.com/bfs/bangumi/image/86e2bd9dcea3c41151c8b0c82bf65656a5015688.png)
+
+## 狼人杀真人秀丨第5集：黑白使者
+![狼人杀真人秀丨第5集：黑白使者](https://i0.hdslb.com/bfs/bangumi/image/38cd2bf878c923b66fdeb6ff6cf99df42f95494c.png)
+
+
 ## 孤独女孩X外星小狗，陪伴治愈一切！
 ![孤独女孩X外星小狗，陪伴治愈一切！](https://i0.hdslb.com/bfs/bangumi/image/1896daafa87cc29b56d555e4a3536d14a70348ed.png)
 
