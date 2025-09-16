@@ -1,6 +1,22 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 勇气值MAX！叶舒华拿捏高空蹦极
+![勇气值MAX！叶舒华拿捏高空蹦极](https://i0.hdslb.com/bfs/bangumi/image/e7f3c0ec90dcc3f221604b9d7e71c57a64229ad4.png)
+
+## 权谋序章 KPL剿匪斗争开启！
+![权谋序章 KPL剿匪斗争开启！](https://i0.hdslb.com/bfs/bangumi/image/1153abcbf55a4da434fae441ce49894e3607493c.png)
+
+## 生涯全纪录！美国传奇拳击手的一生
+![生涯全纪录！美国传奇拳击手的一生](https://i0.hdslb.com/bfs/bangumi/image/5f86e3d35f0100bdadf76964bf9ce17b7581eca5.png)
+
+## 闪电巨剑和巨型飞镖
+![闪电巨剑和巨型飞镖](https://i0.hdslb.com/bfs/bangumi/image/2cadc26b04649922961b9515c3ff44f77c6a4e41.png)
+
+## 直升机高空被雷击！
+![直升机高空被雷击！](https://i0.hdslb.com/bfs/bangumi/image/3c79c66186da0ee0d7b690619c0ea7116c30f03f.png)
+
+
 ## 超绝整蛊！谁能夺得惨叫之王称号？
 ![超绝整蛊！谁能夺得惨叫之王称号？](https://i0.hdslb.com/bfs/bangumi/image/bfd36887f73c758a207f7c4371271359f4a361e7.png)
 
