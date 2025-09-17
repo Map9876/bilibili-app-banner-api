@@ -1,6 +1,25 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 烽火桂林：笔墨筑长城
+![烽火桂林：笔墨筑长城](https://i0.hdslb.com/bfs/bangumi/image/5b8da487db1b4dcf9fac7a13ead9c00b756ac94d.png)
+
+## 双世双生！陈瑶全伊伦执手逆转宿命
+![双世双生！陈瑶全伊伦执手逆转宿命](https://i0.hdslb.com/bfs/bangumi/image/ec088eed7346c0461ccd541cd4e80903a76f7e6d.png)
+
+## 大会员点映会！超前看高甜大婚片段
+![大会员点映会！超前看高甜大婚片段](https://i0.hdslb.com/bfs/bangumi/image/c6c20c7f4e2f84200b1842a266ae2e0dd02ac28e.png)
+
+## 飞行员为报复上级，故意将飞机坠毁？
+![飞行员为报复上级，故意将飞机坠毁？](https://i0.hdslb.com/bfs/bangumi/image/065895550c5a6add6c0fcf43e33f8a0bbdce5fcd.png)
+
+## 《人生一串》原班团队全新力作！
+![《人生一串》原班团队全新力作！](https://i0.hdslb.com/bfs/bangumi/image/b9fe154992bbf6f0873c7015a3f645123e4ef892.png)
+
+## 故乡是异乡
+![故乡是异乡](https://i0.hdslb.com/bfs/bangumi/image/ef49e43161c756b4560aa29cc8028b351ccdfbe1.png)
+
+
 ## 勇气值MAX！叶舒华拿捏高空蹦极
 ![勇气值MAX！叶舒华拿捏高空蹦极](https://i0.hdslb.com/bfs/bangumi/image/e7f3c0ec90dcc3f221604b9d7e71c57a64229ad4.png)
 
