@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 列车刹车失灵，冲下山坡摧毁小镇
+![列车刹车失灵，冲下山坡摧毁小镇](https://i0.hdslb.com/bfs/bangumi/image/3c79c66186da0ee0d7b690619c0ea7116c30f03f.png)
+
+## 回顾抗战经典！看芦苇荡里的“野小子”
+![回顾抗战经典！看芦苇荡里的“野小子”](https://i0.hdslb.com/bfs/bangumi/image/9283ac5ceaf9d5d85de041fef3df770451a4b958.png)
+
+## 9月19日看陈瑶全伊伦重生破局>>
+![9月19日看陈瑶全伊伦重生破局>>](https://i0.hdslb.com/bfs/bangumi/image/ae7b75a24810adbf5f2270bd8b472e028476a1de.png)
+
+## 以武载道，成龙王班再掀功夫风潮
+![以武载道，成龙王班再掀功夫风潮](https://i0.hdslb.com/bfs/bangumi/image/f3f873c78cff370efb510dcd6219b4f1c6db7921.png)
+
+
 ## 烽火桂林：笔墨筑长城
 ![烽火桂林：笔墨筑长城](https://i0.hdslb.com/bfs/bangumi/image/5b8da487db1b4dcf9fac7a13ead9c00b756ac94d.png)
 
