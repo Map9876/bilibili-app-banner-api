@@ -1,6 +1,28 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 聚焦山海经，以皮影演绎夸父逐日
+![聚焦山海经，以皮影演绎夸父逐日](https://i0.hdslb.com/bfs/bangumi/image/ba8818f2ef8dd0b6af07f415b59097f1281aa9e9.png)
+
+## 深度访谈！听听导演、演员、观众怎么说
+![深度访谈！听听导演、演员、观众怎么说](https://i0.hdslb.com/bfs/bangumi/image/41befb8b5a4fe227270becf54c5b5ec0f6925041.png)
+
+## 9.26开播！双魂为刃，破雾诛邪
+![9.26开播！双魂为刃，破雾诛邪](https://i0.hdslb.com/bfs/bangumi/image/6589685f7d6facb57b10238bb1ddc3c37af79a03.png)
+
+## 咒语开门！探秘古灵阁隐藏金库
+![咒语开门！探秘古灵阁隐藏金库](https://i0.hdslb.com/bfs/bangumi/image/78c24c311ba36bdbdd3dc49b471278019e800769.png)
+
+## 静下心，试着看到一片新的世界。
+![静下心，试着看到一片新的世界。](https://i0.hdslb.com/bfs/bangumi/image/59c57cf78c86c407d3954d4ad33c3cbd3ddfe3db.png)
+
+## 安利宝藏神剧，瓜分3万激励金！
+![安利宝藏神剧，瓜分3万激励金！](https://i0.hdslb.com/bfs/bangumi/image/3d798c6f849c96b3b70f6e4145254ccf7c6f5ced.png)
+
+## 今日开播！陈瑶演绎妖后反套路重生
+![今日开播！陈瑶演绎妖后反套路重生](https://i0.hdslb.com/bfs/bangumi/image/b67bb3eb0539dbcf2e8ff19711b2028e692486cb.png)
+
+
 ## 氦气橄榄球能飞多远？
 ![氦气橄榄球能飞多远？](https://i0.hdslb.com/bfs/bangumi/image/c647f97807c7bd711f58166454a400bedaf67b45.png)
 

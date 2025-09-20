@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 歌声是千层派
+![歌声是千层派](https://i0.hdslb.com/bfs/bangumi/image/90b0b57f9420d66117d4f63247a10a934dad5256.png)
+
+## 枕刀歌 第三季
+![枕刀歌 第三季](https://i0.hdslb.com/bfs/bangumi/image/007ded745f3e763d34328c9d33bd1bff2a6fd12c.png)
+
+
 
 ## 荒古恩仇录·破风篇
 ![荒古恩仇录·破风篇](https://i0.hdslb.com/bfs/bangumi/image/f3cea7c68a61f7c37a44ffb00796e7b5884cc858.png)
