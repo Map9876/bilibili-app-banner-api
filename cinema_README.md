@@ -1,6 +1,25 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 围绕隐藏帅哥展开的恋爱攻守战
+![围绕隐藏帅哥展开的恋爱攻守战](https://i0.hdslb.com/bfs/bangumi/image/7788a7d38051e37d8b4985aa5aa116d4248ef564.png)
+
+## 收官！以音乐剧作别，致敬同行时光！
+![收官！以音乐剧作别，致敬同行时光！](https://i0.hdslb.com/bfs/bangumi/image/c08f5ea51f26819204b3e402df746d2bc33bba0d.png)
+
+## 欣小萌联动诺子喵呜跳宅舞
+![欣小萌联动诺子喵呜跳宅舞](https://i0.hdslb.com/bfs/bangumi/image/61e360b9301e0f980904504b075572c569716060.png)
+
+## 观影打卡，赢周大福史迪奇转运珠！
+![观影打卡，赢周大福史迪奇转运珠！](https://i0.hdslb.com/bfs/bangumi/image/01ff0fd5219eaf3ec8af85bacb593b79de2e1978.png)
+
+## 神剧预定！我和闺蜜的养老计划
+![神剧预定！我和闺蜜的养老计划](https://i0.hdslb.com/bfs/bangumi/image/a77440862cd0ef26fe42640b2e7e6749366c0ab7.png)
+
+## 谁的心乱了！？扶微李晏壁咚名场面
+![谁的心乱了！？扶微李晏壁咚名场面](https://i0.hdslb.com/bfs/bangumi/image/bee4787635d5629521ca820ee4a8b14cd0a2b013.png)
+
+
 ## 聚焦山海经，以皮影演绎夸父逐日
 ![聚焦山海经，以皮影演绎夸父逐日](https://i0.hdslb.com/bfs/bangumi/image/ba8818f2ef8dd0b6af07f415b59097f1281aa9e9.png)
 
