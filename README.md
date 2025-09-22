@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 武魂大陆
+![武魂大陆](https://i0.hdslb.com/bfs/bangumi/image/6aaf73e9459bb4f0b53cbafe311e2e700ac35d9f.png)
+
+
 
 ## 歌声是千层派
 ![歌声是千层派](https://i0.hdslb.com/bfs/bangumi/image/90b0b57f9420d66117d4f63247a10a934dad5256.png)
