@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 泰国篇上线 王冠之争进行中！
+![泰国篇上线 王冠之争进行中！](https://i0.hdslb.com/bfs/bangumi/image/b2c7f6589ca3cd4d034b21523e3265f79de927aa.png)
+
+## 全新挑战开始！猎人们解锁高空试炼
+![全新挑战开始！猎人们解锁高空试炼](https://i0.hdslb.com/bfs/bangumi/image/e7f3c0ec90dcc3f221604b9d7e71c57a64229ad4.png)
+
+## 会喷火的巨斧，有多巨？
+![会喷火的巨斧，有多巨？](https://i0.hdslb.com/bfs/bangumi/image/b6b6f5d8fb5c23fc68cc6d29f17dfbb1add07713.png)
+
+## 心碎！李晏抗旨被杖责却遭扶微拒绝？
+![心碎！李晏抗旨被杖责却遭扶微拒绝？](https://i0.hdslb.com/bfs/bangumi/image/54cddc16e46b602c899abe21b3d69e7b1745aad9.png)
+
+
 ## “好闺蜜”的惊喜之旅！
 ![“好闺蜜”的惊喜之旅！](https://i0.hdslb.com/bfs/bangumi/image/bfd36887f73c758a207f7c4371271359f4a361e7.png)
 
