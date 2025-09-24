@@ -1,6 +1,28 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 废柴英雄
+![废柴英雄](https://i0.hdslb.com/bfs/bangumi/image/f47424e717b75c92ea87146fc9a8326ea69fa357.png)
+
+## 郑中基自导自演，为女复仇殊死搏斗
+![郑中基自导自演，为女复仇殊死搏斗](https://i0.hdslb.com/bfs/bangumi/image/34dee196a71b60de46e599e050df2f59bb769b43.png)
+
+## 上B站看《东北 真行》微电影
+![上B站看《东北 真行》微电影](https://i0.hdslb.com/bfs/bangumi/image/9798d7a96340c63159d1cdd4a9041b080ec9d655.png)
+
+## 雷神回归！挑战不可能
+![雷神回归！挑战不可能](https://i0.hdslb.com/bfs/bangumi/image/257c491f48e063f2f915549b34578bd25ff18311.png)
+
+## 直播回顾！时代少年团为刘耀文庆生
+![直播回顾！时代少年团为刘耀文庆生](https://i0.hdslb.com/bfs/bangumi/image/8e2f39f2e6ddc269021c3ef66b0754508c59b7ea.png)
+
+## 杀了你成为你？过去之我反杀穿越之我！
+![杀了你成为你？过去之我反杀穿越之我！](https://i0.hdslb.com/bfs/bangumi/image/b67bb3eb0539dbcf2e8ff19711b2028e692486cb.png)
+
+## 老馆正浪
+![老馆正浪](https://i0.hdslb.com/bfs/bangumi/image/a5f20bbd1e33bb15365229367d8768d54c78103b.png)
+
+
 ## 泰国篇上线 王冠之争进行中！
 ![泰国篇上线 王冠之争进行中！](https://i0.hdslb.com/bfs/bangumi/image/b2c7f6589ca3cd4d034b21523e3265f79de927aa.png)
 
