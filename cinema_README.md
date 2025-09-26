@@ -1,6 +1,22 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 拒当星二代！假扮父亲逐梦演艺圈
+![拒当星二代！假扮父亲逐梦演艺圈](https://i0.hdslb.com/bfs/bangumi/image/8d1dfeb4305021e8cd876bf701e8e28c15fa6c31.png)
+
+## 2025B站中秋晚会与您共度佳节~
+![2025B站中秋晚会与您共度佳节~](https://i0.hdslb.com/bfs/bangumi/image/f0fb42ca5b21c11fd52af469ab535a725a92774f.png)
+
+## 庵野秀明编剧，机甲激斗一触即发！
+![庵野秀明编剧，机甲激斗一触即发！](https://i0.hdslb.com/bfs/bangumi/image/9c0325c2d322da25e87a59945cd1e41cc96d2ea7.png)
+
+## 坦白重生！忠犬王爷生生世世都爱
+![坦白重生！忠犬王爷生生世世都爱](https://i0.hdslb.com/bfs/bangumi/image/b67bb3eb0539dbcf2e8ff19711b2028e692486cb.png)
+
+## 为梦想助力 爆改“猫耳朵奇葩房”
+![为梦想助力 爆改“猫耳朵奇葩房”](https://i0.hdslb.com/bfs/bangumi/image/3ebbfff7099c64233f36d3038f8d82b328fda4a2.png)
+
+
 ## 载客列车和货运列车相撞！
 ![载客列车和货运列车相撞！](https://i0.hdslb.com/bfs/bangumi/image/6d4f9cd5ed67124206fc389a6c8eb483e291196c.png)
 
