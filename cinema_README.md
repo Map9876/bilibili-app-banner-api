@@ -1,6 +1,34 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 七集连播，跟着电影游云南！
+![七集连播，跟着电影游云南！](https://i0.hdslb.com/bfs/bangumi/image/c8b119e0e42585e40ee214d5226bf343533edaaa.png)
+
+## 十八家美护爆款同台竞技
+![十八家美护爆款同台竞技](https://i0.hdslb.com/bfs/bangumi/image/86b9f37341d8569632d3d449a3d574de2952569d.png)
+
+## 猫耳朵奇葩房秒变“人间天堂”？
+![猫耳朵奇葩房秒变“人间天堂”？](https://i0.hdslb.com/bfs/bangumi/image/3ebbfff7099c64233f36d3038f8d82b328fda4a2.png)
+
+## 戛纳入围之作，荒诞幽默的小镇故事
+![戛纳入围之作，荒诞幽默的小镇故事](https://i0.hdslb.com/bfs/bangumi/image/4ea7dec3fa622918f3a203337f44f4da33d26977.png)
+
+## 《守护解放西6》定档10月3日！
+![《守护解放西6》定档10月3日！](https://i0.hdslb.com/bfs/bangumi/image/5f52aa7d6d8ee72095facf950856a72bad2a7951.png)
+
+## 古驰《虎》
+![古驰《虎》](https://i0.hdslb.com/bfs/bangumi/image/6d98a11ad3839ad2b1557ae83bff09cff4961165.png)
+
+## 抢救古树！四年生死移植实录
+![抢救古树！四年生死移植实录](https://i0.hdslb.com/bfs/bangumi/image/642c8433a95fe49d9ebda5082f6c3167de51551d.png)
+
+## 坦白重生真相！我是你，三年后的你！
+![坦白重生真相！我是你，三年后的你！](https://i0.hdslb.com/bfs/bangumi/image/dbc1bc5a47b1c58586ab90b6a92234a00b820983.png)
+
+## 开播！周峻纬逆天改命，王妃涅槃重生！
+![开播！周峻纬逆天改命，王妃涅槃重生！](https://i0.hdslb.com/bfs/bangumi/image/3ee5dec2aadb83137c88b7f88d5f43dbb4f1a754.png)
+
+
 ## 拒当星二代！假扮父亲逐梦演艺圈
 ![拒当星二代！假扮父亲逐梦演艺圈](https://i0.hdslb.com/bfs/bangumi/image/8d1dfeb4305021e8cd876bf701e8e28c15fa6c31.png)
 
