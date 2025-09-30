@@ -1,6 +1,34 @@
 # Bilibili 影视 顶部海报
 
 ---
+## KPL泰拳对决 谁会是台上唯一的王！
+![KPL泰拳对决 谁会是台上唯一的王！](https://i0.hdslb.com/bfs/bangumi/image/06b6ee59e8526e48af176bafccbd9eb379e309d4.png)
+
+## 锁定B站中秋晚会 共赴花好月圆夜！
+![锁定B站中秋晚会 共赴花好月圆夜！](https://i0.hdslb.com/bfs/bangumi/image/4c3fc1cf841f6dd2ab7f9fbf3eee31a9d84b61c5.png)
+
+## 护肤+美妆+仪器 大混战来啦！
+![护肤+美妆+仪器 大混战来啦！](https://i0.hdslb.com/bfs/bangumi/image/86b9f37341d8569632d3d449a3d574de2952569d.png)
+
+## 跨64年的温暖对话
+![跨64年的温暖对话](https://i0.hdslb.com/bfs/bangumi/image/270898643d97404a72e22f47b9653c20a3c65023.png)
+
+## 许光汉重磅登场，城市涂鸦猎人集结！
+![许光汉重磅登场，城市涂鸦猎人集结！](https://i0.hdslb.com/bfs/bangumi/image/e7f3c0ec90dcc3f221604b9d7e71c57a64229ad4.png)
+
+## 打造炫酷喷火巨龙刀
+![打造炫酷喷火巨龙刀](https://i0.hdslb.com/bfs/bangumi/image/2cadc26b04649922961b9515c3ff44f77c6a4e41.png)
+
+## 一键get飞机救生衣的重要用途！
+![一键get飞机救生衣的重要用途！](https://i0.hdslb.com/bfs/bangumi/image/8aa8bad5b4ccc998e62d3280dd702e4f12ad555b.png)
+
+## 甜度爆表！年下弟弟强势表白
+![甜度爆表！年下弟弟强势表白](https://i0.hdslb.com/bfs/bangumi/image/cee77db56c57d627c2c2653ed3668e10abf2b5cd.png)
+
+## 直通大结局！扶微李晏携手绑架太子
+![直通大结局！扶微李晏携手绑架太子](https://i0.hdslb.com/bfs/bangumi/image/b67bb3eb0539dbcf2e8ff19711b2028e692486cb.png)
+
+
 ## 狼人杀真人秀丨第7集：黑白使者
 ![狼人杀真人秀丨第7集：黑白使者](https://i0.hdslb.com/bfs/bangumi/image/38cd2bf878c923b66fdeb6ff6cf99df42f95494c.png)
 
