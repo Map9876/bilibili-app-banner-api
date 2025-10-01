@@ -1,6 +1,25 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 巴黎合伙人重聚第二弹！
+![巴黎合伙人重聚第二弹！](https://i0.hdslb.com/bfs/bangumi/image/86b9f37341d8569632d3d449a3d574de2952569d.png)
+
+## 直通大结局！这一世新郎终于是我！
+![直通大结局！这一世新郎终于是我！](https://i0.hdslb.com/bfs/bangumi/image/dbc1bc5a47b1c58586ab90b6a92234a00b820983.png)
+
+## 警员集结！看警徽下的滚烫人生
+![警员集结！看警徽下的滚烫人生](https://i0.hdslb.com/bfs/bangumi/image/5f52aa7d6d8ee72095facf950856a72bad2a7951.png)
+
+## 大鹏X白客，长安打工人岭南升职记！
+![大鹏X白客，长安打工人岭南升职记！](https://i0.hdslb.com/bfs/bangumi/image/dc13887ce8e65cd0ed253e2c499b2b0eb324ff82.png)
+
+## 萧陆同心破心防，破局线索触手可及！
+![萧陆同心破心防，破局线索触手可及！](https://i0.hdslb.com/bfs/bangumi/image/3756adf2365d12fea2131aba9407eec905b33fd0.png)
+
+## 值得N刷的纪录片，速戳解锁>>
+![值得N刷的纪录片，速戳解锁>>](https://i0.hdslb.com/bfs/bangumi/image/080d1c543e1344595f7e24cf4820b67addba602e.png)
+
+
 ## KPL泰拳对决 谁会是台上唯一的王！
 ![KPL泰拳对决 谁会是台上唯一的王！](https://i0.hdslb.com/bfs/bangumi/image/06b6ee59e8526e48af176bafccbd9eb379e309d4.png)
 
