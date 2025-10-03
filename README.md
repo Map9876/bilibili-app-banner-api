@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 亏成首富从游戏开始 日语版
+![亏成首富从游戏开始 日语版](https://i0.hdslb.com/bfs/bangumi/image/fce6eb615349bbe92544f3d941bc571b8ab289e8.png)
+
+
 
 ## 十月动画种草激励
 ![十月动画种草激励](https://i0.hdslb.com/bfs/bangumi/image/9b4d8063e855f598b47c10047311fa43d91731f9.png)
