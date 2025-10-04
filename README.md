@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 娑婆气
+![娑婆气](https://i0.hdslb.com/bfs/bangumi/image/95da561ad879e7e303c1b1e39a6f63019a50363a.png)
+
+## 最后可以再拜托您一件事吗？
+![最后可以再拜托您一件事吗？](https://i0.hdslb.com/bfs/bangumi/image/3714b583aa1068dee9726ef0cf2011812b4c2a6b.png)
+
+
 ## 亏成首富从游戏开始 日语版
 ![亏成首富从游戏开始 日语版](https://i0.hdslb.com/bfs/bangumi/image/fce6eb615349bbe92544f3d941bc571b8ab289e8.png)
 

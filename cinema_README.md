@@ -1,6 +1,31 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 高能定档！邀你沉浸式磕糖
+![高能定档！邀你沉浸式磕糖](https://i0.hdslb.com/bfs/bangumi/image/e16c22a0b4b5e95be3f43392a3da726125f55c46.png)
+
+## 王翊恩沙一汀 邀您共迎B站中秋晚会
+![王翊恩沙一汀 邀您共迎B站中秋晚会](https://i0.hdslb.com/bfs/bangumi/image/9221e2e36038296047992aaf5bb0f33e904fe8b4.png)
+
+## 岁月如光，照亮山河万里。
+![岁月如光，照亮山河万里。](https://i0.hdslb.com/bfs/bangumi/image/02a6de0a6d196c48a6dae0292e96bbe0350199fe.png)
+
+## 太阳系中配版
+![太阳系中配版](https://i0.hdslb.com/bfs/bangumi/image/a53b49e257508abfa96bb569ec2ccbf1a52eeaf6.png)
+
+## 当“三室一厅”遇上“七巧板”？
+![当“三室一厅”遇上“七巧板”？](https://i0.hdslb.com/bfs/bangumi/image/4a3ce31d0e5cc487350ac3d0d6f9585ba8ad7afc.png)
+
+## 直通大结局！忠犬王爷为爱飞身挡箭
+![直通大结局！忠犬王爷为爱飞身挡箭](https://i0.hdslb.com/bfs/bangumi/image/dbc1bc5a47b1c58586ab90b6a92234a00b820983.png)
+
+## 坡子街派出所雷霆出击，守护不打烊！
+![坡子街派出所雷霆出击，守护不打烊！](https://i0.hdslb.com/bfs/bangumi/image/5f52aa7d6d8ee72095facf950856a72bad2a7951.png)
+
+## 双魂觉醒战力全开，反遭奸计身陷囚笼！
+![双魂觉醒战力全开，反遭奸计身陷囚笼！](https://i0.hdslb.com/bfs/bangumi/image/e03c34776600820e9d945dd9d9fcb882da30d3a3.png)
+
+
 ## 疯抢预警！这个冬天不太冷
 ![疯抢预警！这个冬天不太冷](https://i0.hdslb.com/bfs/bangumi/image/86b9f37341d8569632d3d449a3d574de2952569d.png)
 
