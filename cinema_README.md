@@ -1,6 +1,25 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 心动宝典！心机大人的修炼手册
+![心动宝典！心机大人的修炼手册](https://i0.hdslb.com/bfs/bangumi/image/7788a7d38051e37d8b4985aa5aa116d4248ef564.png)
+
+## 嫦娥仙女即将踏月而来
+![嫦娥仙女即将踏月而来](https://i0.hdslb.com/bfs/bangumi/image/8947383e7d0f7a5bb9315816de026694f441958f.png)
+
+## 朱一龙X吴磊X倪妮，海上绝境救援
+![朱一龙X吴磊X倪妮，海上绝境救援](https://i0.hdslb.com/bfs/bangumi/image/69df7b825ea639e8821f246edff36f410544a415.png)
+
+## 心动首播！当追星女孩遇上音乐制作人
+![心动首播！当追星女孩遇上音乐制作人](https://i0.hdslb.com/bfs/bangumi/image/750a467933621af6d0339df98e5eba130372d1ec.png)
+
+## 三生三世爱上你！陈瑶全伊伦再续情缘
+![三生三世爱上你！陈瑶全伊伦再续情缘](https://i0.hdslb.com/bfs/bangumi/image/b67bb3eb0539dbcf2e8ff19711b2028e692486cb.png)
+
+## 萧仞孤身血洗王府，劫后余生定终身
+![萧仞孤身血洗王府，劫后余生定终身](https://i0.hdslb.com/bfs/bangumi/image/23d0bf451d7d5042e3363c1c283fcfb116ad572b.png)
+
+
 ## 高能定档！邀你沉浸式磕糖
 ![高能定档！邀你沉浸式磕糖](https://i0.hdslb.com/bfs/bangumi/image/e16c22a0b4b5e95be3f43392a3da726125f55c46.png)
 
