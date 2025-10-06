@@ -355,6 +355,16 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 肥志百科   
+![肥志百科   ](https://i0.hdslb.com/bfs/bangumi/image/e48c0081a8564f073b7f889f3a619acd3d37342a.png)
+
+## 爹强妈猛我无敌
+![爹强妈猛我无敌](https://i0.hdslb.com/bfs/bangumi/image/73a37302403344febaebc7e0ae6a5b4a41c3f7b1.png)
+
+## 希维司：英雄之声
+![希维司：英雄之声](https://i0.hdslb.com/bfs/bangumi/image/b5438fbeed910f44bb22a4fa51fa0d3eb1f473ca.png)
+
+
 ## 不动声色的柏田
 ![不动声色的柏田](https://i0.hdslb.com/bfs/bangumi/image/5c78279833475247044250bcc98629d50c057657.png)
 
