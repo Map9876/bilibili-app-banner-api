@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 暗杀者比勇者还强
+![暗杀者比勇者还强](https://i0.hdslb.com/bfs/bangumi/image/9aab5eaa8a555eac7ea38e8685139279455e7606.png)
+
+## 3年Z组银八老师
+![3年Z组银八老师](https://i0.hdslb.com/bfs/bangumi/image/343c19e23dac01fb22c48e54f7627ac3ff0a02b1.png)
+
+
 ## 肥志百科   
 ![肥志百科   ](https://i0.hdslb.com/bfs/bangumi/image/e48c0081a8564f073b7f889f3a619acd3d37342a.png)
 
