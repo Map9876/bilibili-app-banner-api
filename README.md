@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 超常技能开启美食之旅2
+![超常技能开启美食之旅2](https://i0.hdslb.com/bfs/bangumi/image/31bb1d7cfdd855d23bbef5f018a9fa9511b081dd.png)
+
+
 ## 暗杀者比勇者还强
 ![暗杀者比勇者还强](https://i0.hdslb.com/bfs/bangumi/image/9aab5eaa8a555eac7ea38e8685139279455e7606.png)
 

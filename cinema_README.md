@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 机长操作失误致客机撞山坠毁>>
+![机长操作失误致客机撞山坠毁>>](https://i0.hdslb.com/bfs/bangumi/image/ff74b298110c31c419e88faaa495fc08a9e0cd15.png)
+
+## 跟着仙子游人间 娜扎惊艳化身月宫宫主
+![跟着仙子游人间 娜扎惊艳化身月宫宫主](https://i0.hdslb.com/bfs/bangumi/image/8947383e7d0f7a5bb9315816de026694f441958f.png)
+
+## 洞房花烛！“萧陆乱撞”夙愿成真！
+![洞房花烛！“萧陆乱撞”夙愿成真！](https://i0.hdslb.com/bfs/bangumi/image/49ee607f7585d49db41b8e2cfc25d78b2830a7e8.png)
+
+## UP主独家对话张家辉！
+![UP主独家对话张家辉！](https://i0.hdslb.com/bfs/bangumi/image/28c52e204e37e82eaab2e0e1aee59e380ad30e2a.png)
+
+
 ## 神奇动物在哪里？在......
 ![神奇动物在哪里？在......](https://i0.hdslb.com/bfs/bangumi/image/b10fd356101e5fe7bf6565139bee300875ed4fe1.png)
 
