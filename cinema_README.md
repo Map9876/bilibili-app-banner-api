@@ -1,6 +1,28 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 国庆不塞车，航拍中国带你起飞！
+![国庆不塞车，航拍中国带你起飞！](https://i0.hdslb.com/bfs/bangumi/image/1393722ee97582698d62e65076d00f0080b57749.png)
+
+## 方向舵故障引发的航空灾难>>
+![方向舵故障引发的航空灾难>>](https://i0.hdslb.com/bfs/bangumi/image/ff74b298110c31c419e88faaa495fc08a9e0cd15.png)
+
+## 视觉爽点拉满！重孙男团阵容来袭
+![视觉爽点拉满！重孙男团阵容来袭](https://i0.hdslb.com/bfs/bangumi/image/bb222ae2dec63eea64868b933c219be21fbbf3cb.png)
+
+## 祸国妖妃！大女主宫斗复仇爽剧
+![祸国妖妃！大女主宫斗复仇爽剧](https://i0.hdslb.com/bfs/bangumi/image/38e7a996f65a0aeaf8614a009d265e8a5bed6bf4.png)
+
+## 戏精夫妇决裂？陆昭一箭穿心怒斥懦夫
+![戏精夫妇决裂？陆昭一箭穿心怒斥懦夫](https://i0.hdslb.com/bfs/bangumi/image/06d063237e948623d93c0cbeb3cc9581aad259dd.png)
+
+## 中秋盛宴 温情回响
+![中秋盛宴 温情回响](https://i0.hdslb.com/bfs/bangumi/image/e9de191546dca40c4c865d1cc5e39c1f62116835.png)
+
+## 雷神挑战世界上最高攀岩墙！
+![雷神挑战世界上最高攀岩墙！](https://i0.hdslb.com/bfs/bangumi/image/c7db88beee87d519a73ef14c98a30c6edf0d8eb5.png)
+
+
 ## 机长操作失误致客机撞山坠毁>>
 ![机长操作失误致客机撞山坠毁>>](https://i0.hdslb.com/bfs/bangumi/image/ff74b298110c31c419e88faaa495fc08a9e0cd15.png)
 
