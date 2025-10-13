@@ -1,6 +1,22 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 世界杯选手助力 少年们圆梦特辑！
+![世界杯选手助力 少年们圆梦特辑！](https://i0.hdslb.com/bfs/bangumi/image/bfd36887f73c758a207f7c4371271359f4a361e7.png)
+
+## 一命通关！海昏侯的王朝秘史
+![一命通关！海昏侯的王朝秘史](https://i0.hdslb.com/bfs/bangumi/image/837ed972c7982e9e5528b6827ce7b4cf510592ef.png)
+
+## 狼人杀真人秀丨第8集：夺宝大战
+![狼人杀真人秀丨第8集：夺宝大战](https://i0.hdslb.com/bfs/bangumi/image/38cd2bf878c923b66fdeb6ff6cf99df42f95494c.png)
+
+## 神秘人逍遥法外，致命侦探绝境寻踪
+![神秘人逍遥法外，致命侦探绝境寻踪](https://i0.hdslb.com/bfs/bangumi/image/f50f9fd79bf23138650f3f766d5bcb7f2bc2273d.png)
+
+## 男嘉宾这招公主抱深蹲谁顶得住？
+![男嘉宾这招公主抱深蹲谁顶得住？](https://i0.hdslb.com/bfs/bangumi/image/d099a45499f175682226589f0bab25191f733cc2.png)
+
+
 ## 天然VS算计，绕不开的选择题
 ![天然VS算计，绕不开的选择题](https://i0.hdslb.com/bfs/bangumi/image/7788a7d38051e37d8b4985aa5aa116d4248ef564.png)
 
