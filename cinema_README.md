@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 大快人心！疯批忠犬手刃渣男
+![大快人心！疯批忠犬手刃渣男](https://i0.hdslb.com/bfs/bangumi/image/83ddb9297ca9c95559e158bd975ddb11ae5bba42.png)
+
+## 企鹅×猎人团！绅士们的奇幻之旅
+![企鹅×猎人团！绅士们的奇幻之旅](https://i0.hdslb.com/bfs/bangumi/image/e7f3c0ec90dcc3f221604b9d7e71c57a64229ad4.png)
+
+## 机长疲劳驾驶，客机万米高空失控俯冲
+![机长疲劳驾驶，客机万米高空失控俯冲](https://i0.hdslb.com/bfs/bangumi/image/da50e7f05d84cf6312e3259e35bf8d25f1c6eb71.png)
+
+
 ## 世界杯选手助力 少年们圆梦特辑！
 ![世界杯选手助力 少年们圆梦特辑！](https://i0.hdslb.com/bfs/bangumi/image/bfd36887f73c758a207f7c4371271359f4a361e7.png)
 
