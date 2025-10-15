@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 高分荒诞喜剧，颠覆诠释失控人性！
+![高分荒诞喜剧，颠覆诠释失控人性！](https://i0.hdslb.com/bfs/bangumi/image/0c3ac9c76a67fddcdeb559162eaebae51a9ac447.png)
+
+## 洛杉矶空难：一场改变航空安全的悲剧
+![洛杉矶空难：一场改变航空安全的悲剧](https://i0.hdslb.com/bfs/bangumi/image/ff74b298110c31c419e88faaa495fc08a9e0cd15.png)
+
+
 ## 大快人心！疯批忠犬手刃渣男
 ![大快人心！疯批忠犬手刃渣男](https://i0.hdslb.com/bfs/bangumi/image/83ddb9297ca9c95559e158bd975ddb11ae5bba42.png)
 
