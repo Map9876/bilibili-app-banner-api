@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 东岛丹三郎想成为假面骑士
+![东岛丹三郎想成为假面骑士](https://i0.hdslb.com/bfs/bangumi/image/ed3ae956f4579fda6b7e9f7b486b1b52cc16123a.png)
+
+
 
 
 
