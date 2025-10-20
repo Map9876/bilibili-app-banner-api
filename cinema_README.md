@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 男孩自毁前途只为惩罚父母？
+![男孩自毁前途只为惩罚父母？](https://i0.hdslb.com/bfs/bangumi/image/487fa0529d68fa87604446ff534ea63e27cc1670.png)
+
+## 狼人杀真人秀丨第9集：夺宝大战
+![狼人杀真人秀丨第9集：夺宝大战](https://i0.hdslb.com/bfs/bangumi/image/38cd2bf878c923b66fdeb6ff6cf99df42f95494c.png)
+
+## 亲情间的算计，引爆爱恨复仇路！
+![亲情间的算计，引爆爱恨复仇路！](https://i0.hdslb.com/bfs/bangumi/image/e73e5ce3b7cab74851ccbf3586a07bda817b8bb6.png)
+
+
 ## 8年恋爱修罗场，她们的结局是？
 ![8年恋爱修罗场，她们的结局是？](https://i0.hdslb.com/bfs/bangumi/image/7788a7d38051e37d8b4985aa5aa116d4248ef564.png)
 
