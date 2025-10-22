@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 为父破局！千门八将以诈止诈终雪恨
+![为父破局！千门八将以诈止诈终雪恨](https://i0.hdslb.com/bfs/bangumi/image/2599a813ba00f976b0418e1e7025b66ef638773a.png)
+
+## 治愈佳作，毛孩子抚平丧友伤痛
+![治愈佳作，毛孩子抚平丧友伤痛](https://i0.hdslb.com/bfs/bangumi/image/29fc20b87de61ddc61598614b6d86decbf753205.png)
+
+## 飞机仍在飞,飞行员和乘客却已死亡！
+![飞机仍在飞,飞行员和乘客却已死亡！](https://i0.hdslb.com/bfs/bangumi/image/201f4163064393a847aa98ad33b5ec3c810640f1.png)
+
+## UP主挑战捏泥巴，亿点点难！
+![UP主挑战捏泥巴，亿点点难！](https://i0.hdslb.com/bfs/bangumi/image/7e52795fa38b5156e54c8e61d0324be722de00d4.png)
+
+
 ## 笑料升级！马大姐闲事管出新幽默
 ![笑料升级！马大姐闲事管出新幽默](https://i0.hdslb.com/bfs/bangumi/image/aea4425a99989b1b5e9a34966ec226476e147e40.png)
 
