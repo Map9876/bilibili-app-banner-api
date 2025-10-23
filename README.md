@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 名侦探柯南
+![名侦探柯南](https://i0.hdslb.com/bfs/bangumi/image/be7f9e869628c3b0d815d2d67ad9108cc0eb95b9.png)
+
+
 
 
 ## 无敌的我是英雄爸爸和精灵妈妈的女儿
