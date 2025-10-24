@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 聊斋经典重现，共赏东方美学盛宴
+![聊斋经典重现，共赏东方美学盛宴](https://i0.hdslb.com/bfs/bangumi/image/1907e298077f6c0b8403f762e46915ef4ef11149.png)
+
+## 第五期更新！守护非遗“织”造家
+![第五期更新！守护非遗“织”造家](https://i0.hdslb.com/bfs/bangumi/image/4a3ce31d0e5cc487350ac3d0d6f9585ba8ad7afc.png)
+
+
 ## 狼队电竞自制轻团综开播！
 ![狼队电竞自制轻团综开播！](https://i0.hdslb.com/bfs/bangumi/image/d3ec7b19c0dec23e3b0da75717ce354b55d3ab57.png)
 
