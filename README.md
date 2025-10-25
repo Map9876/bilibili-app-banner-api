@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 罗小黑战记2
+![罗小黑战记2](https://i0.hdslb.com/bfs/bangumi/image/da5cad706682121a615b750da969fa7be1b0f191.png)
+
+
 
 ## 名侦探柯南
 ![名侦探柯南](https://i0.hdslb.com/bfs/bangumi/image/be7f9e869628c3b0d815d2d67ad9108cc0eb95b9.png)

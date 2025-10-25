@@ -1,6 +1,28 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 大会员专享！危宅变身缂丝美学之家
+![大会员专享！危宅变身缂丝美学之家](https://i0.hdslb.com/bfs/bangumi/image/89e90aa09e040162c1aee49ad3f085a470dad9af.png)
+
+## 迷影至下独家对话鬼才导演达伦！
+![迷影至下独家对话鬼才导演达伦！](https://i0.hdslb.com/bfs/bangumi/image/edfc3e2b4cf5f48da3918ab5505cda6916f1194b.png)
+
+## 观影有礼，赢罗小黑限定周边~
+![观影有礼，赢罗小黑限定周边~](https://i0.hdslb.com/bfs/bangumi/image/30110a9d1642ee3d434e44f0517160cc32b124a8.png)
+
+## 联合国80后
+![联合国80后](https://i0.hdslb.com/bfs/bangumi/image/178c56e70e8a8fb3d89204ed5f90f3d30b8148ea.png)
+
+## 中国唱将开播！薛之谦周深寻找音乐新声
+![中国唱将开播！薛之谦周深寻找音乐新声](https://i0.hdslb.com/bfs/bangumi/image/059c6c108cd675b5de88259716d93f906e82d979.png)
+
+## 光鲜少女商场偷窃被抓现行>>
+![光鲜少女商场偷窃被抓现行>>](https://i0.hdslb.com/bfs/bangumi/image/5f52aa7d6d8ee72095facf950856a72bad2a7951.png)
+
+## 会馆遇危机，人妖大战一触即发！
+![会馆遇危机，人妖大战一触即发！](https://i0.hdslb.com/bfs/bangumi/image/da5cad706682121a615b750da969fa7be1b0f191.png)
+
+
 ## 聊斋经典重现，共赏东方美学盛宴
 ![聊斋经典重现，共赏东方美学盛宴](https://i0.hdslb.com/bfs/bangumi/image/1907e298077f6c0b8403f762e46915ef4ef11149.png)
 
