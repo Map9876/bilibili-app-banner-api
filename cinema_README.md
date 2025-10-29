@@ -1,6 +1,28 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 北电大讲堂第二季
+![北电大讲堂第二季](https://i0.hdslb.com/bfs/bangumi/image/5651364672ef9a78cbde3cbfd84f78b1f5f11fdb.png)
+
+## 暴富后，粉丝邀请CP开私人演唱会？
+![暴富后，粉丝邀请CP开私人演唱会？](https://i0.hdslb.com/bfs/bangumi/image/32e3b11c5cdc78aae7eb50d9d8179f68234ff0ec.png)
+
+## 深海灾难突袭，10分钟极限救援！
+![深海灾难突袭，10分钟极限救援！](https://i0.hdslb.com/bfs/bangumi/image/8a2e39ff5da68c8046f7fb7f93f658b65717dac4.png)
+
+## 完整回顾！白举纲段奥娟寻找温暖图鉴
+![完整回顾！白举纲段奥娟寻找温暖图鉴](https://i0.hdslb.com/bfs/bangumi/image/538deeb255452b35e901fda49384e14ae8764db6.png)
+
+## 货舱门高空脱落，机长力挽狂澜安全降落
+![货舱门高空脱落，机长力挽狂澜安全降落](https://i0.hdslb.com/bfs/bangumi/image/01ae7a604f24b9aa0dc672fa995716911e65e8a3.png)
+
+## 一场说走就走的济州岛之行！
+![一场说走就走的济州岛之行！](https://i0.hdslb.com/bfs/bangumi/image/b926d8b60551648231b3405cc4b40aa9e95a0503.png)
+
+## 好吃爱吃！治愈萌猫携手师姐破局
+![好吃爱吃！治愈萌猫携手师姐破局](https://i0.hdslb.com/bfs/bangumi/image/da5cad706682121a615b750da969fa7be1b0f191.png)
+
+
 ## 万米高空引擎熄火，机长滑翔成功迫降
 ![万米高空引擎熄火，机长滑翔成功迫降](https://i0.hdslb.com/bfs/bangumi/image/80203d19848d3cba132319ff34be69de7fe7e4ee.png)
 
