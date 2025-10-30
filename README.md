@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 扭曲仙境
+![扭曲仙境](https://i0.hdslb.com/bfs/bangumi/image/003a363cade69be8247b3b79457142adb166a61f.png)
+
+## 弹珠汽水瓶里的千岁同学
+![弹珠汽水瓶里的千岁同学](https://i0.hdslb.com/bfs/bangumi/image/792527707af04c506da4d3ecbb1cb40aeb347c1f.png)
+
+
 
 ## 仙帝归来
 ![仙帝归来](https://i0.hdslb.com/bfs/bangumi/image/5b32f84b250e0e1107bb1c51bc97c04084026abf.png)
