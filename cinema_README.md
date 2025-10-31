@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 心跳爆表！斯嘉丽带队大战变异恐龙
+![心跳爆表！斯嘉丽带队大战变异恐龙](https://i0.hdslb.com/bfs/bangumi/image/2596f62032af33a8644e4a75770e7ea09ed19860.png)
+
+## 萨拉米香肠可以作为火箭燃料！
+![萨拉米香肠可以作为火箭燃料！](https://i0.hdslb.com/bfs/bangumi/image/8910ddb12e51fb666cdb236d260a2ce66e7572dd.png)
+
+## 90年代五边形的家爆改多功能房！
+![90年代五边形的家爆改多功能房！](https://i0.hdslb.com/bfs/bangumi/image/f55196546bb77c992637d30ec6a7042cc60c7d07.png)
+
+
 ## 飞机高空起火，159名乘客丧生火海
 ![飞机高空起火，159名乘客丧生火海](https://i0.hdslb.com/bfs/bangumi/image/1f5b5325a04d51d018569c0a1f93f28c2079f711.png)
 
