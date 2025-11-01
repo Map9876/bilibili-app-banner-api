@@ -355,6 +355,16 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 十一月动画种草激励
+![十一月动画种草激励](https://i0.hdslb.com/bfs/bangumi/image/1ddae557c6666e1c98f466583820ebcacfaa64bf.png)
+
+## 和从前的弟子前往迷宫深处
+![和从前的弟子前往迷宫深处](https://i0.hdslb.com/bfs/bangumi/image/39e30f61eb04bd69466c1bcc264bfe2f1aafd00d.png)
+
+## 曾经有勇士
+![曾经有勇士](https://i0.hdslb.com/bfs/bangumi/image/845cda870dff3e1f6db01a92c84a6101575b1e1b.png)
+
+
 
 ## 扭曲仙境
 ![扭曲仙境](https://i0.hdslb.com/bfs/bangumi/image/003a363cade69be8247b3b79457142adb166a61f.png)

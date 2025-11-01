@@ -1,6 +1,34 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 决定了！一起来组女子乐队！
+![决定了！一起来组女子乐队！](https://i0.hdslb.com/bfs/bangumi/image/b1530173c47ab110245d487a4e640bc03e7203ef.png)
+
+## 看侏罗纪系列电影，赢精彩好礼！
+![看侏罗纪系列电影，赢精彩好礼！](https://i0.hdslb.com/bfs/bangumi/image/d23df3a676721484fd0e0fd9863b2416f98a7872.png)
+
+## 准备好迎接惊吓了吗！
+![准备好迎接惊吓了吗！](https://i0.hdslb.com/bfs/bangumi/image/154ec909046280e196858951e0e21c8ad596f8e6.png)
+
+## 但是还有戏剧
+![但是还有戏剧](https://i0.hdslb.com/bfs/bangumi/image/93f39099643b525d4ecfb12df896e11e6016b8b6.png)
+
+## 隐藏神力！少年梅林的王者守护之路
+![隐藏神力！少年梅林的王者守护之路](https://i0.hdslb.com/bfs/bangumi/image/7cb807da3d74649ec6bfb8c9fda27e9443d82243.png)
+
+## 五边形家改造，回到90年代的记忆
+![五边形家改造，回到90年代的记忆](https://i0.hdslb.com/bfs/bangumi/image/49aae8878fb0dbc99eda7104e8676e10bb821ca1.png)
+
+## 【中国唱将】沙漠情歌王子唱哭谭维维
+![【中国唱将】沙漠情歌王子唱哭谭维维](https://i0.hdslb.com/bfs/bangumi/image/059c6c108cd675b5de88259716d93f906e82d979.png)
+
+## 离谱！男子当街暴打前女友的前男友？！
+![离谱！男子当街暴打前女友的前男友？！](https://i0.hdslb.com/bfs/bangumi/image/5f52aa7d6d8ee72095facf950856a72bad2a7951.png)
+
+## 镜头之下，是永不褪色的历史记忆
+![镜头之下，是永不褪色的历史记忆](https://i0.hdslb.com/bfs/bangumi/image/8a5c357c85dcfa32135b2bb61402608cc248a06a.png)
+
+
 ## 心跳爆表！斯嘉丽带队大战变异恐龙
 ![心跳爆表！斯嘉丽带队大战变异恐龙](https://i0.hdslb.com/bfs/bangumi/image/2596f62032af33a8644e4a75770e7ea09ed19860.png)
 
