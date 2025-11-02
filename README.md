@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 叹气的亡灵想隐退
+![叹气的亡灵想隐退](https://i0.hdslb.com/bfs/bangumi/image/823aec05138f5d7287fd3e4369b1358305ef6ad5.png)
+
+
 ## 十一月动画种草激励
 ![十一月动画种草激励](https://i0.hdslb.com/bfs/bangumi/image/1ddae557c6666e1c98f466583820ebcacfaa64bf.png)
 
