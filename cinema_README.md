@@ -1,6 +1,22 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 日本宝藏综艺上线！普通人这样生活
+![日本宝藏综艺上线！普通人这样生活](https://i0.hdslb.com/bfs/bangumi/image/33b5406913f4e1d1751ad40e5271d021b8c020a0.png)
+
+## 25年金冰镐入围攀登实录首度公开
+![25年金冰镐入围攀登实录首度公开](https://i0.hdslb.com/bfs/bangumi/image/d28b44997504ce71cf8c2b3a4789be59575414c5.png)
+
+## 六席决赛名额的终极争夺！
+![六席决赛名额的终极争夺！](https://i0.hdslb.com/bfs/bangumi/image/3e38a381ce0b0cae8be0ec6060f0884b09b0a582.png)
+
+## 可以循环亿遍的经典音综舞台
+![可以循环亿遍的经典音综舞台](https://i0.hdslb.com/bfs/bangumi/image/5dcc6e0347291818ac2bb0de66f156e48f495b76.png)
+
+## 反驳型人格的相亲，引爆价值观冲突！
+![反驳型人格的相亲，引爆价值观冲突！](https://i0.hdslb.com/bfs/bangumi/image/2ecde693c6fe4b5dc3d44e547f08896aa3d69f36.png)
+
+
 ## 哪吒对决无限，展开会馆最强之争！
 ![哪吒对决无限，展开会馆最强之争！](https://i0.hdslb.com/bfs/bangumi/image/da5cad706682121a615b750da969fa7be1b0f191.png)
 
