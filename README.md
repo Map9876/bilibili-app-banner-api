@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 鬼灭之刃系列逐周限免
+![鬼灭之刃系列逐周限免](https://i0.hdslb.com/bfs/bangumi/image/32efc05eb1a250bb130409abb5b5458d03b2fd80.png)
+
+
 
 ## 叹气的亡灵想隐退
 ![叹气的亡灵想隐退](https://i0.hdslb.com/bfs/bangumi/image/823aec05138f5d7287fd3e4369b1358305ef6ad5.png)

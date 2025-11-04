@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 单身蟹的硬核撩妹技巧竟是...
+![单身蟹的硬核撩妹技巧竟是...](https://i0.hdslb.com/bfs/bangumi/image/05dbad55a59b6e8fe21c919e8105751eca62328d.png)
+
+## 航班离奇失事，致21人遇难
+![航班离奇失事，致21人遇难](https://i0.hdslb.com/bfs/bangumi/image/1f5b5325a04d51d018569c0a1f93f28c2079f711.png)
+
+
 ## 日本宝藏综艺上线！普通人这样生活
 ![日本宝藏综艺上线！普通人这样生活](https://i0.hdslb.com/bfs/bangumi/image/33b5406913f4e1d1751ad40e5271d021b8c020a0.png)
 
