@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 印度客机高空解体，329人无一生还
+![印度客机高空解体，329人无一生还](https://i0.hdslb.com/bfs/bangumi/image/80203d19848d3cba132319ff34be69de7fe7e4ee.png)
+
+## 狼来啦！玩趣比拼·秘密寻卧底
+![狼来啦！玩趣比拼·秘密寻卧底](https://i0.hdslb.com/bfs/bangumi/image/d3ec7b19c0dec23e3b0da75717ce354b55d3ab57.png)
+
+## 透过三天看穿人生百态
+![透过三天看穿人生百态](https://i0.hdslb.com/bfs/bangumi/image/9ecde68961337f4e28001e9b0e78feddf764b860.png)
+
+
 ## 哔哩哔哩探照灯计划
 ![哔哩哔哩探照灯计划](https://i0.hdslb.com/bfs/bangumi/image/02f4595acb02266a19423a1c3079f935ff2e4cec.png)
 
