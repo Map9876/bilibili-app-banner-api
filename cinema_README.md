@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## B站小矿工挖到宝酷了！快来瓜分！ 
+![B站小矿工挖到宝酷了！快来瓜分！ ](https://i0.hdslb.com/bfs/bangumi/image/5df240a00561cccace06e8328cd7eea15fd602ad.png)
+
+## 子弹居然能倒着飞？
+![子弹居然能倒着飞？](https://i0.hdslb.com/bfs/bangumi/image/de51cda81ebf0e88fd3d701e6050010da22875f4.png)
+
+
 ## 印度客机高空解体，329人无一生还
 ![印度客机高空解体，329人无一生还](https://i0.hdslb.com/bfs/bangumi/image/80203d19848d3cba132319ff34be69de7fe7e4ee.png)
 
