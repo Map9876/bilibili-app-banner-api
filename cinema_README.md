@@ -1,6 +1,25 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 女子乐队队友？还是...我自有分辨！
+![女子乐队队友？还是...我自有分辨！](https://i0.hdslb.com/bfs/bangumi/image/17b6dfbc0f4a7c281d77e7202d16740b8bb535e4.png)
+
+## 至暗时刻！莫根娜集结黑暗大军
+![至暗时刻！莫根娜集结黑暗大军](https://i0.hdslb.com/bfs/bangumi/image/64029dea28ff07b3c360e898baac2f3237957d53.png)
+
+## 中国首部核潜艇巨制，见证震撼对决
+![中国首部核潜艇巨制，见证震撼对决](https://i0.hdslb.com/bfs/bangumi/image/98011e358e67ed25916edc61d2ecf08f0c695647.png)
+
+## 收下这份暖呼呼的片单~
+![收下这份暖呼呼的片单~](https://i0.hdslb.com/bfs/bangumi/image/df80e3c76de9a212b20642a4552f14b132b1fd19.png)
+
+## 【中国唱将】周深演唱《璀璨冒险人》
+![【中国唱将】周深演唱《璀璨冒险人》](https://i0.hdslb.com/bfs/bangumi/image/059c6c108cd675b5de88259716d93f906e82d979.png)
+
+## 酒：又是我的错？？
+![酒：又是我的错？？](https://i0.hdslb.com/bfs/bangumi/image/5f52aa7d6d8ee72095facf950856a72bad2a7951.png)
+
+
 ## B站小矿工挖到宝酷了！快来瓜分！ 
 ![B站小矿工挖到宝酷了！快来瓜分！ ](https://i0.hdslb.com/bfs/bangumi/image/5df240a00561cccace06e8328cd7eea15fd602ad.png)
 
