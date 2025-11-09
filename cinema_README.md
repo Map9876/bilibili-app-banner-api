@@ -1,6 +1,28 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 贝爷在史前荒野中的生存法则！
+![贝爷在史前荒野中的生存法则！](https://i0.hdslb.com/bfs/bangumi/image/9d8a556d791eca09b62e7c42cc281bc05e737807.png)
+
+## 王冠将落！亚瑟迎战最强黑暗时代
+![王冠将落！亚瑟迎战最强黑暗时代](https://i0.hdslb.com/bfs/bangumi/image/05dc3fbb3727d813c2b93828fddf67328d6c9ae3.png)
+
+## 忘不掉的前女友VS聊得来的新邂逅
+![忘不掉的前女友VS聊得来的新邂逅](https://i0.hdslb.com/bfs/bangumi/image/01876292101473fa2f81e3af2a60dcc7d34004fd.png)
+
+## 无退之战！王小明惊喜返场！
+![无退之战！王小明惊喜返场！](https://i0.hdslb.com/bfs/bangumi/image/33818448df8c5c6ddbed901c0115d2542035034c.png)
+
+## 观影打卡，赢漫威联名运动鞋！
+![观影打卡，赢漫威联名运动鞋！](https://i0.hdslb.com/bfs/bangumi/image/e17fc5a91268bd1c6eb649ea0fa74116d7a9f58b.png)
+
+## 女嘉宾需要“F”人的理由竟然是？
+![女嘉宾需要“F”人的理由竟然是？](https://i0.hdslb.com/bfs/bangumi/image/7403de486919fc2b662017b2fef33f11de4a2dbb.png)
+
+## 漫威第一家庭回归！开启英雄新时代
+![漫威第一家庭回归！开启英雄新时代](https://i0.hdslb.com/bfs/bangumi/image/1c595df6ace481b8016440ae38c383d8d9f547e5.png)
+
+
 ## 女子乐队队友？还是...我自有分辨！
 ![女子乐队队友？还是...我自有分辨！](https://i0.hdslb.com/bfs/bangumi/image/17b6dfbc0f4a7c281d77e7202d16740b8bb535e4.png)
 

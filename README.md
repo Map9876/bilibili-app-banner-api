@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 天官赐福粤语版
+![天官赐福粤语版](https://i0.hdslb.com/bfs/bangumi/image/4065c40a1fd36e50a3bbf2b2024f2b087143ed71.png)
+
+## 剑网3·沈剑心的365天
+![剑网3·沈剑心的365天](https://i0.hdslb.com/bfs/bangumi/image/d91481f560ed58f1fcec0f93b81bc0dd99436c76.png)
+
+
 ## 国创发布会
 ![国创发布会](https://i0.hdslb.com/bfs/bangumi/image/b20debf9deacd3eac3b452744da53b30b48fc947.png)
 
