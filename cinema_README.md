@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 去东京VS在乡下，请选择你的人生
+![去东京VS在乡下，请选择你的人生](https://i0.hdslb.com/bfs/bangumi/image/2bd63bc9c8a351b786fae8137b607e1d88db0a92.png)
+
+## 60阿姨被出轨多次后学会自爱！
+![60阿姨被出轨多次后学会自爱！](https://i0.hdslb.com/bfs/bangumi/image/506c37c8cac541b09fc87cd70145663a49f8f724.png)
+
+
 ## 贝爷在史前荒野中的生存法则！
 ![贝爷在史前荒野中的生存法则！](https://i0.hdslb.com/bfs/bangumi/image/9d8a556d791eca09b62e7c42cc281bc05e737807.png)
 
