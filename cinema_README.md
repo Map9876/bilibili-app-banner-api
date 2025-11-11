@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 环绕海岸线！猎人团单车追行落日
+![环绕海岸线！猎人团单车追行落日](https://i0.hdslb.com/bfs/bangumi/image/cf37577feb6031fa4e4727d007004ab341a947a0.png)
+
+## 客机起飞5分钟后坠入加勒比海
+![客机起飞5分钟后坠入加勒比海](https://i0.hdslb.com/bfs/bangumi/image/80203d19848d3cba132319ff34be69de7fe7e4ee.png)
+
+## 锻造史上最快最薄最锋利的刀！   
+![锻造史上最快最薄最锋利的刀！   ](https://i0.hdslb.com/bfs/bangumi/image/9b3e167d2756b81998249f852255bde035723dc5.png)
+
+## 豆娘蜻蜓傻傻分不清？
+![豆娘蜻蜓傻傻分不清？](https://i0.hdslb.com/bfs/bangumi/image/05dbad55a59b6e8fe21c919e8105751eca62328d.png)
+
+
 ## 去东京VS在乡下，请选择你的人生
 ![去东京VS在乡下，请选择你的人生](https://i0.hdslb.com/bfs/bangumi/image/2bd63bc9c8a351b786fae8137b607e1d88db0a92.png)
 
