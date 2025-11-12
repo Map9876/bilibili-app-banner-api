@@ -355,6 +355,16 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 为喵人生
+![为喵人生](https://i0.hdslb.com/bfs/bangumi/image/28193987e81edb67178068368625f0936c216618.png)
+
+## 为你着迷
+![为你着迷](https://i0.hdslb.com/bfs/bangumi/image/03584de07eb80cf3fa9abe78d1b3214d1be8077b.png)
+
+## 去唱卡拉OK吧！
+![去唱卡拉OK吧！](https://i0.hdslb.com/bfs/bangumi/image/aa69eabc565b1c7a443da60270dcb3c29d92b1d1.png)
+
+
 
 
 ## 天官赐福粤语版
