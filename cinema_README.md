@@ -1,6 +1,31 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 治愈公路片，意式乡村见证兄弟和解
+![治愈公路片，意式乡村见证兄弟和解](https://i0.hdslb.com/bfs/bangumi/image/f1423f30c1f0af7f0fbd1cef1aa2e5e8d7524f88.png)
+
+## 奇幻迷必收片单！
+![奇幻迷必收片单！](https://i0.hdslb.com/bfs/bangumi/image/03613e2ef30be1b6d1d84489cb0d08a1bfe87750.png)
+
+## 一次粗心带来一场空难
+![一次粗心带来一场空难](https://i0.hdslb.com/bfs/bangumi/image/80203d19848d3cba132319ff34be69de7fe7e4ee.png)
+
+## @方山厨子：探秘坡子街派出所
+![@方山厨子：探秘坡子街派出所](https://i0.hdslb.com/bfs/bangumi/image/360a4e455bfa380b3949ea6611d1f5fa903107e7.png)
+
+## 车站里的形形色色
+![车站里的形形色色](https://i0.hdslb.com/bfs/bangumi/image/9ecde68961337f4e28001e9b0e78feddf764b860.png)
+
+## 狼来啦2：夜间寻狼！惊喜庆生趴
+![狼来啦2：夜间寻狼！惊喜庆生趴](https://i0.hdslb.com/bfs/bangumi/image/d3ec7b19c0dec23e3b0da75717ce354b55d3ab57.png)
+
+## 电子榨菜回归！开启跨国寻味之旅
+![电子榨菜回归！开启跨国寻味之旅](https://i0.hdslb.com/bfs/bangumi/image/b01da8b8bc51604ddfe5661d63fbe413d2adef12.png)
+
+## 刺客信条同款五指剑首次现身！ 
+![刺客信条同款五指剑首次现身！ ](https://i0.hdslb.com/bfs/bangumi/image/9b3e167d2756b81998249f852255bde035723dc5.png)
+
+
 ## 东方玄幻之作，少女窥梦陷异能纷争
 ![东方玄幻之作，少女窥梦陷异能纷争](https://i0.hdslb.com/bfs/bangumi/image/b203fd1506d767269c56a9cb544d6c8e8d7ca685.png)
 
