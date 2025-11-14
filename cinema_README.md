@@ -1,6 +1,25 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 德爷单挑地球五大秘境>>
+![德爷单挑地球五大秘境>>](https://i0.hdslb.com/bfs/bangumi/image/fc942f8147dc7958e67a837f60edf0c688b9cf40.png)
+
+## 安吉丽娜·朱莉主演，高音天后传记
+![安吉丽娜·朱莉主演，高音天后传记](https://i0.hdslb.com/bfs/bangumi/image/b2bcd2a2226996dae9e7ef32e80e1adf80e03f49.png)
+
+## 天使也有实习期
+![天使也有实习期](https://i0.hdslb.com/bfs/bangumi/image/9608d2f7ed60333d310008792efd4af531d46d03.png)
+
+## @刘老师说电影：这一季解放西更炸裂！
+![@刘老师说电影：这一季解放西更炸裂！](https://i0.hdslb.com/bfs/bangumi/image/34523a61f785f0b0196b22a37569984c3b68e096.png)
+
+## 警惕！都是情绪失控惹的祸？！
+![警惕！都是情绪失控惹的祸？！](https://i0.hdslb.com/bfs/bangumi/image/57b75f509a8d08ce93b0c14ca8786a7250fa0db2.png)
+
+## 江南水乡101岁老宅焕发新生！
+![江南水乡101岁老宅焕发新生！](https://i0.hdslb.com/bfs/bangumi/image/49aae8878fb0dbc99eda7104e8676e10bb821ca1.png)
+
+
 ## 治愈公路片，意式乡村见证兄弟和解
 ![治愈公路片，意式乡村见证兄弟和解](https://i0.hdslb.com/bfs/bangumi/image/f1423f30c1f0af7f0fbd1cef1aa2e5e8d7524f88.png)
 
