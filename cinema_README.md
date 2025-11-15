@@ -1,6 +1,37 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 心跳加速！我的室友最近好像有点奇怪?
+![心跳加速！我的室友最近好像有点奇怪?](https://i0.hdslb.com/bfs/bangumi/image/ad2e23b76c176e0d38a4d0a87df873ccdae14e5c.png)
+
+## 风起杏林
+![风起杏林](https://i0.hdslb.com/bfs/bangumi/image/7efcfb6fe5e96b642ad0001c3bc08ead70e14ff6.png)
+
+## 古镇里的枕水人家！
+![古镇里的枕水人家！](https://i0.hdslb.com/bfs/bangumi/image/49aae8878fb0dbc99eda7104e8676e10bb821ca1.png)
+
+## 在肾上腺素飙升中挑战人类极限！
+![在肾上腺素飙升中挑战人类极限！](https://i0.hdslb.com/bfs/bangumi/image/f818d1ba863265ee8e75b0fe1b24dc8a4e7613e8.png)
+
+## 【中国唱将】薛之谦新歌综艺首唱
+![【中国唱将】薛之谦新歌综艺首唱](https://i0.hdslb.com/bfs/bangumi/image/059c6c108cd675b5de88259716d93f906e82d979.png)
+
+## 投票参与阵营对决，赢捕风好礼！
+![投票参与阵营对决，赢捕风好礼！](https://i0.hdslb.com/bfs/bangumi/image/45779a6c34d502eb4a2e784a3d3d5c2924a1d7cf.png)
+
+## 魔法终章！梅林守护亚瑟成永恒之王
+![魔法终章！梅林守护亚瑟成永恒之王](https://i0.hdslb.com/bfs/bangumi/image/e8e1ff11072f612de53e6b7751c22a677190082f.png)
+
+## 品牌手机免费送？警察直捣骗子老窝>>
+![品牌手机免费送？警察直捣骗子老窝>>](https://i0.hdslb.com/bfs/bangumi/image/5f52aa7d6d8ee72095facf950856a72bad2a7951.png)
+
+## 总决赛之夜！见证冠军主持诞生！
+![总决赛之夜！见证冠军主持诞生！](https://i0.hdslb.com/bfs/bangumi/image/3e38a381ce0b0cae8be0ec6060f0884b09b0a582.png)
+
+## 梁家辉爆改狼爹，演绎“父慈子孝”
+![梁家辉爆改狼爹，演绎“父慈子孝”](https://i0.hdslb.com/bfs/bangumi/image/08f6796f72c75c070a13260c27bccd0594d2832a.png)
+
+
 ## 德爷单挑地球五大秘境>>
 ![德爷单挑地球五大秘境>>](https://i0.hdslb.com/bfs/bangumi/image/fc942f8147dc7958e67a837f60edf0c688b9cf40.png)
 
