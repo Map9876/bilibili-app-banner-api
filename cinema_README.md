@@ -1,6 +1,25 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 胜利1945——我家的两岸抗战记忆
+![胜利1945——我家的两岸抗战记忆](https://i0.hdslb.com/bfs/bangumi/image/01d45a1bb9c35e127df54ed084e42dd68bf6514c.png)
+
+## 新闻女王来啦！姜Dora专访佘诗曼
+![新闻女王来啦！姜Dora专访佘诗曼](https://i0.hdslb.com/bfs/bangumi/image/edfc3e2b4cf5f48da3918ab5505cda6916f1194b.png)
+
+## 双胞胎姐妹携手寻爱，相亲修罗场拉开！
+![双胞胎姐妹携手寻爱，相亲修罗场拉开！](https://i0.hdslb.com/bfs/bangumi/image/2ecde693c6fe4b5dc3d44e547f08896aa3d69f36.png)
+
+## B站跨晚1000张录制门票放送中！
+![B站跨晚1000张录制门票放送中！](https://i0.hdslb.com/bfs/bangumi/image/07c6c7e183b6129d78534ef33a5dcda02d228a56.png)
+
+## 大结局！人类无限可能
+![大结局！人类无限可能](https://i0.hdslb.com/bfs/bangumi/image/33818448df8c5c6ddbed901c0115d2542035034c.png)
+
+## 勇闯无人区！荒野老吃家限时返场
+![勇闯无人区！荒野老吃家限时返场](https://i0.hdslb.com/bfs/bangumi/image/084b9a650326a3c792a300a6dda93e2bafa86a4b.png)
+
+
 ## 心跳加速！我的室友最近好像有点奇怪?
 ![心跳加速！我的室友最近好像有点奇怪?](https://i0.hdslb.com/bfs/bangumi/image/ad2e23b76c176e0d38a4d0a87df873ccdae14e5c.png)
 
