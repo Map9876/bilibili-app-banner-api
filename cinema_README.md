@@ -1,6 +1,25 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 科技也可能成为致命陷阱>>
+![科技也可能成为致命陷阱>>](https://i0.hdslb.com/bfs/bangumi/image/1e805b16ad3350879949879be82cd1948aa6bcee.png)
+
+## 狼来啦：烟火伴收官！限时协作挑战
+![狼来啦：烟火伴收官！限时协作挑战](https://i0.hdslb.com/bfs/bangumi/image/d3ec7b19c0dec23e3b0da75717ce354b55d3ab57.png)
+
+## 梁家辉豺狼附体，硬核武打招招炸裂
+![梁家辉豺狼附体，硬核武打招招炸裂](https://i0.hdslb.com/bfs/bangumi/image/08f6796f72c75c070a13260c27bccd0594d2832a.png)
+
+## 七年同行！周深加盟B站跨年晚会！
+![七年同行！周深加盟B站跨年晚会！](https://i0.hdslb.com/bfs/bangumi/image/a310db3359422a6496c59da76ce315f1607c07ce.png)
+
+## 中国双子星并肩出战
+![中国双子星并肩出战](https://i0.hdslb.com/bfs/bangumi/image/f2bf25196bd3365783f99dca813385a1c645042e.png)
+
+## 甲骨的数字化回归
+![甲骨的数字化回归](https://i0.hdslb.com/bfs/bangumi/image/06a9c4429c6e62065a40827f2b8b8c7b391179c1.png)
+
+
 ## 韦斯安德森执导，父女联手对抗匪徒
 ![韦斯安德森执导，父女联手对抗匪徒](https://i0.hdslb.com/bfs/bangumi/image/4ab7730fa6b65b2408efc941eaf576a5bebad546.png)
 
