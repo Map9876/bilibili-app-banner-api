@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 浪浪山小妖怪
+![浪浪山小妖怪](https://i0.hdslb.com/bfs/bangumi/image/92dafecc5d68a74a40341712f5d73522825c16c0.png)
+
+
 
 
 
