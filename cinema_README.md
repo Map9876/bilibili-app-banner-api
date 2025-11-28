@@ -1,6 +1,10 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 零帧起手！千年蜀锦文创园区大改造
+![零帧起手！千年蜀锦文创园区大改造](https://i0.hdslb.com/bfs/bangumi/image/49aae8878fb0dbc99eda7104e8676e10bb821ca1.png)
+
+
 ## 白酒的香气历久弥新
 ![白酒的香气历久弥新](https://i0.hdslb.com/bfs/bangumi/image/9ec7cf4b685c70a834ffa236a4ff9ca45383e533.png)
 
