@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 青春校园力作，学渣学霸相爱相杀！
+![青春校园力作，学渣学霸相爱相杀！](https://i0.hdslb.com/bfs/bangumi/image/94fd2f7fb5c1b498dc9dd8b508fb2f2cf96d431a.png)
+
+## 雌雄大盗对决贼王
+![雌雄大盗对决贼王](https://i0.hdslb.com/bfs/bangumi/image/d66520dd8efd005ab2d449c3851a4749ed683ccc.png)
+
+## 上海金融男VS长沙商务男，谁能获芳心
+![上海金融男VS长沙商务男，谁能获芳心](https://i0.hdslb.com/bfs/bangumi/image/2ecde693c6fe4b5dc3d44e547f08896aa3d69f36.png)
+
+## 贝爷大战巨型咸水鳄！
+![贝爷大战巨型咸水鳄！](https://i0.hdslb.com/bfs/bangumi/image/b0a700a4e415c9daec24da31df37c3a8d9e9782f.png)
+
+
 ## 丝路原点上的蜀锦家园！
 ![丝路原点上的蜀锦家园！](https://i0.hdslb.com/bfs/bangumi/image/49aae8878fb0dbc99eda7104e8676e10bb821ca1.png)
 
