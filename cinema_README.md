@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 集结号背后的生死坚守
+![集结号背后的生死坚守](https://i0.hdslb.com/bfs/bangumi/image/f82e1192bb7b4c79585e72b6df7410870fe1f09a.png)
+
+## 女嘉宾陷入终极二选一难题！
+![女嘉宾陷入终极二选一难题！](https://i0.hdslb.com/bfs/bangumi/image/7403de486919fc2b662017b2fef33f11de4a2dbb.png)
+
+## 逆风局打工实录！
+![逆风局打工实录！](https://i0.hdslb.com/bfs/bangumi/image/2bd63bc9c8a351b786fae8137b607e1d88db0a92.png)
+
+
 ## 青春校园力作，学渣学霸相爱相杀！
 ![青春校园力作，学渣学霸相爱相杀！](https://i0.hdslb.com/bfs/bangumi/image/94fd2f7fb5c1b498dc9dd8b508fb2f2cf96d431a.png)
 
