@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 非洲（中配版）
+![非洲（中配版）](https://i0.hdslb.com/bfs/bangumi/image/4cf3beed22af4c61e1e802ea1511e6036829a32d.png)
+
+## 流动美食盛宴！猎人团徜徉电车餐厅
+![流动美食盛宴！猎人团徜徉电车餐厅](https://i0.hdslb.com/bfs/bangumi/image/cf37577feb6031fa4e4727d007004ab341a947a0.png)
+
+
 ## 集结号背后的生死坚守
 ![集结号背后的生死坚守](https://i0.hdslb.com/bfs/bangumi/image/f82e1192bb7b4c79585e72b6df7410870fe1f09a.png)
 
