@@ -1,6 +1,25 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 蕾哈娜配音，蓝妹妹开启跨次元冒险
+![蕾哈娜配音，蓝妹妹开启跨次元冒险](https://i0.hdslb.com/bfs/bangumi/image/08b4550fc5c26f20abe331216e7a4e29175dcb9d.png)
+
+## 男孩哭诉被父亲菜刀追杀，真相是？
+![男孩哭诉被父亲菜刀追杀，真相是？](https://i0.hdslb.com/bfs/bangumi/image/5f52aa7d6d8ee72095facf950856a72bad2a7951.png)
+
+## 拉宏桑探班喜夜2后台VLOG！
+![拉宏桑探班喜夜2后台VLOG！](https://i0.hdslb.com/bfs/bangumi/image/edfc3e2b4cf5f48da3918ab5505cda6916f1194b.png)
+
+## 富足传统年上男VS理性锐气年下男
+![富足传统年上男VS理性锐气年下男](https://i0.hdslb.com/bfs/bangumi/image/2ecde693c6fe4b5dc3d44e547f08896aa3d69f36.png)
+
+## 观影打卡，赢疯狂动物城周边大礼包！
+![观影打卡，赢疯狂动物城周边大礼包！](https://i0.hdslb.com/bfs/bangumi/image/f8043686013a59f34b05c035bb198b945df3db7c.png)
+
+## 央视出手搞喜剧？超豪华嘉宾阵容集结！
+![央视出手搞喜剧？超豪华嘉宾阵容集结！](https://i0.hdslb.com/bfs/bangumi/image/75090fcc6ce7350da698dbffd36c579a591dc8e9.png)
+
+
 ## 数字游民的田园新家！
 ![数字游民的田园新家！](https://i0.hdslb.com/bfs/bangumi/image/49aae8878fb0dbc99eda7104e8676e10bb821ca1.png)
 
