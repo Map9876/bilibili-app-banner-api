@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 客机因盘旋等待过久而结冰坠毁>>
+![客机因盘旋等待过久而结冰坠毁>>](https://i0.hdslb.com/bfs/bangumi/image/091b6f091b53a6d9dec2389ec50f9f433c6e0af1.png)
+
+## 山在雾里，人在茶间
+![山在雾里，人在茶间](https://i0.hdslb.com/bfs/bangumi/image/a1fcb9b9a6591e8b97f679cdecf7c31e75dadeb4.png)
+
+
 ## 苏拉威1·1空难详解>>
 ![苏拉威1·1空难详解>>](https://i0.hdslb.com/bfs/bangumi/image/091b6f091b53a6d9dec2389ec50f9f433c6e0af1.png)
 
