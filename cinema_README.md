@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 人为失误酿成惨案>>
+![人为失误酿成惨案>>](https://i0.hdslb.com/bfs/bangumi/image/2699ad7f51ac317c9c7be8731352e34ea1a64974.png)
+
+## 鲁豫街头拷问，明星坦白局开始！
+![鲁豫街头拷问，明星坦白局开始！](https://i0.hdslb.com/bfs/bangumi/image/268ca5f5dac31fe98002b307ceedbc0788966301.png)
+
+## 暗号2333！独家直播12日晚见
+![暗号2333！独家直播12日晚见](https://i0.hdslb.com/bfs/bangumi/image/47239dbcdcc6c2c0a30523d0b9cfb32f497210fa.png)
+
+## 白海豚为什么是粉色的？
+![白海豚为什么是粉色的？](https://i0.hdslb.com/bfs/bangumi/image/4a9b891fe57eeab400fd187251bfe7c1ccda8b4e.png)
+
+
 ## 客机因盘旋等待过久而结冰坠毁>>
 ![客机因盘旋等待过久而结冰坠毁>>](https://i0.hdslb.com/bfs/bangumi/image/091b6f091b53a6d9dec2389ec50f9f433c6e0af1.png)
 
