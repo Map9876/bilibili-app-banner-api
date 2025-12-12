@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 《德爷的登阶奇旅》定档12月16日！
+![《德爷的登阶奇旅》定档12月16日！](https://i0.hdslb.com/bfs/bangumi/image/f43282bdd964d6fa567042625f58aec1b076c25c.png)
+
+## 四集连播中！燕山长城考古研学记
+![四集连播中！燕山长城考古研学记](https://i0.hdslb.com/bfs/bangumi/image/47239dbcdcc6c2c0a30523d0b9cfb32f497210fa.png)
+
+## 这才叫烟火气！边营业边装修的街头餐馆
+![这才叫烟火气！边营业边装修的街头餐馆](https://i0.hdslb.com/bfs/bangumi/image/49aae8878fb0dbc99eda7104e8676e10bb821ca1.png)
+
+
 ## 人为失误酿成惨案>>
 ![人为失误酿成惨案>>](https://i0.hdslb.com/bfs/bangumi/image/2699ad7f51ac317c9c7be8731352e34ea1a64974.png)
 
