@@ -1,6 +1,34 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 最美改造！十三年不涨价的烟火小店
+![最美改造！十三年不涨价的烟火小店](https://i0.hdslb.com/bfs/bangumi/image/49aae8878fb0dbc99eda7104e8676e10bb821ca1.png)
+
+## 参与投票对决赢好礼！
+![参与投票对决赢好礼！](https://i0.hdslb.com/bfs/bangumi/image/095f36d84f94bc946f2410b7f52a7a4b7535940d.png)
+
+## 看唐顿 赢“双人双飞英国游”
+![看唐顿 赢“双人双飞英国游”](https://i0.hdslb.com/bfs/bangumi/image/5e0aea64d0dbaece0ac3b6dbbd0575d6456d187b.png)
+
+## 坏蛋天团回归，狼界蛊王重操旧业？
+![坏蛋天团回归，狼界蛊王重操旧业？](https://i0.hdslb.com/bfs/bangumi/image/4f9fe751afbc6dcf8aa8eaebc8b5174d03b3e745.png)
+
+## 英国贵族庄园的命运序章
+![英国贵族庄园的命运序章](https://i0.hdslb.com/bfs/bangumi/image/38e12d33c04e615cc647c5f8b83c3c1d0acacb4e.png)
+
+## 弑神小队高燃集结，开启双世界冒险
+![弑神小队高燃集结，开启双世界冒险](https://i0.hdslb.com/bfs/bangumi/image/66e64c94c61d3b4a21c79fb07341c4d8e7fdd64b.png)
+
+## 女高音演唱《流浪地球2》主题曲！
+![女高音演唱《流浪地球2》主题曲！](https://i0.hdslb.com/bfs/bangumi/image/145b40abc0dd4a63c737901cc96f1ba1fe5aafb0.png)
+
+## 看见职业背后的故事
+![看见职业背后的故事](https://i0.hdslb.com/bfs/bangumi/image/ecfb4061acc829963f9d6a014cf7cfcc6f948fe9.png)
+
+## 直播回顾上线！加入马嘉祺热血世界
+![直播回顾上线！加入马嘉祺热血世界](https://i0.hdslb.com/bfs/bangumi/image/47239dbcdcc6c2c0a30523d0b9cfb32f497210fa.png)
+
+
 ## 《德爷的登阶奇旅》定档12月16日！
 ![《德爷的登阶奇旅》定档12月16日！](https://i0.hdslb.com/bfs/bangumi/image/f43282bdd964d6fa567042625f58aec1b076c25c.png)
 

@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 新爆笑校园 第一季
+![新爆笑校园 第一季](https://i0.hdslb.com/bfs/bangumi/image/add0234336dd862974f5027939755ffe89254c93.png)
+
+
 
 
 
