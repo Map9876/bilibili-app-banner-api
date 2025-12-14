@@ -1,6 +1,31 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 系列总结篇！嘉宾室里的心机大讨论
+![系列总结篇！嘉宾室里的心机大讨论](https://i0.hdslb.com/bfs/bangumi/image/af962cca9e36f5aeab231a3303849fcafe085c68.png)
+
+## 相亲竟遇上同频共振的那个TA？
+![相亲竟遇上同频共振的那个TA？](https://i0.hdslb.com/bfs/bangumi/image/7403de486919fc2b662017b2fef33f11de4a2dbb.png)
+
+## 战火中的贵族命运与人性赞歌
+![战火中的贵族命运与人性赞歌](https://i0.hdslb.com/bfs/bangumi/image/bab2dcee75fd11920a13d468b32af175b4f71493.png)
+
+## 反复观看！马嘉祺生日那些独家瞬间
+![反复观看！马嘉祺生日那些独家瞬间](https://i0.hdslb.com/bfs/bangumi/image/47239dbcdcc6c2c0a30523d0b9cfb32f497210fa.png)
+
+## 寻找张纯如
+![寻找张纯如](https://i0.hdslb.com/bfs/bangumi/image/85a90aac298ad39612d6eb8bfa35a6781f722da4.png)
+
+## 国产奇幻巨制，邓超董子健联手弑神
+![国产奇幻巨制，邓超董子健联手弑神](https://i0.hdslb.com/bfs/bangumi/image/8eae7ea0541924e2cf166b2cdac8e687877db70b.png)
+
+## 贾冰的春晚“老搭档”被全场疯狂夸奖？
+![贾冰的春晚“老搭档”被全场疯狂夸奖？](https://i0.hdslb.com/bfs/bangumi/image/98437040d3eae828dd45f9defcaa4a4d7b0943c8.png)
+
+## 上B站看NCAA独播
+![上B站看NCAA独播](https://i0.hdslb.com/bfs/bangumi/image/2ba5fe685f01dfa9a9f0c863131393563d312aa8.png)
+
+
 ## 最美改造！十三年不涨价的烟火小店
 ![最美改造！十三年不涨价的烟火小店](https://i0.hdslb.com/bfs/bangumi/image/49aae8878fb0dbc99eda7104e8676e10bb821ca1.png)
 
