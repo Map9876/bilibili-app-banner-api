@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 回忆杀！这些小马的歌声是否记得？
+![回忆杀！这些小马的歌声是否记得？](https://i0.hdslb.com/bfs/bangumi/image/47239dbcdcc6c2c0a30523d0b9cfb32f497210fa.png)
+
+## 邂逅新鲜奇异果！猎人团的果农日记
+![邂逅新鲜奇异果！猎人团的果农日记](https://i0.hdslb.com/bfs/bangumi/image/cf37577feb6031fa4e4727d007004ab341a947a0.png)
+
+## 豆瓣评分9.7！见证地球的美丽与疮痍
+![豆瓣评分9.7！见证地球的美丽与疮痍](https://i0.hdslb.com/bfs/bangumi/image/de5c4bd4abb10a9e6a0999cb9c8d94e7e36c185a.png)
+
+
 ## 上B站看NCAA
 ![上B站看NCAA](https://i0.hdslb.com/bfs/bangumi/image/d5817dc9dc089637b21ed406a2f709d110dc7c8a.png)
 
