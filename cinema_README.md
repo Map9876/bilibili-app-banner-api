@@ -1,6 +1,25 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 许光汉庾澄庆配音，闯荡赛博新世界！
+![许光汉庾澄庆配音，闯荡赛博新世界！](https://i0.hdslb.com/bfs/bangumi/image/1c8f732bcc723238283eb1a7160ecd37dd3d5c6c.png)
+
+## 深入西双版纳，开启一场雨林徒步
+![深入西双版纳，开启一场雨林徒步](https://i0.hdslb.com/bfs/bangumi/image/a7be9c85bdca05d554245e087e6265ddb3f2f29d.png)
+
+## 女装间谍引爆欧洲血战！
+![女装间谍引爆欧洲血战！](https://i0.hdslb.com/bfs/bangumi/image/a2d388a36264760032dcd8e49027cf6fb73cbfe4.png)
+
+## 梦工厂力作，上演太空黄金大劫案
+![梦工厂力作，上演太空黄金大劫案](https://i0.hdslb.com/bfs/bangumi/image/4f9fe751afbc6dcf8aa8eaebc8b5174d03b3e745.png)
+
+## 德爷回归！完成【成人礼】终极挑战
+![德爷回归！完成【成人礼】终极挑战](https://i0.hdslb.com/bfs/bangumi/image/f43282bdd964d6fa567042625f58aec1b076c25c.png)
+
+## 听觉盛宴！胡彦斌张韶涵加盟B站跨晚
+![听觉盛宴！胡彦斌张韶涵加盟B站跨晚](https://i0.hdslb.com/bfs/bangumi/image/99918fce41448f82235ef7e93078b5306a73b4ff.png)
+
+
 ## 回忆杀！这些小马的歌声是否记得？
 ![回忆杀！这些小马的歌声是否记得？](https://i0.hdslb.com/bfs/bangumi/image/47239dbcdcc6c2c0a30523d0b9cfb32f497210fa.png)
 
