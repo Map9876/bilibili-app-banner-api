@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 跃牛仪式！德爷能否顺利成为【真男人】
+![跃牛仪式！德爷能否顺利成为【真男人】](https://i0.hdslb.com/bfs/bangumi/image/f43282bdd964d6fa567042625f58aec1b076c25c.png)
+
+## 国漫来袭！凡人修仙传亮相B站跨晚
+![国漫来袭！凡人修仙传亮相B站跨晚](https://i0.hdslb.com/bfs/bangumi/image/497d44e806d54f3d8af97828b2644367edd8a770.png)
+
+
 ## 许光汉庾澄庆配音，闯荡赛博新世界！
 ![许光汉庾澄庆配音，闯荡赛博新世界！](https://i0.hdslb.com/bfs/bangumi/image/1c8f732bcc723238283eb1a7160ecd37dd3d5c6c.png)
 
