@@ -1,6 +1,22 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 三集连播！新西游燕山长城考古研学
+![三集连播！新西游燕山长城考古研学](https://i0.hdslb.com/bfs/bangumi/image/47239dbcdcc6c2c0a30523d0b9cfb32f497210fa.png)
+
+## 德爷深入赞比亚西部探寻菌斑之谜>>
+![德爷深入赞比亚西部探寻菌斑之谜>>](https://i0.hdslb.com/bfs/bangumi/image/36d0c2a1fc6fd66e4ad1baef81610813f4839ac9.png)
+
+## 人与自然和谐共处
+![人与自然和谐共处](https://i0.hdslb.com/bfs/bangumi/image/c96f022ad6a84b2bc11d421c53914510bf18e08d.png)
+
+## 偷偷改造东北老家！女儿们给父母的惊喜
+![偷偷改造东北老家！女儿们给父母的惊喜](https://i0.hdslb.com/bfs/bangumi/image/49aae8878fb0dbc99eda7104e8676e10bb821ca1.png)
+
+## 双厨狂喜！阿云嘎科莫合作音乐剧舞台
+![双厨狂喜！阿云嘎科莫合作音乐剧舞台](https://i0.hdslb.com/bfs/bangumi/image/9fee442a5977f9cf2c35b76deebf824eefe50f05.png)
+
+
 ## 跃牛仪式！德爷能否顺利成为【真男人】
 ![跃牛仪式！德爷能否顺利成为【真男人】](https://i0.hdslb.com/bfs/bangumi/image/f43282bdd964d6fa567042625f58aec1b076c25c.png)
 
