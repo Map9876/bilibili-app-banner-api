@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 中国奇谭2超前点映
+![中国奇谭2超前点映](https://i0.hdslb.com/bfs/bangumi/image/5396f3afaabb0e4b3b1eb138026e2418be1fe304.png)
+
+
 
 ## 凡人修仙传即将亮相B站跨晚！
 ![凡人修仙传即将亮相B站跨晚！](https://i0.hdslb.com/bfs/bangumi/image/bae70dc88fb1bb8ef88575fef104d5444ca2e306.png)
