@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 新思潮冲击庄园，革新已悄然迫近
+![新思潮冲击庄园，革新已悄然迫近](https://i0.hdslb.com/bfs/bangumi/image/09c95f037d46d2dfe1d1b35f96d85660c17fda5f.png)
+
+## 任何场合都有妙用的心机方言分享！
+![任何场合都有妙用的心机方言分享！](https://i0.hdslb.com/bfs/bangumi/image/af962cca9e36f5aeab231a3303849fcafe085c68.png)
+
+## 甜蜜收尾！25年最后营业能否锁住心动
+![甜蜜收尾！25年最后营业能否锁住心动](https://i0.hdslb.com/bfs/bangumi/image/46269d28c37910bec4e20100796f016e1b381145.png)
+
+## 来跨晚见证汪东城曾沛慈同台！
+![来跨晚见证汪东城曾沛慈同台！](https://i0.hdslb.com/bfs/bangumi/image/a6716648ca06aaafb72935ddca58c0b55325f752.png)
+
+
 ## 水之道，无穷无尽，无始无终。
 ![水之道，无穷无尽，无始无终。](https://i0.hdslb.com/bfs/bangumi/image/a7f534db0f0c9ceeeed416ba940d10677b5cd943.png)
 
