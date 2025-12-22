@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 为何有些人的精神世界会如此富足？
+![为何有些人的精神世界会如此富足？](https://i0.hdslb.com/bfs/bangumi/image/2bd63bc9c8a351b786fae8137b607e1d88db0a92.png)
+
+## 愿意与我继续共振吗？男嘉宾心动告白
+![愿意与我继续共振吗？男嘉宾心动告白](https://i0.hdslb.com/bfs/bangumi/image/9473b8d1a68f081ab731a8c1a3d83a16a15c1aee.png)
+
+## 10年UP主入职男团！！
+![10年UP主入职男团！！](https://i0.hdslb.com/bfs/bangumi/image/edfc3e2b4cf5f48da3918ab5505cda6916f1194b.png)
+
+## 实力歌手汪峰王铮亮陪你B站跨年！
+![实力歌手汪峰王铮亮陪你B站跨年！](https://i0.hdslb.com/bfs/bangumi/image/a6716648ca06aaafb72935ddca58c0b55325f752.png)
+
+
 ## 新思潮冲击庄园，革新已悄然迫近
 ![新思潮冲击庄园，革新已悄然迫近](https://i0.hdslb.com/bfs/bangumi/image/09c95f037d46d2dfe1d1b35f96d85660c17fda5f.png)
 
