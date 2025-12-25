@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 走近苏轼的一生
+![走近苏轼的一生](https://i0.hdslb.com/bfs/bangumi/image/105c1fb17e550ed03154bf2b12e0809e7bfab190.png)
+
+## 德爷重返亚马逊被子弹蚁咬到破防>>
+![德爷重返亚马逊被子弹蚁咬到破防>>](https://i0.hdslb.com/bfs/bangumi/image/f43282bdd964d6fa567042625f58aec1b076c25c.png)
+
+## 二十周年纪念作，羊狼联手护光明！
+![二十周年纪念作，羊狼联手护光明！](https://i0.hdslb.com/bfs/bangumi/image/1172370326c17e398019349a2135bce90037f989.png)
+
+## 新生代力量！黄子弘凡沈佳润陪你跨年
+![新生代力量！黄子弘凡沈佳润陪你跨年](https://i0.hdslb.com/bfs/bangumi/image/ee24df52e2f90cb6fe9d630ecf750c24b0eceb8e.png)
+
+
 ## 慢慢到达
 ![慢慢到达](https://i0.hdslb.com/bfs/bangumi/image/489b9e34e4b8ba6d6b4e9b8a0c31205be72de0e6.png)
 
