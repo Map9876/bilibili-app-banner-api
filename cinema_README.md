@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 老城改造！让居民生活得更好
+![老城改造！让居民生活得更好](https://i0.hdslb.com/bfs/bangumi/image/49aae8878fb0dbc99eda7104e8676e10bb821ca1.png)
+
+## 影展入围佳作，公路片全新打开方式
+![影展入围佳作，公路片全新打开方式](https://i0.hdslb.com/bfs/bangumi/image/4fe7c923a819aa781b09287dca7118f5f35693e2.png)
+
+## 游戏IP陪你跨晚狂欢！
+![游戏IP陪你跨晚狂欢！](https://i0.hdslb.com/bfs/bangumi/image/06088c0494db8eef7dedc6a1984819635397bc33.png)
+
+
 ## 走近苏轼的一生
 ![走近苏轼的一生](https://i0.hdslb.com/bfs/bangumi/image/105c1fb17e550ed03154bf2b12e0809e7bfab190.png)
 
