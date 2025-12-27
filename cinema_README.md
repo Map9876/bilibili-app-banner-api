@@ -1,6 +1,25 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 古建漫游指南
+![古建漫游指南](https://i0.hdslb.com/bfs/bangumi/image/73292cdee9c8bf9d778d2a931f7cf780da72f0fe.png)
+
+## 胡彦斌张韶涵陪你一起跨年
+![胡彦斌张韶涵陪你一起跨年](https://i0.hdslb.com/bfs/bangumi/image/99918fce41448f82235ef7e93078b5306a73b4ff.png)
+
+## 民族唱法终极入营战！
+![民族唱法终极入营战！](https://i0.hdslb.com/bfs/bangumi/image/145b40abc0dd4a63c737901cc96f1ba1fe5aafb0.png)
+
+## 新旧浪潮间庄园的命运抉择
+![新旧浪潮间庄园的命运抉择](https://i0.hdslb.com/bfs/bangumi/image/7dd4e73d15bc2a513014d0bc8c6175e9c048066d.png)
+
+## 你会找到想要的答案
+![你会找到想要的答案](https://i0.hdslb.com/bfs/bangumi/image/247f5efc2328fda2af380337d5411da56829bccd.png)
+
+## 加拿大甜心！蹲妹来B站陪你跨年啦
+![加拿大甜心！蹲妹来B站陪你跨年啦](https://i0.hdslb.com/bfs/bangumi/image/7874acc789f91d7ae7c0ca1208fe5feb033ebbae.png)
+
+
 ## 老城改造！让居民生活得更好
 ![老城改造！让居民生活得更好](https://i0.hdslb.com/bfs/bangumi/image/49aae8878fb0dbc99eda7104e8676e10bb821ca1.png)
 
