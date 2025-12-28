@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 唐顿庄园迎来史诗终章
+![唐顿庄园迎来史诗终章](https://i0.hdslb.com/bfs/bangumi/image/b937bd5a7c21feca9a46bdb587f53ec834617f8f.png)
+
+## 贾冰阎鹤祥体验被“套鹅”
+![贾冰阎鹤祥体验被“套鹅”](https://i0.hdslb.com/bfs/bangumi/image/98437040d3eae828dd45f9defcaa4a4d7b0943c8.png)
+
+
 ## 古建漫游指南
 ![古建漫游指南](https://i0.hdslb.com/bfs/bangumi/image/73292cdee9c8bf9d778d2a931f7cf780da72f0fe.png)
 
