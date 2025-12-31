@@ -1,6 +1,25 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 法国定格动画，少女开启丛林冒险！
+![法国定格动画，少女开启丛林冒险！](https://i0.hdslb.com/bfs/bangumi/image/045da6cadb9e9d66a8acc70794809b68812152b9.png)
+
+## 大明才子波澜壮阔的一生
+![大明才子波澜壮阔的一生](https://i0.hdslb.com/bfs/bangumi/image/429ab446d537dbc21075136802e6ce5b1de55c16.png)
+
+## 顾客海底捞发现捞面多次甩地上？
+![顾客海底捞发现捞面多次甩地上？](https://i0.hdslb.com/bfs/bangumi/image/8d6f81b0878cd131ff435f687ac4e5f3914b2e2c.png)
+
+## 德爷化身草原学徒，挑战传统摔跤技艺
+![德爷化身草原学徒，挑战传统摔跤技艺](https://i0.hdslb.com/bfs/bangumi/image/f43282bdd964d6fa567042625f58aec1b076c25c.png)
+
+## 我准备好了！
+![我准备好了！](https://i0.hdslb.com/bfs/bangumi/image/6fcf81593f09be626525274c789d445ad296f996.png)
+
+## 海内外大咖齐上阵！在B站与你欢唱跨年
+![海内外大咖齐上阵！在B站与你欢唱跨年](https://i0.hdslb.com/bfs/bangumi/image/3d1f3582caedf7ed574e0e7ebae6c69f5d2cb24c.png)
+
+
 ## 战士们的意志！猎人团探访毛利部落
 ![战士们的意志！猎人团探访毛利部落](https://i0.hdslb.com/bfs/bangumi/image/cf37577feb6031fa4e4727d007004ab341a947a0.png)
 

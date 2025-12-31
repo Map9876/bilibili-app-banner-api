@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 卫宫家今天的饭
+![卫宫家今天的饭](https://i0.hdslb.com/bfs/bangumi/image/a1b28a766f8dc9952105c441cddab6b6fd2caf7f.png)
+
+## 国创冬季新番导视发布！
+![国创冬季新番导视发布！](https://i0.hdslb.com/bfs/bangumi/image/9635bd19afb5ad6ce1cb381d6b3abe233ca2c73b.png)
+
+
 
 
 
