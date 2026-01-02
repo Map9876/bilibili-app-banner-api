@@ -355,6 +355,16 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 跨晚全程回顾
+![跨晚全程回顾](https://i0.hdslb.com/bfs/bangumi/image/bae70dc88fb1bb8ef88575fef104d5444ca2e306.png)
+
+## JOJO 星尘远征军 埃及篇
+![JOJO 星尘远征军 埃及篇](https://i0.hdslb.com/bfs/bangumi/image/8deb1c8b2017eaf5a60b94e710b3d583559fc89a.png)
+
+## 中国奇谭2
+![中国奇谭2](https://i0.hdslb.com/bfs/bangumi/image/7613b7690e67ebf50250393329d24a5bda777608.png)
+
+
 ## 一月动画种草激励
 ![一月动画种草激励](https://i0.hdslb.com/bfs/bangumi/image/3676a03ae39703ee78dbf8302d5d76027394da40.png)
 
