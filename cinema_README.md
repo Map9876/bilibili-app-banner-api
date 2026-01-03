@@ -1,6 +1,22 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 聚焦双线战场，前线浴血谈判亮剑
+![聚焦双线战场，前线浴血谈判亮剑](https://i0.hdslb.com/bfs/bangumi/image/e861f350f852f6e538e1f7a3a023bb87222049dc.png)
+
+## 中国唱将更新！美声唱法终极入营战
+![中国唱将更新！美声唱法终极入营战](https://i0.hdslb.com/bfs/bangumi/image/5da314731f6b2819ec30eef287951764c636bd18.png)
+
+## 天网：罪案纪实
+![天网：罪案纪实](https://i0.hdslb.com/bfs/bangumi/image/3e39e50d199307248abf8ca154841878adf0d5e0.png)
+
+## 黄渤领衔主演，全家疯癫笑对人生！
+![黄渤领衔主演，全家疯癫笑对人生！](https://i0.hdslb.com/bfs/bangumi/image/945b04087f6d26eacade2939f933dab1f562ef54.png)
+
+## 谁的青春有售后！童年白月光跨年同台啦
+![谁的青春有售后！童年白月光跨年同台啦](https://i0.hdslb.com/bfs/bangumi/image/cf735f7b74a9d60770ace60162865445789f1d4e.png)
+
+
 ## 郑渊洁经典IP，兄妹开启奇幻之旅
 ![郑渊洁经典IP，兄妹开启奇幻之旅](https://i0.hdslb.com/bfs/bangumi/image/cea50990fe8ee9eadf9193dee56842032167e43b.png)
 
