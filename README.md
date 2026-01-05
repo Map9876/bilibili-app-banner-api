@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 深空彼岸
+![深空彼岸](https://i0.hdslb.com/bfs/bangumi/image/26bfdb6db54c6a47266f0b1007b145c6da8d0711.png)
+
+## 夏目友人帐第二季
+![夏目友人帐第二季](https://i0.hdslb.com/bfs/bangumi/image/c3ea79816dcd30288fd33160e3461ce2d7ae65b9.png)
+
+
 ## Love Live!
 ![Love Live!](https://i0.hdslb.com/bfs/bangumi/image/a7d252bf8cc7e197b4b22556aa87565123cb5721.png)
 

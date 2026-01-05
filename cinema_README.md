@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 不动摇，不放弃！这就是我的生存之道
+![不动摇，不放弃！这就是我的生存之道](https://i0.hdslb.com/bfs/bangumi/image/2bd63bc9c8a351b786fae8137b607e1d88db0a92.png)
+
+## 人类沦为猎物？特种兵小队绝地突围
+![人类沦为猎物？特种兵小队绝地突围](https://i0.hdslb.com/bfs/bangumi/image/c0d72394d11c02dcfbbf06e1f5c1b27e1d4f8b2e.png)
+
+## 向日葵朝着夜！单依纯跨年新歌首唱
+![向日葵朝着夜！单依纯跨年新歌首唱](https://i0.hdslb.com/bfs/bangumi/image/cf735f7b74a9d60770ace60162865445789f1d4e.png)
+
+
 ## “真正属于老百姓的交响音乐会”
 ![“真正属于老百姓的交响音乐会”](https://i0.hdslb.com/bfs/bangumi/image/47239dbcdcc6c2c0a30523d0b9cfb32f497210fa.png)
 
