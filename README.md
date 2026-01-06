@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 关于我转生变成史莱姆这档事 第二季
+![关于我转生变成史莱姆这档事 第二季](https://i0.hdslb.com/bfs/bangumi/image/23eca5ad71cb6c008e251f946ff89db3cc514d56.png)
+
+
 ## 深空彼岸
 ![深空彼岸](https://i0.hdslb.com/bfs/bangumi/image/26bfdb6db54c6a47266f0b1007b145c6da8d0711.png)
 

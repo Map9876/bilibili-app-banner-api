@@ -1,6 +1,25 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 舞台玩出花！不一样的美美Sunday
+![舞台玩出花！不一样的美美Sunday](https://i0.hdslb.com/bfs/bangumi/image/9579dc3b534853b5b28aac14a9f73b2a9f9fb468.png)
+
+## 百万奖金等你来赢！快来投稿AI大作吧
+![百万奖金等你来赢！快来投稿AI大作吧](https://i0.hdslb.com/bfs/bangumi/image/3112458434c20b3844b25d7792192f6c066ed05d.png)
+
+## 奥斯卡获奖，主妇跨越半世纪的抗争
+![奥斯卡获奖，主妇跨越半世纪的抗争](https://i0.hdslb.com/bfs/bangumi/image/48d27089b206375c9c69ef038f62980904969d37.png)
+
+## 部落的深处！猎人团深入体验毛利文化
+![部落的深处！猎人团深入体验毛利文化](https://i0.hdslb.com/bfs/bangumi/image/cf37577feb6031fa4e4727d007004ab341a947a0.png)
+
+## 河艺再续辉煌，还是挑战者一举夺魁？
+![河艺再续辉煌，还是挑战者一举夺魁？](https://i0.hdslb.com/bfs/bangumi/image/47991fc99f7e19fca67958685186c994b1f1dc75.png)
+
+## 探险家与唱跳歌手“互换人生”>>
+![探险家与唱跳歌手“互换人生”>>](https://i0.hdslb.com/bfs/bangumi/image/ddb920abae954a818fc10c52f09088b1ad9e765c.png)
+
+
 ## 不动摇，不放弃！这就是我的生存之道
 ![不动摇，不放弃！这就是我的生存之道](https://i0.hdslb.com/bfs/bangumi/image/2bd63bc9c8a351b786fae8137b607e1d88db0a92.png)
 
