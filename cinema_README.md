@@ -1,6 +1,22 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 全美的嘘声？那只是最澎湃的BGM
+![全美的嘘声？那只是最澎湃的BGM](https://i0.hdslb.com/bfs/bangumi/image/15c89c12c133adab7020b1b952074af118d64bbc.png)
+
+## 改编自大仲马原著，四人护卫法兰西
+![改编自大仲马原著，四人护卫法兰西](https://i0.hdslb.com/bfs/bangumi/image/5c592a23b45a664cd06d846a04774f2d7bb73b3f.png)
+
+## 德爷徒手掏杀人蜂老巢，还原地吃了起来
+![德爷徒手掏杀人蜂老巢，还原地吃了起来](https://i0.hdslb.com/bfs/bangumi/image/f43282bdd964d6fa567042625f58aec1b076c25c.png)
+
+## 欧美乐坛助阵跨年晚会！精彩全程回顾
+![欧美乐坛助阵跨年晚会！精彩全程回顾](https://i0.hdslb.com/bfs/bangumi/image/cf735f7b74a9d60770ace60162865445789f1d4e.png)
+
+## 大明第一才子的文人风骨
+![大明第一才子的文人风骨](https://i0.hdslb.com/bfs/bangumi/image/429ab446d537dbc21075136802e6ce5b1de55c16.png)
+
+
 ## 舞台玩出花！不一样的美美Sunday
 ![舞台玩出花！不一样的美美Sunday](https://i0.hdslb.com/bfs/bangumi/image/9579dc3b534853b5b28aac14a9f73b2a9f9fb468.png)
 
