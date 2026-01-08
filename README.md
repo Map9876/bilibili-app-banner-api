@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 咒术回战
+![咒术回战](https://i0.hdslb.com/bfs/bangumi/image/bedc4f6820664dfcc04c10a2115f06df3ae93679.png)
+
+
 ## 紫罗兰永恒花园
 ![紫罗兰永恒花园](https://i0.hdslb.com/bfs/bangumi/image/5c4210b3f8d8bdf0639afb552b40c83070e48f7c.png)
 

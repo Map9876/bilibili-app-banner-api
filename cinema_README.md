@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 黄渤范丞丞疯力全开，笑对人生逆境
+![黄渤范丞丞疯力全开，笑对人生逆境](https://i0.hdslb.com/bfs/bangumi/image/945b04087f6d26eacade2939f933dab1f562ef54.png)
+
+## 德爷能否完成哈扎族【最高勇气】认证？
+![德爷能否完成哈扎族【最高勇气】认证？](https://i0.hdslb.com/bfs/bangumi/image/f43282bdd964d6fa567042625f58aec1b076c25c.png)
+
+## 嘉宾爆料震惊鲁豫现场失控！！
+![嘉宾爆料震惊鲁豫现场失控！！](https://i0.hdslb.com/bfs/bangumi/image/4dca7c366e4b2d8c7908302b797edad45ad78c87.png)
+
+## 刘欢零点献唱经典！跨年晚会全程回顾
+![刘欢零点献唱经典！跨年晚会全程回顾](https://i0.hdslb.com/bfs/bangumi/image/cf735f7b74a9d60770ace60162865445789f1d4e.png)
+
+
 ## 全美的嘘声？那只是最澎湃的BGM
 ![全美的嘘声？那只是最澎湃的BGM](https://i0.hdslb.com/bfs/bangumi/image/15c89c12c133adab7020b1b952074af118d64bbc.png)
 
