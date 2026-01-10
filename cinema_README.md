@@ -1,6 +1,22 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 紧张刺激的探案之夜！
+![紧张刺激的探案之夜！](https://i0.hdslb.com/bfs/bangumi/image/f9965782b5b6de10ece638173d3ef0f40885974f.png)
+
+## 高燃现场！《摇滚红与黑》登上跨年舞台
+![高燃现场！《摇滚红与黑》登上跨年舞台](https://i0.hdslb.com/bfs/bangumi/image/99918fce41448f82235ef7e93078b5306a73b4ff.png)
+
+## 当民族美声流行演绎同一首歌！
+![当民族美声流行演绎同一首歌！](https://i0.hdslb.com/bfs/bangumi/image/5da314731f6b2819ec30eef287951764c636bd18.png)
+
+## 真实故事改编，檀健次演绎灰度律师
+![真实故事改编，檀健次演绎灰度律师](https://i0.hdslb.com/bfs/bangumi/image/0a3726f59833d9a973ed86e0a78a35d6e2842e16.png)
+
+## 印第安纳往冠军再迈进一步？
+![印第安纳往冠军再迈进一步？](https://i0.hdslb.com/bfs/bangumi/image/67f7f0f9278e5a02c3ea3dca3cf60acdd6405de0.png)
+
+
 ## 当我老去的时候
 ![当我老去的时候](https://i0.hdslb.com/bfs/bangumi/image/a0f218cad701395241d8b35ce0737edd3c925da0.png)
 

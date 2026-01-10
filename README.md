@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 命运-奇异赝品 黎明低语
+![命运-奇异赝品 黎明低语](https://i0.hdslb.com/bfs/bangumi/image/0b67d62e6c32cb1fb436288cebb29ec8f5de1996.png)
+
+## 2026拜年纪
+![2026拜年纪](https://i0.hdslb.com/bfs/bangumi/image/ead360d66d780071e981e1b72d0afb2481fcb7f5.png)
+
+
 ## 某科学的超电磁炮T
 ![某科学的超电磁炮T](https://i0.hdslb.com/bfs/bangumi/image/88ab080d8350de772f286157bfd250c499ed5581.png)
 
