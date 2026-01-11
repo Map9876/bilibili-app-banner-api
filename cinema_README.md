@@ -1,6 +1,22 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 挪威经典IP续作，海盗的奇幻冒险
+![挪威经典IP续作，海盗的奇幻冒险](https://i0.hdslb.com/bfs/bangumi/image/844b7954041fc39470bfb7acc019668c96a1a7bc.png)
+
+## “歪果仁”携手体验中国非遗！
+![“歪果仁”携手体验中国非遗！](https://i0.hdslb.com/bfs/bangumi/image/f43282bdd964d6fa567042625f58aec1b076c25c.png)
+
+## 口碑神剧！看西装暴徒私法制裁
+![口碑神剧！看西装暴徒私法制裁](https://i0.hdslb.com/bfs/bangumi/image/b9cb42990e607f6a6cf8ee8e387c087fd7dc4fbc.png)
+
+## 去头即食！贝爷限时返场中
+![去头即食！贝爷限时返场中](https://i0.hdslb.com/bfs/bangumi/image/aab7d8cfbd62461bc294b0b98b94e721a0bd30bb.png)
+
+## 第二赛段高能来袭！蔡明惊喜加盟！
+![第二赛段高能来袭！蔡明惊喜加盟！](https://i0.hdslb.com/bfs/bangumi/image/a0a50d4c7d3ee6b9573f3127de5e95f1a92212dc.png)
+
+
 ## 紧张刺激的探案之夜！
 ![紧张刺激的探案之夜！](https://i0.hdslb.com/bfs/bangumi/image/f9965782b5b6de10ece638173d3ef0f40885974f.png)
 
