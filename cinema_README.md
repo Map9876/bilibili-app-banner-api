@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 微笑着向前！家人支持的幸福
+![微笑着向前！家人支持的幸福](https://i0.hdslb.com/bfs/bangumi/image/146941cae3ca474ed4ebeb1ccbc8ea5eba71dfd5.png)
+
+## 暗黑美学力作，一只猫引发的追杀！
+![暗黑美学力作，一只猫引发的追杀！](https://i0.hdslb.com/bfs/bangumi/image/25a4315222021268098adfb0ffa5d27ea414c88b.png)
+
+## 开口就是回忆！观众大合唱感动Tank
+![开口就是回忆！观众大合唱感动Tank](https://i0.hdslb.com/bfs/bangumi/image/cf735f7b74a9d60770ace60162865445789f1d4e.png)
+
+
 ## 挪威经典IP续作，海盗的奇幻冒险
 ![挪威经典IP续作，海盗的奇幻冒险](https://i0.hdslb.com/bfs/bangumi/image/844b7954041fc39470bfb7acc019668c96a1a7bc.png)
 
