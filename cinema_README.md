@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 柏林电影节入围，揭露美国移民困境
+![柏林电影节入围，揭露美国移民困境](https://i0.hdslb.com/bfs/bangumi/image/fc29a99526ca86786bac54abfa280ab1749e29fe.png)
+
+## 温馨收官！猎人团新西兰之旅完美结束
+![温馨收官！猎人团新西兰之旅完美结束](https://i0.hdslb.com/bfs/bangumi/image/a2815115eaf73345967ba837cef5dec4ea0df3fa.png)
+
+## 年轻人爱看的戏曲！三打白骨精硬核创新
+![年轻人爱看的戏曲！三打白骨精硬核创新](https://i0.hdslb.com/bfs/bangumi/image/cf735f7b74a9d60770ace60162865445789f1d4e.png)
+
+
 ## 微笑着向前！家人支持的幸福
 ![微笑着向前！家人支持的幸福](https://i0.hdslb.com/bfs/bangumi/image/146941cae3ca474ed4ebeb1ccbc8ea5eba71dfd5.png)
 
