@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 从零开始的异世界生活 新编集版
+![从零开始的异世界生活 新编集版](https://i0.hdslb.com/bfs/bangumi/image/4d9d346d75f13a1d2e54ed116c92dbc753bc6b39.png)
+
+
 
 
 ## 虫王战队超王者

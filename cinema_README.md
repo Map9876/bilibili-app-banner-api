@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 无人区的人
+![无人区的人](https://i0.hdslb.com/bfs/bangumi/image/4bb8452210540432101f916a6dbc2ccf691ace5e.png)
+
+## 德爷深入亚马逊体验狩猎生活>>
+![德爷深入亚马逊体验狩猎生活>>](https://i0.hdslb.com/bfs/bangumi/image/f43282bdd964d6fa567042625f58aec1b076c25c.png)
+
+
 ## 柏林电影节入围，揭露美国移民困境
 ![柏林电影节入围，揭露美国移民困境](https://i0.hdslb.com/bfs/bangumi/image/fc29a99526ca86786bac54abfa280ab1749e29fe.png)
 
