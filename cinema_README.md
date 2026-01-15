@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 德爷被亚马逊土著认证【天选猎人】
+![德爷被亚马逊土著认证【天选猎人】](https://i0.hdslb.com/bfs/bangumi/image/f43282bdd964d6fa567042625f58aec1b076c25c.png)
+
+## 伊娃·格林饰演反派，再现法国危局
+![伊娃·格林饰演反派，再现法国危局](https://i0.hdslb.com/bfs/bangumi/image/78144002c0eab698e569eb8d6ef2e20f7300dccd.png)
+
+
 ## 无人区的人
 ![无人区的人](https://i0.hdslb.com/bfs/bangumi/image/4bb8452210540432101f916a6dbc2ccf691ace5e.png)
 
