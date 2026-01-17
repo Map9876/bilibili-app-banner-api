@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 民族流行美声四强歌手诞生
+![民族流行美声四强歌手诞生](https://i0.hdslb.com/bfs/bangumi/image/440be2afe8d9fcad505f860a8c47ed4da9c8cc5e.png)
+
+## 绿酒一杯歌一遍
+![绿酒一杯歌一遍](https://i0.hdslb.com/bfs/bangumi/image/dd5437cb2175298f77af771b32d9228f7bb2619d.png)
+
+## 天网：案件真相
+![天网：案件真相](https://i0.hdslb.com/bfs/bangumi/image/0d8fff6e770dfc718820cd8d45515794fbaaa6ea.png)
+
+## 最强大脑回归！脑王集结，巅峰博弈！
+![最强大脑回归！脑王集结，巅峰博弈！](https://i0.hdslb.com/bfs/bangumi/image/c3a983983cbf2c2d34e574526f37c7404c7f7d77.png)
+
+
 ## 人鱼自然和谐共生
 ![人鱼自然和谐共生](https://i0.hdslb.com/bfs/bangumi/image/7f70361172f3da244e7d0bf211e505d238a103dc.png)
 

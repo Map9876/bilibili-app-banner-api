@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 离开A级队伍的我，和从前的弟子往迷宫
+![离开A级队伍的我，和从前的弟子往迷宫](https://i0.hdslb.com/bfs/bangumi/image/7681dad7ae403f6c36da84e1681d76eb0cc36c8e.png)
+
+
 ## 葬送的芙莉莲
 ![葬送的芙莉莲](https://i0.hdslb.com/bfs/bangumi/image/e0a2069e51d2e7358e36aad912663c51dfa5ce7c.png)
 
