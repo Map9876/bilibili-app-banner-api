@@ -1,6 +1,10 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 德爷拜师少林寺挑战中国功夫！
+![德爷拜师少林寺挑战中国功夫！](https://i0.hdslb.com/bfs/bangumi/image/f43282bdd964d6fa567042625f58aec1b076c25c.png)
+
+
 ## 众人被困加油站，上演人性善恶抉择
 ![众人被困加油站，上演人性善恶抉择](https://i0.hdslb.com/bfs/bangumi/image/c31a838ddda7a74981f99a453e3353b3aa428b51.png)
 
