@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 五等分的新娘
+![五等分的新娘](https://i0.hdslb.com/bfs/bangumi/image/3e98b591a93b24a8c49cddcf7f5cbb0f9875a484.png)
+
+
 ## 盾之勇者成名录
 ![盾之勇者成名录](https://i0.hdslb.com/bfs/bangumi/image/ffc9899843b2fa784a93bab2268f4572f0adfebd.png)
 

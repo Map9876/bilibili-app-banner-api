@@ -1,6 +1,10 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 德爷苦练少林功夫，能否通过武僧考试？
+![德爷苦练少林功夫，能否通过武僧考试？](https://i0.hdslb.com/bfs/bangumi/image/f43282bdd964d6fa567042625f58aec1b076c25c.png)
+
+
 ## 德爷拜师少林寺挑战中国功夫！
 ![德爷拜师少林寺挑战中国功夫！](https://i0.hdslb.com/bfs/bangumi/image/f43282bdd964d6fa567042625f58aec1b076c25c.png)
 
