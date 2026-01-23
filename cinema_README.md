@@ -1,6 +1,10 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 别点！腿软，贝爷竟在鳄鱼旁睡觉？
+![别点！腿软，贝爷竟在鳄鱼旁睡觉？](https://i0.hdslb.com/bfs/bangumi/image/1922cc5f38c3ba31420715a98e0eb147284033b2.png)
+
+
 ## 德爷苦练少林功夫，能否通过武僧考试？
 ![德爷苦练少林功夫，能否通过武僧考试？](https://i0.hdslb.com/bfs/bangumi/image/f43282bdd964d6fa567042625f58aec1b076c25c.png)
 
