@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## Alex再出发，勇攀北极冰川绝壁！
+![Alex再出发，勇攀北极冰川绝壁！](https://i0.hdslb.com/bfs/bangumi/image/b766ce0968d96e3d9b9127fc47c59cba5834c4b8.png)
+
+## 总决选开始，九位中国唱将诞生！
+![总决选开始，九位中国唱将诞生！](https://i0.hdslb.com/bfs/bangumi/image/145b40abc0dd4a63c737901cc96f1ba1fe5aafb0.png)
+
+## 你想知道的都在这里~
+![你想知道的都在这里~](https://i0.hdslb.com/bfs/bangumi/image/9bd1a1103b24ede62f063298be032c2a1bd5e904.png)
+
+## “鲨”疯了！第二期就开启淘汰模式？！
+![“鲨”疯了！第二期就开启淘汰模式？！](https://i0.hdslb.com/bfs/bangumi/image/a13791fe3eee10bd268c8c091d6088cdc6b33dfb.png)
+
+
 ## 别点！腿软，贝爷竟在鳄鱼旁睡觉？
 ![别点！腿软，贝爷竟在鳄鱼旁睡觉？](https://i0.hdslb.com/bfs/bangumi/image/1922cc5f38c3ba31420715a98e0eb147284033b2.png)
 
