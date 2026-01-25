@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 贝爷，被封神的一集！
+![贝爷，被封神的一集！](https://i0.hdslb.com/bfs/bangumi/image/aab7d8cfbd62461bc294b0b98b94e721a0bd30bb.png)
+
+## 观影打卡，赢千元限量战损版头盔！
+![观影打卡，赢千元限量战损版头盔！](https://i0.hdslb.com/bfs/bangumi/image/5a0c176e383810b88e2d25c83e208d59d8c4da9a.png)
+
+## 镀金野心再燃纽约
+![镀金野心再燃纽约](https://i0.hdslb.com/bfs/bangumi/image/5a2c43cc0e59d2ba8b895420904c211e3cf2df47.png)
+
+## 何方选手征服蔡明，获得珍贵通关卡？
+![何方选手征服蔡明，获得珍贵通关卡？](https://i0.hdslb.com/bfs/bangumi/image/98437040d3eae828dd45f9defcaa4a4d7b0943c8.png)
+
+
 ## Alex再出发，勇攀北极冰川绝壁！
 ![Alex再出发，勇攀北极冰川绝壁！](https://i0.hdslb.com/bfs/bangumi/image/b766ce0968d96e3d9b9127fc47c59cba5834c4b8.png)
 
