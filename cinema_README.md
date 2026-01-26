@@ -1,6 +1,10 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 你看，这不正是普通人的乐趣吗？
+![你看，这不正是普通人的乐趣吗？](https://i0.hdslb.com/bfs/bangumi/image/d41a1baa412e0fcdbaf9eb3c50f3e144f243a143.png)
+
+
 ## 贝爷，被封神的一集！
 ![贝爷，被封神的一集！](https://i0.hdslb.com/bfs/bangumi/image/aab7d8cfbd62461bc294b0b98b94e721a0bd30bb.png)
 
