@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 天才王子的赤字国家振兴术
+![天才王子的赤字国家振兴术](https://i0.hdslb.com/bfs/bangumi/image/0dcf5f7e579c007f02cb4014b11694890f1ac092.png)
+
+
 ## 正相反的你与我
 ![正相反的你与我](https://i0.hdslb.com/bfs/bangumi/image/5e8b054179c8b4cd286cee50a109f1cd8324fd2c.png)
 
