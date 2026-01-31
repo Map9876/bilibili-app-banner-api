@@ -1,6 +1,25 @@
 # Bilibili 影视 顶部海报
 
 ---
+## AI大赛参赛作品上新，速来围观
+![AI大赛参赛作品上新，速来围观](https://i0.hdslb.com/bfs/bangumi/image/3112458434c20b3844b25d7792192f6c066ed05d.png)
+
+## 金宣虎暖化申敏儿心墙
+![金宣虎暖化申敏儿心墙](https://i0.hdslb.com/bfs/bangumi/image/7861a9d6e8974eb1201cb1c8ac80d2176dc02a9c.png)
+
+## 奇奇怪怪！不管有没有脑袋
+![奇奇怪怪！不管有没有脑袋](https://i0.hdslb.com/bfs/bangumi/image/3916e30957c22add081e4710412e19c1ffb34444.png)
+
+## 天网：迷案惊魂
+![天网：迷案惊魂](https://i0.hdslb.com/bfs/bangumi/image/16d3ce61f6ecbb07b8f7e09c93eb81fcbd8abbb9.png)
+
+## 蒲熠星回归！五大俱乐部面临重组与洗牌
+![蒲熠星回归！五大俱乐部面临重组与洗牌](https://i0.hdslb.com/bfs/bangumi/image/a13791fe3eee10bd268c8c091d6088cdc6b33dfb.png)
+
+## 好莱坞视效盛宴，虚实交锋全程高能
+![好莱坞视效盛宴，虚实交锋全程高能](https://i0.hdslb.com/bfs/bangumi/image/c94c5637871f9d7bcda59cc11ee5acba76e8431b.png)
+
+
 ## 时空门开启，陌路男女共赴奇幻冒险
 ![时空门开启，陌路男女共赴奇幻冒险](https://i0.hdslb.com/bfs/bangumi/image/a6d21592528d64ea45a35ddd0618664e2edccf1b.png)
 
