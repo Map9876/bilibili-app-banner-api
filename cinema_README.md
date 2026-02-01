@@ -1,6 +1,22 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 陈坤领衔主演，揭开父子间未解心结
+![陈坤领衔主演，揭开父子间未解心结](https://i0.hdslb.com/bfs/bangumi/image/b0e57005dec570bd1a4e01762eb963b93f14da70.png)
+
+## 购观影券，得专属周边！
+![购观影券，得专属周边！](https://i0.hdslb.com/bfs/bangumi/image/b80d8c3448af6962720e9fe43584e76a7281c913.png)
+
+## 傲慢与偏见交织，误会与真情并存
+![傲慢与偏见交织，误会与真情并存](https://i0.hdslb.com/bfs/bangumi/image/814281e952a149fef24c14125fb56b40f65d9438.png)
+
+## 王炸阵容！第三轮竞演高能开启！
+![王炸阵容！第三轮竞演高能开启！](https://i0.hdslb.com/bfs/bangumi/image/98437040d3eae828dd45f9defcaa4a4d7b0943c8.png)
+
+## 硬核科幻巨制，人工智能侵入现实
+![硬核科幻巨制，人工智能侵入现实](https://i0.hdslb.com/bfs/bangumi/image/c1c9a228162dafcf9d13f1830e5298a4a8fac1cb.png)
+
+
 ## AI大赛参赛作品上新，速来围观
 ![AI大赛参赛作品上新，速来围观](https://i0.hdslb.com/bfs/bangumi/image/3112458434c20b3844b25d7792192f6c066ed05d.png)
 

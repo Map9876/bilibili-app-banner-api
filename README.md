@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 刻刻
+![刻刻](https://i0.hdslb.com/bfs/bangumi/image/f7146212dab8f68702260626ae9b170154b85683.png)
+
+## 二月动画种草激励
+![二月动画种草激励](https://i0.hdslb.com/bfs/bangumi/image/65ff29afa7b8ee59dad4e5cad9731ec78ad31555.png)
+
+
 ## 真进化之实
 ![真进化之实](https://i0.hdslb.com/bfs/bangumi/image/b41f3d819945bac00d25da4fb7a997a726aa3bf6.png)
 
