@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 欢乐大放送！为普通人送上的惊喜
+![欢乐大放送！为普通人送上的惊喜](https://i0.hdslb.com/bfs/bangumi/image/d41a1baa412e0fcdbaf9eb3c50f3e144f243a143.png)
+
+## 联欢会阵容官宣！你的新春气氛组已就位
+![联欢会阵容官宣！你的新春气氛组已就位](https://i0.hdslb.com/bfs/bangumi/image/f985fba9e5a8b3585c8d7d8d4659ef8002eef16e.png)
+
+
 ## 陈坤领衔主演，揭开父子间未解心结
 ![陈坤领衔主演，揭开父子间未解心结](https://i0.hdslb.com/bfs/bangumi/image/b0e57005dec570bd1a4e01762eb963b93f14da70.png)
 
