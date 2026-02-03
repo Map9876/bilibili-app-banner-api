@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 每周1人葬身大海的危险竞赛！
+![每周1人葬身大海的危险竞赛！](https://i0.hdslb.com/bfs/bangumi/image/ed78c5f9541cf1c6ef83d72f58fb367a25a1f0c4.png)
+
+## 小小探险家出发，跟着片单去冒险！
+![小小探险家出发，跟着片单去冒险！](https://i0.hdslb.com/bfs/bangumi/image/ccb7957d09462fccf131b50c4539f38fe75da2cd.png)
+
+
 ## 欢乐大放送！为普通人送上的惊喜
 ![欢乐大放送！为普通人送上的惊喜](https://i0.hdslb.com/bfs/bangumi/image/d41a1baa412e0fcdbaf9eb3c50f3e144f243a143.png)
 
