@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 高分定格动画，跨越山海的笔友情
+![高分定格动画，跨越山海的笔友情](https://i0.hdslb.com/bfs/bangumi/image/9ba0c6873bd09d6415a37070487e92c2fe0e02b4.png)
+
+## 14年戏骨，观众竟毫无印象？
+![14年戏骨，观众竟毫无印象？](https://i0.hdslb.com/bfs/bangumi/image/497f8219699d6442aa1bb2aac021215c7af6849d.png)
+
+## 强势登陆，直击喜人大闹B站联欢会！
+![强势登陆，直击喜人大闹B站联欢会！](https://i0.hdslb.com/bfs/bangumi/image/5deff377e602aa6a4ac1455a8dce03bf2c076f78.png)
+
+## 预约春晚直播！和懂你的人一起看春晚
+![预约春晚直播！和懂你的人一起看春晚](https://i0.hdslb.com/bfs/bangumi/image/689b5605aec59ad7fd765b226bf0aa55492e0e4e.png)
+
+
 ## 来长白山，做大自然的搬运工！
 ![来长白山，做大自然的搬运工！](https://i0.hdslb.com/bfs/bangumi/image/959c4f44b38d431fa5cfeeec14bbe48ee3d4c499.png)
 
