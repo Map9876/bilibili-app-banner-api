@@ -1,6 +1,22 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 为寻失踪学生，铁血硬汉暴揍歹徒！
+![为寻失踪学生，铁血硬汉暴揍歹徒！](https://i0.hdslb.com/bfs/bangumi/image/48125c625fb24fa727d2bc375139df925e25a2f7.png)
+
+## 当文创遇上非遗！30位设计师集结整活
+![当文创遇上非遗！30位设计师集结整活](https://i0.hdslb.com/bfs/bangumi/image/47239dbcdcc6c2c0a30523d0b9cfb32f497210fa.png)
+
+## 国内首部全AI女性历史纪录片震撼上线
+![国内首部全AI女性历史纪录片震撼上线](https://i0.hdslb.com/bfs/bangumi/image/497f8219699d6442aa1bb2aac021215c7af6849d.png)
+
+## 胡歌领衔主演，揭露人口贩卖黑幕！
+![胡歌领衔主演，揭露人口贩卖黑幕！](https://i0.hdslb.com/bfs/bangumi/image/ab496f20e920141185da351f27f7341aa85c669e.png)
+
+## 美颜齐聚！来大年初一联欢会共庆新春！
+![美颜齐聚！来大年初一联欢会共庆新春！](https://i0.hdslb.com/bfs/bangumi/image/78f237e80335df26d5182d17f9c1a0a1784c6c2e.png)
+
+
 ## 高分定格动画，跨越山海的笔友情
 ![高分定格动画，跨越山海的笔友情](https://i0.hdslb.com/bfs/bangumi/image/9ba0c6873bd09d6415a37070487e92c2fe0e02b4.png)
 
