@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 粗点心战争
+![粗点心战争](https://i0.hdslb.com/bfs/bangumi/image/5a04b161ddbda47a857e2e6d9f7eb7b8a533e3f8.png)
+
+## 超常技能开启奇幻世界美食之旅 第二季
+![超常技能开启奇幻世界美食之旅 第二季](https://i0.hdslb.com/bfs/bangumi/image/b9fada8936848722cb6057085222999afe269ac7.png)
+
+
 ## 野良神
 ![野良神](https://i0.hdslb.com/bfs/bangumi/image/a004e90f0471660cefcf7d1f72fc30a084b391bc.png)
 

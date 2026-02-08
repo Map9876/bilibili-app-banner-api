@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 收官！谁将获得春晚推荐卡？
+![收官！谁将获得春晚推荐卡？](https://i0.hdslb.com/bfs/bangumi/image/98437040d3eae828dd45f9defcaa4a4d7b0943c8.png)
+
+## 时光代理人音乐巡演LIVE版正式官宣
+![时光代理人音乐巡演LIVE版正式官宣](https://i0.hdslb.com/bfs/bangumi/image/602f2b4b25c539981c74eead3afa19120eaa88f0.png)
+
+## 堕落赌徒的寻人之路
+![堕落赌徒的寻人之路](https://i0.hdslb.com/bfs/bangumi/image/8e73ce39820b55d9f6a3f176d6597662dae3d86f.png)
+
+
 ## 穿梭宇宙到细胞
 ![穿梭宇宙到细胞](https://i0.hdslb.com/bfs/bangumi/image/7cb63b41743576590e5cb73dfa3f8fea8250a8ad.png)
 
