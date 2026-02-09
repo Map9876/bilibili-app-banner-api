@@ -1,6 +1,10 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 波澜壮阔的人生！他们有什么隐情？
+![波澜壮阔的人生！他们有什么隐情？](https://i0.hdslb.com/bfs/bangumi/image/d41a1baa412e0fcdbaf9eb3c50f3e144f243a143.png)
+
+
 ## 收官！谁将获得春晚推荐卡？
 ![收官！谁将获得春晚推荐卡？](https://i0.hdslb.com/bfs/bangumi/image/98437040d3eae828dd45f9defcaa4a4d7b0943c8.png)
 

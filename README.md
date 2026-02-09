@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 爱吃拉面的小泉同学
+![爱吃拉面的小泉同学](https://i0.hdslb.com/bfs/bangumi/image/879d45388ffaf91bd4cc569b4c318e2ef51e1326.png)
+
+## 超级飞侠 第12季
+![超级飞侠 第12季](https://i0.hdslb.com/bfs/bangumi/image/ba7bfff7de5f4004fb4607e97e3fefc0cf211ca7.png)
+
+
 ## 粗点心战争
 ![粗点心战争](https://i0.hdslb.com/bfs/bangumi/image/5a04b161ddbda47a857e2e6d9f7eb7b8a533e3f8.png)
 
