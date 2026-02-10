@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 萌鸡小队 第1季
+![萌鸡小队 第1季](https://i0.hdslb.com/bfs/bangumi/image/0013dc09baf99d7aca8ccd16f894c628db67dd88.png)
+
+## 弦音 -连结的一射-
+![弦音 -连结的一射-](https://i0.hdslb.com/bfs/bangumi/image/1afb90052a6795ed8a8f0a0f78ec9dbd3c0a90f8.png)
+
+
 ## 爱吃拉面的小泉同学
 ![爱吃拉面的小泉同学](https://i0.hdslb.com/bfs/bangumi/image/879d45388ffaf91bd4cc569b4c318e2ef51e1326.png)
 

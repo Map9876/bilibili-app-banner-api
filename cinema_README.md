@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 回顾！哔哩哔哩山歌小学合唱团唱演秀
+![回顾！哔哩哔哩山歌小学合唱团唱演秀](https://i0.hdslb.com/bfs/bangumi/image/de4b3e60f992d53b22d18c04152ea227011e8b21.png)
+
+## 跨时代笑星齐聚，共燃你的新春喜剧记忆
+![跨时代笑星齐聚，共燃你的新春喜剧记忆](https://i0.hdslb.com/bfs/bangumi/image/78f237e80335df26d5182d17f9c1a0a1784c6c2e.png)
+
+
 ## 波澜壮阔的人生！他们有什么隐情？
 ![波澜壮阔的人生！他们有什么隐情？](https://i0.hdslb.com/bfs/bangumi/image/d41a1baa412e0fcdbaf9eb3c50f3e144f243a143.png)
 
