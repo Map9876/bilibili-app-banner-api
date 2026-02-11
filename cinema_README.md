@@ -1,6 +1,22 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 嘴皮王者在此汇聚！妙语连珠送新春祝福
+![嘴皮王者在此汇聚！妙语连珠送新春祝福](https://i0.hdslb.com/bfs/bangumi/image/78f237e80335df26d5182d17f9c1a0a1784c6c2e.png)
+
+## 当狗狗成为被告，法庭上演荒诞辩论
+![当狗狗成为被告，法庭上演荒诞辩论](https://i0.hdslb.com/bfs/bangumi/image/c061496c01ead88456bc87a5e24d84d493975934.png)
+
+## 上B站看春晚！往届43年春晚限免中
+![上B站看春晚！往届43年春晚限免中](https://i0.hdslb.com/bfs/bangumi/image/47239dbcdcc6c2c0a30523d0b9cfb32f497210fa.png)
+
+## 2.11开播！高能预警，真相颠覆想象
+![2.11开播！高能预警，真相颠覆想象](https://i0.hdslb.com/bfs/bangumi/image/2cce383f16da46d3d2efb479ee6b13b26dc1523f.png)
+
+## 人类专用除湿器终于被发现了！
+![人类专用除湿器终于被发现了！](https://i0.hdslb.com/bfs/bangumi/image/e487bab389ae14ceecabbc3816bee40236a1b096.png)
+
+
 ## 回顾！哔哩哔哩山歌小学合唱团唱演秀
 ![回顾！哔哩哔哩山歌小学合唱团唱演秀](https://i0.hdslb.com/bfs/bangumi/image/de4b3e60f992d53b22d18c04152ea227011e8b21.png)
 
