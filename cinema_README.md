@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 梦工场经典IP，开启奇“喵”冒险
+![梦工场经典IP，开启奇“喵”冒险](https://i0.hdslb.com/bfs/bangumi/image/e6cf1cbb6596108b5dd261334a6e13e20e744839.png)
+
+## 往届春晚限免中！过年来B站看春晚
+![往届春晚限免中！过年来B站看春晚](https://i0.hdslb.com/bfs/bangumi/image/7874acc789f91d7ae7c0ca1208fe5feb033ebbae.png)
+
+## 天才外科医生的成长之路
+![天才外科医生的成长之路](https://i0.hdslb.com/bfs/bangumi/image/c2b1bf5e453420cc7933fef4f45bfeb2bc164db2.png)
+
+## 局中局！一场勒索案引发连环反转
+![局中局！一场勒索案引发连环反转](https://i0.hdslb.com/bfs/bangumi/image/64194924aae119a287a715f11eb188f843319840.png)
+
+
 ## 十位生存者空降南非大卡鲁沙漠极限求生
 ![十位生存者空降南非大卡鲁沙漠极限求生](https://i0.hdslb.com/bfs/bangumi/image/f629c8b7476ab23d9572e01ec4ca154682d32acd.png)
 
