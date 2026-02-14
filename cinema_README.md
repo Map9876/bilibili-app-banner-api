@@ -1,6 +1,25 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 魏大勋专业吹黑哨！岳云鹏趁机捞偏财？
+![魏大勋专业吹黑哨！岳云鹏趁机捞偏财？](https://i0.hdslb.com/bfs/bangumi/image/fe73b98d7348eae8e71881b305fbf966e49fc506.png)
+
+## 系列续作上线，包贝尔为爱硬刚黑帮
+![系列续作上线，包贝尔为爱硬刚黑帮](https://i0.hdslb.com/bfs/bangumi/image/6b9a7b1844ede36f409e0e02b911f6ce38fa45c4.png)
+
+## 时光代理人音乐巡演LIVE版正式上线
+![时光代理人音乐巡演LIVE版正式上线](https://i0.hdslb.com/bfs/bangumi/image/69ebd85bfc369a94cdffde4182f36d7429451a02.png)
+
+## 总把新桃换旧符
+![总把新桃换旧符](https://i0.hdslb.com/bfs/bangumi/image/ce544623fbb76fc9bcbb5e65057afc1b34b52c68.png)
+
+## 锁定B站联欢会！四士同堂合体欢庆新春
+![锁定B站联欢会！四士同堂合体欢庆新春](https://i0.hdslb.com/bfs/bangumi/image/78f237e80335df26d5182d17f9c1a0a1784c6c2e.png)
+
+## 地狱版扫雷竟能把脑王急得团团转？
+![地狱版扫雷竟能把脑王急得团团转？](https://i0.hdslb.com/bfs/bangumi/image/c3a983983cbf2c2d34e574526f37c7404c7f7d77.png)
+
+
 ## 梦工场经典IP，开启奇“喵”冒险
 ![梦工场经典IP，开启奇“喵”冒险](https://i0.hdslb.com/bfs/bangumi/image/e6cf1cbb6596108b5dd261334a6e13e20e744839.png)
 

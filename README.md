@@ -355,6 +355,16 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 碳基生物进化指南
+![碳基生物进化指南](https://i0.hdslb.com/bfs/bangumi/image/236931f371de573a28cdf65371a110db8021eca1.png)
+
+## 凡人新春会
+![凡人新春会](https://i0.hdslb.com/bfs/bangumi/image/44da51360a45a24de083c3d9e9f13be115a3ed26.png)
+
+## 中二病也要谈恋爱！恋
+![中二病也要谈恋爱！恋](https://i0.hdslb.com/bfs/bangumi/image/f79fa0ad4dc702e586ad9bba8b59d23dcb28f673.png)
+
+
 ## 飓风战魂之旋力启源 第7季
 ![飓风战魂之旋力启源 第7季](https://i0.hdslb.com/bfs/bangumi/image/27dc5cb03d2b11f1cacc3de86c0ef8d6c51829fe.png)
 
