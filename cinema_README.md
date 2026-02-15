@@ -1,6 +1,22 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 恐怖慎点！寄生虫钻入鱼口，寄生夺舌
+![恐怖慎点！寄生虫钻入鱼口，寄生夺舌](https://i0.hdslb.com/bfs/bangumi/image/b99a304331145d53396fc1978f0c2a4f485aabd3.png)
+
+## 生存专家带妻荒野求生，竟遇…
+![生存专家带妻荒野求生，竟遇…](https://i0.hdslb.com/bfs/bangumi/image/e4d5bae099a1165dc662b8c157542861145a8384.png)
+
+## 岳云鹏被换“猪肾”！精英人生由此跌落
+![岳云鹏被换“猪肾”！精英人生由此跌落](https://i0.hdslb.com/bfs/bangumi/image/221d983e404b2cfcd54a1a62905d145e3e2b2161.png)
+
+## 马蹄升升潮前跃！2026河南春晚上线
+![马蹄升升潮前跃！2026河南春晚上线](https://i0.hdslb.com/bfs/bangumi/image/d6ecf223907566823f0ab1b240be844cad76bf0b.png)
+
+## 观影打卡，赢上海迪士尼乐园双飞游！
+![观影打卡，赢上海迪士尼乐园双飞游！](https://i0.hdslb.com/bfs/bangumi/image/a535ac79a380a0bb1f7d72766b63f6f13fda2ddb.png)
+
+
 ## 魏大勋专业吹黑哨！岳云鹏趁机捞偏财？
 ![魏大勋专业吹黑哨！岳云鹏趁机捞偏财？](https://i0.hdslb.com/bfs/bangumi/image/fe73b98d7348eae8e71881b305fbf966e49fc506.png)
 

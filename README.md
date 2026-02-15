@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 伪恋
+![伪恋](https://i0.hdslb.com/bfs/bangumi/image/c5530257c338c8d211aaf2760ca1536f9979e4ff.png)
+
+
 ## 碳基生物进化指南
 ![碳基生物进化指南](https://i0.hdslb.com/bfs/bangumi/image/236931f371de573a28cdf65371a110db8021eca1.png)
 
