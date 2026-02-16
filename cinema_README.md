@@ -1,6 +1,31 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 我是有着跌宕起伏人生的平凡人！
+![我是有着跌宕起伏人生的平凡人！](https://i0.hdslb.com/bfs/bangumi/image/2bd63bc9c8a351b786fae8137b607e1d88db0a92.png)
+
+## 多重人格厮杀，你猜的凶手全是错的
+![多重人格厮杀，你猜的凶手全是错的](https://i0.hdslb.com/bfs/bangumi/image/9822f6270077e9d0cc0577d0de360a401c890aa7.png)
+
+## 2026山东春晚:骏马送福，春满山河
+![2026山东春晚:骏马送福，春满山河](https://i0.hdslb.com/bfs/bangumi/image/2d455b16c705bfae0b80cbef5c4528daac46b50e.png)
+
+## 川渝一家亲， 共度欢乐幸福年 ！
+![川渝一家亲， 共度欢乐幸福年 ！](https://i0.hdslb.com/bfs/bangumi/image/01cd2ce286062a42dd57d364d291240f2a034e19.png)
+
+## 已强势登陆，直击喜人大闹B站联欢会！
+![已强势登陆，直击喜人大闹B站联欢会！](https://i0.hdslb.com/bfs/bangumi/image/5deff377e602aa6a4ac1455a8dce03bf2c076f78.png)
+
+## 马年刷片攒金币，赢限定好礼！
+![马年刷片攒金币，赢限定好礼！](https://i0.hdslb.com/bfs/bangumi/image/967b5deb7675b641424e7a1fb36e00cd00bbc5e7.png)
+
+## 欺诈还是真相？魏大勋自扇巴掌揭伤疤
+![欺诈还是真相？魏大勋自扇巴掌揭伤疤](https://i0.hdslb.com/bfs/bangumi/image/fe73b98d7348eae8e71881b305fbf966e49fc506.png)
+
+## 总台春晚倒计时！和懂你的人一起来看
+![总台春晚倒计时！和懂你的人一起来看](https://i0.hdslb.com/bfs/bangumi/image/8dbf392a217f814661f4add95f0281d9bc041585.png)
+
+
 ## 恐怖慎点！寄生虫钻入鱼口，寄生夺舌
 ![恐怖慎点！寄生虫钻入鱼口，寄生夺舌](https://i0.hdslb.com/bfs/bangumi/image/b99a304331145d53396fc1978f0c2a4f485aabd3.png)
 
