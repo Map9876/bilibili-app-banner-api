@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 擅长捉弄的高木同学
+![擅长捉弄的高木同学](https://i0.hdslb.com/bfs/bangumi/image/043ca6d843617676f7cb6089fd3088796664299d.png)
+
+## 2026拜年纪全程回顾
+![2026拜年纪全程回顾](https://i0.hdslb.com/bfs/bangumi/image/641d4df598dd9a4b49450a090d853b4f5732d957.png)
+
+
 ## 玉子市场
 ![玉子市场](https://i0.hdslb.com/bfs/bangumi/image/245741b8b938b95fda65b7e66807dbe66575d52d.png)
 
