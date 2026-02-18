@@ -1,6 +1,37 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 福建春晚！鹭卓 万妮达陪你过大年
+![福建春晚！鹭卓 万妮达陪你过大年](https://i0.hdslb.com/bfs/bangumi/image/0e0ebc67b76c14f4b3e0ca26bf988719930d728f.png)
+
+## 看海南春晚！吴宣仪、王霏霏送祝福
+![看海南春晚！吴宣仪、王霏霏送祝福](https://i0.hdslb.com/bfs/bangumi/image/9cdba4adc78a9cf80ed03522ffcb31aae9ce9e07.png)
+
+## 2026年中国杂技大联欢
+![2026年中国杂技大联欢](https://i0.hdslb.com/bfs/bangumi/image/6f22eb7db18adcafeafb5756900ee1f0ef1e14b2.png)
+
+## 不负如来不负卿，大爱小爱皆是爱
+![不负如来不负卿，大爱小爱皆是爱](https://i0.hdslb.com/bfs/bangumi/image/b6c5b612aabf499e0f6a727f74eb038ce5fd75af.png)
+
+## 相声+Sketch，快乐加倍
+![相声+Sketch，快乐加倍](https://i0.hdslb.com/bfs/bangumi/image/3f2f691ca74894dba58bfd2af86a87efabf83fbe.png)
+
+## 全程回顾上线！众星云集歌舞盛宴
+![全程回顾上线！众星云集歌舞盛宴](https://i0.hdslb.com/bfs/bangumi/image/faf714fb3f79c2d68024c171ba4f3669e3009e4f.png)
+
+## 姜文执导，父子闯出钢琴巅“疯”
+![姜文执导，父子闯出钢琴巅“疯”](https://i0.hdslb.com/bfs/bangumi/image/68cc1711682f11cf292978aca8b4fac87edb3c85.png)
+
+## “邢捕头”变老君？看金箍棒现代打工
+![“邢捕头”变老君？看金箍棒现代打工](https://i0.hdslb.com/bfs/bangumi/image/11b65628c92e22fa1dc7c2b76cad3960e2468848.png)
+
+## 全程回顾！《快乐小马》陪你热闹过新年
+![全程回顾！《快乐小马》陪你热闹过新年](https://i0.hdslb.com/bfs/bangumi/image/3f980fa8fe0929ba234d7f87b2262197b56e5bc3.png)
+
+## 全程回顾已上线！喜人献艺喜上加喜
+![全程回顾已上线！喜人献艺喜上加喜](https://i0.hdslb.com/bfs/bangumi/image/78f237e80335df26d5182d17f9c1a0a1784c6c2e.png)
+
+
 ## 天才医生面临爱情挑战！
 ![天才医生面临爱情挑战！](https://i0.hdslb.com/bfs/bangumi/image/17072c8be0b79a94df7b063216f500e332d0b0bf.png)
 
