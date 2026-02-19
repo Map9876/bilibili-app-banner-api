@@ -1,6 +1,22 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 我到新疆去2
+![我到新疆去2](https://i0.hdslb.com/bfs/bangumi/image/9889d0546a8ae00a0fba3e54addb73f124c07115.png)
+
+## 郭子凡变金箍棒返龙宫？机器藕霸登场！
+![郭子凡变金箍棒返龙宫？机器藕霸登场！](https://i0.hdslb.com/bfs/bangumi/image/64381b934494fbf2762b4861c7fd91d807f0e300.png)
+
+## 又美又帅！这8位能来我家串门吗
+![又美又帅！这8位能来我家串门吗](https://i0.hdslb.com/bfs/bangumi/image/96b83320820f3793a86c71d7d42bbe153e778245.png)
+
+## 靓仔靓女请来广东吃吃吃
+![靓仔靓女请来广东吃吃吃](https://i0.hdslb.com/bfs/bangumi/image/209020bcdaafb0e3a263af8dd9b5f2e15f6b770d.png)
+
+## 全程回顾已上线！正月初三迎美神
+![全程回顾已上线！正月初三迎美神](https://i0.hdslb.com/bfs/bangumi/image/afb7892c96d4eacccc24685efb5bd3ce67e3020b.png)
+
+
 ## 福建春晚！鹭卓 万妮达陪你过大年
 ![福建春晚！鹭卓 万妮达陪你过大年](https://i0.hdslb.com/bfs/bangumi/image/0e0ebc67b76c14f4b3e0ca26bf988719930d728f.png)
 
