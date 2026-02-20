@@ -1,6 +1,22 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 真假金箍棒？喜人松天硕变身美猴王
+![真假金箍棒？喜人松天硕变身美猴王](https://i0.hdslb.com/bfs/bangumi/image/5bcad3427e679854076e01bd2a2b9a31def686d4.png)
+
+## 2月24日20点丁程鑫独家直播！
+![2月24日20点丁程鑫独家直播！](https://i0.hdslb.com/bfs/bangumi/image/b4d7a77ea823cbb89a3ab8dc9d5145ae4664b4d8.png)
+
+## 2026总台春晚幕后纪实
+![2026总台春晚幕后纪实](https://i0.hdslb.com/bfs/bangumi/image/e6aaee96d315d92021e47f8c7085184d38978ba9.png)
+
+## 靓女俊男！总台春晚对眼睛很友好
+![靓女俊男！总台春晚对眼睛很友好](https://i0.hdslb.com/bfs/bangumi/image/3f980fa8fe0929ba234d7f87b2262197b56e5bc3.png)
+
+## 全程回顾已上线！正月初四唠唠喜事
+![全程回顾已上线！正月初四唠唠喜事](https://i0.hdslb.com/bfs/bangumi/image/989259faeab5435b223c96e5af77bad15a5dedd4.png)
+
+
 ## 我到新疆去2
 ![我到新疆去2](https://i0.hdslb.com/bfs/bangumi/image/9889d0546a8ae00a0fba3e54addb73f124c07115.png)
 

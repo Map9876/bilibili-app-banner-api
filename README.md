@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 异度侵入 ID:INVADED
+![异度侵入 ID:INVADED](https://i0.hdslb.com/bfs/bangumi/image/6737cddf4bd977d4562d0f3935b1df362d353dba.png)
+
+## 有兽焉 第五季
+![有兽焉 第五季](https://i0.hdslb.com/bfs/bangumi/image/b648be7d730587f36f150d299e062d28f484e914.png)
+
+
 ## 小马国大小事第二季
 ![小马国大小事第二季](https://i0.hdslb.com/bfs/bangumi/image/ea30d81489e16ecca0ef9e3e04db7297ef93e864.png)
 
