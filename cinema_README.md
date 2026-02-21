@@ -1,6 +1,25 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 孙悟空登场！喜人松天硕大秀打戏功底
+![孙悟空登场！喜人松天硕大秀打戏功底](https://i0.hdslb.com/bfs/bangumi/image/5bcad3427e679854076e01bd2a2b9a31def686d4.png)
+
+## 原班人马回归，新旧穿越者乱世交锋
+![原班人马回归，新旧穿越者乱世交锋](https://i0.hdslb.com/bfs/bangumi/image/4b9afd2663c806d12aa7e2b3e28760268f9c4fde.png)
+
+## 天网：致命骗局
+![天网：致命骗局](https://i0.hdslb.com/bfs/bangumi/image/eb3aa7ce490ca8709960c33b66e1bc276f5723f4.png)
+
+## 地狱厨神：异国寻味
+![地狱厨神：异国寻味](https://i0.hdslb.com/bfs/bangumi/image/4a28e81deb92375d1a4a382fe154937aae26f8f9.png)
+
+## 淘汰赛6进1，谁能成为那个天选之子？
+![淘汰赛6进1，谁能成为那个天选之子？](https://i0.hdslb.com/bfs/bangumi/image/fcd3190e28c42acc6c98156f82afcb7bb92ae9c7.png)
+
+## 现场翻车？顶级现挂！回顾精彩瞬间
+![现场翻车？顶级现挂！回顾精彩瞬间](https://i0.hdslb.com/bfs/bangumi/image/b1eb93c9a6e9ea53eed53f046671f6b178dcaaff.png)
+
+
 ## 真假金箍棒？喜人松天硕变身美猴王
 ![真假金箍棒？喜人松天硕变身美猴王](https://i0.hdslb.com/bfs/bangumi/image/5bcad3427e679854076e01bd2a2b9a31def686d4.png)
 
