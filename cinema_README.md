@@ -1,6 +1,22 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 芭蕉扇成精？派小轩爆笑饰演大厂打工人
+![芭蕉扇成精？派小轩爆笑饰演大厂打工人](https://i0.hdslb.com/bfs/bangumi/image/04dbaccaee6a870cdee867fba72db34fe852f140.png)
+
+## 蔡明时隔30年与“机器人”续上前缘！
+![蔡明时隔30年与“机器人”续上前缘！](https://i0.hdslb.com/bfs/bangumi/image/96b83320820f3793a86c71d7d42bbe153e778245.png)
+
+## 郎朗传记改编，父子为钢琴梦齐疯！
+![郎朗传记改编，父子为钢琴梦齐疯！](https://i0.hdslb.com/bfs/bangumi/image/68cc1711682f11cf292978aca8b4fac87edb3c85.png)
+
+## 火了三十多年的粤菜馆，全靠这一道
+![火了三十多年的粤菜馆，全靠这一道](https://i0.hdslb.com/bfs/bangumi/image/319ac155420446bbc4b0301f17ad1bd7aa41be11.png)
+
+## 回顾爆笑瞬间！新旧直怪正面对决中
+![回顾爆笑瞬间！新旧直怪正面对决中](https://i0.hdslb.com/bfs/bangumi/image/47f259181ad9ad0f491a5b288807c650ce3f937c.png)
+
+
 ## 孙悟空登场！喜人松天硕大秀打戏功底
 ![孙悟空登场！喜人松天硕大秀打戏功底](https://i0.hdslb.com/bfs/bangumi/image/5bcad3427e679854076e01bd2a2b9a31def686d4.png)
 
