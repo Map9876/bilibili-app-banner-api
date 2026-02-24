@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 科技登场！机器人全面“入侵”春晚
+![科技登场！机器人全面“入侵”春晚](https://i0.hdslb.com/bfs/bangumi/image/0ed40eb038bbdc8185e67556d58b1bdc2b7c12b7.png)
+
+## 疯狂实验！颠覆想象的真人秀
+![疯狂实验！颠覆想象的真人秀](https://i0.hdslb.com/bfs/bangumi/image/ae1627ce2f7ba32bafc7bb0dcf6807c6fff1305a.png)
+
+## 游戏角色穿越现实救女儿？真·破次元！
+![游戏角色穿越现实救女儿？真·破次元！](https://i0.hdslb.com/bfs/bangumi/image/470a58d254bec41b857468885ba7a4076994b336.png)
+
+
 ## 追踪巨型鱼 第一季
 ![追踪巨型鱼 第一季](https://i0.hdslb.com/bfs/bangumi/image/d1b0d01594d8741c57cd1fb165c5ab1d365fe6cb.png)
 
