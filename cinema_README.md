@@ -1,6 +1,10 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 直播回顾！丁程鑫清唱变身限定点歌机
+![直播回顾！丁程鑫清唱变身限定点歌机](https://i0.hdslb.com/bfs/bangumi/image/7dee8b993c189526d02d40202030c958e1a79e17.png)
+
+
 ## 镰仓漫行，沉浸式体验古都的文化韵味
 ![镰仓漫行，沉浸式体验古都的文化韵味](https://i0.hdslb.com/bfs/bangumi/image/355e5102223263a8f7146df9d9c0a96a9b7527ce.png)
 
