@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 我独自升级第二季
+![我独自升级第二季](https://i0.hdslb.com/bfs/bangumi/image/649393d86ce61cd04f42dcafb5589b286888b1f9.png)
+
+## 驭灵师
+![驭灵师](https://i0.hdslb.com/bfs/bangumi/image/96c3a8b483d7addd2c4c31b59317c624ec71bfbd.png)
+
+
 ## 秘密内幕 女警的反击
 ![秘密内幕 女警的反击](https://i0.hdslb.com/bfs/bangumi/image/18f2e03fd49cd248ba77d66f66d7e7f1a781d6bc.png)
 

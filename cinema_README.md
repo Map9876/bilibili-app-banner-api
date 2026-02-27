@@ -1,6 +1,22 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 设计师突围战！什么作品能征服所有人？
+![设计师突围战！什么作品能征服所有人？](https://i0.hdslb.com/bfs/bangumi/image/7874acc789f91d7ae7c0ca1208fe5feb033ebbae.png)
+
+## 星空下畅聊，丁程鑫生日直播回顾！
+![星空下畅聊，丁程鑫生日直播回顾！](https://i0.hdslb.com/bfs/bangumi/image/7dee8b993c189526d02d40202030c958e1a79e17.png)
+
+## 柏林电影节获奖，七旬老太闯天涯
+![柏林电影节获奖，七旬老太闯天涯](https://i0.hdslb.com/bfs/bangumi/image/61230f945377b8435aae402f04896718aa6f6d50.png)
+
+## 斯嘉丽领衔主演，三姐妹与过往和解
+![斯嘉丽领衔主演，三姐妹与过往和解](https://i0.hdslb.com/bfs/bangumi/image/753d3fedae293f72e1e38671539dee6e37e8dfc8.png)
+
+## 柯汶利新作，姐弟联手揭开罪恶黑幕
+![柯汶利新作，姐弟联手揭开罪恶黑幕](https://i0.hdslb.com/bfs/bangumi/image/3dcd9b072bbb6fc453a2c39892360eac5de5af87.png)
+
+
 ## 直播回顾！丁程鑫清唱变身限定点歌机
 ![直播回顾！丁程鑫清唱变身限定点歌机](https://i0.hdslb.com/bfs/bangumi/image/7dee8b993c189526d02d40202030c958e1a79e17.png)
 
