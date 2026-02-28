@@ -1,6 +1,28 @@
 # Bilibili 影视 顶部海报
 
 ---
+## "鲨鱼"和"便士"的巅峰魔术秀
+!["鲨鱼"和"便士"的巅峰魔术秀](https://i0.hdslb.com/bfs/bangumi/image/4a77de2fe04ee1364c2a08d59047e1da3634e161.png)
+
+## 地狱厨神：异国寻味 第四季
+![地狱厨神：异国寻味 第四季](https://i0.hdslb.com/bfs/bangumi/image/4a28e81deb92375d1a4a382fe154937aae26f8f9.png)
+
+## 于奥运喧嚣里，享受自我与孤独
+![于奥运喧嚣里，享受自我与孤独](https://i0.hdslb.com/bfs/bangumi/image/d43061e67a38493b1470cd9a0d23fb4fe9c492ed.png)
+
+## 一句“玩笑”引发的舆论风暴
+![一句“玩笑”引发的舆论风暴](https://i0.hdslb.com/bfs/bangumi/image/c15e235562a9e59d6372c2e6cfae7826dbaea216.png)
+
+## 3月4日20点宋亚轩独家直播！
+![3月4日20点宋亚轩独家直播！](https://i0.hdslb.com/bfs/bangumi/image/47239dbcdcc6c2c0a30523d0b9cfb32f497210fa.png)
+
+## 侯佩岑惊喜加盟！小情侣再一次抱团？
+![侯佩岑惊喜加盟！小情侣再一次抱团？](https://i0.hdslb.com/bfs/bangumi/image/7306f20751d6040e215efa70a915f6ef9eaf49c3.png)
+
+## 百万名牌包全变假货，原因竟是>>
+![百万名牌包全变假货，原因竟是>>](https://i0.hdslb.com/bfs/bangumi/image/dc81b65279b441d75d76a4329c639a62ed8dd7bf.png)
+
+
 ## 设计师突围战！什么作品能征服所有人？
 ![设计师突围战！什么作品能征服所有人？](https://i0.hdslb.com/bfs/bangumi/image/7874acc789f91d7ae7c0ca1208fe5feb033ebbae.png)
 

@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 文豪野犬 第四季
+![文豪野犬 第四季](https://i0.hdslb.com/bfs/bangumi/image/e53b28df542699ed8e4cc48b86c92f526a789c96.png)
+
+
 ## 我独自升级第二季
 ![我独自升级第二季](https://i0.hdslb.com/bfs/bangumi/image/649393d86ce61cd04f42dcafb5589b286888b1f9.png)
 
