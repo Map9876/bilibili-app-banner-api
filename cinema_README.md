@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 无厘头经典回归，硬汉化身搞笑担当
+![无厘头经典回归，硬汉化身搞笑担当](https://i0.hdslb.com/bfs/bangumi/image/8b9addda7155696718a618e14f2997f50a330fbc.png)
+
+## 打工人觉醒，联手反抗职场压迫！
+![打工人觉醒，联手反抗职场压迫！](https://i0.hdslb.com/bfs/bangumi/image/221a6e664b584839d86a900d02a00f2e5c81aaa8.png)
+
+
 ## "鲨鱼"和"便士"的巅峰魔术秀
 !["鲨鱼"和"便士"的巅峰魔术秀](https://i0.hdslb.com/bfs/bangumi/image/4a77de2fe04ee1364c2a08d59047e1da3634e161.png)
 

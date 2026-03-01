@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 《凡人》动画幕后花絮
+![《凡人》动画幕后花絮](https://i0.hdslb.com/bfs/bangumi/image/84071baed4df9c4e9512887d1c5aed394fd9eacc.png)
+
+
 ## 文豪野犬 第四季
 ![文豪野犬 第四季](https://i0.hdslb.com/bfs/bangumi/image/e53b28df542699ed8e4cc48b86c92f526a789c96.png)
 
