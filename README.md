@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 天官赐福短片篇章3
+![天官赐福短片篇章3](https://i0.hdslb.com/bfs/bangumi/image/dec3d01927680eff77900c0dc3036a66c7e8f26e.png)
+
+## 三月动画种草激励
+![三月动画种草激励](https://i0.hdslb.com/bfs/bangumi/image/b235788279ff8de786663419d27ef087ce59e7ce.png)
+
+
 ## 《凡人》动画幕后花絮
 ![《凡人》动画幕后花絮](https://i0.hdslb.com/bfs/bangumi/image/84071baed4df9c4e9512887d1c5aed394fd9eacc.png)
 

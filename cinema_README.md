@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 迎接挑战，请选择你的庇护所！
+![迎接挑战，请选择你的庇护所！](https://i0.hdslb.com/bfs/bangumi/image/dfc1db1ded74467956725d2ecdc657229f1ce8a8.png)
+
+## 荒野求生全明星 第六季
+![荒野求生全明星 第六季](https://i0.hdslb.com/bfs/bangumi/image/65d6f8e5e0299564296ac8843c97adb34f65233f.png)
+
+## 中国医生3:急诊24小时
+![中国医生3:急诊24小时](https://i0.hdslb.com/bfs/bangumi/image/8510bdf4609e487a064ea7d93bef95d810104dc2.png)
+
+## 数万元余额凭空消失，真相让人大跌眼镜
+![数万元余额凭空消失，真相让人大跌眼镜](https://i0.hdslb.com/bfs/bangumi/image/dc81b65279b441d75d76a4329c639a62ed8dd7bf.png)
+
+
 ## 无厘头经典回归，硬汉化身搞笑担当
 ![无厘头经典回归，硬汉化身搞笑担当](https://i0.hdslb.com/bfs/bangumi/image/8b9addda7155696718a618e14f2997f50a330fbc.png)
 
