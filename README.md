@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 异修罗
+![异修罗](https://i0.hdslb.com/bfs/bangumi/image/0ce4de7fa59a673150f9b5ae3b318b41f5388dfd.png)
+
+## 盗妖行
+![盗妖行](https://i0.hdslb.com/bfs/bangumi/image/36e4ae3f83d0c4b194ec4f46092e2ec56f698638.png)
+
+
 ## 天官赐福短片篇章3
 ![天官赐福短片篇章3](https://i0.hdslb.com/bfs/bangumi/image/dec3d01927680eff77900c0dc3036a66c7e8f26e.png)
 
