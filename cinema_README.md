@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 谢霆锋拍武打片全凭即兴？
+![谢霆锋拍武打片全凭即兴？](https://i0.hdslb.com/bfs/bangumi/image/0baeb04e76e58bb0862b08d3eb9edbd54b077047.png)
+
+## 按下春日快门，定格宋亚轩生日记忆
+![按下春日快门，定格宋亚轩生日记忆](https://i0.hdslb.com/bfs/bangumi/image/47239dbcdcc6c2c0a30523d0b9cfb32f497210fa.png)
+
+
 ## 中国红妆·开播！首档国风妆造微综艺
 ![中国红妆·开播！首档国风妆造微综艺](https://i0.hdslb.com/bfs/bangumi/image/8caa13a3edadd4ded553867718315fd3d3e9c575.png)
 
