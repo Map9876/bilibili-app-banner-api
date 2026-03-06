@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 团队战开启！大艺术家VS颜值即正义
+![团队战开启！大艺术家VS颜值即正义](https://i0.hdslb.com/bfs/bangumi/image/7874acc789f91d7ae7c0ca1208fe5feb033ebbae.png)
+
+## 生日回顾上线！与宋亚轩共度放送时刻
+![生日回顾上线！与宋亚轩共度放送时刻](https://i0.hdslb.com/bfs/bangumi/image/47239dbcdcc6c2c0a30523d0b9cfb32f497210fa.png)
+
+## 六重奏2·开播！时代金曲的幕后传奇
+![六重奏2·开播！时代金曲的幕后传奇](https://i0.hdslb.com/bfs/bangumi/image/264493defea431945a54c8d4788a2d07dceb715d.png)
+
+
 ## 谢霆锋拍武打片全凭即兴？
 ![谢霆锋拍武打片全凭即兴？](https://i0.hdslb.com/bfs/bangumi/image/0baeb04e76e58bb0862b08d3eb9edbd54b077047.png)
 

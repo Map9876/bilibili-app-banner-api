@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 黑子的篮球 第3期
+![黑子的篮球 第3期](https://i0.hdslb.com/bfs/bangumi/image/c0e80dd8c1a4aba203085fe4465765c449dcda18.png)
+
+
 ## 命运之夜  06版
 ![命运之夜  06版](https://i0.hdslb.com/bfs/bangumi/image/aaa3b81836cfb654d6583637887678d4c451ddba.png)
 
