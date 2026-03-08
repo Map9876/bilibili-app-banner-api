@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 刑警雷霆出击！守护万家平安
+![刑警雷霆出击！守护万家平安](https://i0.hdslb.com/bfs/bangumi/image/dc81b65279b441d75d76a4329c639a62ed8dd7bf.png)
+
+## 全程离谱！315纪录片揭露黑幕
+![全程离谱！315纪录片揭露黑幕](https://i0.hdslb.com/bfs/bangumi/image/b77911794f9083b57eb11b7c0045020ecaa34bfe.png)
+
+
 ##  直播回顾！鼠标空降与宋亚轩暖心互动
 ![ 直播回顾！鼠标空降与宋亚轩暖心互动](https://i0.hdslb.com/bfs/bangumi/image/47239dbcdcc6c2c0a30523d0b9cfb32f497210fa.png)
 
