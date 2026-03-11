@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 魔卡少女樱 CLEAR CARD篇
+![魔卡少女樱 CLEAR CARD篇](https://i0.hdslb.com/bfs/bangumi/image/893b802b108d19a9f7efc26e56f33bcb8c682f27.png)
+
+
 ## 赛罗奥特曼 英雄传
 ![赛罗奥特曼 英雄传](https://i0.hdslb.com/bfs/bangumi/image/f8678e19b9d98ff2c68a1885d6e7a578f8a65939.png)
 
