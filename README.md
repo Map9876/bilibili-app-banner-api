@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 工作细胞BLACK
+![工作细胞BLACK](https://i0.hdslb.com/bfs/bangumi/image/d345132d3ad81b09898c448bcee2254eedaae56a.png)
+
+
 ## 魔卡少女樱 CLEAR CARD篇
 ![魔卡少女樱 CLEAR CARD篇](https://i0.hdslb.com/bfs/bangumi/image/893b802b108d19a9f7efc26e56f33bcb8c682f27.png)
 
