@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 非遗整活大赛！团队战开启
+![非遗整活大赛！团队战开启](https://i0.hdslb.com/bfs/bangumi/image/7874acc789f91d7ae7c0ca1208fe5feb033ebbae.png)
+
+## 揭秘大唐公主们的真实生活>>
+![揭秘大唐公主们的真实生活>>](https://i0.hdslb.com/bfs/bangumi/image/497f8219699d6442aa1bb2aac021215c7af6849d.png)
+
+## 卢冠廷：音乐是我生存的唯一技能
+![卢冠廷：音乐是我生存的唯一技能](https://i0.hdslb.com/bfs/bangumi/image/264493defea431945a54c8d4788a2d07dceb715d.png)
+
+
 
 ## 家有恶猫 第五季
 ![家有恶猫 第五季](https://i0.hdslb.com/bfs/bangumi/image/a9c3555be708e74af178f10a0a3a77a30b12044d.png)
