@@ -1,6 +1,10 @@
 # Bilibili 影视 顶部海报
 
 ---
+## “星期三”主演，美式青春纯爱之作
+![“星期三”主演，美式青春纯爱之作](https://i0.hdslb.com/bfs/bangumi/image/baaaadcb9dd2568a23050c1d422e5c263a366ef5.png)
+
+
 ## 大起大落！归于平凡也幸福
 ![大起大落！归于平凡也幸福](https://i0.hdslb.com/bfs/bangumi/image/dfc1db1ded74467956725d2ecdc657229f1ce8a8.png)
 
