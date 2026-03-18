@@ -1,6 +1,25 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 斯科特阿金斯主演，狙击手绝地求生
+![斯科特阿金斯主演，狙击手绝地求生](https://i0.hdslb.com/bfs/bangumi/image/5d14328e0173aa16dfea870a144b97c50314a6c1.png)
+
+## 丁程鑫独家生日“星”愿VLOG
+![丁程鑫独家生日“星”愿VLOG](https://i0.hdslb.com/bfs/bangumi/image/ca72cc617539b2e9e69937aee3be3181ce565cfb.png)
+
+## 收官！花开有时，重逢有期
+![收官！花开有时，重逢有期](https://i0.hdslb.com/bfs/bangumi/image/423a3e50b7c0a0238c0c77d8bef03f933bbfb1f9.png)
+
+## 【民间鉴宝】纪录片登陆B站！
+![【民间鉴宝】纪录片登陆B站！](https://i0.hdslb.com/bfs/bangumi/image/8b554d7788d7232a8ce5b311ad3eb79438b8e78d.png)
+
+## 上B站看NCAA疯狂三月
+![上B站看NCAA疯狂三月](https://i0.hdslb.com/bfs/bangumi/image/05f476a18d6cd2edfd933944de7d38e814320ac7.png)
+
+## 看NCAA“疯狂三月”！
+![看NCAA“疯狂三月”！](https://i0.hdslb.com/bfs/bangumi/image/2aa05580cf65d3d6e3574109d4089071eeda7ca7.png)
+
+
 ## “星期三”主演，美式青春纯爱之作
 ![“星期三”主演，美式青春纯爱之作](https://i0.hdslb.com/bfs/bangumi/image/baaaadcb9dd2568a23050c1d422e5c263a366ef5.png)
 
