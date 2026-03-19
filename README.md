@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 鬼灭之刃 游郭篇
+![鬼灭之刃 游郭篇](https://i0.hdslb.com/bfs/bangumi/image/d49c8b91d25608f0f6c115a3e826a38e7898b448.png)
+
+
 ## JOJO的奇妙冒险 不灭钻石
 ![JOJO的奇妙冒险 不灭钻石](https://i0.hdslb.com/bfs/bangumi/image/dc6c763dabd470056bd914f3c6dda0be13070465.png)
 
