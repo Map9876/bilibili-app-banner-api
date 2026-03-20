@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 魔法禁书目录 第三季
+![魔法禁书目录 第三季](https://i0.hdslb.com/bfs/bangumi/image/d35744ecc750ac155ff6a2d8dac684578b541cf4.png)
+
+## JOJO的奇妙冒险 黄金之风
+![JOJO的奇妙冒险 黄金之风](https://i0.hdslb.com/bfs/bangumi/image/d8c92a2e2caacca713532205146bb608e292fe9e.png)
+
+
 ## 鬼灭之刃 游郭篇
 ![鬼灭之刃 游郭篇](https://i0.hdslb.com/bfs/bangumi/image/d49c8b91d25608f0f6c115a3e826a38e7898b448.png)
 

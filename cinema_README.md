@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 肾上腺素飙升！全民狂欢的追杀直播
+![肾上腺素飙升！全民狂欢的追杀直播](https://i0.hdslb.com/bfs/bangumi/image/77b25b2953fefa535511cfb37e59776bf9eb24f3.png)
+
+## 卢冠廷：我的音乐就是我的人生
+![卢冠廷：我的音乐就是我的人生](https://i0.hdslb.com/bfs/bangumi/image/264493defea431945a54c8d4788a2d07dceb715d.png)
+
+## 秦始皇到底死于天意还是人祸？
+![秦始皇到底死于天意还是人祸？](https://i0.hdslb.com/bfs/bangumi/image/903866cf1feea9f80cd815d305d97091f06210a3.png)
+
+## 潘斌龙X包贝尔，硬核出击高能缉凶
+![潘斌龙X包贝尔，硬核出击高能缉凶](https://i0.hdslb.com/bfs/bangumi/image/aef4901b391c13caf3bd246eb34e955a8dce1afb.png)
+
+
 ## 蒋奇明X李雪琴，飞行搭子追梦上天
 ![蒋奇明X李雪琴，飞行搭子追梦上天](https://i0.hdslb.com/bfs/bangumi/image/06bfc74d7f23aa1b6a267cd6db9a578a8e4b150a.png)
 
