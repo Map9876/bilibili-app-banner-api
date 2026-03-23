@@ -1,6 +1,10 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 因为热爱！有隐情的外国人特辑
+![因为热爱！有隐情的外国人特辑](https://i0.hdslb.com/bfs/bangumi/image/dfc1db1ded74467956725d2ecdc657229f1ce8a8.png)
+
+
 ## 【现实版狼人杀】，谁偷走了黄金？
 ![【现实版狼人杀】，谁偷走了黄金？](https://i0.hdslb.com/bfs/bangumi/image/1c3ee5cfcd19f7d1ce58a1a9562e168d9e47072b.png)
 
