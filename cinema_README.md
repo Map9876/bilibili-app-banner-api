@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 顶尖杀手退隐小镇，以暴制暴治警匪
+![顶尖杀手退隐小镇，以暴制暴治警匪](https://i0.hdslb.com/bfs/bangumi/image/7aea63970e3ef5e79eea69b22d93368ef174b705.png)
+
+## 夺少？一双dunk要5000美刀？！
+![夺少？一双dunk要5000美刀？！](https://i0.hdslb.com/bfs/bangumi/image/8b554d7788d7232a8ce5b311ad3eb79438b8e78d.png)
+
+
 ## 非遗入妆！6小时限时妆造挑战
 ![非遗入妆！6小时限时妆造挑战](https://i0.hdslb.com/bfs/bangumi/image/8caa13a3edadd4ded553867718315fd3d3e9c575.png)
 

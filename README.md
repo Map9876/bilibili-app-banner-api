@@ -355,6 +355,16 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 政宗君的复仇
+![政宗君的复仇](https://i0.hdslb.com/bfs/bangumi/image/da43d58d3a4f137b46241539c35fcaec437c1aac.png)
+
+## 美食之旅
+![美食之旅](https://i0.hdslb.com/bfs/bangumi/image/fbfdf699d16741e8e4fa5227865c32d8eb4b614f.png)
+
+## 岸边露伴 一动也不动
+![岸边露伴 一动也不动](https://i0.hdslb.com/bfs/bangumi/image/6c8992dfd02f7d421d597317a00275f2ab8fe263.png)
+
+
 ## 多罗罗
 ![多罗罗](https://i0.hdslb.com/bfs/bangumi/image/c0f2448d01046807a27cfca19cc1cbe2d6101e65.png)
 
