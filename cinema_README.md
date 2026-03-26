@@ -1,6 +1,10 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 现场共演招募！点击报名>>
+![现场共演招募！点击报名>>](https://i0.hdslb.com/bfs/bangumi/image/6088b26d432db3580f9bf35f37094711ceca6ccf.png)
+
+
 ## 顶尖杀手退隐小镇，以暴制暴治警匪
 ![顶尖杀手退隐小镇，以暴制暴治警匪](https://i0.hdslb.com/bfs/bangumi/image/7aea63970e3ef5e79eea69b22d93368ef174b705.png)
 
