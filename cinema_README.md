@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+##    
+![   ](https://i0.hdslb.com/bfs/bangumi/image/7874acc789f91d7ae7c0ca1208fe5feb033ebbae.png)
+
+## 少年侦探组集结，破解双重谜案！
+![少年侦探组集结，破解双重谜案！](https://i0.hdslb.com/bfs/bangumi/image/59a663a98d06648f775bcd9f0206b810e4c87e25.png)
+
+## 时代金曲的幕后传奇——戴佩妮
+![时代金曲的幕后传奇——戴佩妮](https://i0.hdslb.com/bfs/bangumi/image/f69119c0663508d4d155b1a0040bcd51eb0cd699.png)
+
+## 暴风骤雨中的野外生存试炼！
+![暴风骤雨中的野外生存试炼！](https://i0.hdslb.com/bfs/bangumi/image/b6acce99e16adf4098e9fc77ea750582267fbe3d.png)
+
+
 ## 现场共演招募！点击报名>>
 ![现场共演招募！点击报名>>](https://i0.hdslb.com/bfs/bangumi/image/6088b26d432db3580f9bf35f37094711ceca6ccf.png)
 
