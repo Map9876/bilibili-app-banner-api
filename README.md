@@ -355,6 +355,16 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 滴滴大冒险
+![滴滴大冒险](https://i0.hdslb.com/bfs/bangumi/image/9e7514a9d8ed3ce9a28a73a66c6d5b525abd72d8.png)
+
+## BanG Dream!
+![BanG Dream!](https://i0.hdslb.com/bfs/bangumi/image/c3594d5f2abf81752bae930cbe2b640210e27b49.png)
+
+## 离开A级队伍的我
+![离开A级队伍的我](https://i0.hdslb.com/bfs/bangumi/image/9c2c9d8dc9c257439c984163ada1cdd5a63d18ff.png)
+
+
 ## 珈百璃的堕落
 ![珈百璃的堕落](https://i0.hdslb.com/bfs/bangumi/image/20404e1c4b89372fe28c6916eae45cf8ed061ec5.png)
 
