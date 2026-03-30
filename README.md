@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 奇蛋物语
+![奇蛋物语](https://i0.hdslb.com/bfs/bangumi/image/1eb5a9a6478fb5d7a7238bd8d5865e1d3bac61c3.png)
+
+
 ## pop子和pipi美的日常
 ![pop子和pipi美的日常](https://i0.hdslb.com/bfs/bangumi/image/335d8c6e9b13ceb83044d2f290fb1a82b450328a.png)
 
