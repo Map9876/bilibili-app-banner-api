@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 白令海上最残酷的捕捞，仅4人幸存！
+![白令海上最残酷的捕捞，仅4人幸存！](https://i0.hdslb.com/bfs/bangumi/image/c604a9cc66fd9aa3af60ec46ac6f9eb9366f6faf.png)
+
+## 以红妆为引，见中国风骨
+![以红妆为引，见中国风骨](https://i0.hdslb.com/bfs/bangumi/image/8caa13a3edadd4ded553867718315fd3d3e9c575.png)
+
+
 ## 关于“零钱饱腹食堂”的对决！
 ![关于“零钱饱腹食堂”的对决！](https://i0.hdslb.com/bfs/bangumi/image/dfc1db1ded74467956725d2ecdc657229f1ce8a8.png)
 
