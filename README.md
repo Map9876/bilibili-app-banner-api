@@ -355,6 +355,19 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 相合之物
+![相合之物](https://i0.hdslb.com/bfs/bangumi/image/446b30832eacbff41a25721d5d17f7e5ddd34b74.png)
+
+## 游戏人生
+![游戏人生](https://i0.hdslb.com/bfs/bangumi/image/a839219ba8ac327f6b874ef93abe1f1aa093be93.png)
+
+## 命运石之门 负荷领域的既视感
+![命运石之门 负荷领域的既视感](https://i0.hdslb.com/bfs/bangumi/image/4d50bfd8218125727322da249db56d83fecbe615.png)
+
+## 春季新番导视上线
+![春季新番导视上线](https://i0.hdslb.com/bfs/bangumi/image/72d9072edfbf1f9fa829b2f858384537a37311ea.png)
+
+
 
 ## 奇蛋物语
 ![奇蛋物语](https://i0.hdslb.com/bfs/bangumi/image/1eb5a9a6478fb5d7a7238bd8d5865e1d3bac61c3.png)

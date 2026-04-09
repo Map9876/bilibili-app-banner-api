@@ -1,6 +1,37 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 东北兽医闯乱世，搅动上海风云！
+![东北兽医闯乱世，搅动上海风云！](https://i0.hdslb.com/bfs/bangumi/image/83a01ec56f4ddd6ce364984114e502bec578ce13.png)
+
+## 萌宠成长记 特辑
+![萌宠成长记 特辑](https://i0.hdslb.com/bfs/bangumi/image/66cbbd995420eb72afcd1870f69180a693ffba6e.png)
+
+## 《我，许可》幕后纪录片
+![《我，许可》幕后纪录片](https://i0.hdslb.com/bfs/bangumi/image/12970a43ecf8f36aa0b894aae19b554a411cc263.png)
+
+## 拍戏撞上真巨蟒，片场上演生死逃亡
+![拍戏撞上真巨蟒，片场上演生死逃亡](https://i0.hdslb.com/bfs/bangumi/image/009df9d3187e2b27bfc3865afc229c17fb2360f7.png)
+
+## 其实，我是一个演员
+![其实，我是一个演员](https://i0.hdslb.com/bfs/bangumi/image/bb9933f61a1dc769a78b90b28ca45a21d6d83cbd.png)
+
+## 只要用心，人人都是食神。
+![只要用心，人人都是食神。](https://i0.hdslb.com/bfs/bangumi/image/b5e8303b29120c83cf0ea7d94a29ac119f07ba07.png)
+
+## 公然用鬼秤被当场抓包
+![公然用鬼秤被当场抓包](https://i0.hdslb.com/bfs/bangumi/image/79967305cc1b7aa05a5c779f63ed67a2ec72c75d.png)
+
+## 拯救世界的超级英雄居然全员恶人？
+![拯救世界的超级英雄居然全员恶人？](https://i0.hdslb.com/bfs/bangumi/image/712400e6437cdb3c47f8957eb7b2203333554d41.png)
+
+## 让我听到你们的尖叫！
+![让我听到你们的尖叫！](https://i0.hdslb.com/bfs/bangumi/image/cd62a87d9bcbb8edf8e18c40bb9164efabf47538.png)
+
+## 天才医生肖恩迎来人生大事！
+![天才医生肖恩迎来人生大事！](https://i0.hdslb.com/bfs/bangumi/image/e9a8ab99c6c172c35111cc86775e929cb93ac81d.png)
+
+
 ## 白令海上最残酷的捕捞，仅4人幸存！
 ![白令海上最残酷的捕捞，仅4人幸存！](https://i0.hdslb.com/bfs/bangumi/image/c604a9cc66fd9aa3af60ec46ac6f9eb9366f6faf.png)
 
