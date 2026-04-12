@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 最终季，“机器”生死成谜！
+![最终季，“机器”生死成谜！](https://i0.hdslb.com/bfs/bangumi/image/059b2eadf9a9fdc5345b0914c20d0ea5a6b5cdfb.png)
+
+## 以“闲”字窥探东坡心境
+![以“闲”字窥探东坡心境](https://i0.hdslb.com/bfs/bangumi/image/547ff0b9c60aa77b964835d3b873f8059b6d46b1.png)
+
+## 理疗店内搜出大量废弃针头！
+![理疗店内搜出大量废弃针头！](https://i0.hdslb.com/bfs/bangumi/image/79967305cc1b7aa05a5c779f63ed67a2ec72c75d.png)
+
+
 ## 催泪定格动画，致不完美生命的赞歌
 ![催泪定格动画，致不完美生命的赞歌](https://i0.hdslb.com/bfs/bangumi/image/f76486b0b084d588a9580b5a0371553ba21ab987.png)
 
