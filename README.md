@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 动物新世代
+![动物新世代](https://i0.hdslb.com/bfs/bangumi/image/e5b8546c89652029c08cab13987050eff891a840.png)
+
+## 奇巧出租车
+![奇巧出租车](https://i0.hdslb.com/bfs/bangumi/image/f6bcf5b0c9b9135e78a23a1af7244f82cf9499f9.png)
+
+
 ## 美食之旅中配版第二季
 ![美食之旅中配版第二季](https://i0.hdslb.com/bfs/bangumi/image/4e79ff003b4803c211bc3475b875c05a423cd54a.png)
 
