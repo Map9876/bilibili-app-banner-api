@@ -1,6 +1,22 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 试营业正式启动！一键解锁更多精彩
+![试营业正式启动！一键解锁更多精彩](https://i0.hdslb.com/bfs/bangumi/image/4fcb6a807870e9de819c77f4c59c811b00d7dc27.png)
+
+## 戛纳获奖佳作，镜头内外的重复之爱
+![戛纳获奖佳作，镜头内外的重复之爱](https://i0.hdslb.com/bfs/bangumi/image/8eb42dabfbfa138979828053592e07364ef2a947.png)
+
+## 贾樟柯执导佳作，山河仍在故人难寻
+![贾樟柯执导佳作，山河仍在故人难寻](https://i0.hdslb.com/bfs/bangumi/image/d8d925f85dd06e148c63de8787d6e5534f69624e.png)
+
+## 专业团队，在线捕蟹
+![专业团队，在线捕蟹](https://i0.hdslb.com/bfs/bangumi/image/07ecb99e8ac1a1a96d232138b5d800d0b841e35a.png)
+
+## 生生不息二人转
+![生生不息二人转](https://i0.hdslb.com/bfs/bangumi/image/28daf372e15375acf9268abf5737c30417bbca52.png)
+
+
 ## 仙侠记，一袭红妆体会侠客快意恩仇
 ![仙侠记，一袭红妆体会侠客快意恩仇](https://i0.hdslb.com/bfs/bangumi/image/8caa13a3edadd4ded553867718315fd3d3e9c575.png)
 
