@@ -1,6 +1,10 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 张凌赫公益纪录片即将登陆B站！
+![张凌赫公益纪录片即将登陆B站！](https://i0.hdslb.com/bfs/bangumi/image/0bfdcf7264f19199cffccb609c7dac7d040ac9ff.png)
+
+
 ## 试营业正式启动！一键解锁更多精彩
 ![试营业正式启动！一键解锁更多精彩](https://i0.hdslb.com/bfs/bangumi/image/4fcb6a807870e9de819c77f4c59c811b00d7dc27.png)
 
