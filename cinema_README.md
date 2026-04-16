@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 热门漫改喜剧，金高银职场热恋！
+![热门漫改喜剧，金高银职场热恋！](https://i0.hdslb.com/bfs/bangumi/image/27bd907334e0d303c1026f8d6a996e927b440e12.png)
+
+## 4月22日线下发布会，点击了解>>
+![4月22日线下发布会，点击了解>>](https://i0.hdslb.com/bfs/bangumi/image/0bfdcf7264f19199cffccb609c7dac7d040ac9ff.png)
+
+
 ## 张凌赫公益纪录片即将登陆B站！
 ![张凌赫公益纪录片即将登陆B站！](https://i0.hdslb.com/bfs/bangumi/image/0bfdcf7264f19199cffccb609c7dac7d040ac9ff.png)
 
