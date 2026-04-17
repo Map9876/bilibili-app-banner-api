@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 台湾票房年冠！当电车难题成为现实
+![台湾票房年冠！当电车难题成为现实](https://i0.hdslb.com/bfs/bangumi/image/e5636092c702780917630d9a902083d8c330bd33.png)
+
+## 唐汉霄：600遍配唱只为《哪吒》
+![唐汉霄：600遍配唱只为《哪吒》](https://i0.hdslb.com/bfs/bangumi/image/f69119c0663508d4d155b1a0040bcd51eb0cd699.png)
+
+## 裴淳华领衔主演，低成本公路惊悚片
+![裴淳华领衔主演，低成本公路惊悚片](https://i0.hdslb.com/bfs/bangumi/image/2c5d3bf389617c3ba0089caca64db3594fa54997.png)
+
+## 天星术再启，摸金铁三角深入古墓！
+![天星术再启，摸金铁三角深入古墓！](https://i0.hdslb.com/bfs/bangumi/image/1328327900c774691e438fe1820e363d10f55f89.png)
+
+
 ## 热门漫改喜剧，金高银职场热恋！
 ![热门漫改喜剧，金高银职场热恋！](https://i0.hdslb.com/bfs/bangumi/image/27bd907334e0d303c1026f8d6a996e927b440e12.png)
 

@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 阿宅的恋爱真难
+![阿宅的恋爱真难](https://i0.hdslb.com/bfs/bangumi/image/efaf4ebaf9b45f1e5ebca96fdf1f847c12ab1959.png)
+
+## 奇迹先锋
+![奇迹先锋](https://i0.hdslb.com/bfs/bangumi/image/41073b404f6f2c352cc505aa669dfe59f0c6ecf5.png)
+
+
 ## 一周的朋友。
 ![一周的朋友。](https://i0.hdslb.com/bfs/bangumi/image/6e971bd4e54c2e45a0a09c04ab6c39b1495541ee.jpg)
 
