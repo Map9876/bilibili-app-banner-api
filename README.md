@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 美食之旅 第二季（中配版）
+![美食之旅 第二季（中配版）](https://i0.hdslb.com/bfs/bangumi/image/4e79ff003b4803c211bc3475b875c05a423cd54a.png)
+
+## 老夫老妻重返青春
+![老夫老妻重返青春](https://i0.hdslb.com/bfs/bangumi/image/f93fafd62848eb4ad7b39230500da7acbccaf8e3.png)
+
+
 ## 月色真美
 ![月色真美](https://i0.hdslb.com/bfs/bangumi/image/92a141cd72ff46cf35f28bc8db2bf014f8d06f89.png)
 

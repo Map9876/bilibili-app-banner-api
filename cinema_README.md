@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 万玛才旦监制，藏地少年的成长痛
+![万玛才旦监制，藏地少年的成长痛](https://i0.hdslb.com/bfs/bangumi/image/72245e84071105cb4cf10accf392b8719bd414e0.png)
+
+## 当广告女强人变身实习保育员
+![当广告女强人变身实习保育员](https://i0.hdslb.com/bfs/bangumi/image/e14eb7c6cf66c7aaaf0e7c9558346d17fda8d74b.png)
+
+## 现实版【挂羊头卖狗肉】
+![现实版【挂羊头卖狗肉】](https://i0.hdslb.com/bfs/bangumi/image/79967305cc1b7aa05a5c779f63ed67a2ec72c75d.png)
+
+
 ## 男子为解心头之恨，竟用放火来泄愤？
 ![男子为解心头之恨，竟用放火来泄愤？](https://i0.hdslb.com/bfs/bangumi/image/1c3ee5cfcd19f7d1ce58a1a9562e168d9e47072b.png)
 
