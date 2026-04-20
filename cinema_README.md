@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 挑战侠客大片状况百出，发生了什么
+![挑战侠客大片状况百出，发生了什么](https://i0.hdslb.com/bfs/bangumi/image/8caa13a3edadd4ded553867718315fd3d3e9c575.png)
+
+## 利簋破谜，段奕宏刘萧旭演绎牧野之战
+![利簋破谜，段奕宏刘萧旭演绎牧野之战](https://i0.hdslb.com/bfs/bangumi/image/5cfa41f7317c739c1cdd4b2880050b69c65f26b9.png)
+
+## 追踪巨型鱼 第二季
+![追踪巨型鱼 第二季](https://i0.hdslb.com/bfs/bangumi/image/f494a65be27787a94e75d5e8487eec8f9a960477.png)
+
+
 ## 万玛才旦监制，藏地少年的成长痛
 ![万玛才旦监制，藏地少年的成长痛](https://i0.hdslb.com/bfs/bangumi/image/72245e84071105cb4cf10accf392b8719bd414e0.png)
 
