@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 正式开业？别慌，各种状况？接招！
+![正式开业？别慌，各种状况？接招！](https://i0.hdslb.com/bfs/bangumi/image/4fcb6a807870e9de819c77f4c59c811b00d7dc27.png)
+
+## 严屹宽主演，平凡百姓共抗外敌！
+![严屹宽主演，平凡百姓共抗外敌！](https://i0.hdslb.com/bfs/bangumi/image/10c0f059193a580e9c2f617465dcb9717725b447.png)
+
+## 哔哩哔哩纪录片节
+![哔哩哔哩纪录片节](https://i0.hdslb.com/bfs/bangumi/image/0140f23310d3958da5770890d43d4729824fd121.png)
+
+
 ## 挑战侠客大片状况百出，发生了什么
 ![挑战侠客大片状况百出，发生了什么](https://i0.hdslb.com/bfs/bangumi/image/8caa13a3edadd4ded553867718315fd3d3e9c575.png)
 
