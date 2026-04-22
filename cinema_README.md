@@ -1,6 +1,10 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 《凌探未来》定档5月8日！
+![《凌探未来》定档5月8日！](https://i0.hdslb.com/bfs/bangumi/image/0bfdcf7264f19199cffccb609c7dac7d040ac9ff.png)
+
+
 ## 正式开业？别慌，各种状况？接招！
 ![正式开业？别慌，各种状况？接招！](https://i0.hdslb.com/bfs/bangumi/image/4fcb6a807870e9de819c77f4c59c811b00d7dc27.png)
 

@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 银魂
+![银魂](https://i0.hdslb.com/bfs/bangumi/image/869add8081c63e758d426e251b0d8968b331724c.png)
+
+
 ## 恋爱要在世界征服后
 ![恋爱要在世界征服后](https://i0.hdslb.com/bfs/bangumi/image/7cc190b1353c6ab129ca23cfb88acfc5f5d2f308.png)
 
