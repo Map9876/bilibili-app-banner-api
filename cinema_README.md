@@ -1,6 +1,10 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 魔法界“恋爱循环”
+![魔法界“恋爱循环”](https://i0.hdslb.com/bfs/bangumi/image/fc1781ba11e0837236c283ef0dd1a6ddd9ba538d.png)
+
+
 ## 《凌探未来》定档5月8日！
 ![《凌探未来》定档5月8日！](https://i0.hdslb.com/bfs/bangumi/image/0bfdcf7264f19199cffccb609c7dac7d040ac9ff.png)
 
