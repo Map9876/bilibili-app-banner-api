@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 反鸡汤神作，专治各种恋爱脑
+![反鸡汤神作，专治各种恋爱脑](https://i0.hdslb.com/bfs/bangumi/image/cd24dfce7f33ac9f60d05edf6095a8b371785bd2.png)
+
+## 唐汉霄：我为偶像制作歌
+![唐汉霄：我为偶像制作歌](https://i0.hdslb.com/bfs/bangumi/image/f69119c0663508d4d155b1a0040bcd51eb0cd699.png)
+
+## 成龙二搭国宝熊猫，萌力再升级！
+![成龙二搭国宝熊猫，萌力再升级！](https://i0.hdslb.com/bfs/bangumi/image/671944add1e4e27f266cc1d4e736e260fbecae12.png)
+
+## 发布会暨首映直播回看，速戳观看>>
+![发布会暨首映直播回看，速戳观看>>](https://i0.hdslb.com/bfs/bangumi/image/0bfdcf7264f19199cffccb609c7dac7d040ac9ff.png)
+
+
 ## 魔法界“恋爱循环”
 ![魔法界“恋爱循环”](https://i0.hdslb.com/bfs/bangumi/image/fc1781ba11e0837236c283ef0dd1a6ddd9ba538d.png)
 

@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 超能力女儿
+![超能力女儿](https://i0.hdslb.com/bfs/bangumi/image/9aabb45fbff7a5eeeedf09d0561f53bca2d4c4e7.png)
+
+## 将夜
+![将夜](https://i0.hdslb.com/bfs/bangumi/image/9de047d306b6325266aa8dab6ac1bd7af75ed9a1.png)
+
+
 ## 在下坂本，有何贵干？
 ![在下坂本，有何贵干？](https://i0.hdslb.com/bfs/bangumi/image/2e6fefbd03a7a640e76298e599be7a8532ffbfc7.png)
 
