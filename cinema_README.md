@@ -1,6 +1,28 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 点击追剧预约，解锁多重独家福利>>
+![点击追剧预约，解锁多重独家福利>>](https://i0.hdslb.com/bfs/bangumi/image/0bfdcf7264f19199cffccb609c7dac7d040ac9ff.png)
+
+## 博士与新旅伴一同拯救圣诞节！
+![博士与新旅伴一同拯救圣诞节！](https://i0.hdslb.com/bfs/bangumi/image/85cf01470bbfeda20d607393b3a701111f94f2c8.png)
+
+## 博士开启全新时空冒险！
+![博士开启全新时空冒险！](https://i0.hdslb.com/bfs/bangumi/image/39e8687967e8cdbb619b5bd249b531a37490f4cc.png)
+
+## 天网：血色花季
+![天网：血色花季](https://i0.hdslb.com/bfs/bangumi/image/16efcabaa4fa6f3be08fe077032810965bc3f65f.png)
+
+## 雄狮抛妻弃子去了其他狮群？？？
+![雄狮抛妻弃子去了其他狮群？？？](https://i0.hdslb.com/bfs/bangumi/image/a09781f46fc0a3647a360520a1c08d211283ce6f.png)
+
+## 嫌疑人畏罪潜逃27年终落网>>
+![嫌疑人畏罪潜逃27年终落网>>](https://i0.hdslb.com/bfs/bangumi/image/1c3ee5cfcd19f7d1ce58a1a9562e168d9e47072b.png)
+
+## 新官上任，第一把火怎么燃？
+![新官上任，第一把火怎么燃？](https://i0.hdslb.com/bfs/bangumi/image/4fcb6a807870e9de819c77f4c59c811b00d7dc27.png)
+
+
 ## 反鸡汤神作，专治各种恋爱脑
 ![反鸡汤神作，专治各种恋爱脑](https://i0.hdslb.com/bfs/bangumi/image/cd24dfce7f33ac9f60d05edf6095a8b371785bd2.png)
 

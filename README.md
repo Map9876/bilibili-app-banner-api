@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 魔法少女 俺
+![魔法少女 俺](https://i0.hdslb.com/bfs/bangumi/image/3a41736a750f11892a167ff1366622d2072ea85f.png)
+
+## 开拍啦！怪兽大电影
+![开拍啦！怪兽大电影](https://i0.hdslb.com/bfs/bangumi/image/201101a7b6a603032e1698584984480921746540.png)
+
+
 ## 超能力女儿
 ![超能力女儿](https://i0.hdslb.com/bfs/bangumi/image/9aabb45fbff7a5eeeedf09d0561f53bca2d4c4e7.png)
 
