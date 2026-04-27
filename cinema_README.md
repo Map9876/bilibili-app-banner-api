@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 寻找“混种人”的终极答案！
+![寻找“混种人”的终极答案！](https://i0.hdslb.com/bfs/bangumi/image/4b94c5088982c633a5d4095252bd06650a31e90b.png)
+
+## 地球危机升级，护卫队热血集结！
+![地球危机升级，护卫队热血集结！](https://i0.hdslb.com/bfs/bangumi/image/2cd8360d3df35ec31065275fc5b962938a64c7a2.png)
+
+## 簋中之王㝬簋，还原周厉王的双面人生
+![簋中之王㝬簋，还原周厉王的双面人生](https://i0.hdslb.com/bfs/bangumi/image/6fd28493e8a3c8d1ec5fee0f245245cd1416a3d1.png)
+
+
 ##   
 ![  ](https://i0.hdslb.com/bfs/bangumi/image/a5de0da56e4654c8da153fecb63a82ca895d00e6.png)
 
