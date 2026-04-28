@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 华冠记，红妆女孩云南腾冲收官！
+![华冠记，红妆女孩云南腾冲收官！](https://i0.hdslb.com/bfs/bangumi/image/8caa13a3edadd4ded553867718315fd3d3e9c575.png)
+
+## 博士携手圣诞老人对抗异形！
+![博士携手圣诞老人对抗异形！](https://i0.hdslb.com/bfs/bangumi/image/7817b4af24ac409ae5728d431948a1f399a9e3be.png)
+
+## 速戳预约！毕业歌会一起奔赴青春
+![速戳预约！毕业歌会一起奔赴青春](https://i0.hdslb.com/bfs/bangumi/image/dad62d5916300b8aebbf8a8f3603b4963ff46168.png)
+
+
 ## 寻找“混种人”的终极答案！
 ![寻找“混种人”的终极答案！](https://i0.hdslb.com/bfs/bangumi/image/4b94c5088982c633a5d4095252bd06650a31e90b.png)
 
