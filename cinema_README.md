@@ -1,6 +1,10 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 北欧经典IP续作，极地温情再出发
+![北欧经典IP续作，极地温情再出发](https://i0.hdslb.com/bfs/bangumi/image/0656e47da65b246a84ecf63d327581802b10e558.png)
+
+
 ## 华冠记，红妆女孩云南腾冲收官！
 ![华冠记，红妆女孩云南腾冲收官！](https://i0.hdslb.com/bfs/bangumi/image/8caa13a3edadd4ded553867718315fd3d3e9c575.png)
 
