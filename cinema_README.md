@@ -1,6 +1,28 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 宁理为何总是能把配角演成主角？
+![宁理为何总是能把配角演成主角？](https://i0.hdslb.com/bfs/bangumi/image/7f57fe2dcfccaacef5b75b3956032d3bf2f485b9.png)
+
+## 当“草木”穿过“洪流”
+![当“草木”穿过“洪流”](https://i0.hdslb.com/bfs/bangumi/image/b3d1a9c07d0184ed5d30199d35715767eb56cbd3.png)
+
+## 爆笑定档！思念成吉上演“父母爱情”！
+![爆笑定档！思念成吉上演“父母爱情”！](https://i0.hdslb.com/bfs/bangumi/image/8d1a5122ae48a5b03f25921002b1f5ad15cc9fd6.png)
+
+## 究竟谁能成为荒野最后的赢家？
+![究竟谁能成为荒野最后的赢家？](https://i0.hdslb.com/bfs/bangumi/image/f629c8b7476ab23d9572e01ec4ca154682d32acd.png)
+
+## 许光汉X袁澧林，跨越时空的爱恋
+![许光汉X袁澧林，跨越时空的爱恋](https://i0.hdslb.com/bfs/bangumi/image/f89cccf418f5a71eb2404f3d91b562dbc609aedb.png)
+
+## 5月6日18:00 正式预售
+![5月6日18:00 正式预售](https://i0.hdslb.com/bfs/bangumi/image/dad62d5916300b8aebbf8a8f3603b4963ff46168.png)
+
+## 你的巴音布鲁克之王回来了！
+![你的巴音布鲁克之王回来了！](https://i0.hdslb.com/bfs/bangumi/image/78c226f1fb08b97e8eb4ea5debd76adcad2a2ce2.png)
+
+
 ## 北欧经典IP续作，极地温情再出发
 ![北欧经典IP续作，极地温情再出发](https://i0.hdslb.com/bfs/bangumi/image/0656e47da65b246a84ecf63d327581802b10e558.png)
 
