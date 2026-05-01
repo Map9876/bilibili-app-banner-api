@@ -355,6 +355,19 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 魔法禁书目录 第一季
+![魔法禁书目录 第一季](https://i0.hdslb.com/bfs/bangumi/image/b9170e5a440c14f1383e544bf9b955aef7d006e0.png)
+
+## 叶罗丽-金鎏心
+![叶罗丽-金鎏心](https://i0.hdslb.com/bfs/bangumi/image/9631e6b410be4e79535847e471964e643360973f.png)
+
+## 放开那个女巫
+![放开那个女巫](https://i0.hdslb.com/bfs/bangumi/image/d1e726f04aea3a845a7cabc66413d3789b3b5fbf.png)
+
+## 凹凸世界·新生
+![凹凸世界·新生](https://i0.hdslb.com/bfs/bangumi/image/5415f8db2819afd45c60c5de28a3ef469759bc65.png)
+
+
 
 ## 名侦探柯南：犯人犯泽先生
 ![名侦探柯南：犯人犯泽先生](https://i0.hdslb.com/bfs/bangumi/image/5ceff72b039fce4127701b1dee868f2771217aa0.png)

@@ -1,6 +1,28 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 武林外传邢捕头？误入穿越时光机
+![武林外传邢捕头？误入穿越时光机](https://i0.hdslb.com/bfs/bangumi/image/6454f094bc43a9422a2e4b2385c5d896dedef4c8.png)
+
+## 预约速戳！粤语情歌天花板来袭~
+![预约速戳！粤语情歌天花板来袭~](https://i0.hdslb.com/bfs/bangumi/image/dad62d5916300b8aebbf8a8f3603b4963ff46168.png)
+
+## 哥谭侠影重磅出击
+![哥谭侠影重磅出击](https://i0.hdslb.com/bfs/bangumi/image/9b24d1f379644b680cd436cda575703c27ce8c62.png)
+
+## 朱迪·福斯特硬核穿越虫洞
+![朱迪·福斯特硬核穿越虫洞](https://i0.hdslb.com/bfs/bangumi/image/d6be2daeb54d1a3ca43f39c657db0522db5a7c7c.png)
+
+## 来财了，送的是真黄金！
+![来财了，送的是真黄金！](https://i0.hdslb.com/bfs/bangumi/image/b4592e1ac27daba0eceeda466f584a85cdb66d85.png)
+
+## 算我一个呗，我也不慢
+![算我一个呗，我也不慢](https://i0.hdslb.com/bfs/bangumi/image/78c226f1fb08b97e8eb4ea5debd76adcad2a2ce2.png)
+
+## 纪录片开放周
+![纪录片开放周](https://i0.hdslb.com/bfs/bangumi/image/a0ff1cdde07916c01844ee04eef182bfe55a7065.png)
+
+
 ## 宁理为何总是能把配角演成主角？
 ![宁理为何总是能把配角演成主角？](https://i0.hdslb.com/bfs/bangumi/image/7f57fe2dcfccaacef5b75b3956032d3bf2f485b9.png)
 
