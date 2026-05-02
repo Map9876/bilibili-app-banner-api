@@ -1,6 +1,22 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 法国科幻佳作，异变之下的人性寓言
+![法国科幻佳作，异变之下的人性寓言](https://i0.hdslb.com/bfs/bangumi/image/65376bad6797b91c4d968eeed19178ad82863280.png)
+
+## 传奇之战一触即发
+![传奇之战一触即发](https://i0.hdslb.com/bfs/bangumi/image/100108cc03a1cce3ef43b50f121d5db98f482cc1.png)
+
+## 狮王遭双狮围殴按地？篡位名场面
+![狮王遭双狮围殴按地？篡位名场面](https://i0.hdslb.com/bfs/bangumi/image/0b688a5505047197da23dec2ff7e6c75f283ad51.png)
+
+## 潮饮店变新说唱，惊喜不断敬请期待
+![潮饮店变新说唱，惊喜不断敬请期待](https://i0.hdslb.com/bfs/bangumi/image/4fcb6a807870e9de819c77f4c59c811b00d7dc27.png)
+
+## 说！谁是拉力赛永远的王？
+![说！谁是拉力赛永远的王？](https://i0.hdslb.com/bfs/bangumi/image/78c226f1fb08b97e8eb4ea5debd76adcad2a2ce2.png)
+
+
 ## 武林外传邢捕头？误入穿越时光机
 ![武林外传邢捕头？误入穿越时光机](https://i0.hdslb.com/bfs/bangumi/image/6454f094bc43a9422a2e4b2385c5d896dedef4c8.png)
 

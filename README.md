@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 某科学的超电磁炮
+![某科学的超电磁炮](https://i0.hdslb.com/bfs/bangumi/image/f5f37c934ff9022787da57d8edb297166ec4335a.png)
+
+## 御坂美琴生日
+![御坂美琴生日](https://i0.hdslb.com/bfs/bangumi/image/cb840285d404573b349a33dc3dab9f392befea97.png)
+
+
 ## 魔法禁书目录 第一季
 ![魔法禁书目录 第一季](https://i0.hdslb.com/bfs/bangumi/image/b9170e5a440c14f1383e544bf9b955aef7d006e0.png)
 
