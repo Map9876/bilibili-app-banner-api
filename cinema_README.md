@@ -1,6 +1,25 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 一键预约直播，解锁元气青春舞台
+![一键预约直播，解锁元气青春舞台](https://i0.hdslb.com/bfs/bangumi/image/dad62d5916300b8aebbf8a8f3603b4963ff46168.png)
+
+## 王鹤棣入梦闯关，开启奇幻冒险之旅
+![王鹤棣入梦闯关，开启奇幻冒险之旅](https://i0.hdslb.com/bfs/bangumi/image/2e72202206a71ca3c9a2df27ee34b0ae8c3d5481.png)
+
+## 博士联手新英雄，燃爆纽约！
+![博士联手新英雄，燃爆纽约！](https://i0.hdslb.com/bfs/bangumi/image/45e0a6974eae6fe71d56b259eb642213e8c7a2f0.png)
+
+## 系列最顶赛道，难度再升级！
+![系列最顶赛道，难度再升级！](https://i0.hdslb.com/bfs/bangumi/image/78c226f1fb08b97e8eb4ea5debd76adcad2a2ce2.png)
+
+## 博士驾驶时空机器，开启多维冒险！
+![博士驾驶时空机器，开启多维冒险！](https://i0.hdslb.com/bfs/bangumi/image/568516508f91e11cbef43b86c76e9c5886c5289f.png)
+
+## 揭秘直播间盲盒捡漏骗术
+![揭秘直播间盲盒捡漏骗术](https://i0.hdslb.com/bfs/bangumi/image/e2e016f2dee05f483de431ae3d804ba16a606fab.png)
+
+
 ## 法国科幻佳作，异变之下的人性寓言
 ![法国科幻佳作，异变之下的人性寓言](https://i0.hdslb.com/bfs/bangumi/image/65376bad6797b91c4d968eeed19178ad82863280.png)
 
