@@ -1,6 +1,25 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 和尹正学习如何向上管理
+![和尹正学习如何向上管理](https://i0.hdslb.com/bfs/bangumi/image/78c226f1fb08b97e8eb4ea5debd76adcad2a2ce2.png)
+
+## 华冠记，让冠冕之美走进烟火日常
+![华冠记，让冠冕之美走进烟火日常](https://i0.hdslb.com/bfs/bangumi/image/8caa13a3edadd4ded553867718315fd3d3e9c575.png)
+
+## 博士陷入穿越银河系的疯狂追逐！
+![博士陷入穿越银河系的疯狂追逐！](https://i0.hdslb.com/bfs/bangumi/image/c31fa069ec3eecbf76b56a6350112bea016ce0ec.png)
+
+## 博士对抗古老恶魔，守护人类文明！
+![博士对抗古老恶魔，守护人类文明！](https://i0.hdslb.com/bfs/bangumi/image/e35f23cb52fee2a207fd93deb006b1480917b703.png)
+
+## 爆笑纯爱！80工厂版“思念成吉”！
+![爆笑纯爱！80工厂版“思念成吉”！](https://i0.hdslb.com/bfs/bangumi/image/6454f094bc43a9422a2e4b2385c5d896dedef4c8.png)
+
+## 女博士登场，全新身份开启时空冒险
+![女博士登场，全新身份开启时空冒险](https://i0.hdslb.com/bfs/bangumi/image/318db153a16eee162c651434510c6c803bfdd008.png)
+
+
 ## 一键预约直播，解锁元气青春舞台
 ![一键预约直播，解锁元气青春舞台](https://i0.hdslb.com/bfs/bangumi/image/dad62d5916300b8aebbf8a8f3603b4963ff46168.png)
 
