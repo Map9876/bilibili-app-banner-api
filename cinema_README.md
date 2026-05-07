@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 改编自畅销惊悚小说，反转不断！
+![改编自畅销惊悚小说，反转不断！](https://i0.hdslb.com/bfs/bangumi/image/c54c3674c539d881aae40656130ce2d65e167d42.png)
+
+## 本轮已售罄，将择机二轮开票
+![本轮已售罄，将择机二轮开票](https://i0.hdslb.com/bfs/bangumi/image/dad62d5916300b8aebbf8a8f3603b4963ff46168.png)
+
+
 ## 真正的深渊不在井里，而在人心
 ![真正的深渊不在井里，而在人心](https://i0.hdslb.com/bfs/bangumi/image/b86ead7989c6e628cda6a3fb739a047c828a94e5.png)
 
