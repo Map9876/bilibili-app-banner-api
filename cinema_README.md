@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 罗大佑：揭开《童年》创作全过程
+![罗大佑：揭开《童年》创作全过程](https://i0.hdslb.com/bfs/bangumi/image/f69119c0663508d4d155b1a0040bcd51eb0cd699.png)
+
+## 噩梦重启！我们在里世界等着你
+![噩梦重启！我们在里世界等着你](https://i0.hdslb.com/bfs/bangumi/image/17880013581b483aae181ec15e6767c13b5d3320.png)
+
+## 真实大案改编，揭露伪钞产业遮羞布
+![真实大案改编，揭露伪钞产业遮羞布](https://i0.hdslb.com/bfs/bangumi/image/e3e9516a763d8e9d85fa28a2042a7b552b2e6959.png)
+
+## 与张凌赫一起探秘「海上风电」
+![与张凌赫一起探秘「海上风电」](https://i0.hdslb.com/bfs/bangumi/image/0bfdcf7264f19199cffccb609c7dac7d040ac9ff.png)
+
+
 ## 改编自畅销惊悚小说，反转不断！
 ![改编自畅销惊悚小说，反转不断！](https://i0.hdslb.com/bfs/bangumi/image/c54c3674c539d881aae40656130ce2d65e167d42.png)
 
