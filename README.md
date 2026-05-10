@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 怪兽8号
+![怪兽8号](https://i0.hdslb.com/bfs/bangumi/image/214114255fc37d86663f85f8ff569626eb988f82.png)
+
+
 ## 鬼灭之刃 柱训练篇
 ![鬼灭之刃 柱训练篇](https://i0.hdslb.com/bfs/bangumi/image/1f4d82b259ee83c102cd30d790d1774433bad0c9.png)
 
