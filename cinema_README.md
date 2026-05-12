@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 欢乐不断，独家打工花絮大公开！
+![欢乐不断，独家打工花絮大公开！](https://i0.hdslb.com/bfs/bangumi/image/4fcb6a807870e9de819c77f4c59c811b00d7dc27.png)
+
+## 姐姐的鞋
+![姐姐的鞋](https://i0.hdslb.com/bfs/bangumi/image/9c8c9566e3c96b228f5a48f50f983f80f04f91ed.png)
+
+
 
 ## 马拉加电影节佳作，撕开黑警阴谋！
 ![马拉加电影节佳作，撕开黑警阴谋！](https://i0.hdslb.com/bfs/bangumi/image/b1df5e146bab10ec004e5b86ab86ac8cafe4b5b3.png)
