@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 梦比优斯奥特曼
+![梦比优斯奥特曼](https://i0.hdslb.com/bfs/bangumi/image/58600aeda28215ba354654e1d01d9b9956d41da3.png)
+
+
 ## ULTRAMAN 机动奥特曼
 ![ULTRAMAN 机动奥特曼](https://i0.hdslb.com/bfs/bangumi/image/e4ad150f2300bc903e68c2fe085abbf3924d8fae.png)
 
