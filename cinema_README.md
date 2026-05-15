@@ -1,6 +1,25 @@
 # Bilibili 影视 顶部海报
 
 ---
+##  罗大佑：回忆香港岁月
+![ 罗大佑：回忆香港岁月](https://i0.hdslb.com/bfs/bangumi/image/f69119c0663508d4d155b1a0040bcd51eb0cd699.png)
+
+## 重返深山，揭开谜案背后的真相
+![重返深山，揭开谜案背后的真相](https://i0.hdslb.com/bfs/bangumi/image/8a84a3aabcacdd2b0a372ca33a66fdb7db9e538c.png)
+
+## 真·男妈妈？！地球男子外星历险记
+![真·男妈妈？！地球男子外星历险记](https://i0.hdslb.com/bfs/bangumi/image/ea50579c9302429d7813a3d613d068ae5a808b05.png)
+
+## 等你赴约，二轮开票时间确定！
+![等你赴约，二轮开票时间确定！](https://i0.hdslb.com/bfs/bangumi/image/dad62d5916300b8aebbf8a8f3603b4963ff46168.png)
+
+## 文淇X秦海璐，一起创造漂亮人生
+![文淇X秦海璐，一起创造漂亮人生](https://i0.hdslb.com/bfs/bangumi/image/c06c3a3822d8e83958d5c00b4bda8e2531c63a7c.png)
+
+## 与张凌赫一起探寻抽水蓄能的秘密
+![与张凌赫一起探寻抽水蓄能的秘密](https://i0.hdslb.com/bfs/bangumi/image/0bfdcf7264f19199cffccb609c7dac7d040ac9ff.png)
+
+
 ## 地球男子被拐外星？醒来被通知……
 ![地球男子被拐外星？醒来被通知……](https://i0.hdslb.com/bfs/bangumi/image/edf58f7c8228a0a1ec1922168ba6bad14cb28c8b.png)
 
