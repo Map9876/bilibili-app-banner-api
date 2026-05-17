@@ -1,6 +1,22 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 当众出丑？美女总裁霸气护夫
+![当众出丑？美女总裁霸气护夫](https://i0.hdslb.com/bfs/bangumi/image/787987640b91a6806d284a945b7cf5aec28da304.png)
+
+## 云监工！「张工」首次开船巡检
+![云监工！「张工」首次开船巡检](https://i0.hdslb.com/bfs/bangumi/image/16b618799a5809101b2b2268758258beb2cae879.png)
+
+## 芬兰硬核动作片，顶级杀神血洗精锐
+![芬兰硬核动作片，顶级杀神血洗精锐](https://i0.hdslb.com/bfs/bangumi/image/fbcedc16d02c87deb24fc3702a56ab674c544224.png)
+
+## 《川味5·一宴千年》
+![《川味5·一宴千年》](https://i0.hdslb.com/bfs/bangumi/image/0c52fb91abc850fb6e49f7ec20044c7145be26f7.png)
+
+## 先导片与金曲Z盛典演唱会同步上线
+![先导片与金曲Z盛典演唱会同步上线](https://i0.hdslb.com/bfs/bangumi/image/457d9c5ddca9f2103dc1ac7f488027458dffef47.png)
+
+
 ## 遭遇职场歧视？顶头上司疑似情敌！
 ![遭遇职场歧视？顶头上司疑似情敌！](https://i0.hdslb.com/bfs/bangumi/image/d5087307d9589741d8614fe0d69e1cd8dbc4255f.png)
 
