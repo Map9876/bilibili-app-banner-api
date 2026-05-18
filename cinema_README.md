@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 智利功夫片，武学秘籍引发兄弟纷争
+![智利功夫片，武学秘籍引发兄弟纷争](https://i0.hdslb.com/bfs/bangumi/image/21306b9e4768c4c87bce9c28b0d6f9ddb5831ce8.png)
+
+## 等你赴约！二轮开票倒计时~
+![等你赴约！二轮开票倒计时~](https://i0.hdslb.com/bfs/bangumi/image/dad62d5916300b8aebbf8a8f3603b4963ff46168.png)
+
+
 ## 当众出丑？美女总裁霸气护夫
 ![当众出丑？美女总裁霸气护夫](https://i0.hdslb.com/bfs/bangumi/image/787987640b91a6806d284a945b7cf5aec28da304.png)
 
