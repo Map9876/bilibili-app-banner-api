@@ -1,6 +1,22 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 惊喜不断 欢乐加更一键解锁~
+![惊喜不断 欢乐加更一键解锁~](https://i0.hdslb.com/bfs/bangumi/image/4fcb6a807870e9de819c77f4c59c811b00d7dc27.png)
+
+## 《毛骗》团队新作！倒计时极限救女儿
+![《毛骗》团队新作！倒计时极限救女儿](https://i0.hdslb.com/bfs/bangumi/image/4564dbc828aac988e8e74092fa2e387a0bdc66ca.png)
+
+## 一代人有一代人的“时代红利”
+![一代人有一代人的“时代红利”](https://i0.hdslb.com/bfs/bangumi/image/229f565c290536c59539a7613797d0d3e755aa1f.png)
+
+## 一场跨越时空的文博焕新等你解锁！
+![一场跨越时空的文博焕新等你解锁！](https://i0.hdslb.com/bfs/bangumi/image/fb982191c9100e3a9c0ecb8382e787dfb8a89483.png)
+
+## 聚焦湘西剿匪，兄弟交锋张力拉满！
+![聚焦湘西剿匪，兄弟交锋张力拉满！](https://i0.hdslb.com/bfs/bangumi/image/84226cb67b5f14ea6a989d2577dd4750615f76bb.png)
+
+
 ## 智利功夫片，武学秘籍引发兄弟纷争
 ![智利功夫片，武学秘籍引发兄弟纷争](https://i0.hdslb.com/bfs/bangumi/image/21306b9e4768c4c87bce9c28b0d6f9ddb5831ce8.png)
 
