@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 铁血硬汉力作，退役老兵为爱复仇
+![铁血硬汉力作，退役老兵为爱复仇](https://i0.hdslb.com/bfs/bangumi/image/80c6a8c9ee9066d871f5c1373992cef02b878902.png)
+
+## 点击解锁实体签名照>>
+![点击解锁实体签名照>>](https://i0.hdslb.com/bfs/bangumi/image/0bfdcf7264f19199cffccb609c7dac7d040ac9ff.png)
+
+## 「典当之星」今日完结>>
+![「典当之星」今日完结>>](https://i0.hdslb.com/bfs/bangumi/image/9ec9d67ae512f17adaf336c475281a253c1252ec.png)
+
+
 ## 惊喜不断 欢乐加更一键解锁~
 ![惊喜不断 欢乐加更一键解锁~](https://i0.hdslb.com/bfs/bangumi/image/4fcb6a807870e9de819c77f4c59c811b00d7dc27.png)
 
