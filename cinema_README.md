@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 闪闪的儿科医生4
+![闪闪的儿科医生4](https://i0.hdslb.com/bfs/bangumi/image/2ad1611627666f12e1617b3a6d134a006323db7e.png)
+
+## 抽入场券！毕业歌会一起奔赴青春
+![抽入场券！毕业歌会一起奔赴青春](https://i0.hdslb.com/bfs/bangumi/image/dad62d5916300b8aebbf8a8f3603b4963ff46168.png)
+
+
 ## 铁血硬汉力作，退役老兵为爱复仇
 ![铁血硬汉力作，退役老兵为爱复仇](https://i0.hdslb.com/bfs/bangumi/image/80c6a8c9ee9066d871f5c1373992cef02b878902.png)
 
