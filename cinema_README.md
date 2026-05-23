@@ -1,6 +1,28 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 买大会员抽毕业歌会入场券！
+![买大会员抽毕业歌会入场券！](https://i0.hdslb.com/bfs/bangumi/image/dad62d5916300b8aebbf8a8f3603b4963ff46168.png)
+
+## 万千生灵，缺一不可
+![万千生灵，缺一不可](https://i0.hdslb.com/bfs/bangumi/image/dd0ee5f901a72ab9bb3c8273abb4fb70cf1bea8b.png)
+
+## 天网：假面情人
+![天网：假面情人](https://i0.hdslb.com/bfs/bangumi/image/ebdd6babb5184ab05ca1f0d29d1c9c23ebb6deb7.png)
+
+## 张凌赫体验徒手收垃圾>>
+![张凌赫体验徒手收垃圾>>](https://i0.hdslb.com/bfs/bangumi/image/16b618799a5809101b2b2268758258beb2cae879.png)
+
+## AI接管潮饮店，合伙人如何应对
+![AI接管潮饮店，合伙人如何应对](https://i0.hdslb.com/bfs/bangumi/image/4fcb6a807870e9de819c77f4c59c811b00d7dc27.png)
+
+## 猎豹母子伏击高角羚，一招锁喉必杀技！
+![猎豹母子伏击高角羚，一招锁喉必杀技！](https://i0.hdslb.com/bfs/bangumi/image/4d22912c646e86adcea8337e9553db57f27a0fab.png)
+
+## 内部有鬼，谁才是“钉子”？
+![内部有鬼，谁才是“钉子”？](https://i0.hdslb.com/bfs/bangumi/image/56a834699a59bc9b66b5bd241f112ffc058fca9a.png)
+
+
 ## 职场情场双失意，拳击手归乡遇真爱
 ![职场情场双失意，拳击手归乡遇真爱](https://i0.hdslb.com/bfs/bangumi/image/5d56514d74c5ce811f86084a9dfc1266c9966cfc.png)
 
