@@ -1,6 +1,25 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 川味5·一宴千年
+![川味5·一宴千年](https://i0.hdslb.com/bfs/bangumi/image/0c52fb91abc850fb6e49f7ec20044c7145be26f7.png)
+
+## 杀猪盘？人口贩卖？层层反转不断！
+![杀猪盘？人口贩卖？层层反转不断！](https://i0.hdslb.com/bfs/bangumi/image/bbbf02a9296a1f280326e055aef073e2e2599ca0.png)
+
+## 聚焦二战时期“死亡航线”悲壮奇迹
+![聚焦二战时期“死亡航线”悲壮奇迹](https://i0.hdslb.com/bfs/bangumi/image/50f514bd165ff53d4447abfa5e6f593fde20b3ae.png)
+
+## 英伦兽医的治愈乌托邦！
+![英伦兽医的治愈乌托邦！](https://i0.hdslb.com/bfs/bangumi/image/9a5abaa849c17a6cb3a43db436df2a898622f6e6.png)
+
+## 一旦选择隐瞒，便是被拿捏的开始
+![一旦选择隐瞒，便是被拿捏的开始](https://i0.hdslb.com/bfs/bangumi/image/56a834699a59bc9b66b5bd241f112ffc058fca9a.png)
+
+## 唱将集结，共赴国乐佳约！
+![唱将集结，共赴国乐佳约！](https://i0.hdslb.com/bfs/bangumi/image/457d9c5ddca9f2103dc1ac7f488027458dffef47.png)
+
+
 ## 买大会员抽毕业歌会入场券！
 ![买大会员抽毕业歌会入场券！](https://i0.hdslb.com/bfs/bangumi/image/dad62d5916300b8aebbf8a8f3603b4963ff46168.png)
 
