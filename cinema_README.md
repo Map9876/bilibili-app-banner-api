@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 与经典对话，邂逅双韵风华
+![与经典对话，邂逅双韵风华](https://i0.hdslb.com/bfs/bangumi/image/457d9c5ddca9f2103dc1ac7f488027458dffef47.png)
+
+## 倒霉王子的爆笑夺位大战！
+![倒霉王子的爆笑夺位大战！](https://i0.hdslb.com/bfs/bangumi/image/95dcefe825144fb83685129803bff9e7be8ad923.png)
+
+## 它因何被台北故宫奉为镇馆之宝？
+![它因何被台北故宫奉为镇馆之宝？](https://i0.hdslb.com/bfs/bangumi/image/3353781e13c0f0d4cc2819824c720f9025aa8441.png)
+
+## 燃情乐团，唱响青春盛典！
+![燃情乐团，唱响青春盛典！](https://i0.hdslb.com/bfs/bangumi/image/dad62d5916300b8aebbf8a8f3603b4963ff46168.png)
+
+
 ## 川味5·一宴千年
 ![川味5·一宴千年](https://i0.hdslb.com/bfs/bangumi/image/0c52fb91abc850fb6e49f7ec20044c7145be26f7.png)
 
