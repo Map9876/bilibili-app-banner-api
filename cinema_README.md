@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 满电集合！解锁ai主题日独家花絮
+![满电集合！解锁ai主题日独家花絮](https://i0.hdslb.com/bfs/bangumi/image/4fcb6a807870e9de819c77f4c59c811b00d7dc27.png)
+
+## 豫西塬上民众奋勇抗日！
+![豫西塬上民众奋勇抗日！](https://i0.hdslb.com/bfs/bangumi/image/6b3e90ed10d1ad7129d2ca44a8a1b215296548ff.png)
+
+## 5月30日现场直播，实力开唱！
+![5月30日现场直播，实力开唱！](https://i0.hdslb.com/bfs/bangumi/image/dad62d5916300b8aebbf8a8f3603b4963ff46168.png)
+
+## 恶海捕蟹记 第十一季
+![恶海捕蟹记 第十一季](https://i0.hdslb.com/bfs/bangumi/image/2c51704ac07e4afce3ea0945e23063a1d3932f47.png)
+
+
 ## 与经典对话，邂逅双韵风华
 ![与经典对话，邂逅双韵风华](https://i0.hdslb.com/bfs/bangumi/image/457d9c5ddca9f2103dc1ac7f488027458dffef47.png)
 
