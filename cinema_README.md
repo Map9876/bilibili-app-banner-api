@@ -1,6 +1,22 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 即将直播！活力少女点亮青春舞台
+![即将直播！活力少女点亮青春舞台](https://i0.hdslb.com/bfs/bangumi/image/dad62d5916300b8aebbf8a8f3603b4963ff46168.png)
+
+## 人生海海
+![人生海海](https://i0.hdslb.com/bfs/bangumi/image/8d6f81b0878cd131ff435f687ac4e5f3914b2e2c.png)
+
+## 阿祖下线打卡，再来回魂一波！
+![阿祖下线打卡，再来回魂一波！](https://i0.hdslb.com/bfs/bangumi/image/8b5b53cd0e07ff20bf65f143bd78b695a940703c.png)
+
+## 女王大人登场，黑爵士智斗求生！
+![女王大人登场，黑爵士智斗求生！](https://i0.hdslb.com/bfs/bangumi/image/ff6373190c9aced92d81b1723e0d0ec316c13a31.png)
+
+## 真实改编！“太行奶娘”感人史诗
+![真实改编！“太行奶娘”感人史诗](https://i0.hdslb.com/bfs/bangumi/image/a8ce7f58c450c1c5c69ceeedc295d591c33528cc.png)
+
+
 ## 满电集合！解锁ai主题日独家花絮
 ![满电集合！解锁ai主题日独家花絮](https://i0.hdslb.com/bfs/bangumi/image/4fcb6a807870e9de819c77f4c59c811b00d7dc27.png)
 

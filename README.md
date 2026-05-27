@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 排球少年！！
+![排球少年！！](https://i0.hdslb.com/bfs/bangumi/image/d48d17081256b8d6515378445e1c134569e6264d.png)
+
+
 ## 多田君不恋爱
 ![多田君不恋爱](https://i0.hdslb.com/bfs/bangumi/image/72ddf1cf6dd6a0c83933df23c1e599b1db2290d5.png)
 
