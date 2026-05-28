@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 受害者死而复生，真相却扑朔迷离！
+![受害者死而复生，真相却扑朔迷离！](https://i0.hdslb.com/bfs/bangumi/image/abde08ff0d06554e7fca5fb602bee120793048c7.png)
+
+## 即将直播！解锁青春元气舞台
+![即将直播！解锁青春元气舞台](https://i0.hdslb.com/bfs/bangumi/image/dad62d5916300b8aebbf8a8f3603b4963ff46168.png)
+
+## 科幻版“楚门的世界”
+![科幻版“楚门的世界”](https://i0.hdslb.com/bfs/bangumi/image/b2e067bb91e8819b610685d68cb775cacdddfc99.png)
+
+## 硬核灾难巨制，共赴末日大迁徙！
+![硬核灾难巨制，共赴末日大迁徙！](https://i0.hdslb.com/bfs/bangumi/image/780d1b295874f92cb3eb445412e731a03f996033.png)
+
+
 ## 即将直播！活力少女点亮青春舞台
 ![即将直播！活力少女点亮青春舞台](https://i0.hdslb.com/bfs/bangumi/image/dad62d5916300b8aebbf8a8f3603b4963ff46168.png)
 
