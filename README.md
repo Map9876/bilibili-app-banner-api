@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 青之芦苇
+![青之芦苇](https://i0.hdslb.com/bfs/bangumi/image/430de046b74e731c915eb3097bd137300bcf4636.png)
+
+## 海底小纵队
+![海底小纵队](https://i0.hdslb.com/bfs/bangumi/image/95e69818c455b03c9e90f6993fafdebf45e0463f.png)
+
+
 ## 黑子的篮球
 ![黑子的篮球](https://i0.hdslb.com/bfs/bangumi/image/a2dbc288536907634a9ddea5940fd0a4d2e33708.png)
 

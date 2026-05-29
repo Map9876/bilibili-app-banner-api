@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 5月30日直播倒计时！实力开唱
+![5月30日直播倒计时！实力开唱](https://i0.hdslb.com/bfs/bangumi/image/dad62d5916300b8aebbf8a8f3603b4963ff46168.png)
+
+## 传奇归来，火与血的试炼拉开帷幕
+![传奇归来，火与血的试炼拉开帷幕](https://i0.hdslb.com/bfs/bangumi/image/6652eed207547df6c8de71a29131389a5447353b.png)
+
+## 腹黑爵士成功取代王子？
+![腹黑爵士成功取代王子？](https://i0.hdslb.com/bfs/bangumi/image/e119e93b0e1ef5cfa99625dddf4dd979a1b9d16b.png)
+
+## 陈秀男：小虎队的岁月
+![陈秀男：小虎队的岁月](https://i0.hdslb.com/bfs/bangumi/image/f69119c0663508d4d155b1a0040bcd51eb0cd699.png)
+
+
 ## 受害者死而复生，真相却扑朔迷离！
 ![受害者死而复生，真相却扑朔迷离！](https://i0.hdslb.com/bfs/bangumi/image/abde08ff0d06554e7fca5fb602bee120793048c7.png)
 
