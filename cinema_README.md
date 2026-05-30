@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 笑料不断，西装暴徒空降菜场
+![笑料不断，西装暴徒空降菜场](https://i0.hdslb.com/bfs/bangumi/image/4fcb6a807870e9de819c77f4c59c811b00d7dc27.png)
+
+## 重返潘多拉，复仇之战一触即发！
+![重返潘多拉，复仇之战一触即发！](https://i0.hdslb.com/bfs/bangumi/image/6652eed207547df6c8de71a29131389a5447353b.png)
+
+## 今晚19:00 毕业歌会现场直播
+![今晚19:00 毕业歌会现场直播](https://i0.hdslb.com/bfs/bangumi/image/dad62d5916300b8aebbf8a8f3603b4963ff46168.png)
+
+
 ## 5月30日直播倒计时！实力开唱
 ![5月30日直播倒计时！实力开唱](https://i0.hdslb.com/bfs/bangumi/image/dad62d5916300b8aebbf8a8f3603b4963ff46168.png)
 

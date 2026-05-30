@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 网球王子 全国大会篇
+![网球王子 全国大会篇](https://i0.hdslb.com/bfs/bangumi/image/ca6763a1ed8460913b4bc69980743cecc37359ea.png)
+
+
 ## 青之芦苇
 ![青之芦苇](https://i0.hdslb.com/bfs/bangumi/image/430de046b74e731c915eb3097bd137300bcf4636.png)
 
