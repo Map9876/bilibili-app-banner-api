@@ -1,6 +1,25 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 约克郡的治愈日常回归！
+![约克郡的治愈日常回归！](https://i0.hdslb.com/bfs/bangumi/image/fc5494d0f791da3f881a6747ff4fb9bec0b9aa3f.png)
+
+## 变异是灾难，还是救赎？
+![变异是灾难，还是救赎？](https://i0.hdslb.com/bfs/bangumi/image/68f5322a795f62300496c0eb1e163ea7b0173a9e.png)
+
+## 卡梅隆执导，关于爱与守护的史诗
+![卡梅隆执导，关于爱与守护的史诗](https://i0.hdslb.com/bfs/bangumi/image/6652eed207547df6c8de71a29131389a5447353b.png)
+
+## 光头强长头发了！
+![光头强长头发了！](https://i0.hdslb.com/bfs/bangumi/image/b1baa343620c77089d686a39fb3629b33569fbe8.png)
+
+## 国乐无双：张杰演绎川渝RAP版《醉拳
+![国乐无双：张杰演绎川渝RAP版《醉拳](https://i0.hdslb.com/bfs/bangumi/image/c758ed1018cee69825ebae3fa96643084501b626.png)
+
+## 青春不散场！2026毕业歌会全程回顾
+![青春不散场！2026毕业歌会全程回顾](https://i0.hdslb.com/bfs/bangumi/image/dad62d5916300b8aebbf8a8f3603b4963ff46168.png)
+
+
 ## 笑料不断，西装暴徒空降菜场
 ![笑料不断，西装暴徒空降菜场](https://i0.hdslb.com/bfs/bangumi/image/4fcb6a807870e9de819c77f4c59c811b00d7dc27.png)
 
