@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 猫和老鼠
+![猫和老鼠](https://i0.hdslb.com/bfs/bangumi/image/c797f083c88f85426290135ea4f5f6409d1e423a.png)
+
+## 补番月台 儿童节特别活动
+![补番月台 儿童节特别活动](https://i0.hdslb.com/bfs/bangumi/image/3a48cfb1ce5c733ac28ee0bc9366b405784b2a84.png)
+
+
 ## 赛马娘
 ![赛马娘](https://i0.hdslb.com/bfs/bangumi/image/a908975556ede95c1a520b644cb4ec341f8494b2.png)
 
