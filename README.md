@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 宝可梦 地平线
+![宝可梦 地平线](https://i0.hdslb.com/bfs/bangumi/image/b6655cf9842bee746f7d9688658f2996068e5f6e.png)
+
+
 ## 猫和老鼠
 ![猫和老鼠](https://i0.hdslb.com/bfs/bangumi/image/c797f083c88f85426290135ea4f5f6409d1e423a.png)
 
