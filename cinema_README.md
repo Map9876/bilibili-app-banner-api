@@ -1,6 +1,10 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 黄霄雲温柔开唱，青春的遗憾与珍藏
+![黄霄雲温柔开唱，青春的遗憾与珍藏](https://i0.hdslb.com/bfs/bangumi/image/9905a87baffda6a4f67fd7eb238f5a73abcc7378.png)
+
+
 ## 极限虫族
 ![极限虫族](https://i0.hdslb.com/bfs/bangumi/image/f1cd21869a501258eada11f163249fc7b22603de.png)
 
