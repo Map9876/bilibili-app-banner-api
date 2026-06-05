@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 陈秀男：黄金年代的回忆
+![陈秀男：黄金年代的回忆](https://i0.hdslb.com/bfs/bangumi/image/f69119c0663508d4d155b1a0040bcd51eb0cd699.png)
+
+## 容祖儿《世上只有》，献给成长路上的你
+![容祖儿《世上只有》，献给成长路上的你](https://i0.hdslb.com/bfs/bangumi/image/9905a87baffda6a4f67fd7eb238f5a73abcc7378.png)
+
+
 ## 黄霄雲温柔开唱，青春的遗憾与珍藏
 ![黄霄雲温柔开唱，青春的遗憾与珍藏](https://i0.hdslb.com/bfs/bangumi/image/9905a87baffda6a4f67fd7eb238f5a73abcc7378.png)
 
