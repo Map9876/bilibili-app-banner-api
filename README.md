@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 迪迦奥特曼（中配）
+![迪迦奥特曼（中配）](https://i0.hdslb.com/bfs/bangumi/image/3a56e9c141c27a266ab2c6bcf16f773b1a5af59e.png)
+
+## UP动画剧场
+![UP动画剧场](https://i0.hdslb.com/bfs/bangumi/image/60d73ed9baf13212694c5fdfc35e1e3c36cf2fb1.png)
+
+
 ## 哆啦A梦 第一季
 ![哆啦A梦 第一季](https://i0.hdslb.com/bfs/bangumi/image/cbdeb5e52b91a496392289bcc8d60b4d186de85e.png)
 
