@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## SOLA
+![SOLA](https://i0.hdslb.com/bfs/bangumi/image/20dd4d35b0f5afd11958fd29da72b7f6103da079.png)
+
+
 ## 疯狂动物城大小事 中文配音
 ![疯狂动物城大小事 中文配音](https://i0.hdslb.com/bfs/bangumi/image/75de3fd5429686860774372c8f7a8f3f1f9c5801.png)
 
