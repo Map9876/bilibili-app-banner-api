@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 我们仍未知道那天所看见的花的名字。
+![我们仍未知道那天所看见的花的名字。](https://i0.hdslb.com/bfs/bangumi/image/ac6099aaf9a48953862eb2e1b97a781cf9d5a3c8.png)
+
+## 城隍录
+![城隍录](https://i0.hdslb.com/bfs/bangumi/image/0fc801f97969639006c5439be0192b8cabbaf993.png)
+
+
 ## SOLA
 ![SOLA](https://i0.hdslb.com/bfs/bangumi/image/20dd4d35b0f5afd11958fd29da72b7f6103da079.png)
 

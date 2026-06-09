@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 约翰·赵主演，当人类陷入AI控制
+![约翰·赵主演，当人类陷入AI控制](https://i0.hdslb.com/bfs/bangumi/image/029d9b1064b2b7773dcfbe8ca4e62a4259a9320a.png)
+
+## 恶海捕蟹记 第十二季
+![恶海捕蟹记 第十二季](https://i0.hdslb.com/bfs/bangumi/image/0629f3d9f333a3ebaabd8934e4f14fad3981a59e.png)
+
+## 美食高手如何以食载道？
+![美食高手如何以食载道？](https://i0.hdslb.com/bfs/bangumi/image/c63f552574d90c0da4dbb17f2c5683d99abe525b.png)
+
+
 ## 星月秀：沈凌对话王菀之
 ![星月秀：沈凌对话王菀之](https://i0.hdslb.com/bfs/bangumi/image/c758ed1018cee69825ebae3fa96643084501b626.png)
 
