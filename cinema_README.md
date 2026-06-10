@@ -1,6 +1,22 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 6月11日邀天下食客共赴美食武林！
+![6月11日邀天下食客共赴美食武林！](https://i0.hdslb.com/bfs/bangumi/image/0bfdcf7264f19199cffccb609c7dac7d040ac9ff.png)
+
+## 棕熊突袭人类！车玻璃都拍碎了
+![棕熊突袭人类！车玻璃都拍碎了](https://i0.hdslb.com/bfs/bangumi/image/cea1a1ebe9b242728ff219c593a4d0c828d4e685.png)
+
+## 温子仁监制，吗喽版“死神来了”
+![温子仁监制，吗喽版“死神来了”](https://i0.hdslb.com/bfs/bangumi/image/2dcc74a6dfbe503dd971faa255711b18a0d48852.png)
+
+## 闪闪的儿科医生
+![闪闪的儿科医生](https://i0.hdslb.com/bfs/bangumi/image/15244ea75b4297982b148619c26c1e921d0458c7.png)
+
+## 人妖共处、志怪悬疑？欢迎来到阴阳渡！
+![人妖共处、志怪悬疑？欢迎来到阴阳渡！](https://i0.hdslb.com/bfs/bangumi/image/ddcb14a09effd09462cae67e5bfddb48adb8dd53.png)
+
+
 ## 约翰·赵主演，当人类陷入AI控制
 ![约翰·赵主演，当人类陷入AI控制](https://i0.hdslb.com/bfs/bangumi/image/029d9b1064b2b7773dcfbe8ca4e62a4259a9320a.png)
 
