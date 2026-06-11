@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 夏目友人帐 第六季
+![夏目友人帐 第六季](https://i0.hdslb.com/bfs/bangumi/image/fed5e908ead2b6cfd7992d16cc4d1a46ebb3d61a.png)
+
+
 ## 致不灭的你
 ![致不灭的你](https://i0.hdslb.com/bfs/bangumi/image/49f2ea5830b6d7323d9b3e8bbc22ac37c7d3a8e1.png)
 
