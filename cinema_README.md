@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 周润发经典之作
+![周润发经典之作](https://i0.hdslb.com/bfs/bangumi/image/82f5467e57d1c06572bf510e8f65c1df54e72086.png)
+
+## 库里监制，谁才是真正的GOAT？
+![库里监制，谁才是真正的GOAT？](https://i0.hdslb.com/bfs/bangumi/image/111874d826d56520654f431f90373ffed7d2a7e4.png)
+
+## 【天赐7】震撼回归！实力歌手组队竞演
+![【天赐7】震撼回归！实力歌手组队竞演](https://i0.hdslb.com/bfs/bangumi/image/866280c414267d16b93b563f967588c28505ae80.png)
+
+
 ## 百家讲坛精选·易中天品三国
 ![百家讲坛精选·易中天品三国](https://i0.hdslb.com/bfs/bangumi/image/a368a5e5c653a1198d8da6f2c6ff5d5d50131119.png)
 
