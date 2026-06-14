@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 王菀之粤语版《我好想你》好听哭了
+![王菀之粤语版《我好想你》好听哭了](https://i0.hdslb.com/bfs/bangumi/image/c758ed1018cee69825ebae3fa96643084501b626.png)
+
+## 韩剧专场直播！周末下饭必备
+![韩剧专场直播！周末下饭必备](https://i0.hdslb.com/bfs/bangumi/image/1f257ba9f4e3d7b18f5078b26f0e799283971ee8.png)
+
+## 小谢尔顿遇见同龄天才对手！
+![小谢尔顿遇见同龄天才对手！](https://i0.hdslb.com/bfs/bangumi/image/b7c745082b8aec72606246131a913984aa9c8a92.png)
+
+## 小谢尔顿即将步入大学！
+![小谢尔顿即将步入大学！](https://i0.hdslb.com/bfs/bangumi/image/f14e06e06b18e906910f8706c948d55dff202be6.png)
+
+
 ## 周润发经典之作
 ![周润发经典之作](https://i0.hdslb.com/bfs/bangumi/image/82f5467e57d1c06572bf510e8f65c1df54e72086.png)
 

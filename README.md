@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 四月是你的谎言 粤配版
+![四月是你的谎言 粤配版](https://i0.hdslb.com/bfs/bangumi/image/fc60b7d6b17b53a4dad635d2b5fd0f285a4b67aa.png)
+
+
 ## Angel Beats!
 ![Angel Beats!](https://i0.hdslb.com/bfs/bangumi/image/6d90db1ff24e072113a3fbbaa7f9beba0c5d83ed.png)
 
