@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 太行史诗，谣唱信仰！
+![太行史诗，谣唱信仰！](https://i0.hdslb.com/bfs/bangumi/image/e84afb7de13a228dfedcd6649189a22d7ac882ab.png)
+
+## 河中惊现浮尸，关键线索竟藏在……
+![河中惊现浮尸，关键线索竟藏在……](https://i0.hdslb.com/bfs/bangumi/image/613c972d9706274863b9c011b8ce369359492d01.png)
+
+## 正房以外，还有小三小四小五小六？！
+![正房以外，还有小三小四小五小六？！](https://i0.hdslb.com/bfs/bangumi/image/c60fa2e70f1849f9148f02c661c1cd2fb49c0b60.png)
+
+## 小学生复刻南朝砖画名作
+![小学生复刻南朝砖画名作](https://i0.hdslb.com/bfs/bangumi/image/d3302ba2f7ecf8852d204069383c28e95f84dede.png)
+
+
 ## 王菀之粤语版《我好想你》好听哭了
 ![王菀之粤语版《我好想你》好听哭了](https://i0.hdslb.com/bfs/bangumi/image/c758ed1018cee69825ebae3fa96643084501b626.png)
 
