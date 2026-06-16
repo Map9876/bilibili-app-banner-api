@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 翻开日记本，解锁妈妈的少女时代
+![翻开日记本，解锁妈妈的少女时代](https://i0.hdslb.com/bfs/bangumi/image/86fe2fb16758c0d755a1b06fd88fe3a0338e615d.png)
+
+## 你不用再要强了，因为你的强来了！
+![你不用再要强了，因为你的强来了！](https://i0.hdslb.com/bfs/bangumi/image/a1ff126fb1c6380a39d848bea6a498dabcaaca3a.png)
+
+
 ## 太行史诗，谣唱信仰！
 ![太行史诗，谣唱信仰！](https://i0.hdslb.com/bfs/bangumi/image/e84afb7de13a228dfedcd6649189a22d7ac882ab.png)
 
