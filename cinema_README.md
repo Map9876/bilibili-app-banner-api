@@ -1,6 +1,22 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 入围釜山电影节，海边唱响坚韧茂腔
+![入围釜山电影节，海边唱响坚韧茂腔](https://i0.hdslb.com/bfs/bangumi/image/383fcd855d58f702089a153a4d98ab165b78fe24.png)
+
+## 家有恶猫 第七季
+![家有恶猫 第七季](https://i0.hdslb.com/bfs/bangumi/image/5b68d333f6e4473beb1aea3f34f71b2c9145759b.png)
+
+## 转角遇到的不一定是爱
+![转角遇到的不一定是爱](https://i0.hdslb.com/bfs/bangumi/image/7e8d28777587d49518d7a2042c3b1bed0731e836.png)
+
+## 暗中观察，几千只猴子街头群殴？！
+![暗中观察，几千只猴子街头群殴？！](https://i0.hdslb.com/bfs/bangumi/image/e1429b065da61a00bbf4fc0bd8fe12401251b457.png)
+
+## 爆更6集！志怪悬疑，霸道妖王强制爱
+![爆更6集！志怪悬疑，霸道妖王强制爱](https://i0.hdslb.com/bfs/bangumi/image/206b16c768ce158750360821f0aa88a041e1070f.png)
+
+
 ## 翻开日记本，解锁妈妈的少女时代
 ![翻开日记本，解锁妈妈的少女时代](https://i0.hdslb.com/bfs/bangumi/image/86fe2fb16758c0d755a1b06fd88fe3a0338e615d.png)
 
