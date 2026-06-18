@@ -1,6 +1,22 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 投稿赢好礼，瓜分专属流量
+![投稿赢好礼，瓜分专属流量](https://i0.hdslb.com/bfs/bangumi/image/718c2ec41181d8b4455fd9a27dae704b7f0465be.png)
+
+## “轻轻”敲响沉睡的心灵
+![“轻轻”敲响沉睡的心灵](https://i0.hdslb.com/bfs/bangumi/image/a1ff126fb1c6380a39d848bea6a498dabcaaca3a.png)
+
+## 吴京X谢霆锋，就这个纯正武侠爽！
+![吴京X谢霆锋，就这个纯正武侠爽！](https://i0.hdslb.com/bfs/bangumi/image/0c6b985b9425a49714d71ca3ca68082d0ce3520a.png)
+
+## 死前惨遭毁容？就这个纯正志怪悬疑味！
+![死前惨遭毁容？就这个纯正志怪悬疑味！](https://i0.hdslb.com/bfs/bangumi/image/49cff3b95fe7f7a2040d82d96cf2d60ea881086d.png)
+
+## 西北糯叽叽神物，谁吃谁迷糊！
+![西北糯叽叽神物，谁吃谁迷糊！](https://i0.hdslb.com/bfs/bangumi/image/2fec08612a66ed140c3c15dbfb23bf60cab33429.png)
+
+
 ## 入围釜山电影节，海边唱响坚韧茂腔
 ![入围釜山电影节，海边唱响坚韧茂腔](https://i0.hdslb.com/bfs/bangumi/image/383fcd855d58f702089a153a4d98ab165b78fe24.png)
 

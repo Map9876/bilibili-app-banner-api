@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## CAROLE & TUESDAY
+![CAROLE & TUESDAY](https://i0.hdslb.com/bfs/bangumi/image/cba99c08fa18667dbc8bf10bf204de1598123055.png)
+
+## 神奇数字马戏团
+![神奇数字马戏团](https://i0.hdslb.com/bfs/bangumi/image/c79d3dd601ee2fe7ba17700eaf1912c79561c7fa.png)
+
+
 
 ## 夜晚的水母不会游泳
 ![夜晚的水母不会游泳](https://i0.hdslb.com/bfs/bangumi/image/930177542fcc17a339fc6b3691f59e26367626df.png)
