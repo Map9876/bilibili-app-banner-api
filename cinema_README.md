@@ -1,6 +1,28 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 李泉：一场彼此成就的审美共振
+![李泉：一场彼此成就的审美共振](https://i0.hdslb.com/bfs/bangumi/image/f69119c0663508d4d155b1a0040bcd51eb0cd699.png)
+
+## 绿茵场上的传说
+![绿茵场上的传说](https://i0.hdslb.com/bfs/bangumi/image/55f81f91cbd08ee5937e7a088f9997041d62f232.png)
+
+## 一场猜不到的结局
+![一场猜不到的结局](https://i0.hdslb.com/bfs/bangumi/image/c2290f31227fe9f56266a5d95770d567ddcee476.png)
+
+## 伊桑·霍克主演，致黄金年代的挽歌
+![伊桑·霍克主演，致黄金年代的挽歌](https://i0.hdslb.com/bfs/bangumi/image/16aac616be57758c63b100d336f420e1a59d13a8.png)
+
+## 我就是天下第一的镖人
+![我就是天下第一的镖人](https://i0.hdslb.com/bfs/bangumi/image/14eb6ef8ca3a96f114fbc5e43d6eb1081db3683d.png)
+
+## 一体双魂？偏执阴湿男or阳光小狗
+![一体双魂？偏执阴湿男or阳光小狗](https://i0.hdslb.com/bfs/bangumi/image/77b406608d9e2b3e5ad9e0a81d57d1ce5eff17c1.png)
+
+## 天才谢尔顿进入大学生活！
+![天才谢尔顿进入大学生活！](https://i0.hdslb.com/bfs/bangumi/image/6127a3682efb9c5e94ad1480c95dd4bab57e9184.png)
+
+
 ## 投稿赢好礼，瓜分专属流量
 ![投稿赢好礼，瓜分专属流量](https://i0.hdslb.com/bfs/bangumi/image/718c2ec41181d8b4455fd9a27dae704b7f0465be.png)
 
