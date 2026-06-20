@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 天网：双面人性
+![天网：双面人性](https://i0.hdslb.com/bfs/bangumi/image/1240bde5407fa7c9fce1601ec45f3af4c54228a0.png)
+
+## 用52年等来一个冠军
+![用52年等来一个冠军](https://i0.hdslb.com/bfs/bangumi/image/4f60dd1dfeb78ce6ed03e76abed0a0b9e7681070.png)
+
+## 怎么，西域女子也这么假正经吗
+![怎么，西域女子也这么假正经吗](https://i0.hdslb.com/bfs/bangumi/image/14eb6ef8ca3a96f114fbc5e43d6eb1081db3683d.png)
+
+## 天赐7：热歌改编！男女对唱争最佳金曲
+![天赐7：热歌改编！男女对唱争最佳金曲](https://i0.hdslb.com/bfs/bangumi/image/866280c414267d16b93b563f967588c28505ae80.png)
+
+
 ## 李泉：一场彼此成就的审美共振
 ![李泉：一场彼此成就的审美共振](https://i0.hdslb.com/bfs/bangumi/image/f69119c0663508d4d155b1a0040bcd51eb0cd699.png)
 
