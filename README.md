@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 佐贺偶像是传奇 卷土重来
+![佐贺偶像是传奇 卷土重来](https://i0.hdslb.com/bfs/bangumi/image/7a7f05e8488c665ef4252bb1e7c17d0223f055c5.png)
+
+
 ## 吹响吧！上低音号
 ![吹响吧！上低音号](https://i0.hdslb.com/bfs/bangumi/image/ba5be5e6a92dc0ffec310a1521ae1e42e52e8f2f.png)
 
