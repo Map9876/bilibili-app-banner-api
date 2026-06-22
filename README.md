@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 食戟之灵
+![食戟之灵](https://i0.hdslb.com/bfs/bangumi/image/b9f2cfdba3562236a9defed01776da69439fa083.png)
+
+## 大道独行
+![大道独行](https://i0.hdslb.com/bfs/bangumi/image/094aa2d64ec45cc4cabe9a8496e8c69d76d00a84.png)
+
+
 ## 佐贺偶像是传奇 卷土重来
 ![佐贺偶像是传奇 卷土重来](https://i0.hdslb.com/bfs/bangumi/image/7a7f05e8488c665ef4252bb1e7c17d0223f055c5.png)
 
