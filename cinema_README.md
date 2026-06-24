@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 一脚踢开虎鲨，战绩可查！
+![一脚踢开虎鲨，战绩可查！](https://i0.hdslb.com/bfs/bangumi/image/9f10cefd28ec75b367cc10245baaa9c7156bc544.png)
+
+## 自愿牺牲？霸道妖王“谁准你死了！”
+![自愿牺牲？霸道妖王“谁准你死了！”](https://i0.hdslb.com/bfs/bangumi/image/8df1b926bdfef7b24526fc1c151a86a083b1e1ce.png)
+
+## 人生一串·烧烤美食精编
+![人生一串·烧烤美食精编](https://i0.hdslb.com/bfs/bangumi/image/493257fcfb6fec977321d642bd5b39fa62c1f4b7.png)
+
+
 ## 为家庭放弃事业，是“正确”的吗？
 ![为家庭放弃事业，是“正确”的吗？](https://i0.hdslb.com/bfs/bangumi/image/e4418ecd6a7d84d76d4eea49d298b4bba53eca32.png)
 
