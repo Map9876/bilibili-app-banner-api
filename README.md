@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 迷糊餐厅 WORKING!!
+![迷糊餐厅 WORKING!!](https://i0.hdslb.com/bfs/bangumi/image/ddf777ab169d85c55fa94a60c6344017d76da2a5.png)
+
+
 
 ## 请问您今天要来点兔子吗？
 ![请问您今天要来点兔子吗？](https://i0.hdslb.com/bfs/bangumi/image/5294ce5a4df0420630821e07bc668dc3086b841a.png)
