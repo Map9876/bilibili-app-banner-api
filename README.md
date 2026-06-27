@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 面包带来和平！
+![面包带来和平！](https://i0.hdslb.com/bfs/bangumi/image/1e93dde69a72d6d295c48d8333f59b60f889d97c.png)
+
+
 ## 异世界居酒屋
 ![异世界居酒屋](https://i0.hdslb.com/bfs/bangumi/image/55f637511e35cca3ab45936f9f3080e7cfc0cded.png)
 
