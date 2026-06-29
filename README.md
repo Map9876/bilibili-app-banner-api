@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 辉夜大小姐想让我告白 -究极浪漫-
+![辉夜大小姐想让我告白 -究极浪漫-](https://i0.hdslb.com/bfs/bangumi/image/5ed3dca37b39f15264bfe5418d6f3784bfb3e9e7.png)
+
+## 暑假等你来追番~
+![暑假等你来追番~](https://i0.hdslb.com/bfs/bangumi/image/72d9072edfbf1f9fa829b2f858384537a37311ea.png)
+
+
 ## 天堂餐馆
 ![天堂餐馆](https://i0.hdslb.com/bfs/bangumi/image/83f639bc79445854b29c95cab206424faae35421.png)
 
