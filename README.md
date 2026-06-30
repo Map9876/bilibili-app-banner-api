@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 欢迎光临樱兰高校
+![欢迎光临樱兰高校](https://i0.hdslb.com/bfs/bangumi/image/031790db95f38326c59fa4b75a03fecdba304025.png)
+
+
 ## 辉夜大小姐想让我告白 -究极浪漫-
 ![辉夜大小姐想让我告白 -究极浪漫-](https://i0.hdslb.com/bfs/bangumi/image/5ed3dca37b39f15264bfe5418d6f3784bfb3e9e7.png)
 

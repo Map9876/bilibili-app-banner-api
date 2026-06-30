@@ -1,6 +1,10 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 天赐7：实力歌手集结！争最佳金曲
+![天赐7：实力歌手集结！争最佳金曲](https://i0.hdslb.com/bfs/bangumi/image/bb2ceaaa1317940982e56e7958445911a6b19c41.png)
+
+
 ## 头纱吻名场面！“少啰嗦，吻我~”
 ![头纱吻名场面！“少啰嗦，吻我~”](https://i0.hdslb.com/bfs/bangumi/image/b169d5e0e5490a61032226440aaa129440f8b0f6.png)
 
