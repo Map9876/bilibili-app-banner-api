@@ -1,6 +1,10 @@
 # Bilibili 影视 顶部海报
 
 ---
+## “别让别人操控你的心，这是~我的~”
+![“别让别人操控你的心，这是~我的~”](https://i0.hdslb.com/bfs/bangumi/image/8df1b926bdfef7b24526fc1c151a86a083b1e1ce.png)
+
+
 ## 长颈鹿的铁蹄究竟有多猛？
 ![长颈鹿的铁蹄究竟有多猛？](https://i0.hdslb.com/bfs/bangumi/image/47c67fa8ab7d3f6d536f42c15725903468c20e7c.png)
 
