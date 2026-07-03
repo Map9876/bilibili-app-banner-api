@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 李泉：我变了我没变
+![李泉：我变了我没变](https://i0.hdslb.com/bfs/bangumi/image/f69119c0663508d4d155b1a0040bcd51eb0cd699.png)
+
+## 我在人艺学表演
+![我在人艺学表演](https://i0.hdslb.com/bfs/bangumi/image/0d13c46aa60afc82bcb4f44bf7b156595cedcdd1.png)
+
+## 释小龙主演，高空搏斗拳拳到肉！
+![释小龙主演，高空搏斗拳拳到肉！](https://i0.hdslb.com/bfs/bangumi/image/de4b3e60f992d53b22d18c04152ea227011e8b21.png)
+
+## 谁能扛住？烤全羊界天花板>>
+![谁能扛住？烤全羊界天花板>>](https://i0.hdslb.com/bfs/bangumi/image/4e90982409e609346e2363d4cbefb5e34e4b8458.png)
+
+
 ## “别让别人操控你的心，这是~我的~”
 ![“别让别人操控你的心，这是~我的~”](https://i0.hdslb.com/bfs/bangumi/image/8df1b926bdfef7b24526fc1c151a86a083b1e1ce.png)
 
