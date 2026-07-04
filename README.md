@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 百日成王
+![百日成王](https://i0.hdslb.com/bfs/bangumi/image/3f5f3a379d62ca05dd61a55b1ccb1406eb7fe873.png)
+
+
 ## LoveLive!Superstar
 ![LoveLive!Superstar](https://i0.hdslb.com/bfs/bangumi/image/e81d1406382c8f40c7b80c8b3187af441cc5d51b.png)
 
