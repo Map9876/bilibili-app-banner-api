@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 《关于我魂穿河狸守护湿地这件事》
+![《关于我魂穿河狸守护湿地这件事》](https://i0.hdslb.com/bfs/bangumi/image/3a5929b933d68aeccdeebca319eb9a6a767dd822.png)
+
+## 宋亚轩演绎《伤不起》 梦回彩铃时代
+![宋亚轩演绎《伤不起》 梦回彩铃时代](https://i0.hdslb.com/bfs/bangumi/image/c758ed1018cee69825ebae3fa96643084501b626.png)
+
+## 谢里丹硬核封神之作！
+![谢里丹硬核封神之作！](https://i0.hdslb.com/bfs/bangumi/image/561e53fd4810493ae1c42bb8d3e5ede7f6ff88cc.png)
+
+
 ## 天网：罪案追踪
 ![天网：罪案追踪](https://i0.hdslb.com/bfs/bangumi/image/c734d9cf126dc96730225361729f396c74701ff2.png)
 
