@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 龚琳娜高能献唱《潇洒走一回》
+![龚琳娜高能献唱《潇洒走一回》](https://i0.hdslb.com/bfs/bangumi/image/c758ed1018cee69825ebae3fa96643084501b626.png)
+
+## 不劫财不寻仇，为何连捅陌生女孩12刀
+![不劫财不寻仇，为何连捅陌生女孩12刀](https://i0.hdslb.com/bfs/bangumi/image/a85e454843eaf5eef0acd77d689b11a677f92d26.png)
+
+
 ## 《关于我魂穿河狸守护湿地这件事》
 ![《关于我魂穿河狸守护湿地这件事》](https://i0.hdslb.com/bfs/bangumi/image/3a5929b933d68aeccdeebca319eb9a6a767dd822.png)
 
