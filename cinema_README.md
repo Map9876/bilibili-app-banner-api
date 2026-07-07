@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 麻花女演员的困境与突围
+![麻花女演员的困境与突围](https://i0.hdslb.com/bfs/bangumi/image/bd43bad9e43cab8475367985b77a5ae6066e0cc0.png)
+
+## 文物代言人集结，文博竞答争霸赛开赛！
+![文物代言人集结，文博竞答争霸赛开赛！](https://i0.hdslb.com/bfs/bangumi/image/882ce6f9ac394affb6879c68cfa7b8dfd17de8f8.png)
+
+
 ## 龚琳娜高能献唱《潇洒走一回》
 ![龚琳娜高能献唱《潇洒走一回》](https://i0.hdslb.com/bfs/bangumi/image/c758ed1018cee69825ebae3fa96643084501b626.png)
 

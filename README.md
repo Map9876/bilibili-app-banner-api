@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 宝石幻想 光芒重现
+![宝石幻想 光芒重现](https://i0.hdslb.com/bfs/bangumi/image/85b86240428fd9a15e7a936f632b223646a458e2.png)
+
+
 ## 赛马娘四格
 ![赛马娘四格](https://i0.hdslb.com/bfs/bangumi/image/7d1f724c35361a22f6a07826f4dc7daf88cd4d53.png)
 
