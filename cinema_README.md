@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 抓现行！浣熊偷吃被逮一脸心虚
+![抓现行！浣熊偷吃被逮一脸心虚](https://i0.hdslb.com/bfs/bangumi/image/f63a72e57adbe0525c06d4f374ca452426d0645f.png)
+
+## 全员杀局，为未来寻一线生机
+![全员杀局，为未来寻一线生机](https://i0.hdslb.com/bfs/bangumi/image/2c15535409548a5b01b743d5f6b6e176a60ebf91.png)
+
+
 ## 麻花女演员的困境与突围
 ![麻花女演员的困境与突围](https://i0.hdslb.com/bfs/bangumi/image/bd43bad9e43cab8475367985b77a5ae6066e0cc0.png)
 
