@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 全员杀疯，莽一波闯出生天路
+![全员杀疯，莽一波闯出生天路](https://i0.hdslb.com/bfs/bangumi/image/2c15535409548a5b01b743d5f6b6e176a60ebf91.png)
+
+## 角头系列前传，台湾纯血黑帮厮杀
+![角头系列前传，台湾纯血黑帮厮杀](https://i0.hdslb.com/bfs/bangumi/image/d2cd4b9cd007f54e8e1fbc37b7442ef114195f5f.png)
+
+## 走近这片海
+![走近这片海](https://i0.hdslb.com/bfs/bangumi/image/d0c2e491ce9318864d919a8ad0b1eebd06860e4a.png)
+
+## 隐居女杀手血战昔日同门！
+![隐居女杀手血战昔日同门！](https://i0.hdslb.com/bfs/bangumi/image/cc4ce479e9a95ad0a69dd1435a10ea6ef7fa5435.png)
+
+
 ## 抓现行！浣熊偷吃被逮一脸心虚
 ![抓现行！浣熊偷吃被逮一脸心虚](https://i0.hdslb.com/bfs/bangumi/image/f63a72e57adbe0525c06d4f374ca452426d0645f.png)
 
