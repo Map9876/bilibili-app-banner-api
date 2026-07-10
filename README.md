@@ -355,6 +355,16 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 高斯奥特曼
+![高斯奥特曼](https://i0.hdslb.com/bfs/bangumi/image/08bcc1c5ad83f91e413396f52f2ff8aca0ef04ca.png)
+
+## 奥趣多 第一季
+![奥趣多 第一季](https://i0.hdslb.com/bfs/bangumi/image/364094ee1fdeab826e77b6e3c85531dfae95d01f.png)
+
+## 2026奥特曼之日特别活动
+![2026奥特曼之日特别活动](https://i0.hdslb.com/bfs/bangumi/image/1bd970f158a14d4c74f0b44cb22732eec12757fb.png)
+
+
 ## 胶囊计划 奇迹
 ![胶囊计划 奇迹](https://i0.hdslb.com/bfs/bangumi/image/67508a443c5056a064501cf7b6d98fe88cfa4b29.png)
 

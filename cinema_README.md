@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 四桩罪案揭露旧港生存百态
+![四桩罪案揭露旧港生存百态](https://i0.hdslb.com/bfs/bangumi/image/5ff7bdd488e7fde7fd324815f4f10c6675fe8d3e.png)
+
+## 观影解锁彩蛋，赢限定周边！
+![观影解锁彩蛋，赢限定周边！](https://i0.hdslb.com/bfs/bangumi/image/096e8f5e0cd375482d98c33b640abb0ab2127ace.png)
+
+## 没有一只鸡能活着走出广东...
+![没有一只鸡能活着走出广东...](https://i0.hdslb.com/bfs/bangumi/image/4e90982409e609346e2363d4cbefb5e34e4b8458.png)
+
+## 任天堂献给玩家的情书
+![任天堂献给玩家的情书](https://i0.hdslb.com/bfs/bangumi/image/096e8f5e0cd375482d98c33b640abb0ab2127ace.png)
+
+
 ## 全员杀疯，莽一波闯出生天路
 ![全员杀疯，莽一波闯出生天路](https://i0.hdslb.com/bfs/bangumi/image/2c15535409548a5b01b743d5f6b6e176a60ebf91.png)
 
