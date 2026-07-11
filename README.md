@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 如果历史是一群喵 大明皇朝篇
+![如果历史是一群喵 大明皇朝篇](https://i0.hdslb.com/bfs/bangumi/image/9ad3bbb64923b2a882839ddbb23175d29fab6109.png)
+
+
 ## 高斯奥特曼
 ![高斯奥特曼](https://i0.hdslb.com/bfs/bangumi/image/08bcc1c5ad83f91e413396f52f2ff8aca0ef04ca.png)
 
