@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## Re：从零开始的异世界生活 第二季 
+![Re：从零开始的异世界生活 第二季 ](https://i0.hdslb.com/bfs/bangumi/image/d0c9b41eae171553d74fea58f2d98b6deb0106f2.png)
+
+
 
 
 ## 特利迦奥特曼

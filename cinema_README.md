@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 50天极寒荒野生存试炼>>
+![50天极寒荒野生存试炼>>](https://i0.hdslb.com/bfs/bangumi/image/f645513b55b89c95bd560c71dec5607e43c86996.png)
+
+## 疼痛之王（中配版）
+![疼痛之王（中配版）](https://i0.hdslb.com/bfs/bangumi/image/4be2014e49d3de829f3cb983654d2debc804b7ef.png)
+
+## 走近这片海（第一季）
+![走近这片海（第一季）](https://i0.hdslb.com/bfs/bangumi/image/d0c2e491ce9318864d919a8ad0b1eebd06860e4a.png)
+
+## 平凡杉菜闯入贵族校园！
+![平凡杉菜闯入贵族校园！](https://i0.hdslb.com/bfs/bangumi/image/5e88f95c60794fb6f3118cb91014d86ead18f294.png)
+
+
 ## 婴儿被封太子，帝王为何独宠他？
 ![婴儿被封太子，帝王为何独宠他？](https://i0.hdslb.com/bfs/bangumi/image/83fa20654daa4c21771a0fec91071ec6624af7e7.png)
 
