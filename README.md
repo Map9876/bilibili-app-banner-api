@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 克雷瓦提斯 魔兽之王与婴儿与尸之勇者
+![克雷瓦提斯 魔兽之王与婴儿与尸之勇者](https://i0.hdslb.com/bfs/bangumi/image/723c85ea556b5423d885c9ae35261057857cf58d.png)
+
+## 猜猜我有多爱你 第一季 中文配音
+![猜猜我有多爱你 第一季 中文配音](https://i0.hdslb.com/bfs/bangumi/image/6722fcadbdd036292200b3638b8ed2f00675de3f.png)
+
+
 ## Re：从零开始的异世界生活 第二季 
 ![Re：从零开始的异世界生活 第二季 ](https://i0.hdslb.com/bfs/bangumi/image/d0c9b41eae171553d74fea58f2d98b6deb0106f2.png)
 
