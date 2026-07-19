@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## ENONE出道四周年特别专场全记录
+![ENONE出道四周年特别专场全记录](https://i0.hdslb.com/bfs/bangumi/image/abec914a44d4064c3ac0c43d41b421518b9969c5.png)
+
+## 莫文蔚《想想忘忘》乐队高能炸场
+![莫文蔚《想想忘忘》乐队高能炸场](https://i0.hdslb.com/bfs/bangumi/image/d7f33a646c8921c04b2d57da764d0e21751c1d24.png)
+
+
 ## 改编自台湾真实凶宅案件
 ![改编自台湾真实凶宅案件](https://i0.hdslb.com/bfs/bangumi/image/aef1ae725768655d0c16a7f7aab55baaf0b2f70d.png)
 

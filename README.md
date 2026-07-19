@@ -355,6 +355,16 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 骸骨骑士大人奇幻世界冒险中
+![骸骨骑士大人奇幻世界冒险中](https://i0.hdslb.com/bfs/bangumi/image/cabc7f955c30c21b5bfe9ad386218f98e8152cfe.png)
+
+## 数字积木 第四季
+![数字积木 第四季](https://i0.hdslb.com/bfs/bangumi/image/e9ce9f5ccbe833c8aab5c683bbca20c91874538a.png)
+
+## 搜神记
+![搜神记](https://i0.hdslb.com/bfs/bangumi/image/91456ed6aca68118c35bbad375d82a5e6c330d59.png)
+
+
 
 ## 克雷瓦提斯 魔兽之王与婴儿与尸之勇者
 ![克雷瓦提斯 魔兽之王与婴儿与尸之勇者](https://i0.hdslb.com/bfs/bangumi/image/723c85ea556b5423d885c9ae35261057857cf58d.png)
