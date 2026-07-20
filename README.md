@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 碧蓝航线：微速前行！
+![碧蓝航线：微速前行！](https://i0.hdslb.com/bfs/bangumi/image/57523f8a3f61278e2a2a8653112c3c28394c5fb4.png)
+
+## 万古至尊：李云霄传
+![万古至尊：李云霄传](https://i0.hdslb.com/bfs/bangumi/image/fe539d11372f8eda94822e8e8c8f6a03b57d8da8.png)
+
+
 ## 骸骨骑士大人奇幻世界冒险中
 ![骸骨骑士大人奇幻世界冒险中](https://i0.hdslb.com/bfs/bangumi/image/cabc7f955c30c21b5bfe9ad386218f98e8152cfe.png)
 
