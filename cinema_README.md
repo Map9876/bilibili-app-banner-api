@@ -1,6 +1,28 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 美貌与财富并存,是什么体验?
+![美貌与财富并存,是什么体验?](https://i0.hdslb.com/bfs/bangumi/image/2177f4c5ee2cbc5778aa9c84909b1a1e00c2aa1f.png)
+
+## 收官之战，谁能成为真正“文物代言人”
+![收官之战，谁能成为真正“文物代言人”](https://i0.hdslb.com/bfs/bangumi/image/882ce6f9ac394affb6879c68cfa7b8dfd17de8f8.png)
+
+## 铠甲勇士刑天15周年特别企划上线！
+![铠甲勇士刑天15周年特别企划上线！](https://i0.hdslb.com/bfs/bangumi/image/a1fb5b0385fc79d036488a6281f1e5a2f502c597.png)
+
+## 贺峻霖的“星”愿漫游之旅
+![贺峻霖的“星”愿漫游之旅](https://i0.hdslb.com/bfs/bangumi/image/31d3ce63c6dcb05308e689128afdbfddefe19384.png)
+
+## 看环球佳片！赢乐高道奇战马
+![看环球佳片！赢乐高道奇战马](https://i0.hdslb.com/bfs/bangumi/image/0bfdcf7264f19199cffccb609c7dac7d040ac9ff.png)
+
+## 湘西赶尸人布下索命谜局
+![湘西赶尸人布下索命谜局](https://i0.hdslb.com/bfs/bangumi/image/9a1712f7307697c82a460631d37317d428f9ec08.png)
+
+## 定档7月23日！状元公主日夜暧昧！
+![定档7月23日！状元公主日夜暧昧！](https://i0.hdslb.com/bfs/bangumi/image/0ffeadf9882f4bc03ec0334e645574868d1a4a3b.png)
+
+
 ## 王菀之《似是故人来》隔空对话梅艳芳
 ![王菀之《似是故人来》隔空对话梅艳芳](https://i0.hdslb.com/bfs/bangumi/image/d7f33a646c8921c04b2d57da764d0e21751c1d24.png)
 
