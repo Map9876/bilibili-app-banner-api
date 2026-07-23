@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 英雄联盟：双城之战
+![英雄联盟：双城之战](https://i0.hdslb.com/bfs/bangumi/image/0a3bdc3077b0f965ccdf33fd8057f0ffea538bf7.png)
+
+## 是王者啊？稷下篇
+![是王者啊？稷下篇](https://i0.hdslb.com/bfs/bangumi/image/41c827270c60707f1fb269360f3041eed1193d09.png)
+
+
 ## 刀剑神域
 ![刀剑神域](https://i0.hdslb.com/bfs/bangumi/image/3781896f0bed014740831ebc32ee743cf4eb297c.png)
 

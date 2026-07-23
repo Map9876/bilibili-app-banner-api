@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 天赐7：他们把遗憾唱成了诗
+![天赐7：他们把遗憾唱成了诗](https://i0.hdslb.com/bfs/bangumi/image/68cdc08ecb676fe9fdabf0653c9338a1bca3317e.png)
+
+## 改编自台湾真实分尸大案
+![改编自台湾真实分尸大案](https://i0.hdslb.com/bfs/bangumi/image/a3a4598c54dedce582c5600deb9cc0d05fa3ab38.png)
+
+## 《屌丝女士2》开播！好超前的精神状态
+![《屌丝女士2》开播！好超前的精神状态](https://i0.hdslb.com/bfs/bangumi/image/18bc026efe2a77fe3ead0b184a1dcfb253669603.png)
+
+
 ## 清宫历史名场面来了！
 ![清宫历史名场面来了！](https://i0.hdslb.com/bfs/bangumi/image/5aaa3a52bf29f1ff7d2f3b514c25eb24a6718f1c.png)
 
