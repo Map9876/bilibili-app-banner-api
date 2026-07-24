@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 没落要塞 DECA-DENCE
+![没落要塞 DECA-DENCE](https://i0.hdslb.com/bfs/bangumi/image/6f501a8473eecf366e00fe88edb5fefbe2c356f6.png)
+
+
 ## 英雄联盟：双城之战
 ![英雄联盟：双城之战](https://i0.hdslb.com/bfs/bangumi/image/0a3bdc3077b0f965ccdf33fd8057f0ffea538bf7.png)
 
