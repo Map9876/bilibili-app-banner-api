@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 天赐7：深情派 vs 旷野派
+![天赐7：深情派 vs 旷野派](https://i0.hdslb.com/bfs/bangumi/image/68cdc08ecb676fe9fdabf0653c9338a1bca3317e.png)
+
+## 老牌港星云集，上演黑与白的交锋
+![老牌港星云集，上演黑与白的交锋](https://i0.hdslb.com/bfs/bangumi/image/8117c4f91ebe1953276c8bb8795d818e41a6d8fb.png)
+
+## 寒门状元甘做公主面首？就这个拉扯爽！
+![寒门状元甘做公主面首？就这个拉扯爽！](https://i0.hdslb.com/bfs/bangumi/image/50b44a4c40ad39d5162e1e474e2856ab6caa6224.png)
+
+
 ## 解锁大暑时令风味！
 ![解锁大暑时令风味！](https://i0.hdslb.com/bfs/bangumi/image/3ceea301c3b40a2e6797743fcd904cdca01db520.png)
 

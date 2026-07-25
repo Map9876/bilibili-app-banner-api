@@ -355,6 +355,16 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 冰海战记
+![冰海战记](https://i0.hdslb.com/bfs/bangumi/image/220cc420f6196e8d3b4da1fe8c55143c002a45d8.png)
+
+## 战神金刚：传奇的保护神 第一季
+![战神金刚：传奇的保护神 第一季](https://i0.hdslb.com/bfs/bangumi/image/6681438d3a0d702ef9e9e085b3d5529215ff060f.png)
+
+## 小P优优 第一季 中文配音
+![小P优优 第一季 中文配音](https://i0.hdslb.com/bfs/bangumi/image/6bf8a2a7409bfac51ffd0d18aa1a8c0b5b32bd65.png)
+
+
 ## 没落要塞 DECA-DENCE
 ![没落要塞 DECA-DENCE](https://i0.hdslb.com/bfs/bangumi/image/6f501a8473eecf366e00fe88edb5fefbe2c356f6.png)
 
