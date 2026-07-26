@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 路人超能100(灵能百分百)
+![路人超能100(灵能百分百)](https://i0.hdslb.com/bfs/bangumi/image/8a6f1773078c66e1ceba896d42e2cdaea53e2071.png)
+
+
 ## 冰海战记
 ![冰海战记](https://i0.hdslb.com/bfs/bangumi/image/220cc420f6196e8d3b4da1fe8c55143c002a45d8.png)
 
