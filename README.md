@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## Angels of Death
+![Angels of Death](https://i0.hdslb.com/bfs/bangumi/image/05ac3b704e57e04489e9efa155eec385e05a5bfb.png)
+
+
 ## 路人超能100(灵能百分百)
 ![路人超能100(灵能百分百)](https://i0.hdslb.com/bfs/bangumi/image/8a6f1773078c66e1ceba896d42e2cdaea53e2071.png)
 
