@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 唐山凤羽集
+![唐山凤羽集](https://i0.hdslb.com/bfs/bangumi/image/ad370bfeb5c9a95af55f451eb8d89b346b563ae8.png)
+
+## 李熊猫
+![李熊猫](https://i0.hdslb.com/bfs/bangumi/image/3df2f8de1394d213c82b9159cf516678b7e09bb1.png)
+
+
 ## Ｄｒ．ＳＴＯＮＥ 石纪元
 ![Ｄｒ．ＳＴＯＮＥ 石纪元](https://i0.hdslb.com/bfs/bangumi/image/d72c23ed2b7265158d78d94afc8ce887c6ee7c62.png)
 
