@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 军事记录 铁血兴亡录
+![军事记录 铁血兴亡录](https://i0.hdslb.com/bfs/bangumi/image/e1d88d1fd71e25febc6a96053b10eab16ed1215d.png)
+
+## 监狱坦白局？公主入狱百般使唤沈孝
+![监狱坦白局？公主入狱百般使唤沈孝](https://i0.hdslb.com/bfs/bangumi/image/50b44a4c40ad39d5162e1e474e2856ab6caa6224.png)
+
+## 真菌降临！连姆·尼森“硬核”救场
+![真菌降临！连姆·尼森“硬核”救场](https://i0.hdslb.com/bfs/bangumi/image/ca9cd2fddbf9b19fac2c470fb5d96d949d55f374.png)
+
+
 ## 康熙爸爸收拾自家孩子完全不在话下！
 ![康熙爸爸收拾自家孩子完全不在话下！](https://i0.hdslb.com/bfs/bangumi/image/c4f467ee2a944dbbb5f1942bc5814874646cc592.png)
 

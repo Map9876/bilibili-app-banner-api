@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 魔法少女☆伊莉雅 3REI!!
+![魔法少女☆伊莉雅 3REI!!](https://i0.hdslb.com/bfs/bangumi/image/601941d1b5debad1f86f87660c6b658cd91c30cc.png)
+
+
 ## 唐山凤羽集
 ![唐山凤羽集](https://i0.hdslb.com/bfs/bangumi/image/ad370bfeb5c9a95af55f451eb8d89b346b563ae8.png)
 
