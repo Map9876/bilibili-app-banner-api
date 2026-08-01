@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 街角魔族
+![街角魔族](https://i0.hdslb.com/bfs/bangumi/image/e6329ad11c869db3973c79445a9218f3dc64e6aa.png)
+
+
 ## OVERLORD
 ![OVERLORD](https://i0.hdslb.com/bfs/bangumi/image/bb7f964d4b5189f702525ca5b95a60464fd055b2.png)
 

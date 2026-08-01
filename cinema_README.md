@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 神综《康熙来了》大放送！
+![神综《康熙来了》大放送！](https://i0.hdslb.com/bfs/bangumi/image/3f5ad52cc295cb9d75eefb49c593279338abaa09.png)
+
+## 天赐7：经典再唱，唱尽岁月温柔
+![天赐7：经典再唱，唱尽岁月温柔](https://i0.hdslb.com/bfs/bangumi/image/68cdc08ecb676fe9fdabf0653c9338a1bca3317e.png)
+
+## 一把破椅子掀起职场阴谋！
+![一把破椅子掀起职场阴谋！](https://i0.hdslb.com/bfs/bangumi/image/3946ac141dbc14b4bf1fe5c81419a5f4c9128a19.png)
+
+## 雨夜交心！大难不死剖白心意
+![雨夜交心！大难不死剖白心意](https://i0.hdslb.com/bfs/bangumi/image/50b44a4c40ad39d5162e1e474e2856ab6caa6224.png)
+
+
 ## 命悬一线！坠崖前沈孝替公主挡箭
 ![命悬一线！坠崖前沈孝替公主挡箭](https://i0.hdslb.com/bfs/bangumi/image/50b44a4c40ad39d5162e1e474e2856ab6caa6224.png)
 
