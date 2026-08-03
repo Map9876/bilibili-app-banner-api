@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 成也萧河
+![成也萧河](https://i0.hdslb.com/bfs/bangumi/image/cf1f0fb01b6a209fcd51a2bd7afd58bc15240c23.png)
+
+## 记忆管理局
+![记忆管理局](https://i0.hdslb.com/bfs/bangumi/image/eefadaf05f7141eef1a6f72634d74b8b3f69e73c.png)
+
+
 ## 1999！神秘学对策部
 ![1999！神秘学对策部](https://i0.hdslb.com/bfs/bangumi/image/40d8e5d5c6a9f9efef4768709f731bcfd8447fb8.png)
 
