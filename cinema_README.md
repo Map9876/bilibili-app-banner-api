@@ -1,6 +1,22 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 始于欺骗的爱恋，该如何收场？
+![始于欺骗的爱恋，该如何收场？](https://i0.hdslb.com/bfs/bangumi/image/66d74af5ae48313390e6e0a1d04bf96965e261dc.png)
+
+## 一栋居民楼，三桩隐匿的罪恶！
+![一栋居民楼，三桩隐匿的罪恶！](https://i0.hdslb.com/bfs/bangumi/image/8249c4b2a3d6644cbc01f9d531767d10d128c982.png)
+
+## 天赐7：当跨越时代的经典遇见新声
+![天赐7：当跨越时代的经典遇见新声](https://i0.hdslb.com/bfs/bangumi/image/68cdc08ecb676fe9fdabf0653c9338a1bca3317e.png)
+
+## 宁静的世界
+![宁静的世界](https://i0.hdslb.com/bfs/bangumi/image/4b7f146ac21b6129e2f734e8d260d0aef2243f75.png)
+
+## 甄家班喻亢主演，隐世杀手血洗黑帮！
+![甄家班喻亢主演，隐世杀手血洗黑帮！](https://i0.hdslb.com/bfs/bangumi/image/23efb5095d262cc5675df3737ed49c08d898c889.png)
+
+
 ## 电子布洛芬上新！兽医诊所再营业！
 ![电子布洛芬上新！兽医诊所再营业！](https://i0.hdslb.com/bfs/bangumi/image/1ecce87ae59c2d85496111e51820ef43f4291d7d.png)
 
