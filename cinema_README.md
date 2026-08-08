@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 天赐7：金曲之争：谁才是今晚最佳答案
+![天赐7：金曲之争：谁才是今晚最佳答案](https://i0.hdslb.com/bfs/bangumi/image/68cdc08ecb676fe9fdabf0653c9338a1bca3317e.png)
+
+## 大结局！黑莲花公主强制爱狼系寒门书生
+![大结局！黑莲花公主强制爱狼系寒门书生](https://i0.hdslb.com/bfs/bangumi/image/50b44a4c40ad39d5162e1e474e2856ab6caa6224.png)
+
+
 ## 假死还生！沈孝昭阳虐心重逢！
 ![假死还生！沈孝昭阳虐心重逢！](https://i0.hdslb.com/bfs/bangumi/image/50b44a4c40ad39d5162e1e474e2856ab6caa6224.png)
 
