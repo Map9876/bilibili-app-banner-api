@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 庄达菲领衔主演，失恋后的自我重建
+![庄达菲领衔主演，失恋后的自我重建](https://i0.hdslb.com/bfs/bangumi/image/e897afc9d5d9c8a6a04e03d909ce2d468f92bd0b.png)
+
+## 催泪！陈小春粤语版《父亲》铁汉柔情
+![催泪！陈小春粤语版《父亲》铁汉柔情](https://i0.hdslb.com/bfs/bangumi/image/d7f33a646c8921c04b2d57da764d0e21751c1d24.png)
+
+## 迈迷集合！再现流行音乐之王的传奇
+![迈迷集合！再现流行音乐之王的传奇](https://i0.hdslb.com/bfs/bangumi/image/b55653141f20097bc3f78036c882be68672ea5f2.png)
+
+## 梅绽芳华：越剧名家周云娟的梨园芳华
+![梅绽芳华：越剧名家周云娟的梨园芳华](https://i0.hdslb.com/bfs/bangumi/image/aff7265e18d26b3168b14b442b0ba70529b96fa7.png)
+
+
 ## 天赐7：金曲之争：谁才是今晚最佳答案
 ![天赐7：金曲之争：谁才是今晚最佳答案](https://i0.hdslb.com/bfs/bangumi/image/68cdc08ecb676fe9fdabf0653c9338a1bca3317e.png)
 
