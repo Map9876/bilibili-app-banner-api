@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 为不分手，她从大街上 “捡” 个儿子
+![为不分手，她从大街上 “捡” 个儿子](https://i0.hdslb.com/bfs/bangumi/image/9165f6680b2edaeff02a93e128da98a6927540f2.png)
+
+## 年少不懂《春泥》 金志文改编版
+![年少不懂《春泥》 金志文改编版](https://i0.hdslb.com/bfs/bangumi/image/d7f33a646c8921c04b2d57da764d0e21751c1d24.png)
+
+## 视听体验拉满，感受天王的舞台魅力
+![视听体验拉满，感受天王的舞台魅力](https://i0.hdslb.com/bfs/bangumi/image/b55653141f20097bc3f78036c882be68672ea5f2.png)
+
+
 ## 庄达菲领衔主演，失恋后的自我重建
 ![庄达菲领衔主演，失恋后的自我重建](https://i0.hdslb.com/bfs/bangumi/image/e897afc9d5d9c8a6a04e03d909ce2d468f92bd0b.png)
 
