@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 我们的重制人生
+![我们的重制人生](https://i0.hdslb.com/bfs/bangumi/image/8e3286a20b035f2f29801ddcc5e8f85f9755896d.png)
+
+
 ## 工作细胞
 ![工作细胞](https://i0.hdslb.com/bfs/bangumi/image/39e374373f14036962c36d602ee119c591575ac0.png)
 
