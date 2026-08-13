@@ -1,6 +1,34 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 改编自真实故事，烧伤男孩浴火重生
+![改编自真实故事，烧伤男孩浴火重生](https://i0.hdslb.com/bfs/bangumi/image/d053a83f6e243bb6f2950a616945687e30dd9de6.png)
+
+## KPL团综、狼人杀等你来解锁
+![KPL团综、狼人杀等你来解锁](https://i0.hdslb.com/bfs/bangumi/image/5ca0e590fd206da661fa163d4bf08e0b7f2e0205.png)
+
+## 我不想走，史塔克先生。
+![我不想走，史塔克先生。](https://i0.hdslb.com/bfs/bangumi/image/47bf971ec6c6c059de13aee67dbc1815d7a5cbe9.png)
+
+## 十级诺兰学者速成班
+![十级诺兰学者速成班](https://i0.hdslb.com/bfs/bangumi/image/0bfdcf7264f19199cffccb609c7dac7d040ac9ff.png)
+
+## 台湾生猛犯罪片，揭露器官买卖黑幕
+![台湾生猛犯罪片，揭露器官买卖黑幕](https://i0.hdslb.com/bfs/bangumi/image/5bd3d4946c1a84a508a22929fd9645446fc42698.png)
+
+## 蒋奇明，真有你的！
+![蒋奇明，真有你的！](https://i0.hdslb.com/bfs/bangumi/image/06bfc74d7f23aa1b6a267cd6db9a578a8e4b150a.png)
+
+## 假如动物会摄影
+![假如动物会摄影](https://i0.hdslb.com/bfs/bangumi/image/4aa141531ce99ad9a1fdc32984cf79baf3f7dc0c.png)
+
+## 最强逆袭，从奴隶到战神之大将军卫青
+![最强逆袭，从奴隶到战神之大将军卫青](https://i0.hdslb.com/bfs/bangumi/image/0bcfaaacc50ffb6d786032e772267275ac3e9237.png)
+
+## 岳飞北伐
+![岳飞北伐](https://i0.hdslb.com/bfs/bangumi/image/05f1ebfc8fe6d68839163f63b67514ff18a85652.png)
+
+
 
 ## 洪家班操刀打戏，开启海底夺宝之旅
 ![洪家班操刀打戏，开启海底夺宝之旅](https://i0.hdslb.com/bfs/bangumi/image/984620f564823a309d212152d65e5b948757bfa8.png)
