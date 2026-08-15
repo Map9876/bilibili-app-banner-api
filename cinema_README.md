@@ -1,6 +1,28 @@
 # Bilibili 影视 顶部海报
 
 ---
+##  天网：荒唐血案
+![ 天网：荒唐血案](https://i0.hdslb.com/bfs/bangumi/image/18932c3d6b1e1cc7fcf3d52efef5535c92cdfcb1.png)
+
+## 麦卡·梦露主演，出狱后的自我救赎
+![麦卡·梦露主演，出狱后的自我救赎](https://i0.hdslb.com/bfs/bangumi/image/4a3acdb111c1268c04ae7074cba3f1ad72851ccd.png)
+
+## 李幼斌演绎替子扛债老父亲
+![李幼斌演绎替子扛债老父亲](https://i0.hdslb.com/bfs/bangumi/image/292def40c5bfc166f177f68537e0d274b1a579e1.png)
+
+## 这么强？！浪客剑心武指坐镇执导
+![这么强？！浪客剑心武指坐镇执导](https://i0.hdslb.com/bfs/bangumi/image/2b8a397355d412505f4e6eeb4f6f3c44b5d9dadc.png)
+
+## 她为何深陷杀猪盘，一再落入圈套？
+![她为何深陷杀猪盘，一再落入圈套？](https://i0.hdslb.com/bfs/bangumi/image/0cecf90eb564e3387a285a27d56a8767f68e9168.png)
+
+## 天赐7：唱功情绪双双在线，遗憾感直接
+![天赐7：唱功情绪双双在线，遗憾感直接](https://i0.hdslb.com/bfs/bangumi/image/68cdc08ecb676fe9fdabf0653c9338a1bca3317e.png)
+
+## 文艺复兴：美与殇
+![文艺复兴：美与殇](https://i0.hdslb.com/bfs/bangumi/image/b3b47114350afe41c09a66f8c3c9811cc612d969.png)
+
+
 ## 坐上好友电瓶车，女子为何离奇失踪？
 ![坐上好友电瓶车，女子为何离奇失踪？](https://i0.hdslb.com/bfs/bangumi/image/7658824346fac57967c02b507dcb802aac35b35e.png)
 

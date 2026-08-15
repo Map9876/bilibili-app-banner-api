@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 擅长捉弄的高木同学 第二季
+![擅长捉弄的高木同学 第二季](https://i0.hdslb.com/bfs/bangumi/image/f1715e18bf73e413f85eaba63dc70715a5695675.png)
+
+## 时光代理人
+![时光代理人](https://i0.hdslb.com/bfs/bangumi/image/876c970ff74e096250f735f689ca185e0d44f2f0.png)
+
+
 ## 那就是声优！
 ![那就是声优！](https://i0.hdslb.com/bfs/bangumi/image/64095e7c18bfa6789a5bafc98d02233fa18ae7bd.png)
 
