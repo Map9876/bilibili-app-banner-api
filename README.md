@@ -355,6 +355,16 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 时光代理人 第三季
+![时光代理人 第三季](https://i0.hdslb.com/bfs/bangumi/image/81ab688c0ffb31d7d13a5dd83faad60a11d20e64.png)
+
+## ReLIFE
+![ReLIFE](https://i0.hdslb.com/bfs/bangumi/image/44f7e4892b8f0a111ff16b0dcea6a856345e86c5.png)
+
+## 财神窦占龙
+![财神窦占龙](https://i0.hdslb.com/bfs/bangumi/image/5c50437cdca8680b51eb5208f81f9b8e6dd9f2d7.png)
+
+
 ## 擅长捉弄的高木同学 第二季
 ![擅长捉弄的高木同学 第二季](https://i0.hdslb.com/bfs/bangumi/image/f1715e18bf73e413f85eaba63dc70715a5695675.png)
 
