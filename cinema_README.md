@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 谢苗主演，失语父亲血洗人贩组织
+![谢苗主演，失语父亲血洗人贩组织](https://i0.hdslb.com/bfs/bangumi/image/2b8a397355d412505f4e6eeb4f6f3c44b5d9dadc.png)
+
+## 高司令和石头“再续前缘”？
+![高司令和石头“再续前缘”？](https://i0.hdslb.com/bfs/bangumi/image/b60ae6ba13e01075b403c696bac79428e7cd65d8.png)
+
+## AGA《孤雏》国乐限定版全新演绎
+![AGA《孤雏》国乐限定版全新演绎](https://i0.hdslb.com/bfs/bangumi/image/d7f33a646c8921c04b2d57da764d0e21751c1d24.png)
+
+
 ## 五大动作流派同台厮杀，拳拳到肉！
 ![五大动作流派同台厮杀，拳拳到肉！](https://i0.hdslb.com/bfs/bangumi/image/2b8a397355d412505f4e6eeb4f6f3c44b5d9dadc.png)
 

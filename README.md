@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 魔法少女与邪恶曾经敌对。
+![魔法少女与邪恶曾经敌对。](https://i0.hdslb.com/bfs/bangumi/image/a817e7d936e72e3836a45355d709186bd2b18231.png)
+
+
 ## 时光代理人 第三季
 ![时光代理人 第三季](https://i0.hdslb.com/bfs/bangumi/image/81ab688c0ffb31d7d13a5dd83faad60a11d20e64.png)
 
