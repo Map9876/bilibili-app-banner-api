@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 澶渊之盟
+![澶渊之盟](https://i0.hdslb.com/bfs/bangumi/image/68711d22402b22d45287d87df1c6429f98edb929.png)
+
+## 罗南主演，成瘾者的海岛疗愈之旅
+![罗南主演，成瘾者的海岛疗愈之旅](https://i0.hdslb.com/bfs/bangumi/image/09cdd0c8246e3487634b1d9f4ae45181c13a2f9a.png)
+
+
 ## 姜武领衔主演，父子联手对抗阴谋
 ![姜武领衔主演，父子联手对抗阴谋](https://i0.hdslb.com/bfs/bangumi/image/5d259c56b233024be12c56b38e6e7db09ad53e9f.png)
 
