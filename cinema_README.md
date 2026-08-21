@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 笑点大赛1
+![笑点大赛1](https://i0.hdslb.com/bfs/bangumi/image/84ab61029896a002190c7c68dd6febe8b95e0861.png)
+
+## 世界树之巅：起源与跨越
+![世界树之巅：起源与跨越](https://i0.hdslb.com/bfs/bangumi/image/7b58f5c4a86c594cb604245f3d123ce0a4f67810.png)
+
+
 ## 澶渊之盟
 ![澶渊之盟](https://i0.hdslb.com/bfs/bangumi/image/68711d22402b22d45287d87df1c6429f98edb929.png)
 

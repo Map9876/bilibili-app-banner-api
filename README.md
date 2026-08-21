@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 死神少爷与黑女仆
+![死神少爷与黑女仆](https://i0.hdslb.com/bfs/bangumi/image/c5cf812a6f77427b3d389a576f0e56d325bf27f0.png)
+
+
 ## 小猪佩奇 第十二季 中文配音
 ![小猪佩奇 第十二季 中文配音](https://i0.hdslb.com/bfs/bangumi/image/3b4486079ca411a202a446d9e902be2906ee7177.png)
 
