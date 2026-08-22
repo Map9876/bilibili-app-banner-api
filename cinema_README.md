@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 天赐7：杨丞琳音综首跳合作舞台给到夯
+![天赐7：杨丞琳音综首跳合作舞台给到夯](https://i0.hdslb.com/bfs/bangumi/image/68cdc08ecb676fe9fdabf0653c9338a1bca3317e.png)
+
+## 青少年美商启蒙纪录片
+![青少年美商启蒙纪录片](https://i0.hdslb.com/bfs/bangumi/image/d9a95f411c62adc371d516b0f126aaff0ed2ccdd.png)
+
+## 寄生游戏
+![寄生游戏](https://i0.hdslb.com/bfs/bangumi/image/b99a304331145d53396fc1978f0c2a4f485aabd3.png)
+
+## 男子用AI图网恋诈骗>>
+![男子用AI图网恋诈骗>>](https://i0.hdslb.com/bfs/bangumi/image/36d5a923080a3b75e17837521265ed08087848f2.png)
+
+
 ## 笑点大赛1
 ![笑点大赛1](https://i0.hdslb.com/bfs/bangumi/image/84ab61029896a002190c7c68dd6febe8b95e0861.png)
 

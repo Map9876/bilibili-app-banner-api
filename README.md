@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 齐木楠雄的灾难
+![齐木楠雄的灾难](https://i0.hdslb.com/bfs/bangumi/image/815a60866aa70e1c704841560c98b05412e04deb.png)
+
+
 ## 死神少爷与黑女仆
 ![死神少爷与黑女仆](https://i0.hdslb.com/bfs/bangumi/image/c5cf812a6f77427b3d389a576f0e56d325bf27f0.png)
 
