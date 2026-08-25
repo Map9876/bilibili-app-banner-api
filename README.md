@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 异世界迷宫黑心企业
+![异世界迷宫黑心企业](https://i0.hdslb.com/bfs/bangumi/image/fd82f549e17b314b4517d8cd78032029bb47cd86.png)
+
+
 ## 月刊少女野崎君
 ![月刊少女野崎君](https://i0.hdslb.com/bfs/bangumi/image/fb6de8cfa82bb1bda6bbc722bcf1400a10f23944.png)
 
