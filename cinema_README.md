@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 一把宝剑，引来奇人异士入局厮杀
+![一把宝剑，引来奇人异士入局厮杀](https://i0.hdslb.com/bfs/bangumi/image/2d2d4d9894f39283fac71c37d885335f4a098b5f.png)
+
+## 魔法师集合！报到Top25有奖
+![魔法师集合！报到Top25有奖](https://i0.hdslb.com/bfs/bangumi/image/6f6089e31a8be7ca4a7c2b4188804df477e9187f.png)
+
+
 ## 重逢白月光，他竟一刀把初恋送进火场
 ![重逢白月光，他竟一刀把初恋送进火场](https://i0.hdslb.com/bfs/bangumi/image/0595552a66bb84cd24e6b84d3d629e8582a21a34.png)
 

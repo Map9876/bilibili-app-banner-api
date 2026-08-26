@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 飞哥和小佛 第一季
+![飞哥和小佛 第一季](https://i0.hdslb.com/bfs/bangumi/image/64fc0176b598e8513d221212e9508fac85e4873f.png)
+
+## 女高中生的虚度日常
+![女高中生的虚度日常](https://i0.hdslb.com/bfs/bangumi/image/fee400376cff6e224015ca8ef339c67a1c45869b.png)
+
+
 ## 异世界迷宫黑心企业
 ![异世界迷宫黑心企业](https://i0.hdslb.com/bfs/bangumi/image/fd82f549e17b314b4517d8cd78032029bb47cd86.png)
 
