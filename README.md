@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 霸王龙雷奇之雷奇知多少
+![霸王龙雷奇之雷奇知多少](https://i0.hdslb.com/bfs/bangumi/image/87f48f942fb8b5f2326693d8271052a1b1616b2a.png)
+
+## 雪王来了！
+![雪王来了！](https://i0.hdslb.com/bfs/bangumi/image/98df0b3f8b74f4cc129bc08193c25bf953dabbc3.png)
+
+
 ## 飞哥和小佛 第一季
 ![飞哥和小佛 第一季](https://i0.hdslb.com/bfs/bangumi/image/64fc0176b598e8513d221212e9508fac85e4873f.png)
 
