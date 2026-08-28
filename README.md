@@ -355,6 +355,16 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 小桃小栗Love Love物语
+![小桃小栗Love Love物语](https://i0.hdslb.com/bfs/bangumi/image/30e3e317d67b1cee5acb3c02481a00b90eccdf16.png)
+
+## 奇幻世界舅舅
+![奇幻世界舅舅](https://i0.hdslb.com/bfs/bangumi/image/01ae9406fb8d7b9b3f3123589daa385e50b5e30e.png)
+
+## 和平精英：地铁逃生
+![和平精英：地铁逃生](https://i0.hdslb.com/bfs/bangumi/image/71116d5599278c72c23fd985ab9d95e4ee15da30.png)
+
+
 ## 霸王龙雷奇之雷奇知多少
 ![霸王龙雷奇之雷奇知多少](https://i0.hdslb.com/bfs/bangumi/image/87f48f942fb8b5f2326693d8271052a1b1616b2a.png)
 

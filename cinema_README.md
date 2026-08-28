@@ -1,6 +1,10 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 吴承恩与西游记
+![吴承恩与西游记](https://i0.hdslb.com/bfs/bangumi/image/d460001d8ecb910650894687d15ab5b67a2bc8f8.png)
+
+
 ## 在辽阔的草原上，感受自由与爱
 ![在辽阔的草原上，感受自由与爱](https://i0.hdslb.com/bfs/bangumi/image/29d0fe484ab660e1dab5657adcec985497f4dbcc.png)
 
