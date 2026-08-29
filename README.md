@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 邪神与厨二病少女
+![邪神与厨二病少女](https://i0.hdslb.com/bfs/bangumi/image/18548674254224b907195921b55f1d8074f6ee74.png)
+
+
 ## 小桃小栗Love Love物语
 ![小桃小栗Love Love物语](https://i0.hdslb.com/bfs/bangumi/image/30e3e317d67b1cee5acb3c02481a00b90eccdf16.png)
 
