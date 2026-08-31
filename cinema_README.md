@@ -1,6 +1,10 @@
 # Bilibili 影视 顶部海报
 
 ---
+## KPL系列团综回归！长白山重聚启程
+![KPL系列团综回归！长白山重聚启程](https://i0.hdslb.com/bfs/bangumi/image/3992797db651cb0fd6281df5ba1091f211a4cf9f.png)
+
+
 ## 毛骨悚然！一起揭秘深夜车祸谜团
 ![毛骨悚然！一起揭秘深夜车祸谜团](https://i0.hdslb.com/bfs/bangumi/image/3602dfd60dc039d5748bbf8c6e0a60245f75a57a.png)
 

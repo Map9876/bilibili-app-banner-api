@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 凉宫春日的忧郁
+![凉宫春日的忧郁](https://i0.hdslb.com/bfs/bangumi/image/1e280b43806dd20a12f35e615825aeab2698748d.png)
+
+
 ## 转生成破灭Flag邪恶大小姐 第二季
 ![转生成破灭Flag邪恶大小姐 第二季](https://i0.hdslb.com/bfs/bangumi/image/2be161c4c3a0dcd75f3541bd0848a058edbe8a24.png)
 
