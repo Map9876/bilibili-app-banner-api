@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 咒术回战 第二季
+![咒术回战 第二季](https://i0.hdslb.com/bfs/bangumi/image/300177d0efe3eb37cf403bf5bf3d8871cbcfa97b.png)
+
+## 九月动画种草激励计划
+![九月动画种草激励计划](https://i0.hdslb.com/bfs/bangumi/image/695beb3424310ce702d16ee77d0409cb70e06dc7.png)
+
+
 ## 凉宫春日的忧郁
 ![凉宫春日的忧郁](https://i0.hdslb.com/bfs/bangumi/image/1e280b43806dd20a12f35e615825aeab2698748d.png)
 
