@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 炎炎消防队 贰之章
+![炎炎消防队 贰之章](https://i0.hdslb.com/bfs/bangumi/image/b46728fe3371aaab4bb3fd286b998e198e9522b2.png)
+
+
 ## 刀剑神域 爱丽丝篇 异界战争 终章
 ![刀剑神域 爱丽丝篇 异界战争 终章](https://i0.hdslb.com/bfs/bangumi/image/ee504953e247e216d9d6d7360fc4a489a91039c0.png)
 
