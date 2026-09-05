@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 那些冲破桎梏的人物与故事
+![那些冲破桎梏的人物与故事](https://i0.hdslb.com/bfs/bangumi/image/324e41314bb81279ccb55962010892206b1564b3.png)
+
+## 开学了，回顾哈利·波特全系列！
+![开学了，回顾哈利·波特全系列！](https://i0.hdslb.com/bfs/bangumi/image/de4b3e60f992d53b22d18c04152ea227011e8b21.png)
+
+## 她的变身，我也就看了亿遍
+![她的变身，我也就看了亿遍](https://i0.hdslb.com/bfs/bangumi/image/1d66f43c0c2fc9b7f8c095068f614b671157bdb7.png)
+
+## 天赐7：没有输赢，只有震撼
+![天赐7：没有输赢，只有震撼](https://i0.hdslb.com/bfs/bangumi/image/68cdc08ecb676fe9fdabf0653c9338a1bca3317e.png)
+
+
 ## 命案陷入僵局，转账竟成破案关键？
 ![命案陷入僵局，转账竟成破案关键？](https://i0.hdslb.com/bfs/bangumi/image/65ddce0088bbe0a2cdb56484b20cf8c46d073231.png)
 
