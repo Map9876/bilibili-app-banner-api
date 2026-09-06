@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 肖恩直面生死伦理困局！
+![肖恩直面生死伦理困局！](https://i0.hdslb.com/bfs/bangumi/image/cbafe292f8758800a2051bb5f38a755181757b79.png)
+
+## 撒贝宁尼格买提化身乡村快递员
+![撒贝宁尼格买提化身乡村快递员](https://i0.hdslb.com/bfs/bangumi/image/6e0a0765b48c45a12159eab8713276f7f94bfb62.png)
+
+
 ## 那些冲破桎梏的人物与故事
 ![那些冲破桎梏的人物与故事](https://i0.hdslb.com/bfs/bangumi/image/324e41314bb81279ccb55962010892206b1564b3.png)
 
