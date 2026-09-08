@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## Charlotte
+![Charlotte](https://i0.hdslb.com/bfs/bangumi/image/12988a7a44dafc5e8cc0cc55a27f1194e951e664.png)
+
+## 迪迦奥特曼
+![迪迦奥特曼](https://i0.hdslb.com/bfs/bangumi/image/822935f2d22e1696693a53c96fe649a394fee751.png)
+
+
 
 
 ## 某科学的一方通行
