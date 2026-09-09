@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 非枪人生 第二季
+![非枪人生 第二季](https://i0.hdslb.com/bfs/bangumi/image/55c4c8587d810bcaaf0e1e02b71878a6c81a5096.png)
+
+## 家庭教师
+![家庭教师](https://i0.hdslb.com/bfs/bangumi/image/22b4e7e8ca87e656e790dcdccff823bdcca3ddc2.png)
+
+
 ## Charlotte
 ![Charlotte](https://i0.hdslb.com/bfs/bangumi/image/12988a7a44dafc5e8cc0cc55a27f1194e951e664.png)
 
