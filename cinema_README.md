@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 外星人到底对地球人说了啥？
+![外星人到底对地球人说了啥？](https://i0.hdslb.com/bfs/bangumi/image/a4c0fb09b8352102722cd243855e027685fe64b5.png)
+
+## 开团秒跟！寻找“大隐于市”的召唤师
+![开团秒跟！寻找“大隐于市”的召唤师](https://i0.hdslb.com/bfs/bangumi/image/921be902786d9f5a17fa87072cd9ea0cc0107e88.png)
+
+
 ## 山村惊现蒙面人，一刀刺穿老汉颈动脉！
 ![山村惊现蒙面人，一刀刺穿老汉颈动脉！](https://i0.hdslb.com/bfs/bangumi/image/6fcd1e9f3effcc9ee1830b422b92bdf4b88e9efb.png)
 
