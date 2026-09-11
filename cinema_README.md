@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 三路推塔通关！别开生面的职业体验
+![三路推塔通关！别开生面的职业体验](https://i0.hdslb.com/bfs/bangumi/image/b39adb9a3cd267a0a0c9ca7ba6fb69ae0e6006c3.png)
+
+## 温暖回访！回去看看那些改造过的家
+![温暖回访！回去看看那些改造过的家](https://i0.hdslb.com/bfs/bangumi/image/a13fd8ab0226ffbf629c46ee2a4206a83fbedd76.png)
+
+
 ## 外星人到底对地球人说了啥？
 ![外星人到底对地球人说了啥？](https://i0.hdslb.com/bfs/bangumi/image/a4c0fb09b8352102722cd243855e027685fe64b5.png)
 
