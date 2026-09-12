@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 请吃红小豆吧！ 第五季
+![请吃红小豆吧！ 第五季](https://i0.hdslb.com/bfs/bangumi/image/1036756776b9fbe29b2479b810859ea0a7c60812.png)
+
+## 小市民系列
+![小市民系列](https://i0.hdslb.com/bfs/bangumi/image/c69dc08eef5af0ff34d4322080de54c1b68765c9.png)
+
+
 ## 我的青春恋爱物语果然有问题。完
 ![我的青春恋爱物语果然有问题。完](https://i0.hdslb.com/bfs/bangumi/image/2e4cf40657757eb3a5ba0e2a83d67bb57bcade54.png)
 

@@ -1,6 +1,22 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 天赐7：单人舞台大赏合集
+![天赐7：单人舞台大赏合集](https://i0.hdslb.com/bfs/bangumi/image/68cdc08ecb676fe9fdabf0653c9338a1bca3317e.png)
+
+## 正邪交锋，超英燃战一触即发
+![正邪交锋，超英燃战一触即发](https://i0.hdslb.com/bfs/bangumi/image/d08edaecb93b1ca6af618c54ee18f1ccf33d667f.png)
+
+## 水晶高地集结！十五年对局走心收官
+![水晶高地集结！十五年对局走心收官](https://i0.hdslb.com/bfs/bangumi/image/445d4307a5a935613cca54c9c7420bd1c0f9a5f0.png)
+
+## 定档9月17日20点，B站独播！
+![定档9月17日20点，B站独播！](https://i0.hdslb.com/bfs/bangumi/image/ed7440dfd6e8c2e57362f9bc0e6312b0e128b615.png)
+
+## 和打歌召集人王俊凯一起见证真开麦舞台
+![和打歌召集人王俊凯一起见证真开麦舞台](https://i0.hdslb.com/bfs/bangumi/image/3b83d73e490201cf2ad5362f1628ae9478c937b8.png)
+
+
 ## 三路推塔通关！别开生面的职业体验
 ![三路推塔通关！别开生面的职业体验](https://i0.hdslb.com/bfs/bangumi/image/b39adb9a3cd267a0a0c9ca7ba6fb69ae0e6006c3.png)
 
