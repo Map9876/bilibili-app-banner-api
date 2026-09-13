@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## GAMERS电玩咖！
+![GAMERS电玩咖！](https://i0.hdslb.com/bfs/bangumi/image/2d1c6fea11f25d89a2df187ce6ba1216720a4cdf.png)
+
+
 ## 请吃红小豆吧！ 第五季
 ![请吃红小豆吧！ 第五季](https://i0.hdslb.com/bfs/bangumi/image/1036756776b9fbe29b2479b810859ea0a7c60812.png)
 
