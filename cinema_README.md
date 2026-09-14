@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 拾荒发现尸体，是巧合还是有预谋？
+![拾荒发现尸体，是巧合还是有预谋？](https://i0.hdslb.com/bfs/bangumi/image/04300b1502c833260875295d74fa1290643ef7a4.png)
+
+## 揭秘英格兰队的点球魔咒！
+![揭秘英格兰队的点球魔咒！](https://i0.hdslb.com/bfs/bangumi/image/289c185896791cdc6f42b3ef2657bd0b7b60920b.png)
+
+
 ## 中国救护
 ![中国救护](https://i0.hdslb.com/bfs/bangumi/image/a05821b09ead7401321ec84d3aa11f5e8d8462eb.png)
 
