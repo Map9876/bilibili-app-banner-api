@@ -1,6 +1,22 @@
 # Bilibili 影视 顶部海报
 
 ---
+## KPL系列团综丨天黑请闭眼！全员智斗
+![KPL系列团综丨天黑请闭眼！全员智斗](https://i0.hdslb.com/bfs/bangumi/image/3992797db651cb0fd6281df5ba1091f211a4cf9f.png)
+
+## 李佳薇携爆单《甲乙丙丁》真开麦打歌
+![李佳薇携爆单《甲乙丙丁》真开麦打歌](https://i0.hdslb.com/bfs/bangumi/image/3b83d73e490201cf2ad5362f1628ae9478c937b8.png)
+
+## 生命奇观2
+![生命奇观2](https://i0.hdslb.com/bfs/bangumi/image/ed7440dfd6e8c2e57362f9bc0e6312b0e128b615.png)
+
+## 跟着贝尔勇闯荒野
+![跟着贝尔勇闯荒野](https://i0.hdslb.com/bfs/bangumi/image/de5d3d4c36a3abd9792d356a7bf7223064acff4e.png)
+
+## 和兄弟反目成仇后血洗了他的老巢？
+![和兄弟反目成仇后血洗了他的老巢？](https://i0.hdslb.com/bfs/bangumi/image/d3a8869f7818e1d31ed8dc5f18a6307aba16ea63.png)
+
+
 ## 拾荒发现尸体，是巧合还是有预谋？
 ![拾荒发现尸体，是巧合还是有预谋？](https://i0.hdslb.com/bfs/bangumi/image/04300b1502c833260875295d74fa1290643ef7a4.png)
 
