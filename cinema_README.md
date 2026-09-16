@@ -1,6 +1,10 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 《长生契》即将开播，敬请期待！
+![《长生契》即将开播，敬请期待！](https://i0.hdslb.com/bfs/bangumi/image/40a1545c09f256a03369e42999d137b3c337f3fa.png)
+
+
 ## KPL系列团综丨天黑请闭眼！全员智斗
 ![KPL系列团综丨天黑请闭眼！全员智斗](https://i0.hdslb.com/bfs/bangumi/image/3992797db651cb0fd6281df5ba1091f211a4cf9f.png)
 
