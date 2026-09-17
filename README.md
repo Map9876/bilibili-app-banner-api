@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## Rewrite
+![Rewrite](https://i0.hdslb.com/bfs/bangumi/image/b8022f357d77fcc413f6e698952dce368b6289a2.png)
+
+
 ## 女神异闻录5
 ![女神异闻录5](https://i0.hdslb.com/bfs/bangumi/image/197777d1f0e3b6908953151f4e79c538b6a77d09.png)
 

@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 定档9月24日！方逸伦谢可寅千年之恋
+![定档9月24日！方逸伦谢可寅千年之恋](https://i0.hdslb.com/bfs/bangumi/image/abba1b6293cf87ccb7731cbfd60d72974db401f6.png)
+
+## 定档9月24日！方逸伦谢可寅千年之恋
+![定档9月24日！方逸伦谢可寅千年之恋](https://i0.hdslb.com/bfs/bangumi/image/abba1b6293cf87ccb7731cbfd60d72974db401f6.png)
+
+
 ## 《长生契》即将开播，敬请期待！
 ![《长生契》即将开播，敬请期待！](https://i0.hdslb.com/bfs/bangumi/image/40a1545c09f256a03369e42999d137b3c337f3fa.png)
 
