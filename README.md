@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 蝙蝠侠动画系列 第一季
+![蝙蝠侠动画系列 第一季](https://i0.hdslb.com/bfs/bangumi/image/9425fbae436d2ab7f03406d64e3ff3957657c7a0.png)
+
+## 星球大战：克隆人战争 第二季
+![星球大战：克隆人战争 第二季](https://i0.hdslb.com/bfs/bangumi/image/0974acc568b6003d5ed606665e6259f384b3c141.png)
+
+
 ## Rewrite
 ![Rewrite](https://i0.hdslb.com/bfs/bangumi/image/b8022f357d77fcc413f6e698952dce368b6289a2.png)
 
