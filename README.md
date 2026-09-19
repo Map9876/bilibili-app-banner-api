@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## ISLAND
+![ISLAND](https://i0.hdslb.com/bfs/bangumi/image/72a050183669bff9d7155dfc8c3a4a7dfb55cc7f.png)
+
+
 ## 蝙蝠侠动画系列 第一季
 ![蝙蝠侠动画系列 第一季](https://i0.hdslb.com/bfs/bangumi/image/9425fbae436d2ab7f03406d64e3ff3957657c7a0.png)
 

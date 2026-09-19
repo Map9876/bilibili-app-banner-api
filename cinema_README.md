@@ -1,6 +1,25 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 大神回归！王平仲挑战低成本大改造
+![大神回归！王平仲挑战低成本大改造](https://i0.hdslb.com/bfs/bangumi/image/ea0e7863a15f88ad381292215aafc8ae127135cc.png)
+
+## 爱上小美人鱼是你的福气！
+![爱上小美人鱼是你的福气！](https://i0.hdslb.com/bfs/bangumi/image/2747c7f6c715bd6273109fb8b0c21fb9a24cb36f.png)
+
+## 打歌燃现场，开麦见实力！
+![打歌燃现场，开麦见实力！](https://i0.hdslb.com/bfs/bangumi/image/3b83d73e490201cf2ad5362f1628ae9478c937b8.png)
+
+## 万万没想到，白客遭遇职场非升即走？
+![万万没想到，白客遭遇职场非升即走？](https://i0.hdslb.com/bfs/bangumi/image/f1520d890f22e9b7168b0efc21e597bd2d892ac4.png)
+
+## “地球的心脏”竟是真实存在的
+![“地球的心脏”竟是真实存在的](https://i0.hdslb.com/bfs/bangumi/image/ed7440dfd6e8c2e57362f9bc0e6312b0e128b615.png)
+
+## 9.24开播！永生CP千年情未了
+![9.24开播！永生CP千年情未了](https://i0.hdslb.com/bfs/bangumi/image/ae3b469c54b927e80f089e6846c5ab420a2592cb.png)
+
+
 ## 男子掐死女友后肢解抛尸>>
 ![男子掐死女友后肢解抛尸>>](https://i0.hdslb.com/bfs/bangumi/image/04300b1502c833260875295d74fa1290643ef7a4.png)
 
