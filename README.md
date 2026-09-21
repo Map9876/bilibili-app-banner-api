@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 魔法纪录 魔法少女小圆外传 第二季
+![魔法纪录 魔法少女小圆外传 第二季](https://i0.hdslb.com/bfs/bangumi/image/c4b7dac502bdda357a749da9107d919cd3d93192.png)
+
+## 小车队大救援：都市应急队
+![小车队大救援：都市应急队](https://i0.hdslb.com/bfs/bangumi/image/74156bee098fc83357e43ff74054718b934c5b3b.png)
+
+
 ## 亚托莉 -我挚爱的时光-
 ![亚托莉 -我挚爱的时光-](https://i0.hdslb.com/bfs/bangumi/image/5406dda85d6bfaa1eeaae4d87f33ff977630bae6.png)
 

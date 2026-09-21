@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 付辛博卓沅燃爆唱跳舞台PK
+![付辛博卓沅燃爆唱跳舞台PK](https://i0.hdslb.com/bfs/bangumi/image/3b83d73e490201cf2ad5362f1628ae9478c937b8.png)
+
+## 寻宝华林园，走进黄河古今故事
+![寻宝华林园，走进黄河古今故事](https://i0.hdslb.com/bfs/bangumi/image/1b2721e1dd710cd3e5415f3928daf4ad28fb6c7b.png)
+
+## 小说凶案照进现实？
+![小说凶案照进现实？](https://i0.hdslb.com/bfs/bangumi/image/021fdf3c341d2c475f9f74d50a01495a374b8653.png)
+
+
 ## 影视OST遇上国乐 一曲梦回名场面
 ![影视OST遇上国乐 一曲梦回名场面](https://i0.hdslb.com/bfs/bangumi/image/e7df7edaf28fd5f8ff8741d138ea01ae5a17bd28.png)
 
