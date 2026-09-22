@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 盖亚奥特曼
+![盖亚奥特曼](https://i0.hdslb.com/bfs/bangumi/image/d95001ef315ef7c317c4a2b05133ee58671675ac.png)
+
+
 ## 魔法纪录 魔法少女小圆外传 第二季
 ![魔法纪录 魔法少女小圆外传 第二季](https://i0.hdslb.com/bfs/bangumi/image/c4b7dac502bdda357a749da9107d919cd3d93192.png)
 

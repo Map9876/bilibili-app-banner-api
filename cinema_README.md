@@ -1,6 +1,10 @@
 # Bilibili 影视 顶部海报
 
 ---
+##  长白山终章 ID版雷霆报数？！
+![ 长白山终章 ID版雷霆报数？！](https://i0.hdslb.com/bfs/bangumi/image/c0ddb28561d87937865484ad05e2126c6e959311.png)
+
+
 ## 付辛博卓沅燃爆唱跳舞台PK
 ![付辛博卓沅燃爆唱跳舞台PK](https://i0.hdslb.com/bfs/bangumi/image/3b83d73e490201cf2ad5362f1628ae9478c937b8.png)
 
