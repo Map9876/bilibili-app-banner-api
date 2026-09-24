@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 谁能活着走出黑岛监狱？
+![谁能活着走出黑岛监狱？](https://i0.hdslb.com/bfs/bangumi/image/998f9a3fd3cc0508f89a4993b23d0f70756c0d4e.png)
+
+## 9.24开播！千年辗转赴一世情深
+![9.24开播！千年辗转赴一世情深](https://i0.hdslb.com/bfs/bangumi/image/40a1545c09f256a03369e42999d137b3c337f3fa.png)
+
+## 明星梦背后，竟是“吃人”深渊！
+![明星梦背后，竟是“吃人”深渊！](https://i0.hdslb.com/bfs/bangumi/image/4d92b3bb26c4d9e7e0397f6fdaa98f41a71efd88.png)
+
+
 ## 荒野求生全明细 第九季
 ![荒野求生全明细 第九季](https://i0.hdslb.com/bfs/bangumi/image/a7a3086a4b5eba7f8bfc206c17897fde9f976d85.png)
 

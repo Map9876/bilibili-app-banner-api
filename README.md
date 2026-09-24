@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 戴拿奥特曼
+![戴拿奥特曼](https://i0.hdslb.com/bfs/bangumi/image/03cb9f598302be960a1cc6989887572605fbafa8.png)
+
+
 ## 路人女主的养成方法
 ![路人女主的养成方法](https://i0.hdslb.com/bfs/bangumi/image/cf6e801bef78b2c7efe2cac12e17c1625221899f.png)
 
