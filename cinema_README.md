@@ -1,6 +1,31 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 阿汤哥这次又整了什么活？
+![阿汤哥这次又整了什么活？](https://i0.hdslb.com/bfs/bangumi/image/d7259c1b04d58d31ddc4def62ae96220caf65ba0.png)
+
+## 「琦逢对手」全新环节上线！
+![「琦逢对手」全新环节上线！](https://i0.hdslb.com/bfs/bangumi/image/07a845e93823efcde299247d0d09f896a000b63e.png)
+
+## 图上这只银河系大眼萌娃在哪领？
+![图上这只银河系大眼萌娃在哪领？](https://i0.hdslb.com/bfs/bangumi/image/a0f14ed958b957ba9188a0881940fd8b968e2654.png)
+
+## 重温极限挑战封神一期
+![重温极限挑战封神一期](https://i0.hdslb.com/bfs/bangumi/image/229e38000a72b4fa9c689568d5e9a874437783ff.png)
+
+## 改造一年半！长脖子房直接拆了重建？
+![改造一年半！长脖子房直接拆了重建？](https://i0.hdslb.com/bfs/bangumi/image/ea0e7863a15f88ad381292215aafc8ae127135cc.png)
+
+## 王栎鑫王一珩携新单曲开麦打歌
+![王栎鑫王一珩携新单曲开麦打歌](https://i0.hdslb.com/bfs/bangumi/image/3b83d73e490201cf2ad5362f1628ae9478c937b8.png)
+
+## 你说嘴巴嘟嘟～嘟嘟嘟嘟嘟～
+![你说嘴巴嘟嘟～嘟嘟嘟嘟嘟～](https://i0.hdslb.com/bfs/bangumi/image/bf8978ce5f3cdadad8e0e83cd15366724e53d89e.png)
+
+## 情敌现身！千年醋王强吻宣誓主权
+![情敌现身！千年醋王强吻宣誓主权](https://i0.hdslb.com/bfs/bangumi/image/37dfe145d3786c1e15d75b9fff887ae1d8239d6f.png)
+
+
 ## 年轻女司机接连被害！背后是何隐情？
 ![年轻女司机接连被害！背后是何隐情？](https://i0.hdslb.com/bfs/bangumi/image/03ad19b2ccebc447725652b7f4641469b516a1c1.png)
 

@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 鲁邦三世 第六季
+![鲁邦三世 第六季](https://i0.hdslb.com/bfs/bangumi/image/9802c75985f43da1cd8e1fcfb3d9820a81b1133e.png)
+
+## 请吃红小豆吧！第五季
+![请吃红小豆吧！第五季](https://i0.hdslb.com/bfs/bangumi/image/1036756776b9fbe29b2479b810859ea0a7c60812.png)
+
+
 ## 小车队大救援：自然护卫队
 ![小车队大救援：自然护卫队](https://i0.hdslb.com/bfs/bangumi/image/e4c91b014e762f0f235c000139b7468b56e49f1c.png)
 
