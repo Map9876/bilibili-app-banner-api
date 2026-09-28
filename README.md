@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 成龙历险记
+![成龙历险记](https://i0.hdslb.com/bfs/bangumi/image/50b14c194b03de6875444a707845346830fbe550.png)
+
+## 国产动画秋季导视
+![国产动画秋季导视](https://i0.hdslb.com/bfs/bangumi/image/72d9072edfbf1f9fa829b2f858384537a37311ea.png)
+
+
 ## 头文字D Fifth Stage
 ![头文字D Fifth Stage](https://i0.hdslb.com/bfs/bangumi/image/9fedb7dc031a4f102ccdfcdd2baafcceb685e4d5.png)
 

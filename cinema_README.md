@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 品牌突然“疯”起来？李佳琦大震撼
+![品牌突然“疯”起来？李佳琦大震撼](https://i0.hdslb.com/bfs/bangumi/image/ea3d08f42e8ef0b07dd0496849c32b65e606ec90.png)
+
+## 傅菁主演，凶宅试睡员闯入折叠时空
+![傅菁主演，凶宅试睡员闯入折叠时空](https://i0.hdslb.com/bfs/bangumi/image/1e79a90552c18de56d511985236b6d4519d72572.png)
+
+## 一夜旧情重燃，秋樾同枕爱意汹涌
+![一夜旧情重燃，秋樾同枕爱意汹涌](https://i0.hdslb.com/bfs/bangumi/image/412290bacccb1eabb711ed308a70d79383f89861.png)
+
+
 ## 极致烈爱！火中殉情换永生爱恨羁绊
 ![极致烈爱！火中殉情换永生爱恨羁绊](https://i0.hdslb.com/bfs/bangumi/image/bdc38ca029a93d2f72c975e837e8b1f05b865e56.png)
 
