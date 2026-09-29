@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 犬夜叉
+![犬夜叉](https://i0.hdslb.com/bfs/bangumi/image/6ea0622b8c4fe23623f89d2d700896a3cb6c6b0b.png)
+
+## 新巴巴爸爸 中文配音
+![新巴巴爸爸 中文配音](https://i0.hdslb.com/bfs/bangumi/image/a42da3c32244a403e68c0ed826ddaed5cacaf6d8.png)
+
+
 ## 成龙历险记
 ![成龙历险记](https://i0.hdslb.com/bfs/bangumi/image/50b14c194b03de6875444a707845346830fbe550.png)
 
