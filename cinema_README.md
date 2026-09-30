@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 喜人张弛新歌温柔献唱
+![喜人张弛新歌温柔献唱](https://i0.hdslb.com/bfs/bangumi/image/3b83d73e490201cf2ad5362f1628ae9478c937b8.png)
+
+## 美妆护肤新品是“翻车”or惊艳？
+![美妆护肤新品是“翻车”or惊艳？](https://i0.hdslb.com/bfs/bangumi/image/ea3d08f42e8ef0b07dd0496849c32b65e606ec90.png)
+
+## 求婚即永别！秋淮阴阳两隔意难平
+![求婚即永别！秋淮阴阳两隔意难平](https://i0.hdslb.com/bfs/bangumi/image/1f65bae55ba4fb40e7ddb3f7952db1fcde11f41d.png)
+
+## 七夕当夜，你衣锦归来，仍是少年模样。
+![七夕当夜，你衣锦归来，仍是少年模样。](https://i0.hdslb.com/bfs/bangumi/image/39368663be25a7f4f3712851fc8df1d56ca57ace.png)
+
+
 ## 人生三路口
 ![人生三路口](https://i0.hdslb.com/bfs/bangumi/image/af98e9bf37ad65769642a75cf71411659cd1e68a.png)
 
