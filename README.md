@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 十月动画种草激励计划
+![十月动画种草激励计划](https://i0.hdslb.com/bfs/bangumi/image/f905119a2d035653c3668c35946593db28d14120.png)
+
+
 ## 猫眼三姐妹
 ![猫眼三姐妹](https://i0.hdslb.com/bfs/bangumi/image/0b89b0ef3f448b982f62a05e019dcf309374ef92.png)
 

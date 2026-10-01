@@ -1,6 +1,22 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 2026海峡两岸中秋晚会完整回顾
+![2026海峡两岸中秋晚会完整回顾](https://i0.hdslb.com/bfs/bangumi/image/611ead42b0fafb108f0ff19248421dfc87f4b15b.png)
+
+## 人妖搭档，共赴奇妙探案之旅！
+![人妖搭档，共赴奇妙探案之旅！](https://i0.hdslb.com/bfs/bangumi/image/0f522db5393d2583c6a1377919599b5c8b15896a.png)
+
+## 做人得有情有义
+![做人得有情有义](https://i0.hdslb.com/bfs/bangumi/image/2cc5a3e2989ba990955aa88b490bee84f5a40976.png)
+
+## 追妻火葬场！方逸伦疯狂追爱谢可寅
+![追妻火葬场！方逸伦疯狂追爱谢可寅](https://i0.hdslb.com/bfs/bangumi/image/8b8873307d74fd2c6a913ff0408249a7562f4504.png)
+
+## 神仙新品扎堆登场！
+![神仙新品扎堆登场！](https://i0.hdslb.com/bfs/bangumi/image/ea3d08f42e8ef0b07dd0496849c32b65e606ec90.png)
+
+
 ## 喜人张弛新歌温柔献唱
 ![喜人张弛新歌温柔献唱](https://i0.hdslb.com/bfs/bangumi/image/3b83d73e490201cf2ad5362f1628ae9478c937b8.png)
 
