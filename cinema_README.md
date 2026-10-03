@@ -1,6 +1,28 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 黄仁俊袁一琦携新单曲开麦打歌
+![黄仁俊袁一琦携新单曲开麦打歌](https://i0.hdslb.com/bfs/bangumi/image/b954a3add373c388408f275722d237372120d489.png)
+
+## 吾夫木生，念你安康，好梦即已知足。
+![吾夫木生，念你安康，好梦即已知足。](https://i0.hdslb.com/bfs/bangumi/image/1860aa1966a2662449954fbecade503637ff530d.png)
+
+## 向爸妈“租”的房，改成省心之家
+![向爸妈“租”的房，改成省心之家](https://i0.hdslb.com/bfs/bangumi/image/ea0e7863a15f88ad381292215aafc8ae127135cc.png)
+
+## 宿命羁绊！千年痴恋三生轮回终错过
+![宿命羁绊！千年痴恋三生轮回终错过](https://i0.hdslb.com/bfs/bangumi/image/8b8873307d74fd2c6a913ff0408249a7562f4504.png)
+
+## 第五人格亚运会纪录片《演绎》
+![第五人格亚运会纪录片《演绎》](https://i0.hdslb.com/bfs/bangumi/image/efd20fbafc65805fe7df5d05842f6001aad61ea7.png)
+
+## 中国人不仅能飞，还能用功夫踢足球！
+![中国人不仅能飞，还能用功夫踢足球！](https://i0.hdslb.com/bfs/bangumi/image/17c210c40a95f08b1a6909dded9d950e3874e7d9.png)
+
+## 秋冬大件集结！谁能杀出价格重围？
+![秋冬大件集结！谁能杀出价格重围？](https://i0.hdslb.com/bfs/bangumi/image/ea3d08f42e8ef0b07dd0496849c32b65e606ec90.png)
+
+
 ## 我的霸总男友……是只猪？！
 ![我的霸总男友……是只猪？！](https://i0.hdslb.com/bfs/bangumi/image/4a5cd63a119697a34acf8fe1e686514f64692213.png)
 
