@@ -1,6 +1,25 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 这电影不仅烧脑，还“露骨”
+![这电影不仅烧脑，还“露骨”](https://i0.hdslb.com/bfs/bangumi/image/118117cc8dcad86047877a4881e8882a8c003322.png)
+
+## 勇敢狗狗！不怕困难！
+![勇敢狗狗！不怕困难！](https://i0.hdslb.com/bfs/bangumi/image/497f8219699d6442aa1bb2aac021215c7af6849d.png)
+
+## 江海万里，心中念你，便不觉遥远。
+![江海万里，心中念你，便不觉遥远。](https://i0.hdslb.com/bfs/bangumi/image/eb8fbb96b2d03eb0e850b2b7b0830ee96bbf3ffe.png)
+
+## 长生终结羁绊散，樾秋重爱赴余生
+![长生终结羁绊散，樾秋重爱赴余生](https://i0.hdslb.com/bfs/bangumi/image/4214680f045a6ace3e2e8de93af5e260b6c7af12.png)
+
+## 喻言符龙飞现场高燃打歌
+![喻言符龙飞现场高燃打歌](https://i0.hdslb.com/bfs/bangumi/image/b954a3add373c388408f275722d237372120d489.png)
+
+## 争分夺球之战，谁在疯狂上分？！
+![争分夺球之战，谁在疯狂上分？！](https://i0.hdslb.com/bfs/bangumi/image/86650ef03605144cf53c600357ef5b49a6856716.png)
+
+
 ## 青海篇开启！与高原孩童共度一天
 ![青海篇开启！与高原孩童共度一天](https://i0.hdslb.com/bfs/bangumi/image/4ac4e8370a2814f0a0923fb3c46cbac872dbad89.png)
 
