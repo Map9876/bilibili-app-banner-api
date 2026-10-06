@@ -1,6 +1,10 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 为了谁，你变成狼人模样？
+![为了谁，你变成狼人模样？](https://i0.hdslb.com/bfs/bangumi/image/bd7de93de3edb703c076cb148acf8bcdeca537ed.png)
+
+
 ## 这电影不仅烧脑，还“露骨”
 ![这电影不仅烧脑，还“露骨”](https://i0.hdslb.com/bfs/bangumi/image/118117cc8dcad86047877a4881e8882a8c003322.png)
 
