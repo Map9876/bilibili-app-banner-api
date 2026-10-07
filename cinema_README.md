@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 你最爱的化学科普纪录片开播！
+![你最爱的化学科普纪录片开播！](https://i0.hdslb.com/bfs/bangumi/image/b034774a9c9111bd45c6c4bcfda4f0dc39ee5be4.png)
+
+## 爱即成劫，宁长樾遇袭生死两隔
+![爱即成劫，宁长樾遇袭生死两隔](https://i0.hdslb.com/bfs/bangumi/image/8f6cf6cb9eef67a0770354c9e245292dfe21f74e.png)
+
+
 ## 为了谁，你变成狼人模样？
 ![为了谁，你变成狼人模样？](https://i0.hdslb.com/bfs/bangumi/image/bd7de93de3edb703c076cb148acf8bcdeca537ed.png)
 
