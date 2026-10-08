@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## Fate/Zero 第一季
+![Fate/Zero 第一季](https://i0.hdslb.com/bfs/bangumi/image/13dfc129e56a1c5a8f6bf5192170b8662903d8d1.png)
+
+
 ## 夏目友人帐 第七季
 ![夏目友人帐 第七季](https://i0.hdslb.com/bfs/bangumi/image/fed5e908ead2b6cfd7992d16cc4d1a46ebb3d61a.png)
 
