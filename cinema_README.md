@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 刷片赢小黄人投影仪！
+![刷片赢小黄人投影仪！](https://i0.hdslb.com/bfs/bangumi/image/0bfdcf7264f19199cffccb609c7dac7d040ac9ff.png)
+
+## 沪上68平奇葩异形房爆改！
+![沪上68平奇葩异形房爆改！](https://i0.hdslb.com/bfs/bangumi/image/f147c98cf9bbff752712397427979b75464a4483.png)
+
+## 千年宿命如锁，樾秋南秦旧梦难休
+![千年宿命如锁，樾秋南秦旧梦难休](https://i0.hdslb.com/bfs/bangumi/image/4e5d068b6d0b77eb1e78313a16fddfc1f60b3023.png)
+
+
 ## 黑纱赴婚，终局一眼似故人归
 ![黑纱赴婚，终局一眼似故人归](https://i0.hdslb.com/bfs/bangumi/image/5b15dd30cf839a0aad7cab3be655cc14fe4799a5.png)
 
