@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 一个理想主义帝王的幻灭
+![一个理想主义帝王的幻灭](https://i0.hdslb.com/bfs/bangumi/image/7f13c9a463e3bd219d5aef80394a7b0cb7636218.png)
+
+## 世界树之巅：荣光与落幕
+![世界树之巅：荣光与落幕](https://i0.hdslb.com/bfs/bangumi/image/03915a365ca5098c6547d88ab30af914e7bda7bf.png)
+
+## 出嫁的女儿，房间该不该留？
+![出嫁的女儿，房间该不该留？](https://i0.hdslb.com/bfs/bangumi/image/ea0e7863a15f88ad381292215aafc8ae127135cc.png)
+
+
 ## 刷片赢小黄人投影仪！
 ![刷片赢小黄人投影仪！](https://i0.hdslb.com/bfs/bangumi/image/0bfdcf7264f19199cffccb609c7dac7d040ac9ff.png)
 
