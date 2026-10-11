@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 佐藤教练，我想踢足球！
+![佐藤教练，我想踢足球！](https://i0.hdslb.com/bfs/bangumi/image/5db1e965fb14c561ef2c6aff6d1521b920bb440a.png)
+
+## 一同走进高原动物保育日常！
+![一同走进高原动物保育日常！](https://i0.hdslb.com/bfs/bangumi/image/f1de57661bd4de6a6a280275cebc51160626f63e.png)
+
+
 ## 一个理想主义帝王的幻灭
 ![一个理想主义帝王的幻灭](https://i0.hdslb.com/bfs/bangumi/image/7f13c9a463e3bd219d5aef80394a7b0cb7636218.png)
 
