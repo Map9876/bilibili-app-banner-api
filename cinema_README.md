@@ -1,6 +1,10 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 日版Doctor-X！大女主医疗爽剧
+![日版Doctor-X！大女主医疗爽剧](https://i0.hdslb.com/bfs/bangumi/image/16e3cf1194315c13da3939d9d472f6662792c092.png)
+
+
 ## 大理石厅真相揭秘
 ![大理石厅真相揭秘](https://i0.hdslb.com/bfs/bangumi/image/021fdf3c341d2c475f9f74d50a01495a374b8653.png)
 
