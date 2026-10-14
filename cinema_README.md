@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 为什么总说“遇事不决量子力学”？
+![为什么总说“遇事不决量子力学”？](https://i0.hdslb.com/bfs/bangumi/image/b034774a9c9111bd45c6c4bcfda4f0dc39ee5be4.png)
+
+## 瑞士医院也这样吗？护理人共鸣了！
+![瑞士医院也这样吗？护理人共鸣了！](https://i0.hdslb.com/bfs/bangumi/image/957b60831b90230b739c9b3256b64892b97238a1.png)
+
+## 恭喜新垣结衣和星野源宝宝诞生~！
+![恭喜新垣结衣和星野源宝宝诞生~！](https://i0.hdslb.com/bfs/bangumi/image/b5275333892ae222ddff1ea347e1e8ab94601689.png)
+
+
 ## 日版Doctor-X！大女主医疗爽剧
 ![日版Doctor-X！大女主医疗爽剧](https://i0.hdslb.com/bfs/bangumi/image/16e3cf1194315c13da3939d9d472f6662792c092.png)
 
