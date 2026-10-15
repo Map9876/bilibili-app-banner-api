@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 这个勇者明明超强却过分慎重
+![这个勇者明明超强却过分慎重](https://i0.hdslb.com/bfs/bangumi/image/96e8d3cbc0111693441861c8aff41a194c9dbc88.png)
+
+
 ## 催眠麦克风
 ![催眠麦克风](https://i0.hdslb.com/bfs/bangumi/image/a1e382a540d55285fed9b8a1bccd8a4366fb0490.png)
 

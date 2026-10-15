@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 爷青回！极挑第五季上线来重温快乐吧！
+![爷青回！极挑第五季上线来重温快乐吧！](https://i0.hdslb.com/bfs/bangumi/image/27e34937b33d0bcefacdc6ca131f279b312fcbc7.png)
+
+## 为救女儿，退伍老兵硬刚邪教！
+![为救女儿，退伍老兵硬刚邪教！](https://i0.hdslb.com/bfs/bangumi/image/2336f1fb7e730a5d09a73042873664fca62bbe35.png)
+
+
 ## 为什么总说“遇事不决量子力学”？
 ![为什么总说“遇事不决量子力学”？](https://i0.hdslb.com/bfs/bangumi/image/b034774a9c9111bd45c6c4bcfda4f0dc39ee5be4.png)
 
