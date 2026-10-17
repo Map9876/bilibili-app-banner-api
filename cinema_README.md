@@ -1,6 +1,25 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 唐国强再现“厚颜无耻之人”名场面
+![唐国强再现“厚颜无耻之人”名场面](https://i0.hdslb.com/bfs/bangumi/image/1012ecb0a0bae8d3d4f35005d844eadc5968d172.png)
+
+## 威尔史密斯的极地纵横
+![威尔史密斯的极地纵横](https://i0.hdslb.com/bfs/bangumi/image/794c6009331fb44eac15095c6ab8ba037cea7919.png)
+
+## 实力开麦！希林娜依·高带来全新单曲！
+![实力开麦！希林娜依·高带来全新单曲！](https://i0.hdslb.com/bfs/bangumi/image/7c6ea34812e53b1b4a9a75c4837eb11549b10197.png)
+
+## 人生七年全系列
+![人生七年全系列](https://i0.hdslb.com/bfs/bangumi/image/2ecf6f8d2005c74e3798cf343608a3c1e8046037.png)
+
+## 倒计时2天抽门票！跨晚录制等你来
+![倒计时2天抽门票！跨晚录制等你来](https://i0.hdslb.com/bfs/bangumi/image/b4305917732bf90870553a54cc0f7879feea4c8a.png)
+
+## 先发五虎
+![先发五虎](https://i0.hdslb.com/bfs/bangumi/image/244bde5fa4cd570e2f90b59897758fb223cea518.png)
+
+
 ## 马上看中国史
 ![马上看中国史](https://i0.hdslb.com/bfs/bangumi/image/66047f104a757150e918c994954ff078f36794b5.png)
 

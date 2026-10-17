@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 我，要成为双马尾。
+![我，要成为双马尾。](https://i0.hdslb.com/bfs/bangumi/image/0835e2c67d7cdedbcd4bacb712312000dfa74fc5.png)
+
+## 给孩子的上下五千年 先秦篇
+![给孩子的上下五千年 先秦篇](https://i0.hdslb.com/bfs/bangumi/image/f6166a24874a571dba6f08750bb1e9162b0c180c.png)
+
+
 ## 喜欢本大爷的竟然就你一个？
 ![喜欢本大爷的竟然就你一个？](https://i0.hdslb.com/bfs/bangumi/image/305046822e7706158e2eb15065c93893c48ee82b.png)
 
