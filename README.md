@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 地。-关于地球的运动-
+![地。-关于地球的运动-](https://i0.hdslb.com/bfs/bangumi/image/e87e71afed36e56ee837265f3f81bfb0fa47cc9c.png)
+
+## 银河英雄传说：全新命题 策谋
+![银河英雄传说：全新命题 策谋](https://i0.hdslb.com/bfs/bangumi/image/9c6b2a47149188e6ff33371ec1ec30f2f132d9ba.png)
+
+
 
 
 ## 我，要成为双马尾。

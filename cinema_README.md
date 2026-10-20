@@ -1,6 +1,25 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 大会员专属 报名跨晚录制通道开启啦~
+![大会员专属 报名跨晚录制通道开启啦~](https://i0.hdslb.com/bfs/bangumi/image/b4305917732bf90870553a54cc0f7879feea4c8a.png)
+
+##                   
+![                  ](https://i0.hdslb.com/bfs/bangumi/image/28fafbe914a26342ad4ac6cbd7613a4d9a0703b4.png)
+
+## 胡闹巴黎上新！弹脑壳爆笑不断
+![胡闹巴黎上新！弹脑壳爆笑不断](https://i0.hdslb.com/bfs/bangumi/image/8bdbbbcd00cace46acb68b949ae61436e6f37b7d.png)
+
+## 贝尔的求生教室
+![贝尔的求生教室](https://i0.hdslb.com/bfs/bangumi/image/6dd9a05704746ee96574f1ec4aa8983acccf5c40.png)
+
+## 高燃现场！姚弛Yamy现场打歌
+![高燃现场！姚弛Yamy现场打歌](https://i0.hdslb.com/bfs/bangumi/image/7c6ea34812e53b1b4a9a75c4837eb11549b10197.png)
+
+## 黑白无常现世，搅动长安风云？
+![黑白无常现世，搅动长安风云？](https://i0.hdslb.com/bfs/bangumi/image/7f741624ceb78a6ce7de7785c8997c4ed12af5e5.png)
+
+
 
 ## 演绎
 ![演绎](https://i0.hdslb.com/bfs/bangumi/image/174d7ef3b3768acd98766313d1e2db27391bd2b4.png)
