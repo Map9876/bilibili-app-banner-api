@@ -1,6 +1,22 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 跨年晚会录制现场观众招募中！
+![跨年晚会录制现场观众招募中！](https://i0.hdslb.com/bfs/bangumi/image/b4305917732bf90870553a54cc0f7879feea4c8a.png)
+
+## 为什么他能成为时尚界的凯撒大帝？
+![为什么他能成为时尚界的凯撒大帝？](https://i0.hdslb.com/bfs/bangumi/image/e95ad71873617f641e3284b1183b70a3d568aab4.png)
+
+## 【邪修化学】当我把元素表拟人化...
+![【邪修化学】当我把元素表拟人化...](https://i0.hdslb.com/bfs/bangumi/image/b034774a9c9111bd45c6c4bcfda4f0dc39ee5be4.png)
+
+## 一路前行3
+![一路前行3](https://i0.hdslb.com/bfs/bangumi/image/a329a3c583cc1eeb0cb9000cdae9d08bf35b280b.png)
+
+## 先发五虎第一季
+![先发五虎第一季](https://i0.hdslb.com/bfs/bangumi/image/244bde5fa4cd570e2f90b59897758fb223cea518.png)
+
+
 ## 大会员专属 报名跨晚录制通道开启啦~
 ![大会员专属 报名跨晚录制通道开启啦~](https://i0.hdslb.com/bfs/bangumi/image/b4305917732bf90870553a54cc0f7879feea4c8a.png)
 
