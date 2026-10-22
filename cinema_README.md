@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 重温爆笑与感动｜极限挑战第六季
+![重温爆笑与感动｜极限挑战第六季](https://i0.hdslb.com/bfs/bangumi/image/b77e176d769284891dc0c55078306c66aea60997.png)
+
+## 祝您大成功！骰子已掷，爆笑开团！
+![祝您大成功！骰子已掷，爆笑开团！](https://i0.hdslb.com/bfs/bangumi/image/c2cfe26dc5a70b8ae567884f321d45443cfc4b90.png)
+
+## 特种兵上演“自卫式”复仇
+![特种兵上演“自卫式”复仇](https://i0.hdslb.com/bfs/bangumi/image/691af8bd81a42fae9afd862861012677194ee70a.png)
+
+## 于谦X梁家辉，老戏骨上演正邪对决！
+![于谦X梁家辉，老戏骨上演正邪对决！](https://i0.hdslb.com/bfs/bangumi/image/1f66ed883fcb48889e6ee5042566253a3ac461c3.png)
+
+
 ## 跨年晚会录制现场观众招募中！
 ![跨年晚会录制现场观众招募中！](https://i0.hdslb.com/bfs/bangumi/image/b4305917732bf90870553a54cc0f7879feea4c8a.png)
 
