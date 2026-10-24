@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 胡夏李晟携神仙单曲现场PK
+![胡夏李晟携神仙单曲现场PK](https://i0.hdslb.com/bfs/bangumi/image/7c6ea34812e53b1b4a9a75c4837eb11549b10197.png)
+
+## 要么出人头地，要么人头落地！
+![要么出人头地，要么人头落地！](https://i0.hdslb.com/bfs/bangumi/image/145446dde46b24ad66e4ecaf1cfe5e82bfbc10d7.png)
+
+
 ## 马上看中国史 第3集
 ![马上看中国史 第3集](https://i0.hdslb.com/bfs/bangumi/image/66047f104a757150e918c994954ff078f36794b5.png)
 
