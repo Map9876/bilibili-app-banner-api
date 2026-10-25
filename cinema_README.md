@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## IDF2026
+![IDF2026](https://i0.hdslb.com/bfs/bangumi/image/17aec2a7658648a7cc6c67cb3e0acd4962107c0b.png)
+
+## 雨幕里的歌舞，人生的极致体验
+![雨幕里的歌舞，人生的极致体验](https://i0.hdslb.com/bfs/bangumi/image/f1de57661bd4de6a6a280275cebc51160626f63e.png)
+
+## 一路前行 第3季
+![一路前行 第3季](https://i0.hdslb.com/bfs/bangumi/image/a329a3c583cc1eeb0cb9000cdae9d08bf35b280b.png)
+
+## 朱一龙X卫诗雅，雌雄大盗搅动风云
+![朱一龙X卫诗雅，雌雄大盗搅动风云](https://i0.hdslb.com/bfs/bangumi/image/145446dde46b24ad66e4ecaf1cfe5e82bfbc10d7.png)
+
+
 ## 胡夏李晟携神仙单曲现场PK
 ![胡夏李晟携神仙单曲现场PK](https://i0.hdslb.com/bfs/bangumi/image/7c6ea34812e53b1b4a9a75c4837eb11549b10197.png)
 
