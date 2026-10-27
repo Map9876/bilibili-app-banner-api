@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 一猪一象意外开启全球冒险
+![一猪一象意外开启全球冒险](https://i0.hdslb.com/bfs/bangumi/image/ef42a8c466c5cc5b1012f66cb26627483303a1ca.png)
+
+## KPL系列团综｜老亚瑟王传奇收官之战
+![KPL系列团综｜老亚瑟王传奇收官之战](https://i0.hdslb.com/bfs/bangumi/image/ef84f8466135b219ab3083c04d9e99da954924c8.png)
+
+## A2O女团强势登场 燃炸打歌舞台
+![A2O女团强势登场 燃炸打歌舞台](https://i0.hdslb.com/bfs/bangumi/image/7c6ea34812e53b1b4a9a75c4837eb11549b10197.png)
+
+## 城市boy的雨林48小时
+![城市boy的雨林48小时](https://i0.hdslb.com/bfs/bangumi/image/6dd9a05704746ee96574f1ec4aa8983acccf5c40.png)
+
+
 
 ## IDF2026
 ![IDF2026](https://i0.hdslb.com/bfs/bangumi/image/17aec2a7658648a7cc6c67cb3e0acd4962107c0b.png)
