@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 宝石之国
+![宝石之国](https://i0.hdslb.com/bfs/bangumi/image/dbe8ef7d0fe0376f195a4ff8b2b6c9398b50f78a.png)
+
+
 ## 罪恶王冠
 ![罪恶王冠](https://i0.hdslb.com/bfs/bangumi/image/01ea4715a1c6c52172e1f4e750cb6ed8f5573c5b.png)
 

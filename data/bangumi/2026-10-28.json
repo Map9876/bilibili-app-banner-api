@@ -1,0 +1,3887 @@
+{
+  "code": 0,
+  "data": {
+    "has_next": 1,
+    "modules": [
+      {
+        "id": 2015,
+        "module_data": {
+          "items": [
+            {
+              "banner_mod_resource": {},
+              "bg_img": "https://i0.hdslb.com/bfs/bangumi/image/7f13023d47cd907ba7b8568f682266f9dfc3830e.png",
+              "cover": "https://i0.hdslb.com/bfs/bangumi/image/16c9fb968288e7f6ea71f58521a97ad2e0272b53.png",
+              "item_type": "focus_img",
+              "oid": 10000000001929224,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "dynamic_type": "none",
+                "index": "1",
+                "material_no": "10000000001929223",
+                "module_area": "content",
+                "module_id": "2015",
+                "ogv_session_id": "c6e2d4b3-1135-4f3f-b23a-c2e4a15a41d1",
+                "oid": "10000000001929223",
+                "page_id": "185",
+                "season_id": "45969",
+                "season_type": "4"
+              },
+              "season_id": 45969,
+              "season_type": 4,
+              "sub_title": "第106集 道剑十四篇",
+              "title": "牧神记",
+              "url": "https://www.bilibili.com/bangumi/play/ep6613852?from_spmid=pgc.bangumi-tab.banner.0"
+            },
+            {
+              "banner_mod_resource": {},
+              "bg_img": "https://i0.hdslb.com/bfs/bangumi/image/a23ff5e995a660bf23068aec7d38673635391045.png",
+              "cover": "https://i0.hdslb.com/bfs/bangumi/image/dbe8ef7d0fe0376f195a4ff8b2b6c9398b50f78a.png",
+              "item_type": "focus_img",
+              "oid": 10000000001932300,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "dynamic_type": "none",
+                "index": "2",
+                "material_no": "10000000001932301",
+                "module_area": "content",
+                "module_id": "2015",
+                "ogv_session_id": "19c2a768-52b0-42df-a1fe-da4f92cc2dbc",
+                "oid": "10000000001932301",
+                "page_id": "185",
+                "season_id": "6434",
+                "season_type": ""
+              },
+              "season_id": 6434,
+              "sub_title": "宝石成精会发生什么",
+              "title": "宝石之国",
+              "url": "https://www.bilibili.com/bangumi/play/ss6434?from_spmid=pgc.bangumi-tab.banner.0"
+            },
+            {
+              "banner_mod_resource": {},
+              "bg_img": "https://i0.hdslb.com/bfs/bangumi/image/15987daad6fd0a455191eebb0889b8891f5b9787.png",
+              "cover": "https://i0.hdslb.com/bfs/bangumi/image/2ce831376dd54e9884057f9edfafcf280c39ad8c.png",
+              "item_type": "focus_img",
+              "oid": 10000000001929236,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "dynamic_type": "none",
+                "index": "3",
+                "material_no": "10000000001929237",
+                "module_area": "content",
+                "module_id": "2015",
+                "ogv_session_id": "abdf3154-baa8-4f0d-8890-ec5752e002de",
+                "oid": "10000000001929237",
+                "page_id": "185",
+                "season_id": "264970",
+                "season_type": "4"
+              },
+              "season_id": 264970,
+              "season_type": 4,
+              "sub_title": "第13集 杀狼",
+              "title": "财神窦占龙",
+              "url": "https://www.bilibili.com/bangumi/play/ep4883714?from_spmid=pgc.bangumi-tab.banner.0"
+            },
+            {
+              "banner_mod_resource": {},
+              "bg_img": "https://i0.hdslb.com/bfs/bangumi/image/e2a595af8f07b97e237b12004e9f6497295d3501.jpg",
+              "cover": "https://i0.hdslb.com/bfs/bangumi/image/8bfaf9d5bf7763bb2087c5b008f505ea466209bd.png",
+              "item_type": "focus_img",
+              "oid": 10000000001929202,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "dynamic_type": "none",
+                "index": "4",
+                "material_no": "10000000001929202",
+                "module_area": "content",
+                "module_id": "2015",
+                "ogv_session_id": "1e1f31fd-eeee-4df5-8165-3ec00ffce0bb",
+                "oid": "10000000001929202",
+                "page_id": "185",
+                "season_id": "28747",
+                "season_type": "4"
+              },
+              "season_id": 28747,
+              "season_type": 4,
+              "sub_title": "第197集 慕兰之战21",
+              "title": "凡人修仙传",
+              "url": "https://www.bilibili.com/bangumi/play/ep3854821?from_spmid=pgc.bangumi-tab.banner.0"
+            },
+            {
+              "banner_mod_resource": {},
+              "bg_img": "https://i0.hdslb.com/bfs/bangumi/image/ba29d8443536576c9defcaed10872f7009e70fb9.png",
+              "cover": "https://i0.hdslb.com/bfs/bangumi/image/01ea4715a1c6c52172e1f4e750cb6ed8f5573c5b.png",
+              "item_type": "focus_img",
+              "oid": 10000000001931574,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "dynamic_type": "none",
+                "index": "5",
+                "material_no": "10000000001931574",
+                "module_area": "content",
+                "module_id": "2015",
+                "ogv_session_id": "14569c48-f87a-44de-8ba4-47fe8098333b",
+                "oid": "10000000001931574",
+                "page_id": "185",
+                "season_id": "1588",
+                "season_type": ""
+              },
+              "season_id": 1588,
+              "sub_title": "吸引众多人入宅的经典动画",
+              "title": "罪恶王冠",
+              "url": "https://www.bilibili.com/bangumi/play/ss1588?from_spmid=pgc.bangumi-tab.banner.0"
+            },
+            {
+              "banner_mod_resource": {},
+              "bg_img": "https://i0.hdslb.com/bfs/bangumi/image/304c83421daa197b79d46d0a432fe53184fe1d00.png",
+              "cover": "https://i0.hdslb.com/bfs/bangumi/image/f905119a2d035653c3668c35946593db28d14120.png",
+              "item_type": "focus_img",
+              "oid": 10000000001894930,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "dynamic_type": "none",
+                "index": "6",
+                "material_no": "10000000001894930",
+                "module_area": "content",
+                "module_id": "2015",
+                "ogv_session_id": "11946b6c-bfce-4ea1-ab0b-36ec8bc6b846",
+                "oid": "10000000001894930",
+                "page_id": "185",
+                "season_id": "",
+                "season_type": ""
+              },
+              "sub_title": "投稿安利动画，解锁现金好礼！",
+              "title": "十月动画种草激励计划",
+              "url": "https://www.bilibili.com/blackboard/era/u40Vfs4dWoSB0grP.html?from_spmid=pgc.bangumi-tab.banner.0"
+            },
+            {
+              "banner_mod_resource": {},
+              "bg_img": "https://i0.hdslb.com/bfs/bangumi/image/21127198016f94cfd8061c83ba930cd7988e7db8.png",
+              "cover": "https://i0.hdslb.com/bfs/bangumi/image/9f5a7a67c9ba87b01e010690ede3dfbd141eadb1.png",
+              "item_type": "focus_img",
+              "oid": 10000000001932290,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "dynamic_type": "none",
+                "index": "7",
+                "material_no": "10000000001932290",
+                "module_area": "content",
+                "module_id": "2015",
+                "ogv_session_id": "e512e69b-547a-4c83-82be-ecca48bb0ea8",
+                "oid": "10000000001932290",
+                "page_id": "185",
+                "season_id": "262397",
+                "season_type": "4"
+              },
+              "season_id": 262397,
+              "season_type": 4,
+              "sub_title": "第16集 他等的人竟是？",
+              "title": "李熊猫",
+              "url": "https://www.bilibili.com/bangumi/play/ep4809967?from_spmid=pgc.bangumi-tab.banner.0"
+            },
+            {
+              "banner_mod_resource": {},
+              "bg_img": "https://i0.hdslb.com/bfs/bangumi/image/189b6635366ba3ebf7c764231e60572163a5f828.png",
+              "cover": "https://i0.hdslb.com/bfs/bangumi/image/00345e9e5aa4018f91fa5874b926b27e851e3913.png",
+              "item_type": "focus_img",
+              "oid": 10000000001929194,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "dynamic_type": "none",
+                "index": "8",
+                "material_no": "10000000001929194",
+                "module_area": "content",
+                "module_id": "2015",
+                "ogv_session_id": "00a73bd3-6370-45b1-9fe5-63504917762d",
+                "oid": "10000000001929194",
+                "page_id": "185",
+                "season_id": "34412",
+                "season_type": ""
+              },
+              "season_id": 34412,
+              "sub_title": "和魔女一起踏上旅途吧",
+              "title": "魔女之旅",
+              "url": "https://www.bilibili.com/bangumi/play/ss34412?from_spmid=pgc.bangumi-tab.banner.0"
+            },
+            {
+              "banner_mod_resource": {},
+              "bg_img": "https://i0.hdslb.com/bfs/bangumi/image/0212c6aa326e2871d39b9a4dda61e509094d0e76.png",
+              "cover": "https://i0.hdslb.com/bfs/bangumi/image/197029b00dee508d25016aae74bc9c3ce2b81735.png",
+              "item_type": "focus_img",
+              "oid": 10000000001929180,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "dynamic_type": "none",
+                "index": "9",
+                "material_no": "10000000001929181",
+                "module_area": "content",
+                "module_id": "2015",
+                "ogv_session_id": "883c2f25-1437-4aa9-9e0e-dbd095e24904",
+                "oid": "10000000001929181",
+                "page_id": "185",
+                "season_id": "336505",
+                "season_type": ""
+              },
+              "season_id": 336505,
+              "sub_title": "用神奇手表变身外星人拯救世界",
+              "title": "少年骇客 第四季",
+              "url": "https://www.bilibili.com/bangumi/play/ss336505?from_spmid=pgc.bangumi-tab.banner.0"
+            },
+            {
+              "banner_mod_resource": {},
+              "bg_img": "https://i0.hdslb.com/bfs/bangumi/image/61298276c0def21e670d85b3ddf4a133fc1f864e.png",
+              "cover": "https://i0.hdslb.com/bfs/bangumi/image/5832c0c3ea9e4d44b3c951a560ee034f960925c1.png",
+              "item_type": "focus_img",
+              "oid": 10000000001929192,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "dynamic_type": "none",
+                "index": "10",
+                "material_no": "10000000001929191",
+                "module_area": "content",
+                "module_id": "2015",
+                "ogv_session_id": "12d9ed38-ef9f-4403-a3b9-7a2a961226fc",
+                "oid": "10000000001929191",
+                "page_id": "185",
+                "season_id": "34432",
+                "season_type": ""
+              },
+              "season_id": 34432,
+              "sub_title": "龙和魔女，都是存在的！",
+              "title": "龙与魔女",
+              "url": "https://www.bilibili.com/bangumi/play/ss34432?from_spmid=pgc.bangumi-tab.banner.0"
+            },
+            {
+              "banner_mod_resource": {},
+              "bg_img": "https://i0.hdslb.com/bfs/bangumi/image/4ed0b0cce7c7906942fa8927d2a7ea8336073d2a.jpg",
+              "item_type": "focus_img",
+              "oid": 10000000001927180,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "dynamic_type": "none",
+                "index": "11",
+                "material_no": "10000000001927179",
+                "module_area": "content",
+                "module_id": "2015",
+                "ogv_session_id": "fd0a6804-af56-41ee-ad36-8f5e94273d32",
+                "oid": "10000000001927179",
+                "page_id": "185",
+                "season_id": "332588",
+                "season_type": ""
+              },
+              "season_id": 332588,
+              "sub_title": " ",
+              "title": " ",
+              "url": "https://www.bilibili.com/bangumi/play/ss332588?from_spmid=pgc.bangumi-tab.banner.0"
+            }
+          ],
+          "sub_title": ""
+        },
+        "report": {
+          "action_id": "",
+          "module_area": "module",
+          "module_id": "2015",
+          "module_type": "banner",
+          "ogv_session_id": "6c2eee97-f9ff-4e0c-91c8-48983ca7a417"
+        },
+        "title": "banner（12帧）",
+        "type": "BANNER"
+      },
+      {
+        "id": 1986,
+        "module_data": {
+          "items": [
+            {
+              "oid": 10000000000205582,
+              "report": {
+                "action_id": "",
+                "index": "1",
+                "material_no": "10000000000205582",
+                "module_area": "content",
+                "module_id": "1986",
+                "ogv_session_id": "cbf60279-1ce8-4a42-a896-c72b806bbdd7"
+              },
+              "title": "找番看",
+              "url": "bilibili://pgc/bangumi/index?from_spmid=pgc.bangumi-tab.jingang.10000000000205582"
+            },
+            {
+              "oid": 10000000000205584,
+              "report": {
+                "action_id": "",
+                "index": "2",
+                "material_no": "10000000000205585",
+                "module_area": "content",
+                "module_id": "1986",
+                "ogv_session_id": "696b3f3b-069a-498e-a5af-4fd510c68a88"
+              },
+              "title": "时间表",
+              "url": "bilibili://pgc/timeline?from_spmid=pgc.bangumi-tab.jingang.10000000000205585"
+            },
+            {
+              "oid": 10000000000205584,
+              "report": {
+                "action_id": "",
+                "index": "3",
+                "material_no": "10000000000205583",
+                "module_area": "content",
+                "module_id": "1986",
+                "ogv_session_id": "b45d6194-400b-4aa2-ace9-7de1f5b3d851"
+              },
+              "title": "番剧",
+              "url": "bilibili://pgc/partition_page_v2?select_id=88&page_name=bangumi-operation&title=%E7%95%AA%E5%89%A7&from_spmid=pgc.bangumi-tab.jingang.10000000000205583"
+            },
+            {
+              "oid": 10000000000205584,
+              "report": {
+                "action_id": "",
+                "index": "4",
+                "material_no": "10000000000205584",
+                "module_area": "content",
+                "module_id": "1986",
+                "ogv_session_id": "a05b4a4d-4631-4c71-9123-202d21388802"
+              },
+              "title": "国创",
+              "url": "bilibili://pgc/partition_page_v2?select_id=89&page_name=gc-operation&title=%E5%9B%BD%E5%88%9B&from_spmid=pgc.bangumi-tab.jingang.10000000000205584"
+            },
+            {
+              "oid": 10000000001695448,
+              "report": {
+                "action_id": "",
+                "index": "5",
+                "material_no": "10000000001695449",
+                "module_area": "content",
+                "module_id": "1986",
+                "ogv_session_id": "42c4b430-890c-45fd-b1b8-b89bef66e259"
+              },
+              "title": "UP动画",
+              "url": "https://m.bilibili.com/bangumi/channel/aianimation?navhide=1&showcustomnav=1&from_spmid=pgc.bangumi-tab.jingang.10000000001695449"
+            },
+            {
+              "oid": 10000000001610676,
+              "report": {
+                "action_id": "",
+                "index": "6",
+                "material_no": "10000000001610677",
+                "module_area": "content",
+                "module_id": "1986",
+                "ogv_session_id": "763a9527-6cc6-4f4a-b814-3773cb1a3a6f"
+              },
+              "title": "少儿",
+              "url": "https://www.bilibili.com/blackboard/era/ol8X0TBaFSD1pZeV.html?from_spmid=pgc.bangumi-tab.jingang.10000000001610677"
+            },
+            {
+              "oid": 10000000001875274,
+              "report": {
+                "action_id": "",
+                "index": "7",
+                "material_no": "10000000001875274",
+                "module_area": "content",
+                "module_id": "1986",
+                "ogv_session_id": "999c38ff-36ca-4c0d-88ef-6996da35d9ea"
+              },
+              "title": "动画种草",
+              "url": "https://www.bilibili.com/blackboard/era/u40Vfs4dWoSB0grP.html?from_spmid=pgc.bangumi-tab.jingang.10000000001875274"
+            }
+          ],
+          "sub_title": ""
+        },
+        "report": {
+          "action_id": "",
+          "module_area": "module",
+          "module_id": "1986",
+          "module_type": "function_text",
+          "ogv_session_id": "502e99ec-66ba-4db4-9d2b-4c78b30a3abb"
+        },
+        "title": "金刚位（新版）",
+        "type": "FUNCTION_TEXT"
+      },
+      {
+        "id": 1962,
+        "module_data": {
+          "headers": [
+            {
+              "title": "更多榜单",
+              "url": "bilibili://pgc/new_rank_list_page?index_id=101&rank_id=118&from_spmid=pgc.bangumi-tab.hot-ranklist.0"
+            }
+          ],
+          "items": [
+            {
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "1",
+                "module_area": "content",
+                "module_id": "1962",
+                "ogv_session_id": "5d051fcd-75af-4e16-bdd7-c3f3cab337a9",
+                "oid": "",
+                "rank_id": "118",
+                "season_id": "",
+                "tab_type": "1"
+              },
+              "sub_items": [
+                {
+                  "cover": "http://i0.hdslb.com/bfs/bangumi/image/38e2a273f528fd01c34f1fc4df0f69c64487efad.png",
+                  "mask_img": "https://i0.hdslb.com/bfs/bangumi/image/c30b41907e4f672bf1882400a0ddc49d4e420827.png",
+                  "new_ep": {
+                    "index_show": "更新至1277话"
+                  },
+                  "oid": 33415,
+                  "report": {
+                    "action_id": "",
+                    "content_type": "0",
+                    "index": "1",
+                    "module_area": "content",
+                    "module_id": "1962",
+                    "ogv_session_id": "4b64056e-8545-48cc-aff0-000d69cfe1f5",
+                    "oid": "33415",
+                    "rank_id": "118",
+                    "season_id": "33415",
+                    "tab_type": "1"
+                  },
+                  "season_id": 33415,
+                  "season_type": 1,
+                  "sub_title": "小学生的侦探生活",
+                  "title": "名侦探柯南（中配）",
+                  "type": "PGC",
+                  "url": "https://www.bilibili.com/bangumi/play/ss33415?from_spmid=pgc.bangumi-tab.hot-ranklist.0"
+                },
+                {
+                  "cover": "http://i0.hdslb.com/bfs/bangumi/image/38e2a273f528fd01c34f1fc4df0f69c64487efad.png",
+                  "mask_img": "https://i0.hdslb.com/bfs/bangumi/image/b74b4fb243291d48598a07f0c4c04147a1757c24.png",
+                  "new_ep": {
+                    "index_show": "更新至1277话"
+                  },
+                  "oid": 33378,
+                  "report": {
+                    "action_id": "",
+                    "content_type": "0",
+                    "index": "2",
+                    "module_area": "content",
+                    "module_id": "1962",
+                    "ogv_session_id": "bd5e2457-5a67-4f93-8dda-75beabce881c",
+                    "oid": "33378",
+                    "rank_id": "118",
+                    "season_id": "33378",
+                    "tab_type": "1"
+                  },
+                  "season_id": 33378,
+                  "season_type": 1,
+                  "sub_title": "真相永远只有一个",
+                  "title": "名侦探柯南",
+                  "type": "PGC",
+                  "url": "https://www.bilibili.com/bangumi/play/ss33378?from_spmid=pgc.bangumi-tab.hot-ranklist.1"
+                },
+                {
+                  "cover": "https://i0.hdslb.com/bfs/bangumi/image/2f316f95787450b989c2d98a45d535c5b873d161.png",
+                  "mask_img": "https://i0.hdslb.com/bfs/bangumi/image/3904224681581242696b57dde7ef54b0acc99ec5.png",
+                  "new_ep": {
+                    "index_show": "全13话"
+                  },
+                  "oid": 336505,
+                  "report": {
+                    "action_id": "",
+                    "content_type": "0",
+                    "index": "3",
+                    "module_area": "content",
+                    "module_id": "1962",
+                    "ogv_session_id": "c82ca843-ff6e-43fd-8e20-07f23f095a75",
+                    "oid": "336505",
+                    "rank_id": "118",
+                    "season_id": "336505",
+                    "tab_type": "1"
+                  },
+                  "season_id": 336505,
+                  "season_type": 1,
+                  "sub_title": "少年获得神奇手表",
+                  "title": "少年骇客 第四季 中文配音",
+                  "type": "PGC",
+                  "url": "https://www.bilibili.com/bangumi/play/ss336505?from_spmid=pgc.bangumi-tab.hot-ranklist.2"
+                },
+                {
+                  "cover": "https://i0.hdslb.com/bfs/bangumi/image/2401194206102b658feafd0d7d92a6abfd7bccd1.jpg",
+                  "mask_img": "https://i0.hdslb.com/bfs/bangumi/image/c2fbbe3b086a5598e48622eb842abcefebfe0738.png",
+                  "new_ep": {
+                    "index_show": "更新至8话"
+                  },
+                  "oid": 332588,
+                  "report": {
+                    "action_id": "",
+                    "content_type": "0",
+                    "index": "4",
+                    "module_area": "content",
+                    "module_id": "1962",
+                    "ogv_session_id": "3f0c02ea-9153-4a32-9fc0-27f79dc0aad9",
+                    "oid": "332588",
+                    "rank_id": "118",
+                    "season_id": "332588",
+                    "tab_type": "1"
+                  },
+                  "season_id": 332588,
+                  "season_type": 1,
+                  "sub_title": "继续拯救世界之旅",
+                  "title": "功夫熊猫：神龙骑士 第二季 中文配音",
+                  "type": "PGC",
+                  "url": "https://www.bilibili.com/bangumi/play/ss332588?from_spmid=pgc.bangumi-tab.hot-ranklist.3"
+                },
+                {
+                  "cover": "https://i0.hdslb.com/bfs/bangumi/image/92da93b86cca3c48cd91adb5ec87cf1513920feb.png",
+                  "mask_img": "https://i0.hdslb.com/bfs/bangumi/image/480252b6b9aca6f28f17703759a1ae2a7257655b.png",
+                  "new_ep": {},
+                  "oid": 112827,
+                  "report": {
+                    "action_id": "",
+                    "content_type": "0",
+                    "index": "5",
+                    "module_area": "content",
+                    "module_id": "1962",
+                    "ogv_session_id": "f0eef282-136c-4554-b2c0-e4cfa44d28ab",
+                    "oid": "112827",
+                    "rank_id": "118",
+                    "season_id": "112827",
+                    "tab_type": "1"
+                  },
+                  "season_id": 112827,
+                  "season_type": 1,
+                  "sub_title": "世界和平还得靠我！",
+                  "title": "间谍过家家 第三季",
+                  "type": "PGC",
+                  "url": "https://www.bilibili.com/bangumi/play/ss112827?from_spmid=pgc.bangumi-tab.hot-ranklist.4"
+                },
+                {
+                  "cover": "http://i0.hdslb.com/bfs/bangumi/6d8bd12e0e1ab2d4d5e8567bdba18240e75d7a1b.jpg",
+                  "mask_img": "https://i0.hdslb.com/bfs/bangumi/image/da205ed00cd562024da5f8b64eeb4fbf55d11233.png",
+                  "new_ep": {
+                    "index_show": "全873话"
+                  },
+                  "oid": 6262,
+                  "report": {
+                    "action_id": "",
+                    "content_type": "0",
+                    "index": "6",
+                    "module_area": "content",
+                    "module_id": "1962",
+                    "ogv_session_id": "50fe35ee-e232-4d73-ad97-41ef185e1369",
+                    "oid": "6262",
+                    "rank_id": "118",
+                    "season_id": "6262",
+                    "tab_type": "1"
+                  },
+                  "season_id": 6262,
+                  "season_type": 1,
+                  "sub_title": "不想来笑一下吗？",
+                  "title": "蜡笔小新 第二季（中文）",
+                  "type": "PGC",
+                  "url": "https://www.bilibili.com/bangumi/play/ss6262?from_spmid=pgc.bangumi-tab.hot-ranklist.5"
+                },
+                {
+                  "cover": "http://i0.hdslb.com/bfs/bangumi/a406781e410c84bc58154f666ffb409f79c22f57.jpg",
+                  "mask_img": "https://i0.hdslb.com/bfs/bangumi/image/b268ef9d7fa136662a60c021a8a20d03e6824824.png",
+                  "new_ep": {
+                    "index_show": "全479话"
+                  },
+                  "oid": 6260,
+                  "report": {
+                    "action_id": "",
+                    "content_type": "0",
+                    "index": "7",
+                    "module_area": "content",
+                    "module_id": "1962",
+                    "ogv_session_id": "efde0830-086a-45ba-aeff-e39f421a3112",
+                    "oid": "6260",
+                    "rank_id": "118",
+                    "season_id": "6260",
+                    "tab_type": "1"
+                  },
+                  "season_id": 6260,
+                  "season_type": 1,
+                  "sub_title": "童年的快乐记忆",
+                  "title": "蜡笔小新 第一季（中文）",
+                  "type": "PGC",
+                  "url": "https://www.bilibili.com/bangumi/play/ss6260?from_spmid=pgc.bangumi-tab.hot-ranklist.6"
+                },
+                {
+                  "cover": "http://i0.hdslb.com/bfs/bangumi/image/087b862b772ee4e644478a36c757a26db476193d.png",
+                  "mask_img": "https://i0.hdslb.com/bfs/bangumi/image/68c95828019e9200f5bf76c89c76b61dff48814b.png",
+                  "new_ep": {
+                    "index_show": "全200话"
+                  },
+                  "oid": 38157,
+                  "report": {
+                    "action_id": "",
+                    "content_type": "0",
+                    "index": "8",
+                    "module_area": "content",
+                    "module_id": "1962",
+                    "ogv_session_id": "5e565c16-a9b5-4e2b-8f26-a700d1c556fe",
+                    "oid": "38157",
+                    "rank_id": "118",
+                    "season_id": "38157",
+                    "tab_type": "1"
+                  },
+                  "season_id": 38157,
+                  "season_type": 1,
+                  "sub_title": "最无厘头的热血动画",
+                  "title": "银魂",
+                  "type": "PGC",
+                  "url": "https://www.bilibili.com/bangumi/play/ss38157?from_spmid=pgc.bangumi-tab.hot-ranklist.7"
+                },
+                {
+                  "cover": "https://i0.hdslb.com/bfs/bangumi/image/dadef6cbd488052e2f1ad76575fd56709515d818.png",
+                  "mask_img": "https://i0.hdslb.com/bfs/bangumi/image/001beb3d9790cd8a0dd3dbc4c1455991605484a9.png",
+                  "new_ep": {
+                    "index_show": "全13话"
+                  },
+                  "oid": 336504,
+                  "report": {
+                    "action_id": "",
+                    "content_type": "0",
+                    "index": "9",
+                    "module_area": "content",
+                    "module_id": "1962",
+                    "ogv_session_id": "8e835925-5b66-4ac8-80be-98e0339b3381",
+                    "oid": "336504",
+                    "rank_id": "118",
+                    "season_id": "336504",
+                    "tab_type": "1"
+                  },
+                  "season_id": 336504,
+                  "season_type": 1,
+                  "sub_title": "少年获得神奇手表",
+                  "title": "少年骇客 第四季",
+                  "type": "PGC",
+                  "url": "https://www.bilibili.com/bangumi/play/ss336504?from_spmid=pgc.bangumi-tab.hot-ranklist.8"
+                },
+                {
+                  "cover": "http://i0.hdslb.com/bfs/bangumi/image/aecbaaf4e3e36a2796684c2eff8ceb9b0f247c6d.jpg",
+                  "mask_img": "https://i0.hdslb.com/bfs/bangumi/image/510c079d5b5b1bfa32c98b16072a444ee7960bee.png",
+                  "new_ep": {
+                    "index_show": "全171话"
+                  },
+                  "oid": 6422,
+                  "report": {
+                    "action_id": "",
+                    "content_type": "0",
+                    "index": "10",
+                    "module_area": "content",
+                    "module_id": "1962",
+                    "ogv_session_id": "8543eb2b-e115-4714-8522-78b00da59081",
+                    "oid": "6422",
+                    "rank_id": "118",
+                    "season_id": "6422",
+                    "tab_type": "1"
+                  },
+                  "season_id": 6422,
+                  "season_type": 1,
+                  "sub_title": "我要成为魔法帝",
+                  "title": "黑色四叶草",
+                  "type": "PGC",
+                  "url": "https://www.bilibili.com/bangumi/play/ss6422?from_spmid=pgc.bangumi-tab.hot-ranklist.9"
+                }
+              ],
+              "title": "番剧榜",
+              "type": "PGC",
+              "url": "bilibili://pgc/new_rank_list_page?index_id=101&rank_id=118&from_spmid=pgc.bangumi-tab.hot-ranklist.0"
+            },
+            {
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "2",
+                "module_area": "content",
+                "module_id": "1962",
+                "ogv_session_id": "e46016b4-d0c0-4144-86a7-3a7de6175517",
+                "oid": "",
+                "rank_id": "119",
+                "season_id": "",
+                "tab_type": "4"
+              },
+              "sub_items": [
+                {
+                  "cover": "https://i0.hdslb.com/bfs/bangumi/image/19a2d01429bcba6b31791277c016e0d1aa465974.png",
+                  "mask_img": "https://i0.hdslb.com/bfs/bangumi/image/c30b41907e4f672bf1882400a0ddc49d4e420827.png",
+                  "new_ep": {
+                    "index_show": "更新至197话"
+                  },
+                  "oid": 28747,
+                  "report": {
+                    "action_id": "",
+                    "content_type": "0",
+                    "index": "1",
+                    "module_area": "content",
+                    "module_id": "1962",
+                    "ogv_session_id": "adb79fe8-4b4f-4569-a71d-ab7ec613178a",
+                    "oid": "28747",
+                    "rank_id": "119",
+                    "season_id": "28747",
+                    "tab_type": "4"
+                  },
+                  "season_id": 28747,
+                  "season_type": 4,
+                  "sub_title": "韩立奔赴慕兰之战",
+                  "title": "凡人修仙传",
+                  "type": "PGC",
+                  "url": "https://www.bilibili.com/bangumi/play/ss28747?from_spmid=pgc.bangumi-tab.hot-ranklist.0"
+                },
+                {
+                  "cover": "https://i0.hdslb.com/bfs/bangumi/image/32a2172ad93a82ebc9ac175c7b53b4d35c5826b6.png",
+                  "mask_img": "https://i0.hdslb.com/bfs/bangumi/image/b74b4fb243291d48598a07f0c4c04147a1757c24.png",
+                  "new_ep": {
+                    "index_show": "更新至106话"
+                  },
+                  "oid": 45969,
+                  "report": {
+                    "action_id": "",
+                    "content_type": "0",
+                    "index": "2",
+                    "module_area": "content",
+                    "module_id": "1962",
+                    "ogv_session_id": "3fc53df2-1144-4761-a531-db0ed0562c4c",
+                    "oid": "45969",
+                    "rank_id": "119",
+                    "season_id": "45969",
+                    "tab_type": "4"
+                  },
+                  "season_id": 45969,
+                  "season_type": 4,
+                  "sub_title": "放牛少年，放牧诸神",
+                  "title": "牧神记",
+                  "type": "PGC",
+                  "url": "https://www.bilibili.com/bangumi/play/ss45969?from_spmid=pgc.bangumi-tab.hot-ranklist.1"
+                },
+                {
+                  "cover": "https://i0.hdslb.com/bfs/bangumi/image/f40b78e1ec68370d1e3c5fef43d4d484badff14e.png",
+                  "mask_img": "https://i0.hdslb.com/bfs/bangumi/image/3904224681581242696b57dde7ef54b0acc99ec5.png",
+                  "new_ep": {
+                    "index_show": "更新至12话"
+                  },
+                  "oid": 105212,
+                  "report": {
+                    "action_id": "",
+                    "content_type": "0",
+                    "index": "3",
+                    "module_area": "content",
+                    "module_id": "1962",
+                    "ogv_session_id": "b9e71f5a-05c4-4093-be7b-3963ffa14302",
+                    "oid": "105212",
+                    "rank_id": "119",
+                    "season_id": "105212",
+                    "tab_type": "4"
+                  },
+                  "season_id": 105212,
+                  "season_type": 4,
+                  "sub_title": "命运的交叉点",
+                  "title": "时光代理人 第三季",
+                  "type": "PGC",
+                  "url": "https://www.bilibili.com/bangumi/play/ss105212?from_spmid=pgc.bangumi-tab.hot-ranklist.2"
+                },
+                {
+                  "cover": "https://i0.hdslb.com/bfs/bangumi/image/865bb2f354bf64cbd711190104c7557483e2fe11.png",
+                  "mask_img": "https://i0.hdslb.com/bfs/bangumi/image/c2fbbe3b086a5598e48622eb842abcefebfe0738.png",
+                  "new_ep": {
+                    "index_show": "更新至40话"
+                  },
+                  "oid": 1733,
+                  "report": {
+                    "action_id": "",
+                    "content_type": "0",
+                    "index": "4",
+                    "module_area": "content",
+                    "module_id": "1962",
+                    "ogv_session_id": "9394bd19-4c17-425a-8651-eeefb43a7e9e",
+                    "oid": "1733",
+                    "rank_id": "119",
+                    "season_id": "1733",
+                    "tab_type": "4"
+                  },
+                  "season_id": 1733,
+                  "season_type": 4,
+                  "sub_title": "有生之年",
+                  "title": "罗小黑战记",
+                  "type": "PGC",
+                  "url": "https://www.bilibili.com/bangumi/play/ss1733?from_spmid=pgc.bangumi-tab.hot-ranklist.3"
+                },
+                {
+                  "badge_info": {
+                    "img": "",
+                    "text_size": 0
+                  },
+                  "cover": "http://i0.hdslb.com/bfs/bangumi/0f74eddb7755ad86d8f6237e37510830b409a748.jpg",
+                  "mask_img": "https://i0.hdslb.com/bfs/bangumi/image/480252b6b9aca6f28f17703759a1ae2a7257655b.png",
+                  "new_ep": {
+                    "index_show": "更新至番外"
+                  },
+                  "oid": 26015,
+                  "report": {
+                    "action_id": "",
+                    "content_type": "0",
+                    "index": "5",
+                    "module_area": "content",
+                    "module_id": "1962",
+                    "ogv_session_id": "1e6f3431-6ff3-40cd-a31d-d8379dcca8d7",
+                    "oid": "26015",
+                    "rank_id": "119",
+                    "season_id": "26015",
+                    "tab_type": "4"
+                  },
+                  "season_id": 26015,
+                  "season_type": 4,
+                  "sub_title": "王者峡谷爆笑对战",
+                  "title": "王者？别闹！",
+                  "type": "PGC",
+                  "url": "https://www.bilibili.com/bangumi/play/ss26015?from_spmid=pgc.bangumi-tab.hot-ranklist.4"
+                },
+                {
+                  "cover": "https://i0.hdslb.com/bfs/bangumi/image/dc629acf55d0b4991e428a2e1e7659e2a9848c93.png",
+                  "mask_img": "https://i0.hdslb.com/bfs/bangumi/image/da205ed00cd562024da5f8b64eeb4fbf55d11233.png",
+                  "new_ep": {
+                    "index_show": "更新至13话"
+                  },
+                  "oid": 264970,
+                  "report": {
+                    "action_id": "",
+                    "content_type": "0",
+                    "index": "6",
+                    "module_area": "content",
+                    "module_id": "1962",
+                    "ogv_session_id": "7d38bf44-7d4d-4ca7-8a92-a6508613a39b",
+                    "oid": "264970",
+                    "rank_id": "119",
+                    "season_id": "264970",
+                    "tab_type": "4"
+                  },
+                  "season_id": 264970,
+                  "season_type": 4,
+                  "sub_title": "命里因果，皆是交换",
+                  "title": "财神窦占龙",
+                  "type": "PGC",
+                  "url": "https://www.bilibili.com/bangumi/play/ss264970?from_spmid=pgc.bangumi-tab.hot-ranklist.5"
+                },
+                {
+                  "cover": "https://i0.hdslb.com/bfs/bangumi/image/dcea358cba5d91ab75d556aa7675faf862f77afe.png",
+                  "mask_img": "https://i0.hdslb.com/bfs/bangumi/image/b268ef9d7fa136662a60c021a8a20d03e6824824.png",
+                  "new_ep": {
+                    "index_show": "全72话"
+                  },
+                  "oid": 39947,
+                  "report": {
+                    "action_id": "",
+                    "content_type": "0",
+                    "index": "7",
+                    "module_area": "content",
+                    "module_id": "1962",
+                    "ogv_session_id": "7a5a3cff-b5d2-4df1-972f-94322c200a12",
+                    "oid": "39947",
+                    "rank_id": "119",
+                    "season_id": "39947",
+                    "tab_type": "4"
+                  },
+                  "season_id": 39947,
+                  "season_type": 4,
+                  "sub_title": "神兽下凡，福瑞相伴",
+                  "title": "有兽焉",
+                  "type": "PGC",
+                  "url": "https://www.bilibili.com/bangumi/play/ss39947?from_spmid=pgc.bangumi-tab.hot-ranklist.6"
+                },
+                {
+                  "cover": "http://i0.hdslb.com/bfs/bangumi/image/08ee22bd12db1c9d8a878c3c6f665bc3f5758fa0.jpg",
+                  "mask_img": "https://i0.hdslb.com/bfs/bangumi/image/68c95828019e9200f5bf76c89c76b61dff48814b.png",
+                  "new_ep": {
+                    "index_show": "全12话"
+                  },
+                  "oid": 32321,
+                  "report": {
+                    "action_id": "",
+                    "content_type": "0",
+                    "index": "8",
+                    "module_area": "content",
+                    "module_id": "1962",
+                    "ogv_session_id": "d025b8d5-7280-4af4-9fc3-ad62f362ff4d",
+                    "oid": "32321",
+                    "rank_id": "119",
+                    "season_id": "32321",
+                    "tab_type": "4"
+                  },
+                  "season_id": 32321,
+                  "season_type": 4,
+                  "sub_title": "白猫少卿破奇案",
+                  "title": "大理寺日志",
+                  "type": "PGC",
+                  "url": "https://www.bilibili.com/bangumi/play/ss32321?from_spmid=pgc.bangumi-tab.hot-ranklist.7"
+                },
+                {
+                  "cover": "https://i0.hdslb.com/bfs/bangumi/image/08bf0c1e24e454de51b58d1e26c0a9aecbe9b0c1.png",
+                  "mask_img": "https://i0.hdslb.com/bfs/bangumi/image/001beb3d9790cd8a0dd3dbc4c1455991605484a9.png",
+                  "new_ep": {
+                    "index_show": "全12话"
+                  },
+                  "oid": 46585,
+                  "report": {
+                    "action_id": "",
+                    "content_type": "0",
+                    "index": "9",
+                    "module_area": "content",
+                    "module_id": "1962",
+                    "ogv_session_id": "3bff3ba3-ba33-43a4-9a68-c41252e3f4ce",
+                    "oid": "46585",
+                    "rank_id": "119",
+                    "season_id": "46585",
+                    "tab_type": "4"
+                  },
+                  "season_id": 46585,
+                  "season_type": 4,
+                  "sub_title": "幸存者能否重夺未来",
+                  "title": "灵笼 第二季",
+                  "type": "PGC",
+                  "url": "https://www.bilibili.com/bangumi/play/ss46585?from_spmid=pgc.bangumi-tab.hot-ranklist.8"
+                },
+                {
+                  "cover": "https://i0.hdslb.com/bfs/bangumi/image/88609970c53ca8a861d57f949b6897bfa27d657e.png",
+                  "mask_img": "https://i0.hdslb.com/bfs/bangumi/image/510c079d5b5b1bfa32c98b16072a444ee7960bee.png",
+                  "new_ep": {
+                    "index_show": "全10话"
+                  },
+                  "oid": 102042,
+                  "report": {
+                    "action_id": "",
+                    "content_type": "0",
+                    "index": "10",
+                    "module_area": "content",
+                    "module_id": "1962",
+                    "ogv_session_id": "a0d225ce-b339-4e83-bcf1-bf4337c16473",
+                    "oid": "102042",
+                    "rank_id": "119",
+                    "season_id": "102042",
+                    "tab_type": "4"
+                  },
+                  "season_id": 102042,
+                  "season_type": 4,
+                  "sub_title": "苦黯尽燃，曙光初现",
+                  "title": "明日方舟：焰烬曙明",
+                  "type": "PGC",
+                  "url": "https://www.bilibili.com/bangumi/play/ss102042?from_spmid=pgc.bangumi-tab.hot-ranklist.9"
+                }
+              ],
+              "title": "国创榜",
+              "type": "PGC",
+              "url": "bilibili://pgc/new_rank_list_page?index_id=101&rank_id=119&from_spmid=pgc.bangumi-tab.hot-ranklist.0"
+            },
+            {
+              "report": {
+                "action_id": "",
+                "avid": "",
+                "content_type": "1",
+                "index": "3",
+                "module_area": "content",
+                "module_id": "1962",
+                "ogv_session_id": "c686e90e-6a19-4637-92a7-1fb22bd9df78",
+                "oid": "",
+                "rank_id": "322",
+                "season_id": "",
+                "tab_type": ""
+              },
+              "sub_items": [
+                {
+                  "cover": "http://i2.hdslb.com/bfs/archive/93c0bd8876ee2c263649e2846e3c33cecf1a3952.jpg",
+                  "mask_img": "https://i0.hdslb.com/bfs/bangumi/image/c30b41907e4f672bf1882400a0ddc49d4e420827.png",
+                  "oid": 117490961221454,
+                  "report": {
+                    "action_id": "",
+                    "avid": "117490961221454",
+                    "content_type": "1",
+                    "index": "1",
+                    "module_area": "content",
+                    "module_id": "1962",
+                    "ogv_session_id": "78dd0f96-de9f-4884-8cca-394fc99422f2",
+                    "oid": "117490961221454",
+                    "rank_id": "322",
+                    "season_id": "",
+                    "tab_type": ""
+                  },
+                  "title": " 【独家】《凡人修仙传之慕兰之战》第22集预告【总第198集预告】",
+                  "type": "UGC",
+                  "upper": {
+                    "image": "https://i2.hdslb.com/bfs/face/ae8149db0fe146563cdbf7ff346eb9bb3dc25a12.jpg",
+                    "mid": 98627270,
+                    "up_name": "哔哩哔哩国创"
+                  },
+                  "url": "https://www.bilibili.com/bangumi/play/ep4292442?from_spmid=pgc.bangumi-tab.hot-ranklist.0"
+                },
+                {
+                  "cover": "http://i0.hdslb.com/bfs/archive/1400b1afc1fa4cda09e49a2ed4b720c151484586.png",
+                  "mask_img": "https://i0.hdslb.com/bfs/bangumi/image/b74b4fb243291d48598a07f0c4c04147a1757c24.png",
+                  "oid": 117491028265238,
+                  "report": {
+                    "action_id": "",
+                    "avid": "117491028265238",
+                    "content_type": "1",
+                    "index": "2",
+                    "module_area": "content",
+                    "module_id": "1962",
+                    "ogv_session_id": "33befcfb-3821-4118-b7b2-8675bc121e3a",
+                    "oid": "117491028265238",
+                    "rank_id": "322",
+                    "season_id": "",
+                    "tab_type": ""
+                  },
+                  "title": "【独家】牧神记 第107集预告",
+                  "type": "UGC",
+                  "upper": {
+                    "image": "https://i2.hdslb.com/bfs/face/ae8149db0fe146563cdbf7ff346eb9bb3dc25a12.jpg",
+                    "mid": 98627270,
+                    "up_name": "哔哩哔哩国创"
+                  },
+                  "url": "https://www.bilibili.com/bangumi/play/ep6614051?from_spmid=pgc.bangumi-tab.hot-ranklist.1"
+                },
+                {
+                  "cover": "http://i2.hdslb.com/bfs/archive/7d8aec2abbcc6d73031bcaca206f6cfe23cfeadd.jpg",
+                  "mask_img": "https://i0.hdslb.com/bfs/bangumi/image/3904224681581242696b57dde7ef54b0acc99ec5.png",
+                  "oid": 117501329412342,
+                  "report": {
+                    "action_id": "",
+                    "avid": "117501329412342",
+                    "content_type": "1",
+                    "index": "3",
+                    "module_area": "content",
+                    "module_id": "1962",
+                    "ogv_session_id": "56f72aeb-f794-4dd8-929f-1dfb3478fea6",
+                    "oid": "117501329412342",
+                    "rank_id": "322",
+                    "season_id": "",
+                    "tab_type": ""
+                  },
+                  "title": "【10月26日/最终回】死神 千年血战篇 第10话 先行图『最终季 祸进谭』",
+                  "type": "UGC",
+                  "upper": {
+                    "image": "https://i1.hdslb.com/bfs/face/134e7afae419331b1c2647d61eeffda33a2bcb73.jpg",
+                    "mid": 224267770,
+                    "up_name": "夏日幻听MCE"
+                  },
+                  "url": "https://www.bilibili.com/video/av117501329412342?from_spmid=pgc.bangumi-tab.hot-ranklist.2"
+                },
+                {
+                  "cover": "http://i2.hdslb.com/bfs/archive/6c0d401392c6e21aeb94a0f9bb6d5c15b5f5a959.jpg",
+                  "mask_img": "https://i0.hdslb.com/bfs/bangumi/image/c2fbbe3b086a5598e48622eb842abcefebfe0738.png",
+                  "oid": 117499467144070,
+                  "report": {
+                    "action_id": "",
+                    "avid": "117499467144070",
+                    "content_type": "1",
+                    "index": "4",
+                    "module_area": "content",
+                    "module_id": "1962",
+                    "ogv_session_id": "79a9b292-2de4-4c02-a02c-fc764c0a3e91",
+                    "oid": "117499467144070",
+                    "rank_id": "322",
+                    "season_id": "",
+                    "tab_type": ""
+                  },
+                  "title": "【11月/剧场版/押井守/梶裕贵&小野大辅&樱井孝宏&杉田智和&泽城美雪&中村悠一】《装甲骑兵VOTOMS 灰色的魔女》上映前PV【MCE汉化组】",
+                  "type": "UGC",
+                  "upper": {
+                    "image": "https://i1.hdslb.com/bfs/face/134e7afae419331b1c2647d61eeffda33a2bcb73.jpg",
+                    "mid": 224267770,
+                    "up_name": "夏日幻听MCE"
+                  },
+                  "url": "https://www.bilibili.com/video/av117499467144070?from_spmid=pgc.bangumi-tab.hot-ranklist.3"
+                },
+                {
+                  "cover": "http://i1.hdslb.com/bfs/archive/793ea5065457857b7e2aa24f309dede83d2b84c8.jpg",
+                  "mask_img": "https://i0.hdslb.com/bfs/bangumi/image/480252b6b9aca6f28f17703759a1ae2a7257655b.png",
+                  "oid": 117451149150992,
+                  "report": {
+                    "action_id": "",
+                    "avid": "117451149150992",
+                    "content_type": "1",
+                    "index": "5",
+                    "module_area": "content",
+                    "module_id": "1962",
+                    "ogv_session_id": "b2af0301-408b-4387-96c4-bea588275283",
+                    "oid": "117451149150992",
+                    "rank_id": "322",
+                    "season_id": "",
+                    "tab_type": ""
+                  },
+                  "title": "【独家】《凡人修仙传之慕兰之战》第21集预告【总第197集预告】",
+                  "type": "UGC",
+                  "upper": {
+                    "image": "https://i2.hdslb.com/bfs/face/ae8149db0fe146563cdbf7ff346eb9bb3dc25a12.jpg",
+                    "mid": 98627270,
+                    "up_name": "哔哩哔哩国创"
+                  },
+                  "url": "https://www.bilibili.com/bangumi/play/ep4292441?from_spmid=pgc.bangumi-tab.hot-ranklist.4"
+                },
+                {
+                  "cover": "http://i2.hdslb.com/bfs/archive/a28c750abcf36a96a81af897e1210b93808cf43f.jpg",
+                  "mask_img": "https://i0.hdslb.com/bfs/bangumi/image/da205ed00cd562024da5f8b64eeb4fbf55d11233.png",
+                  "oid": 117501648247535,
+                  "report": {
+                    "action_id": "",
+                    "avid": "117501648247535",
+                    "content_type": "1",
+                    "index": "6",
+                    "module_area": "content",
+                    "module_id": "1962",
+                    "ogv_session_id": "eae434e7-c31b-491a-bdb8-ad87df9edc81",
+                    "oid": "117501648247535",
+                    "rank_id": "322",
+                    "season_id": "",
+                    "tab_type": ""
+                  },
+                  "title": "【10月31日】脑洞学生会！第5话预告【MCE汉化组】",
+                  "type": "UGC",
+                  "upper": {
+                    "image": "https://i1.hdslb.com/bfs/face/134e7afae419331b1c2647d61eeffda33a2bcb73.jpg",
+                    "mid": 224267770,
+                    "up_name": "夏日幻听MCE"
+                  },
+                  "url": "https://www.bilibili.com/video/av117501648247535?from_spmid=pgc.bangumi-tab.hot-ranklist.5"
+                },
+                {
+                  "cover": "http://i2.hdslb.com/bfs/archive/1f043a0109b630d44ed442df36563196ebb736e5.jpg",
+                  "mask_img": "https://i0.hdslb.com/bfs/bangumi/image/b268ef9d7fa136662a60c021a8a20d03e6824824.png",
+                  "oid": 117501144929929,
+                  "report": {
+                    "action_id": "",
+                    "avid": "117501144929929",
+                    "content_type": "1",
+                    "index": "7",
+                    "module_area": "content",
+                    "module_id": "1962",
+                    "ogv_session_id": "eb400590-4d32-4dc1-a3bf-01e0a83ab21c",
+                    "oid": "117501144929929",
+                    "rank_id": "322",
+                    "season_id": "",
+                    "tab_type": ""
+                  },
+                  "title": "【第三季 制作决定】你与我最后的战场，亦或是世界起始的圣战 第三季 制作决定 告知映像【你我战S3】",
+                  "type": "UGC",
+                  "upper": {
+                    "image": "https://i1.hdslb.com/bfs/face/134e7afae419331b1c2647d61eeffda33a2bcb73.jpg",
+                    "mid": 224267770,
+                    "up_name": "夏日幻听MCE"
+                  },
+                  "url": "https://www.bilibili.com/video/av117501144929929?from_spmid=pgc.bangumi-tab.hot-ranklist.6"
+                },
+                {
+                  "cover": "http://i0.hdslb.com/bfs/archive/d942899f9b89300c04a8bbddf94f0cd054cda4d5.png",
+                  "mask_img": "https://i0.hdslb.com/bfs/bangumi/image/68c95828019e9200f5bf76c89c76b61dff48814b.png",
+                  "oid": 117490038476040,
+                  "report": {
+                    "action_id": "",
+                    "avid": "117490038476040",
+                    "content_type": "1",
+                    "index": "8",
+                    "module_area": "content",
+                    "module_id": "1962",
+                    "ogv_session_id": "32a8ee0b-0dde-4daf-9aba-4a9ec38cd6c0",
+                    "oid": "117490038476040",
+                    "rank_id": "322",
+                    "season_id": "",
+                    "tab_type": ""
+                  },
+                  "title": "【独家】牧神记 角色PV：虚生花",
+                  "type": "UGC",
+                  "upper": {
+                    "image": "https://i2.hdslb.com/bfs/face/ae8149db0fe146563cdbf7ff346eb9bb3dc25a12.jpg",
+                    "mid": 98627270,
+                    "up_name": "哔哩哔哩国创"
+                  },
+                  "url": "https://www.bilibili.com/bangumi/play/ep7154445?from_spmid=pgc.bangumi-tab.hot-ranklist.7"
+                },
+                {
+                  "cover": "http://i0.hdslb.com/bfs/archive/2d58da79c9e14fc27df48b9926e89c7a7584a074.jpg",
+                  "mask_img": "https://i0.hdslb.com/bfs/bangumi/image/001beb3d9790cd8a0dd3dbc4c1455991605484a9.png",
+                  "oid": 117508090631562,
+                  "report": {
+                    "action_id": "",
+                    "avid": "117508090631562",
+                    "content_type": "1",
+                    "index": "9",
+                    "module_area": "content",
+                    "module_id": "1962",
+                    "ogv_session_id": "e9b3433e-601d-4760-9443-d817f70a4e21",
+                    "oid": "117508090631562",
+                    "rank_id": "322",
+                    "season_id": "",
+                    "tab_type": ""
+                  },
+                  "title": "【完结纪念】死神 千年血战篇 祸进谭 第10话 特殊ED &「THE STORIES VISUAL」映像【久保带人】",
+                  "type": "UGC",
+                  "upper": {
+                    "image": "https://i1.hdslb.com/bfs/face/134e7afae419331b1c2647d61eeffda33a2bcb73.jpg",
+                    "mid": 224267770,
+                    "up_name": "夏日幻听MCE"
+                  },
+                  "url": "https://www.bilibili.com/video/av117508090631562?from_spmid=pgc.bangumi-tab.hot-ranklist.8"
+                },
+                {
+                  "cover": "http://i0.hdslb.com/bfs/archive/955e5b8dcd7509c8a9ddc44709e1b3d17d819cb2.jpg",
+                  "mask_img": "https://i0.hdslb.com/bfs/bangumi/image/510c079d5b5b1bfa32c98b16072a444ee7960bee.png",
+                  "oid": 117513761332009,
+                  "report": {
+                    "action_id": "",
+                    "avid": "117513761332009",
+                    "content_type": "1",
+                    "index": "10",
+                    "module_area": "content",
+                    "module_id": "1962",
+                    "ogv_session_id": "d0964c12-d8ce-45b9-bbab-7c76c3a0d334",
+                    "oid": "117513761332009",
+                    "rank_id": "322",
+                    "season_id": "",
+                    "tab_type": ""
+                  },
+                  "title": "【2027年1月/剧场版/北美定档】《魔法使之夜》北美上映PV【MCE汉化组】",
+                  "type": "UGC",
+                  "upper": {
+                    "image": "https://i1.hdslb.com/bfs/face/134e7afae419331b1c2647d61eeffda33a2bcb73.jpg",
+                    "mid": 224267770,
+                    "up_name": "夏日幻听MCE"
+                  },
+                  "url": "https://www.bilibili.com/video/av117513761332009?from_spmid=pgc.bangumi-tab.hot-ranklist.9"
+                }
+              ],
+              "title": "资讯榜",
+              "type": "UGC",
+              "url": "bilibili://pgc/new_rank_list_page?index_id=101&rank_id=322&from_spmid=pgc.bangumi-tab.hot-ranklist.0"
+            },
+            {
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "4",
+                "module_area": "content",
+                "module_id": "1962",
+                "ogv_session_id": "694e0394-4d27-4e00-88c3-c413b6d2e6dc",
+                "oid": "",
+                "rank_id": "302",
+                "season_id": "",
+                "tab_type": "4"
+              },
+              "sub_items": [
+                {
+                  "cover": "https://i0.hdslb.com/bfs/bangumi/image/19a2d01429bcba6b31791277c016e0d1aa465974.png",
+                  "mask_img": "https://i0.hdslb.com/bfs/bangumi/image/c30b41907e4f672bf1882400a0ddc49d4e420827.png",
+                  "new_ep": {
+                    "index_show": "更新至197话"
+                  },
+                  "oid": 28747,
+                  "report": {
+                    "action_id": "",
+                    "content_type": "0",
+                    "index": "1",
+                    "module_area": "content",
+                    "module_id": "1962",
+                    "ogv_session_id": "3ef3b7c3-fea2-45f5-8a40-30f47810cb57",
+                    "oid": "28747",
+                    "rank_id": "302",
+                    "season_id": "28747",
+                    "tab_type": "4"
+                  },
+                  "season_id": 28747,
+                  "season_type": 4,
+                  "sub_title": "韩立奔赴慕兰之战",
+                  "title": "凡人修仙传",
+                  "type": "PGC",
+                  "url": "https://www.bilibili.com/bangumi/play/ss28747?from_spmid=pgc.bangumi-tab.hot-ranklist.0"
+                },
+                {
+                  "cover": "https://i0.hdslb.com/bfs/bangumi/image/32a2172ad93a82ebc9ac175c7b53b4d35c5826b6.png",
+                  "mask_img": "https://i0.hdslb.com/bfs/bangumi/image/b74b4fb243291d48598a07f0c4c04147a1757c24.png",
+                  "new_ep": {
+                    "index_show": "更新至106话"
+                  },
+                  "oid": 45969,
+                  "report": {
+                    "action_id": "",
+                    "content_type": "0",
+                    "index": "2",
+                    "module_area": "content",
+                    "module_id": "1962",
+                    "ogv_session_id": "65e3cef0-1ae0-4376-9df6-354920ba5354",
+                    "oid": "45969",
+                    "rank_id": "302",
+                    "season_id": "45969",
+                    "tab_type": "4"
+                  },
+                  "season_id": 45969,
+                  "season_type": 4,
+                  "sub_title": "放牛少年，放牧诸神",
+                  "title": "牧神记",
+                  "type": "PGC",
+                  "url": "https://www.bilibili.com/bangumi/play/ss45969?from_spmid=pgc.bangumi-tab.hot-ranklist.1"
+                },
+                {
+                  "cover": "http://i0.hdslb.com/bfs/bangumi/image/38e2a273f528fd01c34f1fc4df0f69c64487efad.png",
+                  "mask_img": "https://i0.hdslb.com/bfs/bangumi/image/3904224681581242696b57dde7ef54b0acc99ec5.png",
+                  "new_ep": {
+                    "index_show": "更新至1277话"
+                  },
+                  "oid": 33415,
+                  "report": {
+                    "action_id": "",
+                    "content_type": "0",
+                    "index": "3",
+                    "module_area": "content",
+                    "module_id": "1962",
+                    "ogv_session_id": "f62fadc0-84fb-48c9-bd81-ec3c234dcb25",
+                    "oid": "33415",
+                    "rank_id": "302",
+                    "season_id": "33415",
+                    "tab_type": "1"
+                  },
+                  "season_id": 33415,
+                  "season_type": 1,
+                  "sub_title": "小学生的侦探生活",
+                  "title": "名侦探柯南（中配）",
+                  "type": "PGC",
+                  "url": "https://www.bilibili.com/bangumi/play/ss33415?from_spmid=pgc.bangumi-tab.hot-ranklist.2"
+                },
+                {
+                  "cover": "https://i0.hdslb.com/bfs/bangumi/image/f40b78e1ec68370d1e3c5fef43d4d484badff14e.png",
+                  "mask_img": "https://i0.hdslb.com/bfs/bangumi/image/c2fbbe3b086a5598e48622eb842abcefebfe0738.png",
+                  "new_ep": {
+                    "index_show": "更新至12话"
+                  },
+                  "oid": 105212,
+                  "report": {
+                    "action_id": "",
+                    "content_type": "0",
+                    "index": "4",
+                    "module_area": "content",
+                    "module_id": "1962",
+                    "ogv_session_id": "f3949086-c035-48fb-a1b9-74a06b509456",
+                    "oid": "105212",
+                    "rank_id": "302",
+                    "season_id": "105212",
+                    "tab_type": "4"
+                  },
+                  "season_id": 105212,
+                  "season_type": 4,
+                  "sub_title": "命运的交叉点",
+                  "title": "时光代理人 第三季",
+                  "type": "PGC",
+                  "url": "https://www.bilibili.com/bangumi/play/ss105212?from_spmid=pgc.bangumi-tab.hot-ranklist.3"
+                },
+                {
+                  "cover": "http://i0.hdslb.com/bfs/bangumi/image/087b862b772ee4e644478a36c757a26db476193d.png",
+                  "mask_img": "https://i0.hdslb.com/bfs/bangumi/image/480252b6b9aca6f28f17703759a1ae2a7257655b.png",
+                  "new_ep": {
+                    "index_show": "全200话"
+                  },
+                  "oid": 38157,
+                  "report": {
+                    "action_id": "",
+                    "content_type": "0",
+                    "index": "5",
+                    "module_area": "content",
+                    "module_id": "1962",
+                    "ogv_session_id": "4e26b921-7ada-4b4e-b7be-5d2cb68399d4",
+                    "oid": "38157",
+                    "rank_id": "302",
+                    "season_id": "38157",
+                    "tab_type": "1"
+                  },
+                  "season_id": 38157,
+                  "season_type": 1,
+                  "sub_title": "最无厘头的热血动画",
+                  "title": "银魂",
+                  "type": "PGC",
+                  "url": "https://www.bilibili.com/bangumi/play/ss38157?from_spmid=pgc.bangumi-tab.hot-ranklist.4"
+                },
+                {
+                  "cover": "http://i0.hdslb.com/bfs/bangumi/image/38e2a273f528fd01c34f1fc4df0f69c64487efad.png",
+                  "mask_img": "https://i0.hdslb.com/bfs/bangumi/image/da205ed00cd562024da5f8b64eeb4fbf55d11233.png",
+                  "new_ep": {
+                    "index_show": "更新至1277话"
+                  },
+                  "oid": 33378,
+                  "report": {
+                    "action_id": "",
+                    "content_type": "0",
+                    "index": "6",
+                    "module_area": "content",
+                    "module_id": "1962",
+                    "ogv_session_id": "55d0b0b4-abc9-45e8-b9f2-2ac0fa1dda9f",
+                    "oid": "33378",
+                    "rank_id": "302",
+                    "season_id": "33378",
+                    "tab_type": "1"
+                  },
+                  "season_id": 33378,
+                  "season_type": 1,
+                  "sub_title": "真相永远只有一个",
+                  "title": "名侦探柯南",
+                  "type": "PGC",
+                  "url": "https://www.bilibili.com/bangumi/play/ss33378?from_spmid=pgc.bangumi-tab.hot-ranklist.5"
+                },
+                {
+                  "cover": "https://i0.hdslb.com/bfs/bangumi/image/88609970c53ca8a861d57f949b6897bfa27d657e.png",
+                  "mask_img": "https://i0.hdslb.com/bfs/bangumi/image/b268ef9d7fa136662a60c021a8a20d03e6824824.png",
+                  "new_ep": {
+                    "index_show": "全10话"
+                  },
+                  "oid": 102042,
+                  "report": {
+                    "action_id": "",
+                    "content_type": "0",
+                    "index": "7",
+                    "module_area": "content",
+                    "module_id": "1962",
+                    "ogv_session_id": "e3c4d059-d64d-41c6-9e06-a2394793119c",
+                    "oid": "102042",
+                    "rank_id": "302",
+                    "season_id": "102042",
+                    "tab_type": "4"
+                  },
+                  "season_id": 102042,
+                  "season_type": 4,
+                  "sub_title": "苦黯尽燃，曙光初现",
+                  "title": "明日方舟：焰烬曙明",
+                  "type": "PGC",
+                  "url": "https://www.bilibili.com/bangumi/play/ss102042?from_spmid=pgc.bangumi-tab.hot-ranklist.6"
+                },
+                {
+                  "cover": "https://i0.hdslb.com/bfs/bangumi/image/865bb2f354bf64cbd711190104c7557483e2fe11.png",
+                  "mask_img": "https://i0.hdslb.com/bfs/bangumi/image/68c95828019e9200f5bf76c89c76b61dff48814b.png",
+                  "new_ep": {
+                    "index_show": "更新至40话"
+                  },
+                  "oid": 1733,
+                  "report": {
+                    "action_id": "",
+                    "content_type": "0",
+                    "index": "8",
+                    "module_area": "content",
+                    "module_id": "1962",
+                    "ogv_session_id": "71242768-ceab-4b19-b6ed-f89a9cdb4328",
+                    "oid": "1733",
+                    "rank_id": "302",
+                    "season_id": "1733",
+                    "tab_type": "4"
+                  },
+                  "season_id": 1733,
+                  "season_type": 4,
+                  "sub_title": "有生之年",
+                  "title": "罗小黑战记",
+                  "type": "PGC",
+                  "url": "https://www.bilibili.com/bangumi/play/ss1733?from_spmid=pgc.bangumi-tab.hot-ranklist.7"
+                },
+                {
+                  "cover": "http://i0.hdslb.com/bfs/bangumi/image/91e9534cc55aa1a6dc959e7d6d33bde970208232.png",
+                  "mask_img": "https://i0.hdslb.com/bfs/bangumi/image/001beb3d9790cd8a0dd3dbc4c1455991605484a9.png",
+                  "new_ep": {
+                    "index_show": "全24话"
+                  },
+                  "oid": 34430,
+                  "report": {
+                    "action_id": "",
+                    "content_type": "0",
+                    "index": "9",
+                    "module_area": "content",
+                    "module_id": "1962",
+                    "ogv_session_id": "83ca67be-086b-408d-a54d-60d3c11a9b35",
+                    "oid": "34430",
+                    "rank_id": "302",
+                    "season_id": "34430",
+                    "tab_type": "1"
+                  },
+                  "season_id": 34430,
+                  "season_type": 1,
+                  "sub_title": "我无敌，你随意",
+                  "title": "咒术回战",
+                  "type": "PGC",
+                  "url": "https://www.bilibili.com/bangumi/play/ss34430?from_spmid=pgc.bangumi-tab.hot-ranklist.8"
+                },
+                {
+                  "cover": "http://i0.hdslb.com/bfs/bangumi/image/aecbaaf4e3e36a2796684c2eff8ceb9b0f247c6d.jpg",
+                  "mask_img": "https://i0.hdslb.com/bfs/bangumi/image/510c079d5b5b1bfa32c98b16072a444ee7960bee.png",
+                  "new_ep": {
+                    "index_show": "全171话"
+                  },
+                  "oid": 6422,
+                  "report": {
+                    "action_id": "",
+                    "content_type": "0",
+                    "index": "10",
+                    "module_area": "content",
+                    "module_id": "1962",
+                    "ogv_session_id": "7fdc23cf-e89e-42d3-95d3-af7398821a5d",
+                    "oid": "6422",
+                    "rank_id": "302",
+                    "season_id": "6422",
+                    "tab_type": "1"
+                  },
+                  "season_id": 6422,
+                  "season_type": 1,
+                  "sub_title": "我要成为魔法帝",
+                  "title": "黑色四叶草",
+                  "type": "PGC",
+                  "url": "https://www.bilibili.com/bangumi/play/ss6422?from_spmid=pgc.bangumi-tab.hot-ranklist.9"
+                }
+              ],
+              "title": "热搜榜",
+              "type": "PGC",
+              "url": "bilibili://pgc/new_rank_list_page?index_id=101&rank_id=302&from_spmid=pgc.bangumi-tab.hot-ranklist.0"
+            },
+            {
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "5",
+                "module_area": "content",
+                "module_id": "1962",
+                "ogv_session_id": "51ea00d6-dd2b-4386-8855-8c6da548071d",
+                "oid": "",
+                "rank_id": "324",
+                "season_id": "",
+                "tab_type": "4"
+              },
+              "sub_items": [
+                {
+                  "cover": "https://i0.hdslb.com/bfs/bangumi/image/19a2d01429bcba6b31791277c016e0d1aa465974.png",
+                  "mask_img": "https://i0.hdslb.com/bfs/bangumi/image/c30b41907e4f672bf1882400a0ddc49d4e420827.png",
+                  "new_ep": {
+                    "index_show": "更新至197话"
+                  },
+                  "oid": 28747,
+                  "report": {
+                    "action_id": "",
+                    "content_type": "0",
+                    "index": "1",
+                    "module_area": "content",
+                    "module_id": "1962",
+                    "ogv_session_id": "031e6a1e-022d-4741-ac44-37d7946289fe",
+                    "oid": "28747",
+                    "rank_id": "324",
+                    "season_id": "28747",
+                    "tab_type": "4"
+                  },
+                  "season_id": 28747,
+                  "season_type": 4,
+                  "sub_title": "韩立奔赴慕兰之战",
+                  "title": "凡人修仙传",
+                  "type": "PGC",
+                  "url": "https://www.bilibili.com/bangumi/play/ss28747?from_spmid=pgc.bangumi-tab.hot-ranklist.0"
+                },
+                {
+                  "cover": "https://i0.hdslb.com/bfs/bangumi/image/32a2172ad93a82ebc9ac175c7b53b4d35c5826b6.png",
+                  "mask_img": "https://i0.hdslb.com/bfs/bangumi/image/b74b4fb243291d48598a07f0c4c04147a1757c24.png",
+                  "new_ep": {
+                    "index_show": "更新至106话"
+                  },
+                  "oid": 45969,
+                  "report": {
+                    "action_id": "",
+                    "content_type": "0",
+                    "index": "2",
+                    "module_area": "content",
+                    "module_id": "1962",
+                    "ogv_session_id": "c9b4d9c7-e903-4ca1-8c75-8591025c789b",
+                    "oid": "45969",
+                    "rank_id": "324",
+                    "season_id": "45969",
+                    "tab_type": "4"
+                  },
+                  "season_id": 45969,
+                  "season_type": 4,
+                  "sub_title": "放牛少年，放牧诸神",
+                  "title": "牧神记",
+                  "type": "PGC",
+                  "url": "https://www.bilibili.com/bangumi/play/ss45969?from_spmid=pgc.bangumi-tab.hot-ranklist.1"
+                },
+                {
+                  "cover": "http://i0.hdslb.com/bfs/bangumi/image/38e2a273f528fd01c34f1fc4df0f69c64487efad.png",
+                  "mask_img": "https://i0.hdslb.com/bfs/bangumi/image/3904224681581242696b57dde7ef54b0acc99ec5.png",
+                  "new_ep": {
+                    "index_show": "更新至1277话"
+                  },
+                  "oid": 33415,
+                  "report": {
+                    "action_id": "",
+                    "content_type": "0",
+                    "index": "3",
+                    "module_area": "content",
+                    "module_id": "1962",
+                    "ogv_session_id": "95283878-6f22-46cd-8114-7ae2439f6ac5",
+                    "oid": "33415",
+                    "rank_id": "324",
+                    "season_id": "33415",
+                    "tab_type": "1"
+                  },
+                  "season_id": 33415,
+                  "season_type": 1,
+                  "sub_title": "小学生的侦探生活",
+                  "title": "名侦探柯南（中配）",
+                  "type": "PGC",
+                  "url": "https://www.bilibili.com/bangumi/play/ss33415?from_spmid=pgc.bangumi-tab.hot-ranklist.2"
+                },
+                {
+                  "cover": "https://i0.hdslb.com/bfs/bangumi/image/f40b78e1ec68370d1e3c5fef43d4d484badff14e.png",
+                  "mask_img": "https://i0.hdslb.com/bfs/bangumi/image/c2fbbe3b086a5598e48622eb842abcefebfe0738.png",
+                  "new_ep": {
+                    "index_show": "更新至12话"
+                  },
+                  "oid": 105212,
+                  "report": {
+                    "action_id": "",
+                    "content_type": "0",
+                    "index": "4",
+                    "module_area": "content",
+                    "module_id": "1962",
+                    "ogv_session_id": "b60939c8-d55b-455a-a7b2-77935eee69a8",
+                    "oid": "105212",
+                    "rank_id": "324",
+                    "season_id": "105212",
+                    "tab_type": "4"
+                  },
+                  "season_id": 105212,
+                  "season_type": 4,
+                  "sub_title": "命运的交叉点",
+                  "title": "时光代理人 第三季",
+                  "type": "PGC",
+                  "url": "https://www.bilibili.com/bangumi/play/ss105212?from_spmid=pgc.bangumi-tab.hot-ranklist.3"
+                },
+                {
+                  "cover": "https://i0.hdslb.com/bfs/bangumi/image/254587961a6aa06c4050a15eee159beceb932897.jpg",
+                  "mask_img": "https://i0.hdslb.com/bfs/bangumi/image/480252b6b9aca6f28f17703759a1ae2a7257655b.png",
+                  "new_ep": {
+                    "index_show": "全37话"
+                  },
+                  "oid": 288157,
+                  "report": {
+                    "action_id": "",
+                    "content_type": "0",
+                    "index": "5",
+                    "module_area": "content",
+                    "module_id": "1962",
+                    "ogv_session_id": "30b64401-4e21-46a3-be8a-a20d396d46c0",
+                    "oid": "288157",
+                    "rank_id": "324",
+                    "season_id": "288157",
+                    "tab_type": "1"
+                  },
+                  "season_id": 288157,
+                  "season_type": 1,
+                  "sub_title": "英语如此简单",
+                  "title": "Wow English 第1季",
+                  "type": "PGC",
+                  "url": "https://www.bilibili.com/bangumi/play/ss288157?from_spmid=pgc.bangumi-tab.hot-ranklist.4"
+                },
+                {
+                  "cover": "http://i0.hdslb.com/bfs/bangumi/image/087b862b772ee4e644478a36c757a26db476193d.png",
+                  "mask_img": "https://i0.hdslb.com/bfs/bangumi/image/da205ed00cd562024da5f8b64eeb4fbf55d11233.png",
+                  "new_ep": {
+                    "index_show": "全200话"
+                  },
+                  "oid": 38157,
+                  "report": {
+                    "action_id": "",
+                    "content_type": "0",
+                    "index": "6",
+                    "module_area": "content",
+                    "module_id": "1962",
+                    "ogv_session_id": "0b332529-212b-4dae-a142-8006135d3220",
+                    "oid": "38157",
+                    "rank_id": "324",
+                    "season_id": "38157",
+                    "tab_type": "1"
+                  },
+                  "season_id": 38157,
+                  "season_type": 1,
+                  "sub_title": "最无厘头的热血动画",
+                  "title": "银魂",
+                  "type": "PGC",
+                  "url": "https://www.bilibili.com/bangumi/play/ss38157?from_spmid=pgc.bangumi-tab.hot-ranklist.5"
+                },
+                {
+                  "cover": "https://i0.hdslb.com/bfs/bangumi/image/865bb2f354bf64cbd711190104c7557483e2fe11.png",
+                  "mask_img": "https://i0.hdslb.com/bfs/bangumi/image/b268ef9d7fa136662a60c021a8a20d03e6824824.png",
+                  "new_ep": {
+                    "index_show": "更新至40话"
+                  },
+                  "oid": 1733,
+                  "report": {
+                    "action_id": "",
+                    "content_type": "0",
+                    "index": "7",
+                    "module_area": "content",
+                    "module_id": "1962",
+                    "ogv_session_id": "620e29fb-819a-472a-af44-77bb3333cfa2",
+                    "oid": "1733",
+                    "rank_id": "324",
+                    "season_id": "1733",
+                    "tab_type": "4"
+                  },
+                  "season_id": 1733,
+                  "season_type": 4,
+                  "sub_title": "有生之年",
+                  "title": "罗小黑战记",
+                  "type": "PGC",
+                  "url": "https://www.bilibili.com/bangumi/play/ss1733?from_spmid=pgc.bangumi-tab.hot-ranklist.6"
+                },
+                {
+                  "cover": "http://i0.hdslb.com/bfs/bangumi/image/08ee22bd12db1c9d8a878c3c6f665bc3f5758fa0.jpg",
+                  "mask_img": "https://i0.hdslb.com/bfs/bangumi/image/68c95828019e9200f5bf76c89c76b61dff48814b.png",
+                  "new_ep": {
+                    "index_show": "全12话"
+                  },
+                  "oid": 32321,
+                  "report": {
+                    "action_id": "",
+                    "content_type": "0",
+                    "index": "8",
+                    "module_area": "content",
+                    "module_id": "1962",
+                    "ogv_session_id": "cac23f68-d635-4eae-8a4a-5d8ab866fbf1",
+                    "oid": "32321",
+                    "rank_id": "324",
+                    "season_id": "32321",
+                    "tab_type": "4"
+                  },
+                  "season_id": 32321,
+                  "season_type": 4,
+                  "sub_title": "白猫少卿破奇案",
+                  "title": "大理寺日志",
+                  "type": "PGC",
+                  "url": "https://www.bilibili.com/bangumi/play/ss32321?from_spmid=pgc.bangumi-tab.hot-ranklist.7"
+                },
+                {
+                  "cover": "https://i0.hdslb.com/bfs/bangumi/image/384ef5cfc3de2dcac5fda6278ba88f7036c282b9.png",
+                  "mask_img": "https://i0.hdslb.com/bfs/bangumi/image/001beb3d9790cd8a0dd3dbc4c1455991605484a9.png",
+                  "new_ep": {
+                    "index_show": "全7话"
+                  },
+                  "oid": 73957,
+                  "report": {
+                    "action_id": "",
+                    "content_type": "0",
+                    "index": "9",
+                    "module_area": "content",
+                    "module_id": "1962",
+                    "ogv_session_id": "55a0196c-df53-4318-ba4d-5c4a28ed952f",
+                    "oid": "73957",
+                    "rank_id": "324",
+                    "season_id": "73957",
+                    "tab_type": "4"
+                  },
+                  "season_id": 73957,
+                  "season_type": 4,
+                  "sub_title": "消除BUG管理记忆",
+                  "title": "记忆管理局",
+                  "type": "PGC",
+                  "url": "https://www.bilibili.com/bangumi/play/ss73957?from_spmid=pgc.bangumi-tab.hot-ranklist.8"
+                },
+                {
+                  "cover": "http://i0.hdslb.com/bfs/bangumi/image/91e9534cc55aa1a6dc959e7d6d33bde970208232.png",
+                  "mask_img": "https://i0.hdslb.com/bfs/bangumi/image/510c079d5b5b1bfa32c98b16072a444ee7960bee.png",
+                  "new_ep": {
+                    "index_show": "全24话"
+                  },
+                  "oid": 34430,
+                  "report": {
+                    "action_id": "",
+                    "content_type": "0",
+                    "index": "10",
+                    "module_area": "content",
+                    "module_id": "1962",
+                    "ogv_session_id": "bd2495ac-d650-4509-9c2d-9f73918a92d1",
+                    "oid": "34430",
+                    "rank_id": "324",
+                    "season_id": "34430",
+                    "tab_type": "1"
+                  },
+                  "season_id": 34430,
+                  "season_type": 1,
+                  "sub_title": "我无敌，你随意",
+                  "title": "咒术回战",
+                  "type": "PGC",
+                  "url": "https://www.bilibili.com/bangumi/play/ss34430?from_spmid=pgc.bangumi-tab.hot-ranklist.9"
+                }
+              ],
+              "title": "会员榜",
+              "type": "PGC",
+              "url": "bilibili://pgc/new_rank_list_page?index_id=101&rank_id=324&from_spmid=pgc.bangumi-tab.hot-ranklist.0"
+            }
+          ],
+          "sub_title": ""
+        },
+        "report": {
+          "action_id": "",
+          "module_area": "module",
+          "module_id": "1962",
+          "module_type": "rank",
+          "ogv_session_id": "37254d0b-7bc5-4454-83fe-69deab173739"
+        },
+        "title": "热门排行榜",
+        "type": "RANK"
+      },
+      {
+        "id": 1963,
+        "module_data": {
+          "delivery_module_report": {
+            "rank_id": "302",
+            "scene": "rank_card"
+          },
+          "headers": [
+            {
+              "title": "查看更多",
+              "url": "bilibili://pgc/new_rank_list_page?index_id=101&rank_id=302"
+            }
+          ],
+          "items": [
+            {
+              "cover": "https://i0.hdslb.com/bfs/bangumi/image/19a2d01429bcba6b31791277c016e0d1aa465974.png",
+              "new_ep": {
+                "index_show": "更新至197话"
+              },
+              "oid": 28747,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "1",
+                "module_area": "content",
+                "module_id": "1963",
+                "ogv_session_id": "a8a38e41-c003-426e-8844-cd968a17970e",
+                "oid": "28747",
+                "rank_id": "302",
+                "season_id": "28747",
+                "tab_type": "4"
+              },
+              "season_id": 28747,
+              "season_type": 4,
+              "sub_title": "韩立奔赴慕兰之战",
+              "title": "凡人修仙传",
+              "type": "PGC",
+              "url": "https://www.bilibili.com/bangumi/play/ss28747?from_spmid=pgc.bangumi-tab.rank_card.0"
+            },
+            {
+              "cover": "https://i0.hdslb.com/bfs/bangumi/image/32a2172ad93a82ebc9ac175c7b53b4d35c5826b6.png",
+              "new_ep": {
+                "index_show": "更新至106话"
+              },
+              "oid": 45969,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "2",
+                "module_area": "content",
+                "module_id": "1963",
+                "ogv_session_id": "700c3a87-b283-4eaf-a241-7ccc089f2489",
+                "oid": "45969",
+                "rank_id": "302",
+                "season_id": "45969",
+                "tab_type": "4"
+              },
+              "season_id": 45969,
+              "season_type": 4,
+              "sub_title": "放牛少年，放牧诸神",
+              "title": "牧神记",
+              "type": "PGC",
+              "url": "https://www.bilibili.com/bangumi/play/ss45969?from_spmid=pgc.bangumi-tab.rank_card.0"
+            },
+            {
+              "cover": "http://i0.hdslb.com/bfs/bangumi/image/38e2a273f528fd01c34f1fc4df0f69c64487efad.png",
+              "new_ep": {
+                "index_show": "更新至1277话"
+              },
+              "oid": 33415,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "3",
+                "module_area": "content",
+                "module_id": "1963",
+                "ogv_session_id": "0c32fd5e-7a05-44c2-8b05-cd87a1e7fa9f",
+                "oid": "33415",
+                "rank_id": "302",
+                "season_id": "33415",
+                "tab_type": "1"
+              },
+              "season_id": 33415,
+              "season_type": 1,
+              "sub_title": "小学生的侦探生活",
+              "title": "名侦探柯南（中配）",
+              "type": "PGC",
+              "url": "https://www.bilibili.com/bangumi/play/ss33415?from_spmid=pgc.bangumi-tab.rank_card.0"
+            },
+            {
+              "cover": "https://i0.hdslb.com/bfs/bangumi/image/f40b78e1ec68370d1e3c5fef43d4d484badff14e.png",
+              "new_ep": {
+                "index_show": "更新至12话"
+              },
+              "oid": 105212,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "4",
+                "module_area": "content",
+                "module_id": "1963",
+                "ogv_session_id": "300fb5fd-ed52-40cb-a736-d17b44545798",
+                "oid": "105212",
+                "rank_id": "302",
+                "season_id": "105212",
+                "tab_type": "4"
+              },
+              "season_id": 105212,
+              "season_type": 4,
+              "sub_title": "命运的交叉点",
+              "title": "时光代理人 第三季",
+              "type": "PGC",
+              "url": "https://www.bilibili.com/bangumi/play/ss105212?from_spmid=pgc.bangumi-tab.rank_card.0"
+            },
+            {
+              "cover": "http://i0.hdslb.com/bfs/bangumi/image/087b862b772ee4e644478a36c757a26db476193d.png",
+              "new_ep": {
+                "index_show": "全200话"
+              },
+              "oid": 38157,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "5",
+                "module_area": "content",
+                "module_id": "1963",
+                "ogv_session_id": "f1e5e63d-dbe5-4fdc-a75d-dd514cbd2f50",
+                "oid": "38157",
+                "rank_id": "302",
+                "season_id": "38157",
+                "tab_type": "1"
+              },
+              "season_id": 38157,
+              "season_type": 1,
+              "sub_title": "最无厘头的热血动画",
+              "title": "银魂",
+              "type": "PGC",
+              "url": "https://www.bilibili.com/bangumi/play/ss38157?from_spmid=pgc.bangumi-tab.rank_card.0"
+            },
+            {
+              "cover": "http://i0.hdslb.com/bfs/bangumi/image/38e2a273f528fd01c34f1fc4df0f69c64487efad.png",
+              "new_ep": {
+                "index_show": "更新至1277话"
+              },
+              "oid": 33378,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "6",
+                "module_area": "content",
+                "module_id": "1963",
+                "ogv_session_id": "0509a017-bbe1-4a00-9390-c8ba9afac868",
+                "oid": "33378",
+                "rank_id": "302",
+                "season_id": "33378",
+                "tab_type": "1"
+              },
+              "season_id": 33378,
+              "season_type": 1,
+              "sub_title": "真相永远只有一个",
+              "title": "名侦探柯南",
+              "type": "PGC",
+              "url": "https://www.bilibili.com/bangumi/play/ss33378?from_spmid=pgc.bangumi-tab.rank_card.0"
+            },
+            {
+              "cover": "https://i0.hdslb.com/bfs/bangumi/image/88609970c53ca8a861d57f949b6897bfa27d657e.png",
+              "new_ep": {
+                "index_show": "全10话"
+              },
+              "oid": 102042,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "7",
+                "module_area": "content",
+                "module_id": "1963",
+                "ogv_session_id": "2c634b24-e603-4db1-8fdf-254a12b60038",
+                "oid": "102042",
+                "rank_id": "302",
+                "season_id": "102042",
+                "tab_type": "4"
+              },
+              "season_id": 102042,
+              "season_type": 4,
+              "sub_title": "苦黯尽燃，曙光初现",
+              "title": "明日方舟：焰烬曙明",
+              "type": "PGC",
+              "url": "https://www.bilibili.com/bangumi/play/ss102042?from_spmid=pgc.bangumi-tab.rank_card.0"
+            },
+            {
+              "cover": "https://i0.hdslb.com/bfs/bangumi/image/865bb2f354bf64cbd711190104c7557483e2fe11.png",
+              "new_ep": {
+                "index_show": "更新至40话"
+              },
+              "oid": 1733,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "8",
+                "module_area": "content",
+                "module_id": "1963",
+                "ogv_session_id": "5427c80e-97ac-44bf-86ff-785a2ccb62ca",
+                "oid": "1733",
+                "rank_id": "302",
+                "season_id": "1733",
+                "tab_type": "4"
+              },
+              "season_id": 1733,
+              "season_type": 4,
+              "sub_title": "有生之年",
+              "title": "罗小黑战记",
+              "type": "PGC",
+              "url": "https://www.bilibili.com/bangumi/play/ss1733?from_spmid=pgc.bangumi-tab.rank_card.0"
+            },
+            {
+              "cover": "http://i0.hdslb.com/bfs/bangumi/image/91e9534cc55aa1a6dc959e7d6d33bde970208232.png",
+              "new_ep": {
+                "index_show": "全24话"
+              },
+              "oid": 34430,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "9",
+                "module_area": "content",
+                "module_id": "1963",
+                "ogv_session_id": "d140ae6a-cc1e-4ac3-9eef-a82319f97e97",
+                "oid": "34430",
+                "rank_id": "302",
+                "season_id": "34430",
+                "tab_type": "1"
+              },
+              "season_id": 34430,
+              "season_type": 1,
+              "sub_title": "我无敌，你随意",
+              "title": "咒术回战",
+              "type": "PGC",
+              "url": "https://www.bilibili.com/bangumi/play/ss34430?from_spmid=pgc.bangumi-tab.rank_card.0"
+            },
+            {
+              "cover": "http://i0.hdslb.com/bfs/bangumi/image/aecbaaf4e3e36a2796684c2eff8ceb9b0f247c6d.jpg",
+              "new_ep": {
+                "index_show": "全171话"
+              },
+              "oid": 6422,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "10",
+                "module_area": "content",
+                "module_id": "1963",
+                "ogv_session_id": "0d6e2dd5-90ec-4a8e-9777-8325f8a23860",
+                "oid": "6422",
+                "rank_id": "302",
+                "season_id": "6422",
+                "tab_type": "1"
+              },
+              "season_id": 6422,
+              "season_type": 1,
+              "sub_title": "我要成为魔法帝",
+              "title": "黑色四叶草",
+              "type": "PGC",
+              "url": "https://www.bilibili.com/bangumi/play/ss6422?from_spmid=pgc.bangumi-tab.rank_card.0"
+            }
+          ]
+        },
+        "report": {
+          "action_id": "",
+          "module_area": "module",
+          "module_id": "1963",
+          "module_type": "rank_card",
+          "ogv_session_id": "cd230725-6bd1-4161-9734-cd85ab8b3d2b"
+        },
+        "title": "热搜榜",
+        "type": "RANK_CARD"
+      },
+      {
+        "id": 1963,
+        "module_data": {
+          "delivery_module_report": {
+            "rank_id": "320",
+            "scene": "rank_card"
+          },
+          "headers": [
+            {
+              "title": "查看更多",
+              "url": "bilibili://pgc/new_rank_list_page?index_id=101&rank_id=320"
+            }
+          ],
+          "items": [
+            {
+              "cover": "https://i0.hdslb.com/bfs/bangumi/image/19a2d01429bcba6b31791277c016e0d1aa465974.png",
+              "new_ep": {
+                "index_show": "更新至197话"
+              },
+              "oid": 28747,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "1",
+                "module_area": "content",
+                "module_id": "1963",
+                "ogv_session_id": "b50e1ca3-9e40-4a6e-bfd6-1f2eaf4a1703",
+                "oid": "28747",
+                "rank_id": "320",
+                "season_id": "28747",
+                "tab_type": "4"
+              },
+              "season_id": 28747,
+              "season_type": 4,
+              "sub_title": "韩立奔赴慕兰之战",
+              "title": "凡人修仙传",
+              "type": "PGC",
+              "url": "https://www.bilibili.com/bangumi/play/ss28747?from_spmid=pgc.bangumi-tab.rank_card.0"
+            },
+            {
+              "cover": "https://i0.hdslb.com/bfs/bangumi/image/dc629acf55d0b4991e428a2e1e7659e2a9848c93.png",
+              "new_ep": {
+                "index_show": "更新至13话"
+              },
+              "oid": 264970,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "2",
+                "module_area": "content",
+                "module_id": "1963",
+                "ogv_session_id": "d673b8ab-bd97-4752-918f-23dc55f8e7b7",
+                "oid": "264970",
+                "rank_id": "320",
+                "season_id": "264970",
+                "tab_type": "4"
+              },
+              "season_id": 264970,
+              "season_type": 4,
+              "sub_title": "命里因果，皆是交换",
+              "title": "财神窦占龙",
+              "type": "PGC",
+              "url": "https://www.bilibili.com/bangumi/play/ss264970?from_spmid=pgc.bangumi-tab.rank_card.0"
+            },
+            {
+              "cover": "https://i0.hdslb.com/bfs/bangumi/image/f40b78e1ec68370d1e3c5fef43d4d484badff14e.png",
+              "new_ep": {
+                "index_show": "更新至12话"
+              },
+              "oid": 105212,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "3",
+                "module_area": "content",
+                "module_id": "1963",
+                "ogv_session_id": "9afd7808-8cea-4c99-927b-91092b7e6c85",
+                "oid": "105212",
+                "rank_id": "320",
+                "season_id": "105212",
+                "tab_type": "4"
+              },
+              "season_id": 105212,
+              "season_type": 4,
+              "sub_title": "命运的交叉点",
+              "title": "时光代理人 第三季",
+              "type": "PGC",
+              "url": "https://www.bilibili.com/bangumi/play/ss105212?from_spmid=pgc.bangumi-tab.rank_card.0"
+            },
+            {
+              "cover": "https://i0.hdslb.com/bfs/bangumi/image/32a2172ad93a82ebc9ac175c7b53b4d35c5826b6.png",
+              "new_ep": {
+                "index_show": "更新至106话"
+              },
+              "oid": 45969,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "4",
+                "module_area": "content",
+                "module_id": "1963",
+                "ogv_session_id": "2d92b83d-b61b-442d-af3b-bc240ce68202",
+                "oid": "45969",
+                "rank_id": "320",
+                "season_id": "45969",
+                "tab_type": "4"
+              },
+              "season_id": 45969,
+              "season_type": 4,
+              "sub_title": "放牛少年，放牧诸神",
+              "title": "牧神记",
+              "type": "PGC",
+              "url": "https://www.bilibili.com/bangumi/play/ss45969?from_spmid=pgc.bangumi-tab.rank_card.0"
+            },
+            {
+              "cover": "http://i0.hdslb.com/bfs/bangumi/image/74bfb110a09005098e43b9e4d9f7ab5b3adaeb7f.png",
+              "new_ep": {
+                "index_show": "全12话"
+              },
+              "oid": 38417,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "5",
+                "module_area": "content",
+                "module_id": "1963",
+                "ogv_session_id": "1a361924-5bad-4bab-8cbf-aa8a9a96669d",
+                "oid": "38417",
+                "rank_id": "320",
+                "season_id": "38417",
+                "tab_type": "1"
+              },
+              "season_id": 38417,
+              "season_type": 1,
+              "sub_title": "成为债王前的二三事",
+              "title": "欧布奥特曼 原生之初",
+              "type": "PGC",
+              "url": "https://www.bilibili.com/bangumi/play/ss38417?from_spmid=pgc.bangumi-tab.rank_card.0"
+            },
+            {
+              "cover": "https://i0.hdslb.com/bfs/bangumi/image/23fabc7d3b53912eb53672ffb6b5379d77b97980.png",
+              "new_ep": {
+                "index_show": "全13话"
+              },
+              "oid": 73081,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "6",
+                "module_area": "content",
+                "module_id": "1963",
+                "ogv_session_id": "59e0283b-ef77-4150-a6ef-b8ebae2d1fff",
+                "oid": "73081",
+                "rank_id": "320",
+                "season_id": "73081",
+                "tab_type": "1"
+              },
+              "season_id": 73081,
+              "season_type": 1,
+              "sub_title": "MyGO续篇故事",
+              "title": "颂乐人偶",
+              "type": "PGC",
+              "url": "https://www.bilibili.com/bangumi/play/ss73081?from_spmid=pgc.bangumi-tab.rank_card.0"
+            },
+            {
+              "cover": "https://i0.hdslb.com/bfs/bangumi/image/2466a126362937da57729a58bf5b815ffe236dd7.png",
+              "new_ep": {
+                "index_show": "全28话"
+              },
+              "oid": 1057,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "7",
+                "module_area": "content",
+                "module_id": "1963",
+                "ogv_session_id": "7b6f046f-ee87-4c84-95d8-d5ef4321871a",
+                "oid": "1057",
+                "rank_id": "320",
+                "season_id": "1057",
+                "tab_type": "1"
+              },
+              "season_id": 1057,
+              "season_type": 1,
+              "sub_title": "挑战漫无止境的八月",
+              "title": "凉宫春日的忧郁 2009",
+              "type": "PGC",
+              "url": "https://www.bilibili.com/bangumi/play/ss1057?from_spmid=pgc.bangumi-tab.rank_card.0"
+            },
+            {
+              "cover": "http://i0.hdslb.com/bfs/bangumi/image/9870f898b8a39bbb8048f34317f8d78a02cc1770.png",
+              "new_ep": {
+                "index_show": "全15话"
+              },
+              "oid": 26257,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "8",
+                "module_area": "content",
+                "module_id": "1963",
+                "ogv_session_id": "b23ac7f1-7790-45e3-b74b-3ba64ee28668",
+                "oid": "26257",
+                "rank_id": "320",
+                "season_id": "26257",
+                "tab_type": "4"
+              },
+              "season_id": 26257,
+              "season_type": 4,
+              "sub_title": "面壁计划开启",
+              "title": "三体",
+              "type": "PGC",
+              "url": "https://www.bilibili.com/bangumi/play/ss26257?from_spmid=pgc.bangumi-tab.rank_card.0"
+            },
+            {
+              "cover": "https://i0.hdslb.com/bfs/bangumi/image/b77241be12bef1cda73c05b1202471ac0f8fbb2f.jpg",
+              "new_ep": {
+                "index_show": "更新至36话"
+              },
+              "oid": 112224,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "9",
+                "module_area": "content",
+                "module_id": "1963",
+                "ogv_session_id": "75228e6f-12dc-4ec5-95ac-e3716941d4bc",
+                "oid": "112224",
+                "rank_id": "320",
+                "season_id": "112224",
+                "tab_type": "4"
+              },
+              "season_id": 112224,
+              "season_type": 4,
+              "sub_title": "父与子的温馨日常",
+              "title": "父与子3D版",
+              "type": "PGC",
+              "url": "https://www.bilibili.com/bangumi/play/ss112224?from_spmid=pgc.bangumi-tab.rank_card.0"
+            },
+            {
+              "cover": "https://i0.hdslb.com/bfs/bangumi/image/8f3bf6b461ad4dfae2a221e5b194415d5f7ca697.png",
+              "new_ep": {
+                "index_show": "全50话"
+              },
+              "oid": 48810,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "10",
+                "module_area": "content",
+                "module_id": "1963",
+                "ogv_session_id": "2740eb8b-e7df-4b38-a084-0617035421bb",
+                "oid": "48810",
+                "rank_id": "320",
+                "season_id": "48810",
+                "tab_type": "1"
+              },
+              "season_id": 48810,
+              "season_type": 1,
+              "sub_title": "令和第六作假面骑士",
+              "title": "假面骑士加布",
+              "type": "PGC",
+              "url": "https://www.bilibili.com/bangumi/play/ss48810?from_spmid=pgc.bangumi-tab.rank_card.0"
+            }
+          ]
+        },
+        "report": {
+          "action_id": "",
+          "module_area": "module",
+          "module_id": "1963",
+          "module_type": "rank_card",
+          "ogv_session_id": "14a3f0ce-dc09-4df0-94fd-130e870d69bc"
+        },
+        "title": "热议榜",
+        "type": "RANK_CARD"
+      },
+      {
+        "id": 1963,
+        "module_data": {
+          "delivery_module_report": {
+            "rank_id": "307",
+            "scene": "rank_card"
+          },
+          "headers": [
+            {
+              "title": "查看更多",
+              "url": "bilibili://pgc/new_rank_list_page?index_id=101&rank_id=307"
+            }
+          ],
+          "items": [
+            {
+              "badge_info": {
+                "img": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+                "text_size": 0
+              },
+              "cover": "http://i0.hdslb.com/bfs/bangumi/image/0b76f67c1a9108de40db11c4fda8c870610a6a81.jpg",
+              "new_ep": {},
+              "oid": 39665,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "1",
+                "module_area": "content",
+                "module_id": "1963",
+                "ogv_session_id": "8e8f769f-5791-46b7-8d59-3b9812dd6c7d",
+                "oid": "39665",
+                "rank_id": "307",
+                "season_id": "39665",
+                "tab_type": "4"
+              },
+              "season_id": 39665,
+              "season_type": 4,
+              "sub_title": "童年经典漫画动画化",
+              "title": "偷星九月天",
+              "type": "PGC",
+              "url": "https://www.bilibili.com/bangumi/play/ss39665?from_spmid=pgc.bangumi-tab.rank_card.0"
+            },
+            {
+              "badge_info": {
+                "img": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+                "text_size": 0
+              },
+              "cover": "http://i0.hdslb.com/bfs/bangumi/image/e69e6a2f5d0b57697940e2b9b40ddc13b886525b.png",
+              "new_ep": {},
+              "oid": 39704,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "2",
+                "module_area": "content",
+                "module_id": "1963",
+                "ogv_session_id": "c89aaa83-14d0-4dda-ad0d-f97f18bc5ec8",
+                "oid": "39704",
+                "rank_id": "307",
+                "season_id": "39704",
+                "tab_type": "4"
+              },
+              "season_id": 39704,
+              "season_type": 4,
+              "sub_title": "驱魔司集结！",
+              "title": "天宝伏妖录 第三季",
+              "type": "PGC",
+              "url": "https://www.bilibili.com/bangumi/play/ss39704?from_spmid=pgc.bangumi-tab.rank_card.0"
+            },
+            {
+              "badge_info": {
+                "img": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+                "text_size": 0
+              },
+              "cover": "http://i0.hdslb.com/bfs/bangumi/image/4ab1be620e57332f3d3ec5cd456561a36be408f2.jpg",
+              "new_ep": {},
+              "oid": 28756,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "3",
+                "module_area": "content",
+                "module_id": "1963",
+                "ogv_session_id": "6cbff352-2305-4bdc-a104-16faa2f89433",
+                "oid": "28756",
+                "rank_id": "307",
+                "season_id": "28756",
+                "tab_type": "4"
+              },
+              "season_id": 28756,
+              "season_type": 4,
+              "sub_title": "自救机会仅剩一次",
+              "title": "璃心战纪",
+              "type": "PGC",
+              "url": "https://www.bilibili.com/bangumi/play/ss28756?from_spmid=pgc.bangumi-tab.rank_card.0"
+            },
+            {
+              "cover": "https://i0.hdslb.com/bfs/bangumi/image/53ba146fa859b5367e693db51385a0c6d7eca29c.png",
+              "new_ep": {},
+              "oid": 45978,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "4",
+                "module_area": "content",
+                "module_id": "1963",
+                "ogv_session_id": "7edd8de7-9890-4357-a5a7-8a03ef8975d8",
+                "oid": "45978",
+                "rank_id": "307",
+                "season_id": "45978",
+                "tab_type": "4"
+              },
+              "season_id": 45978,
+              "season_type": 4,
+              "sub_title": "时间骤停，空间破碎",
+              "title": "夜的命名术",
+              "type": "PGC",
+              "url": "https://www.bilibili.com/bangumi/play/ss45978?from_spmid=pgc.bangumi-tab.rank_card.0"
+            },
+            {
+              "badge_info": {
+                "img": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+                "text_size": 0
+              },
+              "cover": "http://i0.hdslb.com/bfs/bangumi/image/3b1d98d911528ab2f134206e3678d3a30d35603c.png",
+              "new_ep": {},
+              "oid": 35204,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "5",
+                "module_area": "content",
+                "module_id": "1963",
+                "ogv_session_id": "45d41aa9-379a-4289-bed4-7bfd00929c58",
+                "oid": "35204",
+                "rank_id": "307",
+                "season_id": "35204",
+                "tab_type": "4"
+              },
+              "season_id": 35204,
+              "season_type": 4,
+              "sub_title": "重工冒险，重装启动",
+              "title": "扳手少年",
+              "type": "PGC",
+              "url": "https://www.bilibili.com/bangumi/play/ss35204?from_spmid=pgc.bangumi-tab.rank_card.0"
+            },
+            {
+              "cover": "https://i0.hdslb.com/bfs/bangumi/image/820d60bdd43982046adbf282b495bbe766fcdc66.png",
+              "new_ep": {},
+              "oid": 73962,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "6",
+                "module_area": "content",
+                "module_id": "1963",
+                "ogv_session_id": "5593f5b1-7418-478b-bd2f-01433ea52dca",
+                "oid": "73962",
+                "rank_id": "307",
+                "season_id": "73962",
+                "tab_type": "4"
+              },
+              "season_id": 73962,
+              "season_type": 4,
+              "sub_title": "拥抱你的太阳",
+              "title": "难哄",
+              "type": "PGC",
+              "url": "https://www.bilibili.com/bangumi/play/ss73962?from_spmid=pgc.bangumi-tab.rank_card.0"
+            },
+            {
+              "badge_info": {
+                "img": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+                "text_size": 0
+              },
+              "cover": "http://i0.hdslb.com/bfs/bangumi/image/f426781eef65d6baab8c3ad5ed464c32337ada88.jpg",
+              "new_ep": {},
+              "oid": 38025,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "7",
+                "module_area": "content",
+                "module_id": "1963",
+                "ogv_session_id": "a3672693-38f5-4ff4-9bd0-11d824f3dc7c",
+                "oid": "38025",
+                "rank_id": "307",
+                "season_id": "38025",
+                "tab_type": "4"
+              },
+              "season_id": 38025,
+              "season_type": 4,
+              "sub_title": "突破自我，梦想实现",
+              "title": "飞吧！篮球",
+              "type": "PGC",
+              "url": "https://www.bilibili.com/bangumi/play/ss38025?from_spmid=pgc.bangumi-tab.rank_card.0"
+            },
+            {
+              "badge_info": {
+                "img": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+                "text_size": 0
+              },
+              "cover": "https://i0.hdslb.com/bfs/bangumi/image/2af5cdb016cb8000c0abcf2fefaf9dc52097e125.png",
+              "new_ep": {},
+              "oid": 43372,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "8",
+                "module_area": "content",
+                "module_id": "1963",
+                "ogv_session_id": "d4de65c2-8f1a-4ad5-9970-88c982b2d3dd",
+                "oid": "43372",
+                "rank_id": "307",
+                "season_id": "43372",
+                "tab_type": "4"
+              },
+              "season_id": 43372,
+              "season_type": 4,
+              "sub_title": "天地为盘，众生为子",
+              "title": "洪荒志之青丘劫云",
+              "type": "PGC",
+              "url": "https://www.bilibili.com/bangumi/play/ss43372?from_spmid=pgc.bangumi-tab.rank_card.0"
+            },
+            {
+              "badge_info": {
+                "img": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+                "text_size": 0
+              },
+              "cover": "http://i0.hdslb.com/bfs/bangumi/image/2599a7da8e5316605a8f2b8dee5f409f25b0a03f.jpg",
+              "new_ep": {},
+              "oid": 43365,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "9",
+                "module_area": "content",
+                "module_id": "1963",
+                "ogv_session_id": "1c4587d7-4282-45ff-b950-ea28c205eac7",
+                "oid": "43365",
+                "rank_id": "307",
+                "season_id": "43365",
+                "tab_type": "4"
+              },
+              "season_id": 43365,
+              "season_type": 4,
+              "sub_title": "眼盲少年，成仙称帝",
+              "title": "临渊行",
+              "type": "PGC",
+              "url": "https://www.bilibili.com/bangumi/play/ss43365?from_spmid=pgc.bangumi-tab.rank_card.0"
+            },
+            {
+              "badge_info": {
+                "img": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+                "text_size": 0
+              },
+              "cover": "https://i0.hdslb.com/bfs/bangumi/image/7a56479787afb584f2fc915c296f80195bd6e9ff.png",
+              "new_ep": {},
+              "oid": 45963,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "10",
+                "module_area": "content",
+                "module_id": "1963",
+                "ogv_session_id": "31f55cd2-0ee0-4e98-923f-73c34a65a898",
+                "oid": "45963",
+                "rank_id": "307",
+                "season_id": "45963",
+                "tab_type": "4"
+              },
+              "season_id": 45963,
+              "season_type": 4,
+              "sub_title": "重生追求武道巅峰",
+              "title": "九鼎记",
+              "type": "PGC",
+              "url": "https://www.bilibili.com/bangumi/play/ss45963?from_spmid=pgc.bangumi-tab.rank_card.0"
+            }
+          ]
+        },
+        "report": {
+          "action_id": "",
+          "module_area": "module",
+          "module_id": "1963",
+          "module_type": "rank_card",
+          "ogv_session_id": "0879ccde-21b5-475c-8949-69b44e852791"
+        },
+        "title": "期待榜",
+        "type": "RANK_CARD"
+      },
+      {
+        "id": 1963,
+        "module_data": {
+          "delivery_module_report": {
+            "rank_id": "313",
+            "scene": "rank_card"
+          },
+          "headers": [
+            {
+              "title": "查看更多",
+              "url": "bilibili://pgc/new_rank_list_page?index_id=101&rank_id=313"
+            }
+          ],
+          "items": [
+            {
+              "cover": "https://i0.hdslb.com/bfs/bangumi/image/f40b78e1ec68370d1e3c5fef43d4d484badff14e.png",
+              "new_ep": {
+                "index_show": "更新至12话"
+              },
+              "oid": 105212,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "1",
+                "module_area": "content",
+                "module_id": "1963",
+                "ogv_session_id": "ad32cec9-49c5-47d0-98b9-c01dd59d7fac",
+                "oid": "105212",
+                "rank_id": "313",
+                "season_id": "105212",
+                "tab_type": "4"
+              },
+              "season_id": 105212,
+              "season_type": 4,
+              "sub_title": "命运的交叉点",
+              "title": "时光代理人 第三季",
+              "type": "PGC",
+              "url": "https://www.bilibili.com/bangumi/play/ss105212?from_spmid=pgc.bangumi-tab.rank_card.0"
+            },
+            {
+              "cover": "http://i0.hdslb.com/bfs/bangumi/image/aecbaaf4e3e36a2796684c2eff8ceb9b0f247c6d.jpg",
+              "new_ep": {
+                "index_show": "全171话"
+              },
+              "oid": 6422,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "2",
+                "module_area": "content",
+                "module_id": "1963",
+                "ogv_session_id": "a980c153-dac5-40f0-bb08-6e9c763af903",
+                "oid": "6422",
+                "rank_id": "313",
+                "season_id": "6422",
+                "tab_type": "1"
+              },
+              "season_id": 6422,
+              "season_type": 1,
+              "sub_title": "我要成为魔法帝",
+              "title": "黑色四叶草",
+              "type": "PGC",
+              "url": "https://www.bilibili.com/bangumi/play/ss6422?from_spmid=pgc.bangumi-tab.rank_card.0"
+            },
+            {
+              "cover": "https://i0.hdslb.com/bfs/bangumi/image/865bb2f354bf64cbd711190104c7557483e2fe11.png",
+              "new_ep": {
+                "index_show": "更新至40话"
+              },
+              "oid": 1733,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "3",
+                "module_area": "content",
+                "module_id": "1963",
+                "ogv_session_id": "98e401a1-5bb9-4aff-9ab3-a5b50cafa019",
+                "oid": "1733",
+                "rank_id": "313",
+                "season_id": "1733",
+                "tab_type": "4"
+              },
+              "season_id": 1733,
+              "season_type": 4,
+              "sub_title": "有生之年",
+              "title": "罗小黑战记",
+              "type": "PGC",
+              "url": "https://www.bilibili.com/bangumi/play/ss1733?from_spmid=pgc.bangumi-tab.rank_card.0"
+            },
+            {
+              "cover": "http://i0.hdslb.com/bfs/bangumi/image/91e9534cc55aa1a6dc959e7d6d33bde970208232.png",
+              "new_ep": {
+                "index_show": "全24话"
+              },
+              "oid": 34430,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "4",
+                "module_area": "content",
+                "module_id": "1963",
+                "ogv_session_id": "6e8ce6eb-3650-4885-b0db-bc14e5e6db34",
+                "oid": "34430",
+                "rank_id": "313",
+                "season_id": "34430",
+                "tab_type": "1"
+              },
+              "season_id": 34430,
+              "season_type": 1,
+              "sub_title": "我无敌，你随意",
+              "title": "咒术回战",
+              "type": "PGC",
+              "url": "https://www.bilibili.com/bangumi/play/ss34430?from_spmid=pgc.bangumi-tab.rank_card.0"
+            },
+            {
+              "cover": "https://i0.hdslb.com/bfs/bangumi/image/dc629acf55d0b4991e428a2e1e7659e2a9848c93.png",
+              "new_ep": {
+                "index_show": "更新至13话"
+              },
+              "oid": 264970,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "5",
+                "module_area": "content",
+                "module_id": "1963",
+                "ogv_session_id": "2590180e-b585-41bc-9a4a-09a5a1b8f470",
+                "oid": "264970",
+                "rank_id": "313",
+                "season_id": "264970",
+                "tab_type": "4"
+              },
+              "season_id": 264970,
+              "season_type": 4,
+              "sub_title": "命里因果，皆是交换",
+              "title": "财神窦占龙",
+              "type": "PGC",
+              "url": "https://www.bilibili.com/bangumi/play/ss264970?from_spmid=pgc.bangumi-tab.rank_card.0"
+            },
+            {
+              "cover": "https://i0.hdslb.com/bfs/bangumi/image/69683aa3df3dbfc946afc0526296e8c80dfdfed3.png",
+              "new_ep": {
+                "index_show": "全23话"
+              },
+              "oid": 45574,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "6",
+                "module_area": "content",
+                "module_id": "1963",
+                "ogv_session_id": "d3d0e3eb-2722-45c5-9e75-26d8882240e6",
+                "oid": "45574",
+                "rank_id": "313",
+                "season_id": "45574",
+                "tab_type": "1"
+              },
+              "season_id": 45574,
+              "season_type": 1,
+              "sub_title": "天上天下，唯我独尊",
+              "title": "咒术回战 第二季",
+              "type": "PGC",
+              "url": "https://www.bilibili.com/bangumi/play/ss45574?from_spmid=pgc.bangumi-tab.rank_card.0"
+            },
+            {
+              "cover": "http://i0.hdslb.com/bfs/bangumi/image/8f96b3cb7a5018f7fb077549248568e2fcac3b2a.jpg",
+              "new_ep": {
+                "index_show": "全96话"
+              },
+              "oid": 24298,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "7",
+                "module_area": "content",
+                "module_id": "1963",
+                "ogv_session_id": "aaacbf8e-e61e-436e-9810-f2e7d76cffeb",
+                "oid": "24298",
+                "rank_id": "313",
+                "season_id": "24298",
+                "tab_type": "4"
+              },
+              "season_id": 24298,
+              "season_type": 4,
+              "sub_title": "神话人物的日常生活",
+              "title": "非人哉",
+              "type": "PGC",
+              "url": "https://www.bilibili.com/bangumi/play/ss24298?from_spmid=pgc.bangumi-tab.rank_card.0"
+            },
+            {
+              "cover": "https://i0.hdslb.com/bfs/bangumi/image/2f316f95787450b989c2d98a45d535c5b873d161.png",
+              "new_ep": {
+                "index_show": "全13话"
+              },
+              "oid": 336505,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "8",
+                "module_area": "content",
+                "module_id": "1963",
+                "ogv_session_id": "cc50544a-73ec-4eb2-92cb-7a2c3cc13261",
+                "oid": "336505",
+                "rank_id": "313",
+                "season_id": "336505",
+                "tab_type": "1"
+              },
+              "season_id": 336505,
+              "season_type": 1,
+              "sub_title": "少年获得神奇手表",
+              "title": "少年骇客 第四季 中文配音",
+              "type": "PGC",
+              "url": "https://www.bilibili.com/bangumi/play/ss336505?from_spmid=pgc.bangumi-tab.rank_card.0"
+            },
+            {
+              "cover": "http://i0.hdslb.com/bfs/bangumi/6a04c87e990ab74cd8d555ef45a863de0993b161.png",
+              "new_ep": {
+                "index_show": "全39话"
+              },
+              "oid": 5398,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "9",
+                "module_area": "content",
+                "module_id": "1963",
+                "ogv_session_id": "6dc03355-0a63-438b-b660-0dc01704d849",
+                "oid": "5398",
+                "rank_id": "313",
+                "season_id": "5398",
+                "tab_type": "1"
+              },
+              "season_id": 5398,
+              "season_type": 1,
+              "sub_title": "不一样的热血动画",
+              "title": "JOJO的奇妙冒险 不灭钻石",
+              "type": "PGC",
+              "url": "https://www.bilibili.com/bangumi/play/ss5398?from_spmid=pgc.bangumi-tab.rank_card.0"
+            },
+            {
+              "badge_info": {
+                "img": "",
+                "text_size": 0
+              },
+              "cover": "http://i0.hdslb.com/bfs/bangumi/0c39256b7c701547a0ce7082740dc082a50c9e68.jpg",
+              "new_ep": {
+                "index_show": "全167话"
+              },
+              "oid": 28324,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "10",
+                "module_area": "content",
+                "module_id": "1963",
+                "ogv_session_id": "f579301b-6156-4ffe-aa33-e61578ad078c",
+                "oid": "28324",
+                "rank_id": "313",
+                "season_id": "28324",
+                "tab_type": "1"
+              },
+              "season_id": 28324,
+              "season_type": 1,
+              "sub_title": "带你穿越回童年",
+              "title": "犬夜叉",
+              "type": "PGC",
+              "url": "https://www.bilibili.com/bangumi/play/ss28324?from_spmid=pgc.bangumi-tab.rank_card.0"
+            }
+          ]
+        },
+        "report": {
+          "action_id": "",
+          "module_area": "module",
+          "module_id": "1963",
+          "module_type": "rank_card",
+          "ogv_session_id": "2f7f37ee-aeb0-47e5-982d-30e15eedd9f6"
+        },
+        "title": "奇幻榜",
+        "type": "RANK_CARD"
+      },
+      {
+        "id": 1963,
+        "module_data": {
+          "delivery_module_report": {
+            "rank_id": "315",
+            "scene": "rank_card"
+          },
+          "headers": [
+            {
+              "title": "查看更多",
+              "url": "bilibili://pgc/new_rank_list_page?index_id=101&rank_id=315"
+            }
+          ],
+          "items": [
+            {
+              "badge_info": {
+                "img": "",
+                "text_size": 0
+              },
+              "cover": "https://i0.hdslb.com/bfs/bangumi/image/ab2994c0c74a2227b1ab16189bc4d9cb9beb9434.jpg",
+              "new_ep": {
+                "index_show": "更新至645话"
+              },
+              "oid": 42073,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "1",
+                "module_area": "content",
+                "module_id": "1963",
+                "ogv_session_id": "bf64275b-b135-4675-a4a2-a7635dac2e00",
+                "oid": "42073",
+                "rank_id": "315",
+                "season_id": "42073",
+                "tab_type": "4"
+              },
+              "season_id": 42073,
+              "season_type": 4,
+              "sub_title": "你的粮食科普大师",
+              "title": "小魔国漫大百科",
+              "type": "PGC",
+              "url": "https://www.bilibili.com/bangumi/play/ss42073?from_spmid=pgc.bangumi-tab.rank_card.0"
+            },
+            {
+              "cover": "https://i0.hdslb.com/bfs/bangumi/image/dcea358cba5d91ab75d556aa7675faf862f77afe.png",
+              "new_ep": {
+                "index_show": "全72话"
+              },
+              "oid": 39947,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "2",
+                "module_area": "content",
+                "module_id": "1963",
+                "ogv_session_id": "94053bd5-6f00-4787-9312-e33a6512f70a",
+                "oid": "39947",
+                "rank_id": "315",
+                "season_id": "39947",
+                "tab_type": "4"
+              },
+              "season_id": 39947,
+              "season_type": 4,
+              "sub_title": "神兽下凡，福瑞相伴",
+              "title": "有兽焉",
+              "type": "PGC",
+              "url": "https://www.bilibili.com/bangumi/play/ss39947?from_spmid=pgc.bangumi-tab.rank_card.0"
+            },
+            {
+              "badge_info": {
+                "img": "",
+                "text_size": 0
+              },
+              "cover": "http://i0.hdslb.com/bfs/bangumi/0f74eddb7755ad86d8f6237e37510830b409a748.jpg",
+              "new_ep": {
+                "index_show": "更新至番外"
+              },
+              "oid": 26015,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "3",
+                "module_area": "content",
+                "module_id": "1963",
+                "ogv_session_id": "ec6ec2cc-931b-408d-8c86-9b301de86dc2",
+                "oid": "26015",
+                "rank_id": "315",
+                "season_id": "26015",
+                "tab_type": "4"
+              },
+              "season_id": 26015,
+              "season_type": 4,
+              "sub_title": "王者峡谷爆笑对战",
+              "title": "王者？别闹！",
+              "type": "PGC",
+              "url": "https://www.bilibili.com/bangumi/play/ss26015?from_spmid=pgc.bangumi-tab.rank_card.0"
+            },
+            {
+              "cover": "https://i0.hdslb.com/bfs/bangumi/image/865bb2f354bf64cbd711190104c7557483e2fe11.png",
+              "new_ep": {
+                "index_show": "更新至40话"
+              },
+              "oid": 1733,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "4",
+                "module_area": "content",
+                "module_id": "1963",
+                "ogv_session_id": "2894f373-f88b-4168-8ef2-484f90d95a79",
+                "oid": "1733",
+                "rank_id": "315",
+                "season_id": "1733",
+                "tab_type": "4"
+              },
+              "season_id": 1733,
+              "season_type": 4,
+              "sub_title": "有生之年",
+              "title": "罗小黑战记",
+              "type": "PGC",
+              "url": "https://www.bilibili.com/bangumi/play/ss1733?from_spmid=pgc.bangumi-tab.rank_card.0"
+            },
+            {
+              "badge_info": {
+                "img": "",
+                "text_size": 0
+              },
+              "cover": "http://i0.hdslb.com/bfs/bangumi/image/a1b5c728fd5cc0a608cecf5263e23966f69a2c8f.jpg",
+              "new_ep": {
+                "index_show": "更新至354话"
+              },
+              "oid": 38436,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "5",
+                "module_area": "content",
+                "module_id": "1963",
+                "ogv_session_id": "5011f454-4578-4127-a223-e85e50a6bbc9",
+                "oid": "38436",
+                "rank_id": "315",
+                "season_id": "38436",
+                "tab_type": "4"
+              },
+              "season_id": 38436,
+              "season_type": 4,
+              "sub_title": "打开美食世界的大门",
+              "title": "元气食堂",
+              "type": "PGC",
+              "url": "https://www.bilibili.com/bangumi/play/ss38436?from_spmid=pgc.bangumi-tab.rank_card.0"
+            },
+            {
+              "badge_info": {
+                "img": "",
+                "text_size": 0
+              },
+              "cover": "http://i0.hdslb.com/bfs/bangumi/image/ba995de207e31eab79ebfe12ac41d9db9120dfe6.png",
+              "new_ep": {
+                "index_show": "更新至307话"
+              },
+              "oid": 41187,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "6",
+                "module_area": "content",
+                "module_id": "1963",
+                "ogv_session_id": "c6ade76d-2404-4e1e-9aa0-04d46ddf5af5",
+                "oid": "41187",
+                "rank_id": "315",
+                "season_id": "41187",
+                "tab_type": "4"
+              },
+              "season_id": 41187,
+              "season_type": 4,
+              "sub_title": "科普历史冷知识",
+              "title": "小小朱历史课",
+              "type": "PGC",
+              "url": "https://www.bilibili.com/bangumi/play/ss41187?from_spmid=pgc.bangumi-tab.rank_card.0"
+            },
+            {
+              "cover": "http://i0.hdslb.com/bfs/bangumi/cbb20ee03e97a9f3ad2e1506a10fd1271f1c584a.jpg",
+              "new_ep": {
+                "index_show": "全100话"
+              },
+              "oid": 2543,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "7",
+                "module_area": "content",
+                "module_id": "1963",
+                "ogv_session_id": "6e56fdb2-1b7e-43e5-ba3e-d0906029261b",
+                "oid": "2543",
+                "rank_id": "315",
+                "season_id": "2543",
+                "tab_type": "4"
+              },
+              "season_id": 2543,
+              "season_type": 4,
+              "sub_title": "可爱狐妖为你牵红线",
+              "title": "狐妖小红娘",
+              "type": "PGC",
+              "url": "https://www.bilibili.com/bangumi/play/ss2543?from_spmid=pgc.bangumi-tab.rank_card.0"
+            },
+            {
+              "cover": "https://i0.hdslb.com/bfs/bangumi/image/5d8d1f7613f9b5ffc3cec898a7daf032e67ae052.png",
+              "new_ep": {
+                "index_show": "全40话"
+              },
+              "oid": 28758,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "8",
+                "module_area": "content",
+                "module_id": "1963",
+                "ogv_session_id": "121ead54-5245-4849-a32c-1a709e214c1f",
+                "oid": "28758",
+                "rank_id": "315",
+                "season_id": "28758",
+                "tab_type": "4"
+              },
+              "season_id": 28758,
+              "season_type": 4,
+              "sub_title": "穿越成猫耳魔法师",
+              "title": "猫之茗",
+              "type": "PGC",
+              "url": "https://www.bilibili.com/bangumi/play/ss28758?from_spmid=pgc.bangumi-tab.rank_card.0"
+            },
+            {
+              "badge_info": {
+                "img": "",
+                "text_size": 0
+              },
+              "cover": "http://i0.hdslb.com/bfs/bangumi/e6cf75db82e292f7b5ca29c96767464c686dc94d.jpg",
+              "new_ep": {
+                "index_show": "全38话"
+              },
+              "oid": 25469,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "9",
+                "module_area": "content",
+                "module_id": "1963",
+                "ogv_session_id": "9748d8a9-ae47-4a90-8d3b-d628d5aaf5a2",
+                "oid": "25469",
+                "rank_id": "315",
+                "season_id": "25469",
+                "tab_type": "4"
+              },
+              "season_id": 25469,
+              "season_type": 4,
+              "sub_title": "用喵看历史",
+              "title": "如果历史是一群喵 1-3季",
+              "type": "PGC",
+              "url": "https://www.bilibili.com/bangumi/play/ss25469?from_spmid=pgc.bangumi-tab.rank_card.0"
+            },
+            {
+              "badge_info": {
+                "img": "",
+                "text_size": 0
+              },
+              "cover": "http://i0.hdslb.com/bfs/bangumi/ddb029703d0838000c3b7e2e39718a36dbbdcb77.jpg",
+              "new_ep": {
+                "index_show": "全12话"
+              },
+              "oid": 1689,
+              "report": {
+                "action_id": "",
+                "content_type": "0",
+                "index": "10",
+                "module_area": "content",
+                "module_id": "1963",
+                "ogv_session_id": "60e45791-377a-4709-8f05-0ab223b4f9f9",
+                "oid": "1689",
+                "rank_id": "315",
+                "season_id": "1689",
+                "tab_type": "4"
+              },
+              "season_id": 1689,
+              "season_type": 4,
+              "sub_title": "用兔看历史",
+              "title": "那年那兔那些事儿 第一季",
+              "type": "PGC",
+              "url": "https://www.bilibili.com/bangumi/play/ss1689?from_spmid=pgc.bangumi-tab.rank_card.0"
+            }
+          ]
+        },
+        "report": {
+          "action_id": "",
+          "module_area": "module",
+          "module_id": "1963",
+          "module_type": "rank_card",
+          "ogv_session_id": "64badcb9-d254-4ed9-86fd-f940681c8bfc"
+        },
+        "title": "萌系榜",
+        "type": "RANK_CARD"
+      },
+      {
+        "id": 400001,
+        "module_data": {
+          "items": [
+            {
+              "badge_info": {
+                "img": "",
+                "text_size": 0
+              },
+              "cover": "https://i0.hdslb.com/bfs/bangumi/image/109eee2a22c4a14f95f76367dd1ff1821bbe6775.png",
+              "ep_id": 2523174,
+              "feedback_source": 2,
+              "from_spmid": "pgc.bangumi-tab.recommend.inline",
+              "item_type": "big_card",
+              "oid": 2523174,
+              "rcmd_oid": 2523174,
+              "rcmd_otype": 10,
+              "report": {
+                "module_area": "content",
+                "card_material_type": "1",
+                "module_type": "double_feed",
+                "trackid": "2502edb7-216e-491e-bbcf-c8f60f039672",
+                "index": "1",
+                "epid": "2523174",
+                "season_id": "125974",
+                "oid": "2523174",
+                "rid": "a1fdbeee-6af7-442a-8ecf-7d7ae03f887c",
+                "card_type": "double_feed",
+                "material_no": "5381566746842058132",
+                "card_material_id": "21000000000376057",
+                "module_id": "1845",
+                "season_type": "4",
+                "content_type": "0",
+                "action_id": "",
+                "ogv_session_id": "2512b4c1-2000-49f2-a14e-93348e3c328c",
+                "lsource": "1011019",
+                "track_id": "2502edb7-216e-491e-bbcf-c8f60f039672",
+                "position_id": "2"
+              },
+              "season_id": 125974,
+              "season_type": 4,
+              "spmid": "pgc.bangumi-tab.recommend.inline",
+              "status": {
+                "follow": 0
+              },
+              "sub_title": "国创·少儿",
+              "title": "熊仔之寻绿战纪",
+              "url": "https://www.bilibili.com/bangumi/play/ep2523174?track_id=2502edb7-216e-491e-bbcf-c8f60f039672&trackid=2502edb7-216e-491e-bbcf-c8f60f039672&from_spmid=pgc.bangumi-tab.recommend.inline",
+              "v_cover": "https://i0.hdslb.com/bfs/bangumi/image/a74fdd7d662c344986ae1318d77591f8e9fcf4b7.png"
+            }
+          ]
+        },
+        "report": {
+          "module_area": "content",
+          "card_material_type": "1",
+          "module_type": "double_feed",
+          "trackid": "2502edb7-216e-491e-bbcf-c8f60f039672",
+          "index": "1",
+          "epid": "2523174",
+          "season_id": "125974",
+          "oid": "2523174",
+          "rid": "a1fdbeee-6af7-442a-8ecf-7d7ae03f887c",
+          "card_type": "double_feed",
+          "material_no": "5381566746842058132",
+          "card_material_id": "21000000000376057",
+          "module_id": "1845",
+          "season_type": "4",
+          "content_type": "0",
+          "action_id": "",
+          "ogv_session_id": "2512b4c1-2000-49f2-a14e-93348e3c328c",
+          "lsource": "1011019",
+          "track_id": "2502edb7-216e-491e-bbcf-c8f60f039672",
+          "position_id": "2"
+        },
+        "title": "猜你喜欢",
+        "type": "FALL_FEED"
+      },
+      {
+        "id": 1845,
+        "module_data": {
+          "items": [
+            {
+              "cover": "http://i0.hdslb.com/bfs/archive/5ac571880f996eead5af559de2509228e20164cf.jpg",
+              "ep_id": 733316,
+              "feedback_source": 2,
+              "item_type": "card",
+              "oid": 733316,
+              "rcmd_oid": 733316,
+              "rcmd_otype": 2,
+              "report": {
+                "module_area": "content",
+                "card_material_type": "1",
+                "module_type": "double_feed",
+                "trackid": "6fb80b52-66cb-4029-afc9-e1d3efdc635e",
+                "index": "3",
+                "epid": "733316",
+                "season_id": "28747",
+                "oid": "733316",
+                "rid": "a1fdbeee-6af7-442a-8ecf-7d7ae03f887c",
+                "card_type": "double_feed",
+                "card_material_id": "10000000000963624",
+                "module_id": "1845",
+                "season_type": "",
+                "content_type": "0",
+                "reason_type": "3",
+                "action_id": "",
+                "ogv_session_id": "e2900a45-2bc6-4d9f-9e3e-6ba0a444d125",
+                "lsource": "64",
+                "track_id": "6fb80b52-66cb-4029-afc9-e1d3efdc635e",
+                "position_id": "4"
+              },
+              "season_id": 28747,
+              "sub_title": "349万评论热议中",
+              "title": "凡人修仙传",
+              "url": "https://www.bilibili.com/bangumi/play/ep733316?track_id=6fb80b52-66cb-4029-afc9-e1d3efdc635e&trackid=6fb80b52-66cb-4029-afc9-e1d3efdc635e&from_spmid=pgc.bangumi-tab.recommend.0"
+            },
+            {
+              "cover": "https://i0.hdslb.com/bfs/bangumi/image/0d074ff70b4ead90556ad9e08686238f835f1bea.png",
+              "ep_id": 836727,
+              "feedback_source": 2,
+              "item_type": "card",
+              "oid": 836727,
+              "rcmd_oid": 836727,
+              "rcmd_otype": 2,
+              "report": {
+                "module_area": "content",
+                "card_material_type": "1",
+                "module_type": "double_feed",
+                "trackid": "54e80180-5697-4c7b-b61c-bfe69747055b",
+                "index": "5",
+                "epid": "836727",
+                "season_id": "45969",
+                "oid": "836727",
+                "rid": "a1fdbeee-6af7-442a-8ecf-7d7ae03f887c",
+                "card_type": "double_feed",
+                "card_material_id": "20800000000336105",
+                "module_id": "1845",
+                "season_type": "",
+                "content_type": "0",
+                "reason_type": "2",
+                "action_id": "",
+                "ogv_session_id": "67eb01bd-8187-455e-a0e4-bc03eb9d7b82",
+                "lsource": "64",
+                "track_id": "54e80180-5697-4c7b-b61c-bfe69747055b",
+                "position_id": "6"
+              },
+              "season_id": 45969,
+              "sub_title": "420万弹幕热议中",
+              "title": "牧神记",
+              "url": "https://www.bilibili.com/bangumi/play/ep836727?track_id=54e80180-5697-4c7b-b61c-bfe69747055b&trackid=54e80180-5697-4c7b-b61c-bfe69747055b&from_spmid=pgc.bangumi-tab.recommend.0"
+            }
+          ]
+        },
+        "report": {
+          "module_id": "1845",
+          "module_type": "double_feed"
+        },
+        "type": "DOUBLE_FEED"
+      },
+      {
+        "id": 1845,
+        "module_data": {
+          "items": [
+            {
+              "cover": "http://i0.hdslb.com/bfs/archive/5318044afa02c4efe117bfb89a65995fa3766c22.jpg",
+              "ep_id": 323085,
+              "feedback_source": 2,
+              "item_type": "card",
+              "oid": 323085,
+              "rcmd_oid": 323085,
+              "rcmd_otype": 2,
+              "report": {
+                "module_area": "content",
+                "card_material_type": "1",
+                "module_type": "double_feed",
+                "trackid": "9b90c94a-de95-439b-8689-c66cbfde05f7",
+                "index": "7",
+                "epid": "323085",
+                "season_id": "33415",
+                "oid": "323085",
+                "rid": "a1fdbeee-6af7-442a-8ecf-7d7ae03f887c",
+                "card_type": "double_feed",
+                "card_material_id": "21400000000040920",
+                "module_id": "1845",
+                "season_type": "",
+                "content_type": "0",
+                "reason_type": "2",
+                "action_id": "",
+                "ogv_session_id": "099cb45d-f1a2-4c50-b31e-94675218cd98",
+                "lsource": "64",
+                "track_id": "9b90c94a-de95-439b-8689-c66cbfde05f7",
+                "position_id": "8"
+              },
+              "season_id": 33415,
+              "sub_title": "2323万弹幕热议中",
+              "title": "名侦探柯南（中配）",
+              "url": "https://www.bilibili.com/bangumi/play/ep323085?track_id=9b90c94a-de95-439b-8689-c66cbfde05f7&trackid=9b90c94a-de95-439b-8689-c66cbfde05f7&from_spmid=pgc.bangumi-tab.recommend.0"
+            },
+            {
+              "cover": "http://i0.hdslb.com/bfs/archive/b38c951a783a94cda3db94ddadcae27544f055a6.png",
+              "ep_id": 5137671,
+              "feedback_source": 2,
+              "item_type": "card",
+              "oid": 5137671,
+              "rcmd_oid": 5137671,
+              "rcmd_otype": 2,
+              "report": {
+                "module_area": "content",
+                "card_material_type": "1",
+                "module_type": "double_feed",
+                "trackid": "df7a042f-9491-4880-9c2c-ca6793b2c392",
+                "index": "9",
+                "epid": "5137671",
+                "season_id": "105212",
+                "oid": "5137671",
+                "rid": "a1fdbeee-6af7-442a-8ecf-7d7ae03f887c",
+                "card_type": "double_feed",
+                "card_material_id": "21600000000392434",
+                "module_id": "1845",
+                "season_type": "",
+                "content_type": "0",
+                "reason_type": "4",
+                "action_id": "",
+                "ogv_session_id": "0a8af854-8b2f-4860-a8de-521b728dc686",
+                "lsource": "64",
+                "track_id": "df7a042f-9491-4880-9c2c-ca6793b2c392",
+                "position_id": "10"
+              },
+              "season_id": 105212,
+              "sub_title": "1112万追番",
+              "title": "时光代理人 第三季",
+              "url": "https://www.bilibili.com/bangumi/play/ep5137671?track_id=df7a042f-9491-4880-9c2c-ca6793b2c392&trackid=df7a042f-9491-4880-9c2c-ca6793b2c392&from_spmid=pgc.bangumi-tab.recommend.0"
+            }
+          ]
+        },
+        "report": {
+          "module_id": "1845",
+          "module_type": "double_feed"
+        },
+        "type": "DOUBLE_FEED"
+      },
+      {
+        "id": 1845,
+        "module_data": {
+          "items": [
+            {
+              "cover": "http://i0.hdslb.com/bfs/archive/dc97be9f28dbb12477f596a19f17e39ec1dca6db.jpg",
+              "ep_id": 4883702,
+              "feedback_source": 2,
+              "item_type": "card",
+              "oid": 4883702,
+              "rcmd_oid": 4883702,
+              "rcmd_otype": 2,
+              "report": {
+                "module_area": "content",
+                "card_material_type": "1",
+                "module_type": "double_feed",
+                "trackid": "62d2084d-3389-4d17-a450-75136047ddd7",
+                "index": "11",
+                "epid": "4883702",
+                "season_id": "264970",
+                "oid": "4883702",
+                "rid": "a1fdbeee-6af7-442a-8ecf-7d7ae03f887c",
+                "card_type": "double_feed",
+                "card_material_id": "10000000001829891",
+                "module_id": "1845",
+                "season_type": "",
+                "content_type": "0",
+                "action_id": "",
+                "ogv_session_id": "944e74c5-7967-40ea-ae91-f5dafb6a40e5",
+                "lsource": "64",
+                "track_id": "62d2084d-3389-4d17-a450-75136047ddd7",
+                "position_id": "12"
+              },
+              "season_id": 264970,
+              "sub_title": "命里因果，皆是交换",
+              "title": "财神窦占龙",
+              "url": "https://www.bilibili.com/bangumi/play/ep4883702?track_id=62d2084d-3389-4d17-a450-75136047ddd7&trackid=62d2084d-3389-4d17-a450-75136047ddd7&from_spmid=pgc.bangumi-tab.recommend.0"
+            },
+            {
+              "cover": "http://i0.hdslb.com/bfs/bangumi/1e47fe925cb543c09250a142c31c8e42ab4bcbbd.jpg",
+              "ep_id": 393434,
+              "feedback_source": 2,
+              "item_type": "card",
+              "oid": 393434,
+              "rcmd_oid": 393434,
+              "rcmd_otype": 2,
+              "report": {
+                "module_area": "content",
+                "card_material_type": "1",
+                "module_type": "double_feed",
+                "trackid": "94f64377-6219-4f86-9bc8-3d68d8a12281",
+                "index": "13",
+                "epid": "393434",
+                "season_id": "38157",
+                "oid": "393434",
+                "rid": "a1fdbeee-6af7-442a-8ecf-7d7ae03f887c",
+                "card_type": "double_feed",
+                "card_material_id": "21800000000062277",
+                "module_id": "1845",
+                "season_type": "",
+                "content_type": "0",
+                "reason_type": "3",
+                "action_id": "",
+                "ogv_session_id": "cd865403-9f12-4d8a-ae58-58d53aa41629",
+                "lsource": "64",
+                "track_id": "94f64377-6219-4f86-9bc8-3d68d8a12281",
+                "position_id": "14"
+              },
+              "season_id": 38157,
+              "sub_title": "站内高分番剧!",
+              "title": "银魂",
+              "url": "https://www.bilibili.com/bangumi/play/ep393434?track_id=94f64377-6219-4f86-9bc8-3d68d8a12281&trackid=94f64377-6219-4f86-9bc8-3d68d8a12281&from_spmid=pgc.bangumi-tab.recommend.0"
+            }
+          ]
+        },
+        "report": {
+          "module_id": "1845",
+          "module_type": "double_feed"
+        },
+        "type": "DOUBLE_FEED"
+      },
+      {
+        "id": 400001,
+        "module_data": {
+          "items": [
+            {
+              "cover": "https://i0.hdslb.com/bfs/bangumi/image/fa0a1b552172fb4a2d60d4c6efda6dd7afef41b8.png",
+              "ep_id": 7066729,
+              "feedback_source": 2,
+              "from_spmid": "pgc.bangumi-tab.recommend.inline",
+              "item_type": "big_card",
+              "oid": 7066729,
+              "rcmd_oid": 7066729,
+              "rcmd_otype": 10,
+              "report": {
+                "module_area": "content",
+                "card_material_type": "1",
+                "module_type": "double_feed",
+                "trackid": "2b2cdb82-3ad2-410d-b180-9e6984452144",
+                "index": "15",
+                "epid": "7066729",
+                "season_id": "336505",
+                "oid": "7066729",
+                "rid": "a1fdbeee-6af7-442a-8ecf-7d7ae03f887c",
+                "card_type": "double_feed",
+                "card_material_id": "10000000001925702",
+                "module_id": "1845",
+                "season_type": "1",
+                "content_type": "0",
+                "reason_type": "3",
+                "action_id": "",
+                "ogv_session_id": "172a9cc5-ac4a-4c8d-8a35-91d3986ca898",
+                "lsource": "1011019",
+                "track_id": "2b2cdb82-3ad2-410d-b180-9e6984452144",
+                "position_id": "16"
+              },
+              "season_id": 336505,
+              "season_type": 1,
+              "spmid": "pgc.bangumi-tab.recommend.inline",
+              "status": {
+                "follow": 0
+              },
+              "sub_title": "站内高分番剧!",
+              "title": "少年骇客 第四季 中文配音",
+              "url": "https://www.bilibili.com/bangumi/play/ep7066729?track_id=2b2cdb82-3ad2-410d-b180-9e6984452144&trackid=2b2cdb82-3ad2-410d-b180-9e6984452144&from_spmid=pgc.bangumi-tab.recommend.inline",
+              "v_cover": "https://i0.hdslb.com/bfs/bangumi/image/2f316f95787450b989c2d98a45d535c5b873d161.png"
+            }
+          ]
+        },
+        "report": {
+          "module_area": "content",
+          "card_material_type": "1",
+          "module_type": "double_feed",
+          "trackid": "2b2cdb82-3ad2-410d-b180-9e6984452144",
+          "index": "15",
+          "epid": "7066729",
+          "season_id": "336505",
+          "oid": "7066729",
+          "rid": "a1fdbeee-6af7-442a-8ecf-7d7ae03f887c",
+          "card_type": "double_feed",
+          "card_material_id": "10000000001925702",
+          "module_id": "1845",
+          "season_type": "1",
+          "content_type": "0",
+          "reason_type": "3",
+          "action_id": "",
+          "ogv_session_id": "172a9cc5-ac4a-4c8d-8a35-91d3986ca898",
+          "lsource": "1011019",
+          "track_id": "2b2cdb82-3ad2-410d-b180-9e6984452144",
+          "position_id": "16"
+        },
+        "type": "FALL_FEED"
+      },
+      {
+        "id": 1845,
+        "module_data": {
+          "items": [
+            {
+              "cover": "http://i0.hdslb.com/bfs/bangumi/e1745c595cd3c02479818f9e1456be2eed56ec57.jpg",
+              "ep_id": 32374,
+              "feedback_source": 2,
+              "item_type": "card",
+              "oid": 32374,
+              "rcmd_oid": 32374,
+              "rcmd_otype": 2,
+              "report": {
+                "module_area": "content",
+                "card_material_type": "1",
+                "module_type": "double_feed",
+                "trackid": "d0bb0824-1612-42be-9257-b32fd4d93b33",
+                "index": "17",
+                "epid": "32374",
+                "season_id": "1733",
+                "oid": "32374",
+                "rid": "a1fdbeee-6af7-442a-8ecf-7d7ae03f887c",
+                "card_type": "double_feed",
+                "card_material_id": "10000000001320855",
+                "module_id": "1845",
+                "season_type": "",
+                "content_type": "0",
+                "reason_type": "3",
+                "action_id": "",
+                "ogv_session_id": "a4bad8a6-f6e0-4029-80d2-493281203466",
+                "lsource": "64",
+                "track_id": "d0bb0824-1612-42be-9257-b32fd4d93b33",
+                "position_id": "18"
+              },
+              "season_id": 1733,
+              "sub_title": "71万评论热议中",
+              "title": "罗小黑战记",
+              "url": "https://www.bilibili.com/bangumi/play/ep32374?track_id=d0bb0824-1612-42be-9257-b32fd4d93b33&trackid=d0bb0824-1612-42be-9257-b32fd4d93b33&from_spmid=pgc.bangumi-tab.recommend.0"
+            },
+            {
+              "cover": "http://i0.hdslb.com/bfs/archive/60be8bba6e9648ff29e008752ed0fecc45c55714.png",
+              "ep_id": 469110,
+              "feedback_source": 2,
+              "item_type": "card",
+              "oid": 469110,
+              "rcmd_oid": 469110,
+              "rcmd_otype": 2,
+              "report": {
+                "module_area": "content",
+                "card_material_type": "1",
+                "module_type": "double_feed",
+                "trackid": "8d6cb3c5-84a7-4b85-aac7-054c444f3e4e",
+                "index": "19",
+                "epid": "469110",
+                "season_id": "41013",
+                "oid": "469110",
+                "rid": "a1fdbeee-6af7-442a-8ecf-7d7ae03f887c",
+                "card_type": "double_feed",
+                "card_material_id": "20800000000327970",
+                "module_id": "1845",
+                "season_type": "",
+                "content_type": "0",
+                "action_id": "",
+                "ogv_session_id": "598476c3-ed6b-442e-a7e2-d237740cd308",
+                "lsource": "64",
+                "track_id": "8d6cb3c5-84a7-4b85-aac7-054c444f3e4e",
+                "position_id": "20"
+              },
+              "season_id": 41013,
+              "sub_title": "是谁住在大菠萝里",
+              "title": "海绵宝宝  第一季～第九季 中文配音",
+              "url": "https://www.bilibili.com/bangumi/play/ep469110?track_id=8d6cb3c5-84a7-4b85-aac7-054c444f3e4e&trackid=8d6cb3c5-84a7-4b85-aac7-054c444f3e4e&from_spmid=pgc.bangumi-tab.recommend.0"
+            }
+          ]
+        },
+        "report": {
+          "module_id": "1845",
+          "module_type": "double_feed"
+        },
+        "type": "DOUBLE_FEED"
+      },
+      {
+        "id": 1845,
+        "module_data": {
+          "items": [
+            {
+              "cover": "http://i0.hdslb.com/bfs/archive/513e81817792ff3541d7315a0a510ef180c440cf.png",
+              "ep_id": 2243599,
+              "feedback_source": 2,
+              "item_type": "card",
+              "oid": 2243599,
+              "rcmd_oid": 2243599,
+              "rcmd_otype": 2,
+              "report": {
+                "module_area": "content",
+                "module_type": "double_feed",
+                "trackid": "b913a537-ff6f-4dfe-9f59-977bdebfd7ac",
+                "index": "21",
+                "epid": "2243599",
+                "season_id": "112827",
+                "oid": "2243599",
+                "rid": "a1fdbeee-6af7-442a-8ecf-7d7ae03f887c",
+                "card_type": "double_feed",
+                "module_id": "1845",
+                "season_type": "",
+                "content_type": "0",
+                "reason_type": "4",
+                "action_id": "",
+                "ogv_session_id": "0313a5f8-dd1a-47b3-a4f1-884fe222ccf3",
+                "lsource": "64",
+                "track_id": "b913a537-ff6f-4dfe-9f59-977bdebfd7ac",
+                "position_id": "22"
+              },
+              "season_id": 112827,
+              "sub_title": "1364万追番",
+              "title": "间谍过家家 第三季",
+              "url": "https://www.bilibili.com/bangumi/play/ep2243599?track_id=b913a537-ff6f-4dfe-9f59-977bdebfd7ac&trackid=b913a537-ff6f-4dfe-9f59-977bdebfd7ac&from_spmid=pgc.bangumi-tab.recommend.0"
+            },
+            {
+              "cover": "http://i1.hdslb.com/bfs/archive/6510bd5442b5428a28a674d6bb075c9b9e655009.jpg",
+              "ep_id": 109726,
+              "feedback_source": 2,
+              "item_type": "card",
+              "oid": 109726,
+              "rcmd_oid": 109726,
+              "rcmd_otype": 2,
+              "report": {
+                "module_area": "content",
+                "card_material_type": "1",
+                "module_type": "double_feed",
+                "trackid": "149ceca9-d090-445e-b6c3-db9ed7690210",
+                "index": "23",
+                "epid": "109726",
+                "season_id": "6262",
+                "oid": "109726",
+                "rid": "a1fdbeee-6af7-442a-8ecf-7d7ae03f887c",
+                "card_type": "double_feed",
+                "card_material_id": "21100000000050528",
+                "module_id": "1845",
+                "season_type": "",
+                "content_type": "0",
+                "action_id": "",
+                "ogv_session_id": "310285ba-b70a-4a05-9f3b-6a3a46104600",
+                "lsource": "64",
+                "track_id": "149ceca9-d090-445e-b6c3-db9ed7690210",
+                "position_id": "24"
+              },
+              "season_id": 6262,
+              "sub_title": "不想来笑一下吗？",
+              "title": "蜡笔小新 第二季（中文）",
+              "url": "https://www.bilibili.com/bangumi/play/ep109726?track_id=149ceca9-d090-445e-b6c3-db9ed7690210&trackid=149ceca9-d090-445e-b6c3-db9ed7690210&from_spmid=pgc.bangumi-tab.recommend.0"
+            }
+          ]
+        },
+        "report": {
+          "module_id": "1845",
+          "module_type": "double_feed"
+        },
+        "type": "DOUBLE_FEED"
+      },
+      {
+        "id": 1845,
+        "module_data": {
+          "items": [
+            {
+              "cover": "http://i0.hdslb.com/bfs/archive/be07314f283d57b805da6088e2b21f896ae4660f.jpg",
+              "ep_id": 742222,
+              "feedback_source": 2,
+              "item_type": "card",
+              "oid": 742222,
+              "rcmd_oid": 742222,
+              "rcmd_otype": 2,
+              "report": {
+                "module_area": "content",
+                "card_material_type": "1",
+                "module_type": "double_feed",
+                "trackid": "b30aad70-16dd-48ab-a232-b6ec7876d6f6",
+                "index": "25",
+                "epid": "742222",
+                "season_id": "39947",
+                "oid": "742222",
+                "rid": "a1fdbeee-6af7-442a-8ecf-7d7ae03f887c",
+                "card_type": "double_feed",
+                "card_material_id": "21800000000227431",
+                "module_id": "1845",
+                "season_type": "",
+                "content_type": "0",
+                "action_id": "",
+                "ogv_session_id": "569a8c3a-5e51-46c5-a1c8-c5473a425510",
+                "lsource": "64",
+                "track_id": "b30aad70-16dd-48ab-a232-b6ec7876d6f6",
+                "position_id": "26"
+              },
+              "season_id": 39947,
+              "sub_title": "神兽下凡，福瑞相伴",
+              "title": "有兽焉",
+              "url": "https://www.bilibili.com/bangumi/play/ep742222?track_id=b30aad70-16dd-48ab-a232-b6ec7876d6f6&trackid=b30aad70-16dd-48ab-a232-b6ec7876d6f6&from_spmid=pgc.bangumi-tab.recommend.0"
+            },
+            {
+              "cover": "http://i0.hdslb.com/bfs/archive/066a0c96c59b2fa7739146d75b6df7dbdf838dcb.png",
+              "ep_id": 4791311,
+              "feedback_source": 2,
+              "item_type": "card",
+              "oid": 4791311,
+              "rcmd_oid": 4791311,
+              "rcmd_otype": 2,
+              "report": {
+                "module_area": "content",
+                "card_material_type": "1",
+                "module_type": "double_feed",
+                "trackid": "5a4e1922-8638-4634-b6a1-18ee7d1bb824",
+                "index": "27",
+                "epid": "4791311",
+                "season_id": "73957",
+                "oid": "4791311",
+                "rid": "a1fdbeee-6af7-442a-8ecf-7d7ae03f887c",
+                "card_type": "double_feed",
+                "card_material_id": "10000000001796108",
+                "module_id": "1845",
+                "season_type": "",
+                "content_type": "0",
+                "action_id": "",
+                "ogv_session_id": "389d1925-b33c-4ce7-bca7-e900929d3b14",
+                "lsource": "64",
+                "track_id": "5a4e1922-8638-4634-b6a1-18ee7d1bb824",
+                "position_id": "28"
+              },
+              "season_id": 73957,
+              "sub_title": "消除BUG管理记忆",
+              "title": "记忆管理局",
+              "url": "https://www.bilibili.com/bangumi/play/ep4791311?track_id=5a4e1922-8638-4634-b6a1-18ee7d1bb824&trackid=5a4e1922-8638-4634-b6a1-18ee7d1bb824&from_spmid=pgc.bangumi-tab.recommend.0"
+            }
+          ]
+        },
+        "report": {
+          "module_id": "1845",
+          "module_type": "double_feed"
+        },
+        "type": "DOUBLE_FEED"
+      }
+    ],
+    "next_cursor": "16"
+  },
+  "message": "success"
+}

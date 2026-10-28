@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 和龚俊闯极挑7 致敬逆行者共赴幸福
+![和龚俊闯极挑7 致敬逆行者共赴幸福](https://i0.hdslb.com/bfs/bangumi/image/27e34937b33d0bcefacdc6ca131f279b312fcbc7.png)
+
+## 【元素周期表起名史】>>
+![【元素周期表起名史】>>](https://i0.hdslb.com/bfs/bangumi/image/b034774a9c9111bd45c6c4bcfda4f0dc39ee5be4.png)
+
+
 ## 一猪一象意外开启全球冒险
 ![一猪一象意外开启全球冒险](https://i0.hdslb.com/bfs/bangumi/image/ef42a8c466c5cc5b1012f66cb26627483303a1ca.png)
 
