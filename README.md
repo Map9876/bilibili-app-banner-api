@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 终末的伊泽塔
+![终末的伊泽塔](https://i0.hdslb.com/bfs/bangumi/image/a1bb726845c5568e145ea9baa62d2680c11d3f71.png)
+
+## 罗小黑战记
+![罗小黑战记](https://i0.hdslb.com/bfs/bangumi/image/050f9abe6999378c4cdd0ac5e6b5db0e9d950156.png)
+
+
 ## 幻界战线 & BEYOND
 ![幻界战线 & BEYOND](https://i0.hdslb.com/bfs/bangumi/image/5b0ed2df6235a5b42efab155e3c5dcda753c4b5e.png)
 
