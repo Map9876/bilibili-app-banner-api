@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 好奇心俱乐部
+![好奇心俱乐部](https://i0.hdslb.com/bfs/bangumi/image/e9ad4f8a32a714a16c92e284c1cab97451ef0704.png)
+
+
 ## 终末的伊泽塔
 ![终末的伊泽塔](https://i0.hdslb.com/bfs/bangumi/image/a1bb726845c5568e145ea9baa62d2680c11d3f71.png)
 
