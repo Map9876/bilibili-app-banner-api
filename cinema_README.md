@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 房租告急，室友开启筹钱大作战！
+![房租告急，室友开启筹钱大作战！](https://i0.hdslb.com/bfs/bangumi/image/66dea55545ce7a9ba898090f6607296d27f0510c.png)
+
+## 诶妹妹~皮克斯冒险新作看伐啦？
+![诶妹妹~皮克斯冒险新作看伐啦？](https://i0.hdslb.com/bfs/bangumi/image/b86fec7609551ae31193cc29319edf1e28914040.png)
+
+## ♡情侣必看年度爱情片♡
+![♡情侣必看年度爱情片♡](https://i0.hdslb.com/bfs/bangumi/image/f7bd9268bf49cdcf7d7d8ef4d9e15d2e408cf9f2.png)
+
+## 一座灯塔，三代人，六十年的守望
+![一座灯塔，三代人，六十年的守望](https://i0.hdslb.com/bfs/bangumi/image/f1de57661bd4de6a6a280275cebc51160626f63e.png)
+
+
 ## 沈梦瑶喻言现场高燃打歌！
 ![沈梦瑶喻言现场高燃打歌！](https://i0.hdslb.com/bfs/bangumi/image/7c6ea34812e53b1b4a9a75c4837eb11549b10197.png)
 
