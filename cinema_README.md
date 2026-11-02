@@ -1,6 +1,10 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 央视宝藏旅综《此生2》强势回归！
+![央视宝藏旅综《此生2》强势回归！](https://i0.hdslb.com/bfs/bangumi/image/68b32553387d28e7dea77654fe879cfb46e04d9a.png)
+
+
 ## 房租告急，室友开启筹钱大作战！
 ![房租告急，室友开启筹钱大作战！](https://i0.hdslb.com/bfs/bangumi/image/66dea55545ce7a9ba898090f6607296d27f0510c.png)
 

@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 机动战士高达00
+![机动战士高达00](https://i0.hdslb.com/bfs/bangumi/image/7baa5f5b2be9ff8a88ee4713f02e7ec940e74f0f.png)
+
+
 ## 十一月动画种草激励计划
 ![十一月动画种草激励计划](https://i0.hdslb.com/bfs/bangumi/image/4e49262e545321a993d6fbf28f07139309d72b79.png)
 
