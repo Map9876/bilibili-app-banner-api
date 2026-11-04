@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 高达创形者 再起
+![高达创形者 再起](https://i0.hdslb.com/bfs/bangumi/image/7348ba2cb0cc3a3781c4d8a6ca19a998dbf237d7.png)
+
+
 ## 高达创战者
 ![高达创战者](https://i0.hdslb.com/bfs/bangumi/image/8a7bb158e3410cb2e010f7af2a19ec818f8f08af.png)
 

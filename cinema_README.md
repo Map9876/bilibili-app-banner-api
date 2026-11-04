@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 志怪历史纪录片
+![志怪历史纪录片](https://i0.hdslb.com/bfs/bangumi/image/58c9101eae937f55da58311384fe5099da4d66a0.png)
+
+## 门捷列夫很忙2
+![门捷列夫很忙2](https://i0.hdslb.com/bfs/bangumi/image/b034774a9c9111bd45c6c4bcfda4f0dc39ee5be4.png)
+
+## 一路前行2 
+![一路前行2 ](https://i0.hdslb.com/bfs/bangumi/image/d2472a2ef338204bf7a56fb21eb25c8c66608329.png)
+
+## 黄景瑜杨超越龚俊强势加盟极挑8
+![黄景瑜杨超越龚俊强势加盟极挑8](https://i0.hdslb.com/bfs/bangumi/image/12725303edf0a39f52e45f507aa276b6dcb1ca49.png)
+
+
 ## 开心麻花男团爆笑竞演！排演全程首公开
 ![开心麻花男团爆笑竞演！排演全程首公开](https://i0.hdslb.com/bfs/bangumi/image/d34a83950e675fee4df1214f5d3621021967243f.png)
 
