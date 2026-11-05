@@ -1,6 +1,10 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 生化危机系列影片热播中！
+![生化危机系列影片热播中！](https://i0.hdslb.com/bfs/bangumi/image/5ec6b540d0996461a0510260e8f3e9499db3b77f.png)
+
+
 ## 志怪历史纪录片
 ![志怪历史纪录片](https://i0.hdslb.com/bfs/bangumi/image/58c9101eae937f55da58311384fe5099da4d66a0.png)
 
