@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 霸王龙雷奇 英文版
+![霸王龙雷奇 英文版](https://i0.hdslb.com/bfs/bangumi/image/9a6c4bbf1234c16b45f2892aa179e44054b3033c.png)
+
+## 重装武器
+![重装武器](https://i0.hdslb.com/bfs/bangumi/image/70cca819f4abc4d6b92b71edd478d69cc98adb00.png)
+
+
 ## 巴克·亚罗
 ![巴克·亚罗](https://i0.hdslb.com/bfs/bangumi/image/25bbf36818fc3c8d959654dae9165284c5d83e46.png)
 

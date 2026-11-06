@@ -1,6 +1,25 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 沈阳站开席！稻香里开家宴
+![沈阳站开席！稻香里开家宴](https://i0.hdslb.com/bfs/bangumi/image/199c4d8b7fa6f8830a352b98657a5422a77c8d94.png)
+
+## 冰川历险
+![冰川历险](https://i0.hdslb.com/bfs/bangumi/image/25f8bac18aa6ffab86890326f059c30163f9932b.png)
+
+## 眼见为实
+![眼见为实](https://i0.hdslb.com/bfs/bangumi/image/d40390688d30ac11ffda6a84a0ca25da41a50d38.png)
+
+## 落魄大叔误入神秘黑道！
+![落魄大叔误入神秘黑道！](https://i0.hdslb.com/bfs/bangumi/image/5e126771f14dc586fb0a51f7194868b4f11e44b0.png)
+
+## 时代医者2026
+![时代医者2026](https://i0.hdslb.com/bfs/bangumi/image/923a06caf8b5e0b4207f87a9e982fa5a51b1e7a3.png)
+
+## 要么跪着等死，要么站着成仙！
+![要么跪着等死，要么站着成仙！](https://i0.hdslb.com/bfs/bangumi/image/c5546e0f9a966139d8091ab8b280734c3233ac88.png)
+
+
 ## 生化危机系列影片热播中！
 ![生化危机系列影片热播中！](https://i0.hdslb.com/bfs/bangumi/image/5ec6b540d0996461a0510260e8f3e9499db3b77f.png)
 
