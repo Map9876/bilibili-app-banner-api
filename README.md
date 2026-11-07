@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 毛茸茸的星球：奇葩陆地动物
+![毛茸茸的星球：奇葩陆地动物](https://i0.hdslb.com/bfs/bangumi/image/6e0cd505463efc002cf1f8d64907da3cb5dbcfec.png)
+
+## 四季樱
+![四季樱](https://i0.hdslb.com/bfs/bangumi/image/948f98ea7ca149e79e130f84bc8373058f85ec5a.png)
+
+
 ## 霸王龙雷奇 英文版
 ![霸王龙雷奇 英文版](https://i0.hdslb.com/bfs/bangumi/image/9a6c4bbf1234c16b45f2892aa179e44054b3033c.png)
 

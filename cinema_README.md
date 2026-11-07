@@ -1,6 +1,16 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 蓝盈莹黄誉博携新歌现场打歌
+![蓝盈莹黄誉博携新歌现场打歌](https://i0.hdslb.com/bfs/bangumi/image/7c6ea34812e53b1b4a9a75c4837eb11549b10197.png)
+
+## 先发五虎 第二季
+![先发五虎 第二季](https://i0.hdslb.com/bfs/bangumi/image/d2d4d99e211681965711337c1e5f9dd1575e5be7.png)
+
+## 我叫你一声钟离权，你敢答应吗？！
+![我叫你一声钟离权，你敢答应吗？！](https://i0.hdslb.com/bfs/bangumi/image/c5546e0f9a966139d8091ab8b280734c3233ac88.png)
+
+
 ## 沈阳站开席！稻香里开家宴
 ![沈阳站开席！稻香里开家宴](https://i0.hdslb.com/bfs/bangumi/image/199c4d8b7fa6f8830a352b98657a5422a77c8d94.png)
 
