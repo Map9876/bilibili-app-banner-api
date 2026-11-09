@@ -1,6 +1,10 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 体验哈萨克族婚礼，遇见新疆另一面
+![体验哈萨克族婚礼，遇见新疆另一面](https://i0.hdslb.com/bfs/bangumi/image/ef613094ed5e626a5dc86a2f883719d0a3641f3d.png)
+
+
 ## 清理一屋旧物，翻出三代人的往事
 ![清理一屋旧物，翻出三代人的往事](https://i0.hdslb.com/bfs/bangumi/image/ba73bf9fc63bc9697e0a66a8f11038a30501f299.png)
 
