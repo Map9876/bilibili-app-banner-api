@@ -1,6 +1,10 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 门尼欧阳娣娣活力新声打歌对决
+![门尼欧阳娣娣活力新声打歌对决](https://i0.hdslb.com/bfs/bangumi/image/7c6ea34812e53b1b4a9a75c4837eb11549b10197.png)
+
+
 ## 体验哈萨克族婚礼，遇见新疆另一面
 ![体验哈萨克族婚礼，遇见新疆另一面](https://i0.hdslb.com/bfs/bangumi/image/ef613094ed5e626a5dc86a2f883719d0a3641f3d.png)
 

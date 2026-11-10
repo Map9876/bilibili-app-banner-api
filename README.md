@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 樱花庄的宠物女孩
+![樱花庄的宠物女孩](https://i0.hdslb.com/bfs/bangumi/image/4c26aecb79dd297e7e933cecddd46e236128c65d.png)
+
+
 ## 青春猪头少年不会梦到兔女郎学姐
 ![青春猪头少年不会梦到兔女郎学姐](https://i0.hdslb.com/bfs/bangumi/image/410f950cf8eaca9ec11ea6b4d5452dfafb781543.png)
 
