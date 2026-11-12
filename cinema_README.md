@@ -1,6 +1,10 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 11月13日20点刘耀文独家直播！
+![11月13日20点刘耀文独家直播！](https://i0.hdslb.com/bfs/bangumi/image/4fb9e4252c1d6788e5588ae8d27a1643c8c47472.png)
+
+
 ## 严浩翔青春加盟，极限挑战第九季再出发
 ![严浩翔青春加盟，极限挑战第九季再出发](https://i0.hdslb.com/bfs/bangumi/image/b19054594a7a071507f5d03f622e78a432eb566a.png)
 

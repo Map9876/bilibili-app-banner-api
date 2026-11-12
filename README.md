@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 只要贝尔哲布布大小姐喜欢就好
+![只要贝尔哲布布大小姐喜欢就好](https://i0.hdslb.com/bfs/bangumi/image/1fc84b2bc9bfd0e1572a2cc7ba1597aa060dca89.png)
+
+## 小羊肖恩 第七季
+![小羊肖恩 第七季](https://i0.hdslb.com/bfs/bangumi/image/a4d90ac1d482c0795f8ce572be1f3625db9d16a4.png)
+
+
 ## 境界的彼方
 ![境界的彼方](https://i0.hdslb.com/bfs/bangumi/image/154d8ddbd7cf683e34a9164625d066377db74bde.png)
 
