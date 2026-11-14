@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 甘城光辉游乐园
+![甘城光辉游乐园](https://i0.hdslb.com/bfs/bangumi/image/4af97220e465766398369c724d1e2b6438f38edd.png)
+
+
 ## 男孩遇见女孩
 ![男孩遇见女孩](https://i0.hdslb.com/bfs/bangumi/image/cb839e8932f2b27132124b629fe4a18b88eea102.png)
 
