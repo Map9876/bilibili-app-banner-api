@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 青和宫，谁来坐镇！
+![青和宫，谁来坐镇！](https://i0.hdslb.com/bfs/bangumi/image/5e126771f14dc586fb0a51f7194868b4f11e44b0.png)
+
+## 国创发布会
+![国创发布会](https://i0.hdslb.com/bfs/bangumi/image/5585b30cbaf051de3a7c17dc417bd697fa115a5b.png)
+
+## 漫步喀什古城，感受丝路热忱
+![漫步喀什古城，感受丝路热忱](https://i0.hdslb.com/bfs/bangumi/image/68b32553387d28e7dea77654fe879cfb46e04d9a.png)
+
+## 恭贺夺冠！领7天大会员爽看好片>>
+![恭贺夺冠！领7天大会员爽看好片>>](https://i0.hdslb.com/bfs/bangumi/image/de4b3e60f992d53b22d18c04152ea227011e8b21.png)
+
+
 ## 喜鹊谋杀案女主遭遇婚姻危机？
 ![喜鹊谋杀案女主遭遇婚姻危机？](https://i0.hdslb.com/bfs/bangumi/image/ee307f8a38b42dc610685d175ebce4ddc33baa81.png)
 
