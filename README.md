@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 宝可梦 太阳&月亮 全三季
+![宝可梦 太阳&月亮 全三季](https://i0.hdslb.com/bfs/bangumi/image/79b662e89af39aaf83f8f0be5e6c3c91704984ad.png)
+
+
 ## 入间同学入魔了 第三季
 ![入间同学入魔了 第三季](https://i0.hdslb.com/bfs/bangumi/image/121885f2a72470732fcadb2c721dfa25a8803866.png)
 
