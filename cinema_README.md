@@ -1,6 +1,19 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 全国遴选声启新章！
+![全国遴选声启新章！](https://i0.hdslb.com/bfs/bangumi/image/7e6881b75f7819520a0f600d57b56ad44758a877.png)
+
+## 还想再看极挑团闯关？一起来重温第十季
+![还想再看极挑团闯关？一起来重温第十季](https://i0.hdslb.com/bfs/bangumi/image/f58bae5b8311ce0388de1924487753b922b71649.png)
+
+## 筷子上上的星球
+![筷子上上的星球](https://i0.hdslb.com/bfs/bangumi/image/d0614b28388633d43b6d9480ff17013939d7a834.png)
+
+## BLG夺冠之路
+![BLG夺冠之路](https://i0.hdslb.com/bfs/bangumi/image/de4b3e60f992d53b22d18c04152ea227011e8b21.png)
+
+
 ## 沙虫来袭 圣战将至
 ![沙虫来袭 圣战将至](https://i0.hdslb.com/bfs/bangumi/image/0aa67ba7ec4ca48afafa4d8dfc506b7c3a63f847.png)
 
