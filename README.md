@@ -355,6 +355,16 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 落第骑士英雄谭
+![落第骑士英雄谭](https://i0.hdslb.com/bfs/bangumi/image/cb181e2dd92b37fce1ab307ad7dcf6c33518428e.png)
+
+## 家庭教师20周年特别活动
+![家庭教师20周年特别活动](https://i0.hdslb.com/bfs/bangumi/image/cb378eec65e1225be44e7ae96fbf1a2723de8f9b.png)
+
+## 鬼灭之刃 无限列车篇
+![鬼灭之刃 无限列车篇](https://i0.hdslb.com/bfs/bangumi/image/0bfdcf7264f19199cffccb609c7dac7d040ac9ff.png)
+
+
 ## 无能力者娜娜
 ![无能力者娜娜](https://i0.hdslb.com/bfs/bangumi/image/9e1a68cd9924949521bb736fba2b5f6c7bef1fe8.png)
 
