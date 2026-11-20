@@ -355,6 +355,13 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 学战都市Asterisk
+![学战都市Asterisk](https://i0.hdslb.com/bfs/bangumi/image/2802569983c0bd47cef32bbbb7592f4d7811718e.png)
+
+## 2026灵笼盛典
+![2026灵笼盛典](https://i0.hdslb.com/bfs/bangumi/image/55d5c63827ef21d98efcfee2ea2142353b8e7418.png)
+
+
 ## 落第骑士英雄谭
 ![落第骑士英雄谭](https://i0.hdslb.com/bfs/bangumi/image/cb181e2dd92b37fce1ab307ad7dcf6c33518428e.png)
 
