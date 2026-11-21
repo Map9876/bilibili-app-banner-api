@@ -1,6 +1,22 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 接罗伯特·帕丁森事业运！
+![接罗伯特·帕丁森事业运！](https://i0.hdslb.com/bfs/bangumi/image/0bfdcf7264f19199cffccb609c7dac7d040ac9ff.png)
+
+## 第二季回归！周深陈楚生共寻流行新声！
+![第二季回归！周深陈楚生共寻流行新声！](https://i0.hdslb.com/bfs/bangumi/image/16f9d46808add751c0ad538407dd34c95fea624b.png)
+
+## 允许自己做回小孩，感受生命与爱~
+![允许自己做回小孩，感受生命与爱~](https://i0.hdslb.com/bfs/bangumi/image/130fa1d07402362ad284e133ead22b7f23e12e76.png)
+
+## 大会员别浪费！“做人有情有义！”
+![大会员别浪费！“做人有情有义！”](https://i0.hdslb.com/bfs/bangumi/image/75c1aa86dfe1f3ed3f33c586fba23a00073656c2.png)
+
+## 最后2天！限时抽B站跨年晚会录制门票
+![最后2天！限时抽B站跨年晚会录制门票](https://i0.hdslb.com/bfs/bangumi/image/80c24f619de94ab29db878fd5ae35f162a7b7ae6.png)
+
+
 ## 吴克群“生命共创影集”温暖开播！
 ![吴克群“生命共创影集”温暖开播！](https://i0.hdslb.com/bfs/bangumi/image/6ec3fe8b4c5fdf86528b491d8b42c865ef0173d9.png)
 
