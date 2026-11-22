@@ -1,6 +1,25 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 戏宇宙丨了解尘封72年的家书寻亲故事
+![戏宇宙丨了解尘封72年的家书寻亲故事](https://i0.hdslb.com/bfs/bangumi/image/81fd03e70439cf81aa425a6c647d511da658aa06.png)
+
+## 当代“都市隶人”打响反PUA第一枪
+![当代“都市隶人”打响反PUA第一枪](https://i0.hdslb.com/bfs/bangumi/image/dfb37553b4912fe7925f4f2d6fa99a906c8862b7.png)
+
+## 你好时光收官音乐会，用歌声告别～
+![你好时光收官音乐会，用歌声告别～](https://i0.hdslb.com/bfs/bangumi/image/4ac4e8370a2814f0a0923fb3c46cbac872dbad89.png)
+
+## 豆瓣Top186，诺兰封神的开端
+![豆瓣Top186，诺兰封神的开端](https://i0.hdslb.com/bfs/bangumi/image/ae96f2ddaab2e0cc2495fa133da774d4fa3c4c8c.png)
+
+## 最后1天！限时抽B站跨年晚会录制门票
+![最后1天！限时抽B站跨年晚会录制门票](https://i0.hdslb.com/bfs/bangumi/image/80c24f619de94ab29db878fd5ae35f162a7b7ae6.png)
+
+## 大会员别浪费！看朱一龙极限翻盘
+![大会员别浪费！看朱一龙极限翻盘](https://i0.hdslb.com/bfs/bangumi/image/de4b3e60f992d53b22d18c04152ea227011e8b21.png)
+
+
 ## 接罗伯特·帕丁森事业运！
 ![接罗伯特·帕丁森事业运！](https://i0.hdslb.com/bfs/bangumi/image/0bfdcf7264f19199cffccb609c7dac7d040ac9ff.png)
 
