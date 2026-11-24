@@ -1,6 +1,22 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 弦子肖俊风格碰撞，打歌舞台各有高光！
+![弦子肖俊风格碰撞，打歌舞台各有高光！](https://i0.hdslb.com/bfs/bangumi/image/7c6ea34812e53b1b4a9a75c4837eb11549b10197.png)
+
+## 荒野独居第一季
+![荒野独居第一季](https://i0.hdslb.com/bfs/bangumi/image/d6a30175c2334472507880abb5918393d187a636.png)
+
+## 改编自仙侠网文，少年平定三界动乱！
+![改编自仙侠网文，少年平定三界动乱！](https://i0.hdslb.com/bfs/bangumi/image/eea4fbfb91077cd51fa8dfc47c2cccce46d5004c.png)
+
+## 一起来看伊能静高情商解答恋爱难题~
+![一起来看伊能静高情商解答恋爱难题~](https://i0.hdslb.com/bfs/bangumi/image/dbe71f381aae382ecf34218680cfd6a1722870c5.png)
+
+## 复仇者集结！补课打卡赢漫威好礼
+![复仇者集结！补课打卡赢漫威好礼](https://i0.hdslb.com/bfs/bangumi/image/bd2c0db227742420e6abc9a2f378c517121a567f.png)
+
+
 ## 在喀什，解锁石榴采摘趣体验
 ![在喀什，解锁石榴采摘趣体验](https://i0.hdslb.com/bfs/bangumi/image/d3f5aa5401b9e198f08fb30fb9b92527eaa94f7b.png)
 
