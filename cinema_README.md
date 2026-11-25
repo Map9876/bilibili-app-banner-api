@@ -1,6 +1,22 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 中华民族英雄 第二季
+![中华民族英雄 第二季](https://i0.hdslb.com/bfs/bangumi/image/a467f1f87d6097c86e5f63616a2c89734343cdee.png)
+
+## 爷青回！80后脱口秀片库上线！
+![爷青回！80后脱口秀片库上线！](https://i0.hdslb.com/bfs/bangumi/image/4e00f19ae306beea0eedec5390f7028375ad0360.png)
+
+## 再现赤水河畔的“得意之笔”
+![再现赤水河畔的“得意之笔”](https://i0.hdslb.com/bfs/bangumi/image/25e9e2849ba36b643291afb60fa2c22adc268452.png)
+
+## 史上最贵德剧！纸醉金迷的柏林
+![史上最贵德剧！纸醉金迷的柏林](https://i0.hdslb.com/bfs/bangumi/image/addc6cdfd661ce0925c4924ebd423c5fb747dc06.png)
+
+## 筷子上的星球
+![筷子上的星球](https://i0.hdslb.com/bfs/bangumi/image/d0614b28388633d43b6d9480ff17013939d7a834.png)
+
+
 ## 弦子肖俊风格碰撞，打歌舞台各有高光！
 ![弦子肖俊风格碰撞，打歌舞台各有高光！](https://i0.hdslb.com/bfs/bangumi/image/7c6ea34812e53b1b4a9a75c4837eb11549b10197.png)
 
