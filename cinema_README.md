@@ -1,6 +1,13 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 巴西军事独裁下的挣扎求生
+![巴西军事独裁下的挣扎求生](https://i0.hdslb.com/bfs/bangumi/image/96e5bdaaaa44b540a7935d4dd76aa55226f90acd.png)
+
+## 灵笼最新前瞻PV12月5日盛典抢先看
+![灵笼最新前瞻PV12月5日盛典抢先看](https://i0.hdslb.com/bfs/bangumi/image/55d5c63827ef21d98efcfee2ea2142353b8e7418.png)
+
+
 ## 中华民族英雄 第二季
 ![中华民族英雄 第二季](https://i0.hdslb.com/bfs/bangumi/image/a467f1f87d6097c86e5f63616a2c89734343cdee.png)
 
