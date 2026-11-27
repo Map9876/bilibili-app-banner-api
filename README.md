@@ -355,6 +355,10 @@ modules是一个列表，有多个
 每个id是一个榜，比如2015是头图banner，1986是玄幻榜，……是热门榜，图片链接在每个里面的 items中
 
 ---
+## 少女手工
+![少女手工](https://i0.hdslb.com/bfs/bangumi/image/0decd2ac4dea799e6ea9cbadbeea7f016a1d98fb.png)
+
+
 ## 攀岩少女！
 ![攀岩少女！](https://i0.hdslb.com/bfs/bangumi/image/e981b2d7b4c74a01bcd6b81b00828ef63aaf0ad0.png)
 
