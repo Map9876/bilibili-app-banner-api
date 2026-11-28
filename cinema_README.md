@@ -1,6 +1,22 @@
 # Bilibili 影视 顶部海报
 
 ---
+## 老友返场！黄誉博喻言回归打歌歌友会！
+![老友返场！黄誉博喻言回归打歌歌友会！](https://i0.hdslb.com/bfs/bangumi/image/7c6ea34812e53b1b4a9a75c4837eb11549b10197.png)
+
+## 美声党狂喜！廖昌永领衔美声入营之战
+![美声党狂喜！廖昌永领衔美声入营之战](https://i0.hdslb.com/bfs/bangumi/image/16f9d46808add751c0ad538407dd34c95fea624b.png)
+
+## 戈登·拉姆齐：美食未来星（中配版）
+![戈登·拉姆齐：美食未来星（中配版）](https://i0.hdslb.com/bfs/bangumi/image/ab493cd306ebe8a00538c2cf3d2eb9863622130f.png)
+
+##  友谊地久天长！
+![ 友谊地久天长！](https://i0.hdslb.com/bfs/bangumi/image/8df84226ee85c0b1ff4bdb6fcd6dc3bd41bc14c8.png)
+
+## 中亚一代枭雄帖木儿的崛起之路
+![中亚一代枭雄帖木儿的崛起之路](https://i0.hdslb.com/bfs/bangumi/image/690f003dad5cc3dcc672657d8d0d61686f78664c.png)
+
+
 ## 从茶山到灶台，宁波鲜味开席
 ![从茶山到灶台，宁波鲜味开席](https://i0.hdslb.com/bfs/bangumi/image/199c4d8b7fa6f8830a352b98657a5422a77c8d94.png)
 
